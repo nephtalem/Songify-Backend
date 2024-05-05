@@ -5,7 +5,7 @@ import generator  from "generate-password";
 
 
 
-import LinkedinToken from "../Models/LinkedinToken.js";
+// import LinkedinToken from "../Models/LinkedinToken.js";
 
 import "dotenv/config";
 
@@ -20,7 +20,6 @@ const router = express.Router();
 const clientId = "86lul93kck70ij";
 const clientSecret = "Gyp4eloqJEhW6ent";
 const redirectUri = "http://127.0.0.1:5000/api/linkedin/callback";
-const website = "https://jbrahma.io/"; // Update this with your actual redirect URI
 
 // LinkedIn API endpoints
 
@@ -28,73 +27,73 @@ const website = "https://jbrahma.io/"; // Update this with your actual redirect 
 const postUrl = "https://api.linkedin.com/v2/ugcPosts"
 
 // Route for initiating the authentication process
-router.get("/auth", async (req, res) => {
-    try {
-        const state = generator.generate({
-                length: 14,
-              });
-    const token = new LinkedinToken({ state });
-    await token.save();
+// router.get("/auth", async (req, res) => {
+//     try {
+//         const state = generator.generate({
+//                 length: 14,
+//               });
+//     const token = new LinkedinToken({ state });
+//     await token.save();
     
-        res.redirect(
-            `https://www.linkedin.com/oauth/v2/authorization?response_type=code&state=${state}&client_id=${clientId}&redirect_uri=${redirectUri}&state=fooobar&scope=openid%20w_member_social%20profile%20email`
-          );
+//         res.redirect(
+//             `https://www.linkedin.com/oauth/v2/authorization?response_type=code&state=${state}&client_id=${clientId}&redirect_uri=${redirectUri}&state=fooobar&scope=openid%20w_member_social%20profile%20email`
+//           );
         
-      } catch (error) {
-        console.error(error);
-      }
+//       } catch (error) {
+//         console.error(error);
+//       }
 
 
-});
+// });
 
 // Route for handling the callback from LinkedIn
-router.get("/callback", async (req, res) => {
-  const { code, state } = req.query;
-  const token = await LinkedinToken.findOne({ state }).sort({ createdAt: -1 });
+// router.get("/callback", async (req, res) => {
+//   const { code, state } = req.query;
+//   const token = await LinkedinToken.findOne({ state }).sort({ createdAt: -1 });
 
-  // Exchange authorization code for access token
-  if (!token) {
-    res.send({ error:"Error state does not match" });
-  }
-  try {
+//   // Exchange authorization code for access token
+//   if (!token) {
+//     res.send({ error:"Error state does not match" });
+//   }
+//   try {
 
-    const {data} = await axios.post("https://www.linkedin.com/oauth/v2/accessToken", {
-        grant_type: 'authorization_code',
-        code,
-        redirect_uri: redirectUri,
-        client_id: clientId,
-        client_secret: clientSecret
-      }, {
-        headers: {
-          'Content-Type': 'application/x-www-form-urlencoded'
-        }
-      });
+//     const {data} = await axios.post("https://www.linkedin.com/oauth/v2/accessToken", {
+//         grant_type: 'authorization_code',
+//         code,
+//         redirect_uri: redirectUri,
+//         client_id: clientId,
+//         client_secret: clientSecret
+//       }, {
+//         headers: {
+//           'Content-Type': 'application/x-www-form-urlencoded'
+//         }
+//       });
 
-    console.log("data",data);
-    const accessToken = data.access_token;
-    const idToken = data.id_token;
-    const expires_in = data.expires_in;
-    token.accessToken = accessToken;
-    token.id_token = idToken;
-    token.expires_in = expires_in;
-    await token.save();
+//     console.log("data",data);
+//     const accessToken = data.access_token;
+//     const idToken = data.id_token;
+//     const expires_in = data.expires_in;
+//     token.accessToken = accessToken;
+//     token.id_token = idToken;
+//     token.expires_in = expires_in;
+//     await token.save();
 
-    res.send({ access_token: accessToken });
-  } catch (error) {
-    console.error("Error exchanging code for access token:", error);
-    res.status(500).send("Error exchanging code for access token");
-  }
+//     res.send({ access_token: accessToken });
+//   } catch (error) {
+//     console.error("Error exchanging code for access token:", error);
+//     res.status(500).send("Error exchanging code for access token");
+//   }
 
-});
-router.post("/try", async (req, res) => {
-  // const token = await XToken.findOne().sort({ createdAt: -1 });
-  const prompt = req?.body;
+// });
+// router.post("/try", async (req, res) => {
+//   // const token = await XToken.findOne().sort({ createdAt: -1 });
+//   const prompt = req?.body;
 
-  const data = await askgpt(prompt?.Prompt);
+//   const data = await askgpt(prompt?.Prompt);
  
-  // console.log("data returned", data)
-  res.send({ status: "Success", data });
-});
+//   // console.log("data returned", data)
+//   res.send({ status: "Success", data });
+// });
 
 // Route for posting on LinkedIn
 router.get("/post", async (req, res) => {
