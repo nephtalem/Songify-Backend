@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 const Schema = mongoose.Schema;
 // Define schema for tokens
-const XtokenSchema = new Schema({
+const XtokenSchema = new mongoose.Schema({
     codeVerifier: String,
     state: String,
     accessToken: String,
