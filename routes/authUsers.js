@@ -4,7 +4,7 @@ import { checkIfEmailExists, checkIfUserNameExists, checkIfUserExists,
      changePassword, resetPassword,
       sendOTPToChangePassword, verifyOTPToChangePassword, loginGoogleUser } from "../controllers/authUsers.js";
 // import { registerMail } from '../controllers/mailer.js'
-import Auth, { localVariables } from "../utils/middlewares.js";
+import  { localVariables } from "../utils/middlewares.js";
 import { verifyUser } from "../utils/verifyToken.js";
 import { registerMail } from "../controllers/mailer.js";
 
