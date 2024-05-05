@@ -3,7 +3,7 @@ import askgpt from "../scraper.js";
 import { TwitterApi } from "twitter-api-v2";
 // const TwitterApi = require('twitter-api-v2').default;
 import XToken from "../Models/XToken.js";
-import OpenAI from "openai";
+// import OpenAI from "openai";
 import "dotenv/config";
 
 // Twitter API init

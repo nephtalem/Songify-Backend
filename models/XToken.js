@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 const Schema = mongoose.Schema;
 // Define schema for tokens
-const xtokenSchema = new Schema({
+const XtokenSchema = new Schema({
     codeVerifier: String,
     state: String,
     accessToken: String,
@@ -12,4 +12,4 @@ const xtokenSchema = new Schema({
     timestamps: true,
   }
 );
-export default mongoose.model('XToken', xtokenSchema);
+export default mongoose.model('XToken', XtokenSchema);
