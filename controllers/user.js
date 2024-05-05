@@ -10,7 +10,7 @@ export const generatePdf = async (req, res, next) => {
     try {
       const {html,template} = req.body;
       let css;
-      console.log("hello",html)
+    
       if(html){
         if(template == 1){
         css = fs.readFileSync('template1.css', 'utf-8');
