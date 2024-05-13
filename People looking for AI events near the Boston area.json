@@ -1,0 +1,1294 @@
+[
+  [
+    {
+      "index": 1,
+      "name": "Ananya Samuel",
+      "email": "Ananyasamuel3@gmail.com",
+      "userDetails": "Graduated from Jain (Deemed-to-be University) B.Tech in Mobile Application and Cloud Technology | Website Developer | Mobile Application Developer"
+    },
+    {
+      "index": 2,
+      "name": "EYOB YOSEF",
+      "email": "eyosefe@umassd.edu",
+      "userDetails": "Actively seeking summer 2024 internship in Data Science || Machine Learning || AI Development || MS Data Science Student at University of Massachusetts Dartmouth"
+    },
+    {
+      "index": 3,
+      "name": "George Jones",
+      "email": "george.jones@zoominfo.com",
+      "userDetails": "Senior Privacy Analyst, Zoominfo | Co-Chair, IAPP London KnowledgeNet | NED, REAch2 |"
+    },
+    {
+      "index": 4,
+      "name": "Kailin Xing",
+      "email": "xing.kai@northeastern.edu",
+      "userDetails": "Software Engineer 🧑🏻‍💻 | CompE + CompSci Combined Major & Math Minor @ Northeastern University 🐾"
+    },
+    {
+      "index": 5,
+      "name": "Bhargavi Patil",
+      "email": "patil22b@mtholyoke.edu",
+      "userDetails": "CS + Math @ Mount Holyoke College"
+    },
+    {
+      "index": 6,
+      "name": "Nico van Wijk",
+      "email": "nvanwijk@mit.edu",
+      "userDetails": "MIT Alum | DayDreamer | SkyReachers Founder & CEO"
+    },
+    {
+      "index": 7,
+      "name": "Jahnavi Doneria",
+      "email": "j.doneria@gmail.com",
+      "userDetails": "Product @ Applied Materials | Ex-McKinsey & Company | Parlaying Product, Engineering, and Tech Consulting Background"
+    },
+    {
+      "index": 8,
+      "name": "Sunishka Jain",
+      "email": "sunishka.jain.gr@dartmouth.edu",
+      "userDetails": "MSCS @ Dartmouth College | Graduate Researcher in Generative AI | Machine Learning | Natural Language Processing | Data Science"
+    },
+    {
+      "index": 9,
+      "name": "Suraj Ramchandran",
+      "email": "ramchandran.s@northeastern.edu",
+      "userDetails": "Incoming SWE Co-op @ Klaviyo | CS @ Northeastern"
+    },
+    {
+      "index": 10,
+      "name": "Daniel Legmann",
+      "email": "D.legmann@partrunner.com",
+      "userDetails": "COO and Co-founder @ PartRunner | Operations Management"
+    },
+    {
+      "index": 11,
+      "name": "Avnish patel",
+      "email": "patel.avni@northeastern.edu",
+      "userDetails": "A Robotics Engineer at Northeastern University ,with passion in research areas related to Deep learning and Computer vision"
+    },
+    {
+      "index": 12,
+      "name": "Subash R.",
+      "email": "Subashraj411@gmail.com",
+      "userDetails": "Building AI Capabilities in Ed-Tech | Product Manager | Built the largest PM Club in the US - APMCNEU.COM | Gen AI | Product Marketing and GTM | Fin-tech | Web3 Research | E-Commerce | SaaS | Ed-Tech | LLMs"
+    },
+    {
+      "index": 13,
+      "name": "Yashwant Dubey",
+      "email": "dubey.ya@northeastern.edu",
+      "userDetails": "Master of Science in Engineering Management | Northeastern University Graduate Student"
+    },
+    {
+      "index": 14,
+      "name": "Grace Carella",
+      "email": "gxc5354@psu.edu",
+      "userDetails": "Biobehavioral Health and Biology student at Penn State University"
+    },
+    {
+      "index": 15,
+      "name": "Leo Kudryavtsev, PhD",
+      "email": "leo@softrangetech.com",
+      "userDetails": "Founder and Chief Architect at Softrange Technology"
+    },
+    {
+      "index": 16,
+      "name": "Thuc Nguyen",
+      "email": "thucdlnguyen@outlook.com",
+      "userDetails": "Aim High Airman"
+    },
+    {
+      "index": 17,
+      "name": "Shubhankar Tripathy",
+      "email": "stripathy@umass.edu",
+      "userDetails": "Gen AI 👨‍🔬 | Co-Founder Collegiate Association of Data Science And Analytics| Google CSRMP Fellow 2022B Cohort |TreeHacks'22 Winner | HackMIT'22 Winner"
+    },
+    {
+      "index": 18,
+      "name": "Pratham Brahmbhatt",
+      "email": "brahmbhatt.pra@northeastern.edu",
+      "userDetails": "Data Analyst | Graduate Analytics Student @ Northeastern University | Python | R | SQL | Excel | Power BI | Tableau"
+    },
+    {
+      "index": 19,
+      "name": "Karen H.",
+      "email": "karen.hor@zoominfo.com",
+      "userDetails": "Account Manager | #Inbound #Outbound #GROWTHBOUND"
+    },
+    {
+      "index": 20,
+      "name": "Marvin Gandhi",
+      "email": "Gandhi.mar@northeastern.edu",
+      "userDetails": "CS & Math @ Northeastern | Stanford Code in Place Section Leader 24' | Calculus III, Discrete Math & IMR TA | ML & Algebraic Coding Theory Undergraduate Researcher @ NSF UPR-Ponce"
+    },
+    {
+      "index": 21,
+      "name": "Oleksii Nikanov",
+      "email": "alekseynikanov.21@gmail.com",
+      "userDetails": "🇺🇦 | Full-stack and DevOps developer with expertise in Next.js/React, Node.js, and Typescript | Built a product used by 30,000 businesses"
+    },
+    {
+      "index": 22,
+      "name": "Divyaraj Rana",
+      "email": "divyaraj.r0420@gmail.com",
+      "userDetails": "MSDA Student at Northern Illinois University | Data Analytics | Tableau | SQL | AWS | Transforming Raw Data into Actionable Insights | Actively Seeking Summer Internships and Full Time Roles"
+    },
+    {
+      "index": 23,
+      "name": "Will Rau",
+      "email": "rauwilliam7@gmail.com",
+      "userDetails": "Cloud & GPU @ Vultr | NVIDIA Elite Partner | World’s Largest Bootstrapped Cloud Provider"
+    },
+    {
+      "index": 24,
+      "name": "Owen Lheron",
+      "email": "owenlheron@gmail.com",
+      "userDetails": "Automation Engineer at NeoMatrix, Inc."
+    },
+    {
+      "index": 25,
+      "name": "Bladimir Nunez",
+      "email": "Nunez.Bladimir@yahoo.com",
+      "userDetails": "Data Analyst | BI Analyst | Sales Engineer | SQL | Python | Tableau"
+    },
+    {
+      "index": 26,
+      "name": "Anand Rituraj",
+      "email": "Rituraj.a@northeastern.edu",
+      "userDetails": "Software Engineer | ex-SWE intern @ PTC | MSCS student @ Northeastern University"
+    },
+    {
+      "index": 27,
+      "name": "Kevina Wang",
+      "email": "kevinaw@stanford.edu",
+      "userDetails": "CS + Psychology @ Stanford | President of Stanford Women in Business"
+    },
+    {
+      "index": 28,
+      "name": "Deep Suchak",
+      "email": "dssuchak@wpi.edu",
+      "userDetails": "Actively looking for summer’24 data internships | Data Science Graduate @WPI | Ex-Process Automation @HealthySure"
+    },
+    {
+      "index": 29,
+      "name": "Shreyas Waghe",
+      "email": "swaghe@umass.edu",
+      "userDetails": "Undergraduate Researcher | Incoming Intern @ Pfizer | ML, Quant Bio, Sci Computing | UMass Amherst CS + AMath"
+    },
+    {
+      "index": 30,
+      "name": "Nikhil Doye",
+      "email": "doye.n@northeastern.edu",
+      "userDetails": "Actively seeking Fall'24 Co-op and Internship | Data Scientist Intern | Graduate Analytics Student @ Northeastern University | Excel | SQL | Tableau | PowerBI | Python | R | LTIMindtree | EE IITT'21"
+    },
+    {
+      "index": 31,
+      "name": "Risa Samanta",
+      "email": "samanta.r@northeastern.edu",
+      "userDetails": "Master's Student at Northeastern University"
+    },
+    {
+      "index": 32,
+      "name": "Preyaan Gupta",
+      "email": "preyaangupta@gmail.com",
+      "userDetails": "Product Manager | Associate Product Manager | Product Marketing Manager | Product Owner | Data Analyst | Business Analyst"
+    },
+    {
+      "index": 33,
+      "name": "Hoang Nguyen",
+      "email": "htnguyen@umass.edu",
+      "userDetails": "Data Analyst @ Dell Technologies | MS in Analytics at Georgia Tech"
+    },
+    {
+      "index": 34,
+      "name": "Ayushi Jain",
+      "email": "jainayushi2003@gmail.com",
+      "userDetails": "Web Developer Intern @ Waters Corporation | Senior @ UMass Amherst, B.S. Computer Science, Business Minor"
+    },
+    {
+      "index": 35,
+      "name": "Anthar Nieto",
+      "email": "antharmc@gmail.com",
+      "userDetails": "Senior Associate Marketing Lead Management at KPMG"
+    },
+    {
+      "index": 36,
+      "name": "Jake Ashkenase",
+      "email": "ashkenase.j@northeastern.edu",
+      "userDetails": "Data Science Student @ Northeastern"
+    },
+    {
+      "index": 37,
+      "name": "Himaja R. Ginkala",
+      "email": "ginkala.h@northeastern.edu",
+      "userDetails": "MSAI Student at Northeastern University | Passionate about Artificial Intelligence & Machine Learning"
+    },
+    {
+      "index": 38,
+      "name": "Neil Isaac",
+      "email": "Isaac.n@northeastern.edu",
+      "userDetails": "Quantitative Researcher | Computer Science and Mathematics Student"
+    },
+    {
+      "index": 39,
+      "name": "Kishan Parekh",
+      "email": "kishanparekh1995@gmail.com",
+      "userDetails": "Product @ Builder.ai"
+    },
+    {
+      "index": 40,
+      "name": "George Moraites",
+      "email": "George.moraites@tufts.edu",
+      "userDetails": "M.S. Computer Engineering Student at Tufts University; B.S. Environmental Engineering; MIN. Economics"
+    },
+    {
+      "index": 41,
+      "name": "Ayush Rastogi",
+      "email": "rastogi.ay@northeastern.edu",
+      "userDetails": "CS & Finance @ NEU"
+    },
+    {
+      "index": 42,
+      "name": "Shreyas Kulkarni",
+      "email": "kulkarni.shreyas@northeastern.edu",
+      "userDetails": "Software Engineer | MS Information Systems Northeastern University, Boston |Seeking Internship May24 Software Engineer intern role|Ex-Infosys|Java Angular React Node.js AWS Cloud Full Stack Docker Kubernetes MERN MEAN"
+    },
+    {
+      "index": 43,
+      "name": "David Berlin",
+      "email": "sheet--david@c10labs.com",
+      "userDetails": "Operator | Partner | Driven by solving complex problems that impact millions of lives"
+    },
+    {
+      "index": 44,
+      "name": "Parthasarathy M",
+      "email": "murugesan.p@northeastern.edu",
+      "userDetails": "Data Scientist / Software Engineer - Machine Learning, NLP, Full Stack, DevOps, GenAI | MS in Data Science @ Northeastern | Ex-Vertex | Ex- Cognizant"
+    },
+    {
+      "index": 45,
+      "name": "Saud Ansari",
+      "email": "ansari.sau@northeastern.edu",
+      "userDetails": "Ex -Product Definition Intern @ DS SOLIDWORKS | CSWE | Northeastern University | Ex- Research Intern - IIT Indore | 2nd Runner up E-BAJA 2018-19 | Aspiring Product Manager, Vehicle and Product Designer"
+    },
+    {
+      "index": 46,
+      "name": "Max Hess",
+      "email": "mhess1810@gmail.com",
+      "userDetails": "Industrial Engineering Supervisor at UPS"
+    },
+    {
+      "index": 47,
+      "name": "Kanav Talwar",
+      "email": "talwarkanav9@gmail.com",
+      "userDetails": "CS @ UMass Amherst | Seeking New Grad SWE Roles | ML Enthusiast"
+    },
+    {
+      "index": 48,
+      "name": "Stu Angus",
+      "email": "angus.stuart@gmail.com",
+      "userDetails": "AI Applications for Biotech"
+    },
+    {
+      "index": 49,
+      "name": "Ryan O'Connell",
+      "email": "ryanmichaeloconnell22@gmail.com",
+      "userDetails": "Manager, Sales Solutions at ZoomInfo | PreSales Collective"
+    },
+    {
+      "index": 50,
+      "name": "Maria Anson",
+      "email": "anson.ma@northeastern.edu",
+      "userDetails": "AI Grad Student | Ex Data Science Intern at Lowe's & Moderna | Transforming Complexity into Clarity with Data Magic! 🧙‍♂️✨ | Actively Seeking Full Time Data Science Opportunities From May"
+    },
+    {
+      "index": 51,
+      "name": "Riddhi Shah",
+      "email": "shahriddhi717@gmail.com",
+      "userDetails": "Sr. Software Engineer @ Vicor Corporation"
+    },
+    {
+      "index": 52,
+      "name": "Saloni Talwar",
+      "email": "talwar.sa@northeastern.edu",
+      "userDetails": "SDE Intern at AMD | Research Assistant at Northeastern University | MSIS student at Northeastern University | Ex-Deloitte | AWS Certified"
+    },
+    {
+      "index": 53,
+      "name": "Bob Levy",
+      "email": "boblevy8@gmail.com",
+      "userDetails": "Founder & CEO at Immersion Analytics | AI | ex-IBM, MathWorks | 5 Patents | Independent Director"
+    },
+    {
+      "index": 54,
+      "name": "Abhishek Sand",
+      "email": "sand.a@northeastern.edu",
+      "userDetails": "Data Enthusiast | Seeking Full-Time Opportunities | IT Intern at Agios | MS in Information Systems"
+    },
+    {
+      "index": 55,
+      "name": "Aadhitthyaa H.",
+      "email": "aadhi6796@gmail.com",
+      "userDetails": "Product Manager @ ZoomInfo | Master's in Engineering Management | Gen AI & Data Science"
+    },
+    {
+      "index": 56,
+      "name": "Anurag Parla",
+      "email": "parla.a@northeastern.edu",
+      "userDetails": "SDE1 @Moderna | Ex- Identifeye Health | AWS Certified |"
+    },
+    {
+      "index": 57,
+      "name": "Neav Topaz",
+      "email": "neavtop@gmail.com",
+      "userDetails": "Marketing Strategy and Analytics @ Akamai"
+    },
+    {
+      "index": 58,
+      "name": "Allen H.",
+      "email": "allen@tensordock.com",
+      "userDetails": "TensorDock"
+    },
+    {
+      "index": 59,
+      "name": "Srijan Dokania",
+      "email": "dokania.s@northeastern.edu",
+      "userDetails": "MS Robotics @ Khoury College of Computer Sciences, NEU | RA @ IISC | JRF @ IIIT-H | ML & Robotics Enthusiast | Ex - DRDO Intern | EX - IIT-BHU Intern"
+    },
+    {
+      "index": 60,
+      "name": "Anirban Dutta",
+      "email": "dutta.an@northeastern.edu",
+      "userDetails": "Software Engineer | Empowering Possibilities Through Code | ex-SDE Intern @Dassault Systèmes (USA) | C++ | Java | NodeJS | AWS | GCP | DevOps"
+    },
+    {
+      "index": 61,
+      "name": "Tanmay Dilip Zope",
+      "email": "zope.t@northeastern.edu",
+      "userDetails": "2x MuleSoft Certified Developer | Graduate Teaching Assistant @Northeastern University, Boston | Ex-Accenture"
+    },
+    {
+      "index": 62,
+      "name": "Jayasurya Sevalur Mahendran",
+      "email": "smjayasurya1997@gmail.com",
+      "userDetails": "Software Engineer at Miso Robotics"
+    },
+    {
+      "index": 63,
+      "name": "Vanshika Jain",
+      "email": "jain.van@northeastern.edu",
+      "userDetails": "Open to Exciting Full-Time Opportunities in Data Science/ Machine Learning/ Computer Vision"
+    },
+    {
+      "index": 64,
+      "name": "Aditi Pawaskar",
+      "email": "apawaskar@wpi.edu",
+      "userDetails": "Looking for robotics & manipulation roles |Former Robotics research intern @ Analog Devices Inc. | Robotics Grad student at WPI"
+    },
+    {
+      "index": 65,
+      "name": "Manali Patil",
+      "email": "Manali.patil001@umb.edu",
+      "userDetails": "Analytics Enthusiast | Bridging Data to Decisions | Graduate Business Analytics student at UMass Boston | Actively seeking full-time opportunities."
+    },
+    {
+      "index": 66,
+      "name": "Ujwal Kumar",
+      "email": "Kumar.ujw@northeastern.edu",
+      "userDetails": "Graduate Student at Northeastern University | Ex - IT Audit Analyst, Co-op at Fidelity Investments | Applied Machine Intelligence | Ex - Senior Engineer at LTIMindtree"
+    },
+    {
+      "index": 67,
+      "name": "Yalala Mohit",
+      "email": "mohit.y@northeastern.edu",
+      "userDetails": "MS in Artificial intelligence @ Khoury college of computer sciences | Ex ML R&D Engineer Co-Op @ CTO-AI team at Motorola Solutions | Ex Edge-AI R&D Engineer @ NextGen COE at TCS ltd"
+    },
+    {
+      "index": 68,
+      "name": "Ankur Ankit",
+      "email": "anankit@bu.edu",
+      "userDetails": "MS in AI @ Boston University | Ex-Morgan Stanley| Ex-Wiley| Ex-Cognizant"
+    },
+    {
+      "index": 69,
+      "name": "Iti Rohilla",
+      "email": "rohilla.i@northeastern.edu",
+      "userDetails": "Actively seeking Summer'24 Co-op and Internship opportunities | Masters in Analytics Graduate Student @Northeastern University | Worked with Cognizant, Virtusa and Tech Mahindra"
+    },
+    {
+      "index": 70,
+      "name": "Akshay Chavan",
+      "email": "chavan.ak@northeastern.edu",
+      "userDetails": "CS Grad @Northeastern University | 4+ Years of Full Stack Software Engineering | Building Scalable and Robust Web Applications"
+    },
+    {
+      "index": 71,
+      "name": "Shreemoy Nanda",
+      "email": "nanda.shr@northeastern.edu",
+      "userDetails": "Actively Looking for Data Engineer Internship || MS in Data Architecture and Management @Northeastern University || Former Product Management Associate at Accenture || Siebel CRM"
+    },
+    {
+      "index": 72,
+      "name": "Aarushi Basmatkar",
+      "email": "basmatkar.a@northeastern.edu",
+      "userDetails": "Cybersecurity and Business @ Northeastern"
+    },
+    {
+      "index": 73,
+      "name": "Omkar Ubale",
+      "email": "Ubale.o@northeastern.edu",
+      "userDetails": "Full-stack SDE | Ex-SDE Coop @ Sway AI | MS CS @ Northeastern | Polyglot"
+    },
+    {
+      "index": 74,
+      "name": "Weijia Xiao",
+      "email": "xiao.wei@northeastern.edu",
+      "userDetails": "CS Undergrad @ Northeastern, Concentration in AI"
+    },
+    {
+      "index": 75,
+      "name": "Likhitha Baireddy",
+      "email": "baireddy.l@northeastern.edu",
+      "userDetails": "Data Analyst | Data Analysis, SQL, Python, Machine learning, Data visualization, Power BI, Tableau | Passionate about driving business success through informed decision-making."
+    },
+    {
+      "index": 76,
+      "name": "Sardor Nodirov",
+      "email": "sinodi26@colby.edu",
+      "userDetails": "AI @ Colby College | Presidential Scholar ‘26 | Founder @ Cadence AI"
+    },
+    {
+      "index": 77,
+      "name": "Pranay Bindela",
+      "email": "bindelapranay@gmail.com",
+      "userDetails": "fast.ai Alum | Graduate Student @ Northeastern University - Applied Machine Intelligence"
+    },
+    {
+      "index": 78,
+      "name": "Mia Bonardi",
+      "email": "mia.e.bonardi@gmail.com",
+      "userDetails": "International Justice Tech"
+    },
+    {
+      "index": 79,
+      "name": "Chengyu (Cathy) F.",
+      "email": "cfan26@colby.edu",
+      "userDetails": "CS AI and Math Sciences Student at Colby College"
+    },
+    {
+      "index": 80,
+      "name": "Tanisha Rajgor",
+      "email": "rajgor.t@northeastern.edu",
+      "userDetails": "CS & AI + Business @ Northeastern | Prev. Data Science @ Accenture, FM Global"
+    },
+    {
+      "index": 81,
+      "name": "Steve Novick",
+      "email": "novick@alum.mit.edu",
+      "userDetails": "Product Engineering Leader"
+    },
+    {
+      "index": 82,
+      "name": "Maxwell Levene",
+      "email": "Maxwell.levene@tufts.edu",
+      "userDetails": "BME Masters Student @ Tufts | Cell Ag | Making Tasty Animal Free Meat"
+    },
+    {
+      "index": 83,
+      "name": "Shraddha Sivarama krishnan",
+      "email": "shr2001@bu.edu",
+      "userDetails": "Masters in Applied business analytics BU’24"
+    },
+    {
+      "index": 84,
+      "name": "David Bannon",
+      "email": "Bannond15@gmail.com",
+      "userDetails": "Senior Customer Success Manager at LiveRamp"
+    },
+    {
+      "index": 85,
+      "name": "Mohammed Irfan Ali",
+      "email": "ali.mohammed@northeastern.edu",
+      "userDetails": "Robotics Research @ Northeastern University | Perception | Computer Vision | Deep learning"
+    },
+    {
+      "index": 86,
+      "name": "Neelesh Kumar Jana",
+      "email": "njana@umass.edu",
+      "userDetails": "Student at University of Massachusetts Amherst"
+    },
+    {
+      "index": 87,
+      "name": "Chaitanya Anudeep Origanti",
+      "email": "Origanti.c@northeastern.edu",
+      "userDetails": "Looking for Full-Time/ Internship Roles | Graduate Student @ Northeastern University | Data analysis and Automation| Power Platform | Azure Data Factory | 6X Microsoft Cert."
+    },
+    {
+      "index": 88,
+      "name": "Yuwei (Kate) Wu",
+      "email": "wuywwyw@gmail.com",
+      "userDetails": "Incoming SDE Co-op @ Amazon Robotics | Looking for 2024 Summer SDE Internship | MSCS @ Northeastern"
+    },
+    {
+      "index": 89,
+      "name": "Aditya Maheshwari",
+      "email": "adityam@bu.edu",
+      "userDetails": "Data Analyst @ Certa.ai | Master of Science in Data Analytics @ Boston University"
+    },
+    {
+      "index": 90,
+      "name": "Karen Hovhannisyan",
+      "email": "hkaren97@gmail.com",
+      "userDetails": "Data Scientist | Junior Developer"
+    },
+    {
+      "index": 91,
+      "name": "Mark Hewitt",
+      "email": "mark@EQengineered.com",
+      "userDetails": "Helping enterprises modernize, develop resilience, and negotiate digital transformation | President & CEO at EQengineered"
+    },
+    {
+      "index": 92,
+      "name": "Gugan Kathiresan",
+      "email": "kathiresangugan@gmail.com",
+      "userDetails": "MS in Artificial Intelligence | Data Science | Computer Vision | Deep Learning Research |"
+    },
+    {
+      "index": 93,
+      "name": "Kartikey Vijayakumar Hebbar",
+      "email": "vijayakumarhebbar.k@northeastern.edu",
+      "userDetails": "💻 Graduate Student at Northeastern University | Concentrating on Web, Cloud & AI | Java | Spring Boot | Python | JS | Ex-SWE @Accenture"
+    },
+    {
+      "index": 94,
+      "name": "Smit Patel",
+      "email": "smit@postman.com",
+      "userDetails": "Head of Corporate Development at Postman | Startup Advisor and Investor"
+    },
+    {
+      "index": 95,
+      "name": "Shreya Asoba",
+      "email": "Shreya26@bu.edu",
+      "userDetails": "AI Engineer Intern @Radical | MS in CIS | Ex-Cognizant | Passionate about AI-ML, Data & Business Innovation | IEEE & Springer Author"
+    },
+    {
+      "index": 96,
+      "name": "Chedvihas Punnam",
+      "email": "p.chedvihas@gmail.com",
+      "userDetails": "Actively Seeking Full-Time Roles | MSCSE @ Arizona State University | Former Data Engineer @ LTI | IIT Bhilai Alumnus"
+    },
+    {
+      "index": 97,
+      "name": "Yi Zu",
+      "email": "zu.y@northeastern.edu",
+      "userDetails": "Software Engineer Co-op @CarGurus | MS Computer Science @Northeastern University | Looking for Summer 2024 SWE Internship | Frontend Developer | React.js | Javascript | Typescript | Redux"
+    },
+    {
+      "index": 98,
+      "name": "Alex Shterenberg",
+      "email": "alex@sinna.co",
+      "userDetails": "Founder of Sinna Studios | Digital Media Content Creation"
+    },
+    {
+      "index": 99,
+      "name": "David E.",
+      "email": "david.eddy@legacysoftware.co.uk",
+      "userDetails": "Principal at Legacy Software, Ltd."
+    },
+    {
+      "index": 100,
+      "name": "Jennisha Martin",
+      "email": "martin.jennis@northeastern.edu",
+      "userDetails": "MS CS @ Northeastern University, Boston"
+    },
+    {
+      "index": 101,
+      "name": "Priyanka B.",
+      "email": "priyankab0310@outlook.com",
+      "userDetails": "MS Business Analytics"
+    },
+    {
+      "index": 102,
+      "name": "Himanshu Khichar",
+      "email": "Khichar.h@northeastern.edu",
+      "userDetails": "Data-Driven Product Manager | MS @ Northeastern University | I use AI to build & track habit-forming products that solve user problems | Top PM Voice | Ex-Elevance Health | Ex-ZS | 3x Founder"
+    },
+    {
+      "index": 103,
+      "name": "Manjari Pandya",
+      "email": "Pandya.manj@northeastern.edu",
+      "userDetails": "Data Analytics Engineering student | Big Data Analytics | Sustainability Development | Python | SQL | Business Analytics"
+    },
+    {
+      "index": 104,
+      "name": "Vaishnavi G.",
+      "email": "gaikwad.va@northeastern.edu",
+      "userDetails": "Product Strategy | User Research | Customer Segmentation | Cross-Functional Collaboration | Data-Driven Decision Making | Data Analysis | Data Visualization"
+    },
+    {
+      "index": 105,
+      "name": "Hrithik Kanoje",
+      "email": "kanoje.h@northeastern.edu",
+      "userDetails": "Looking For Full-Time opportunities In Robotics/AI/ML | Research Assistant @Northeastern University | Computer Vision | ROS | Deep Learning | Natural Language Processing"
+    },
+    {
+      "index": 106,
+      "name": "Namrit Sheth",
+      "email": "sheth.nam@northeastern.edu",
+      "userDetails": "Data Analyst looking for summer internship in United States | MS in Data Analytics Engineering Student at Northeastern University |"
+    },
+    {
+      "index": 107,
+      "name": "Vinit Nagap",
+      "email": "nagap.v@northeastern.edu",
+      "userDetails": "Actively Seeking Summer 2024 Co-op/ Internship opportunities | Product | Data Analytics | Engineering Management"
+    },
+    {
+      "index": 108,
+      "name": "Christopher A. Corbin",
+      "email": "corbin@conversaite.ai",
+      "userDetails": "Experienced Retail Technology, Data & Analytics Leader | Strategic IT Modernization Expert"
+    },
+    {
+      "index": 109,
+      "name": "Russ W.",
+      "email": "russ@russwilcoxdata.com",
+      "userDetails": "Globally Recognized AI & NLP Expert | Speaker & Panelist at WEF Davos 2024 | 2x TEDx Speaker | Urban Sustainability Innovator | Data Intelligence Pioneer | Board Member"
+    },
+    {
+      "index": 110,
+      "name": "Nikhil Mukherjee",
+      "email": "nikhilmukher@umass.edu",
+      "userDetails": "Computer Science @ UMass Amherst"
+    },
+    {
+      "index": 111,
+      "name": "Akshay Syal",
+      "email": "akshaysyal19@gmail.com",
+      "userDetails": "Actively looking for Data Science/ Analyst Summer internship 2024 | Current Data Science Graduate Student at Northeastern University | Graduate Teaching Assistant @ Khoury College of Computer Sciences"
+    },
+    {
+      "index": 112,
+      "name": "Maheswar Veerlanka",
+      "email": "veerlanka.m@northeastern.edu",
+      "userDetails": "Data Analytics Enthusiast | Committed to Uncovering Insights through Numbers | Advancing my Skills at Northeastern University"
+    },
+    {
+      "index": 113,
+      "name": "Nimit Kapadia",
+      "email": "nimithk2@illinois.edu",
+      "userDetails": "Grad Student @ UIUC | Ex-JPMC| Ex-Hitachi Ltd. | Data Science | IIT Bombay"
+    },
+    {
+      "index": 114,
+      "name": "Pankti Gosar",
+      "email": "pankti.gosar@gmail.com",
+      "userDetails": "Computational Biologist and Bioinformatics Scientist | Analyzing Genomic Data for Propelling Discovery and Development of New Therapeutics | Biotechnology Research | NGS Data Analyses"
+    },
+    {
+      "index": 115,
+      "name": "Annie Zhang",
+      "email": "anniezhang2288@berkeley.edu",
+      "userDetails": "EECS/Engineering Physics @ UC Berkeley | Incoming Amazon AWS Software Engineer Intern"
+    },
+    {
+      "index": 116,
+      "name": "Anna K.",
+      "email": "Kim.ann@northeastern.edu",
+      "userDetails": "Incoming Data Engineer Intern @ Dell and Software Engineering Co-op @ WHOOP | CS/AI @ Northeastern University"
+    },
+    {
+      "index": 117,
+      "name": "Shweta Shinde",
+      "email": "shinde.shw@northeastern.edu",
+      "userDetails": "MEM'25 @NEU | EX- LTIMindtree | Actively seeking Summer 2024 Internship/Co-op"
+    },
+    {
+      "index": 118,
+      "name": "Manikanta Chunduru Balaji",
+      "email": "cb.manikanta@gmail.com",
+      "userDetails": "ML Engineer @Dassault | Top Data Science Voice | USC DS Alumni | Ex-MLE Intern @Space and Time | Data science | Analytics | Generative AI"
+    },
+    {
+      "index": 119,
+      "name": "Orijeet Mukherjee",
+      "email": "mukherjee.o@northeastern.edu",
+      "userDetails": "Graduate Researcher @ EAI/Northeastern University | Former Research Assistant @TIFR | Runner up @ Pradarshini 23' | Expert in ML, Data Science, Software Development, PyTorch, TensorFlow"
+    },
+    {
+      "index": 120,
+      "name": "Vidya Kanuri",
+      "email": "kanuri.v@northeastern.edu",
+      "userDetails": "Graduate Student @ Northeastern University"
+    },
+    {
+      "index": 121,
+      "name": "Arshnoor Kaur Chadha",
+      "email": "akchadha@umass.edu",
+      "userDetails": "GHC’23 Scholar | TAPIA’23 Scholar | BS Computer Science @ UMass Amherst'25 | Undergraduate Researcher @ CICS"
+    },
+    {
+      "index": 122,
+      "name": "KHUSHI NEEMA",
+      "email": "neema.k@northeastern.edu",
+      "userDetails": "Seeking full-time opportunities starting May 2024| Data Science graduate at Northeastern University | Data Analytics | Machine Learning | Leadership"
+    },
+    {
+      "index": 123,
+      "name": "Manikhanta Praphul S.",
+      "email": "samavedam.m@northeastern.edu",
+      "userDetails": "MS in AI | TA at Khoury | Ex - Co-op @Sway AI | Ex - Nvidia | Ex - UBS | Ex - BNY Mellon | BITS-Pilani 18 | Gen AI | LLM | Deep learning | Computer Vision | NLP | Python | Research"
+    },
+    {
+      "index": 124,
+      "name": "Pavaneeswar Talapaneni",
+      "email": "talapaneni.p@northeastern.edu",
+      "userDetails": "Graduate Student @ Northeastern| Actively looking for Data scientist and data Analyst roles | Proficient in LLMs | NLP | Python | Tableau | PowerBi | Machine Learning"
+    },
+    {
+      "index": 125,
+      "name": "Isabel Johnson",
+      "email": "isabeljohnson06@gmail.com",
+      "userDetails": "Software Developer"
+    },
+    {
+      "index": 126,
+      "name": "Omkar Sadekar",
+      "email": "sadekar.omkarn@gmail.com",
+      "userDetails": "Data Scientist | Artificial Intelligence Engineer | Statistical Modeling | Python | SQL | R | NLP | LLM | Driving Business Intelligence objectives through cutting-edge technology"
+    },
+    {
+      "index": 127,
+      "name": "Niraj Chaudhari",
+      "email": "chaudhari.niraj@northeastern.edu",
+      "userDetails": "MS in Data Science at Northeastern University, Boston"
+    },
+    {
+      "index": 128,
+      "name": "Aalisha Choudhary",
+      "email": "choudhary.aal@northeastern.edu",
+      "userDetails": "Actively Seeking Co-op / Summer 2024 Internship Opportunities | Engineering Management Grad Student @ Northeastern University | Ex-Associate @ Cognizant | CRM Developer | Information Science Grad from MVJCE"
+    },
+    {
+      "index": 129,
+      "name": "Anirudh Hegde",
+      "email": "hedge.anir@northeastern.edu",
+      "userDetails": "Actively looking for Internships/Co-op 2024 | Northeastern University 🏛️ | Passionate about transforming raw data into actionable insights that drive decisions 🚀 | Ex- Maruti | Ex- Godrej"
+    },
+    {
+      "index": 130,
+      "name": "Selvapriya Selvakumar",
+      "email": "selvakumar.s@northeastern.edu",
+      "userDetails": "Graduate Student at Northeastern University | MS Data Analytics Engineering"
+    },
+    {
+      "index": 131,
+      "name": "Anthony Wilson",
+      "email": "Anthony.wilson@umb.edu",
+      "userDetails": "Husband & Father at Wilson Family"
+    },
+    {
+      "index": 132,
+      "name": "Om Mali",
+      "email": "mali.om@northeastern.edu",
+      "userDetails": "Open to Summer 2024 Coop Opportunities | MS DS at Northeastern University | Experienced with TensorFlow, Apache Airflow, Tableau"
+    },
+    {
+      "index": 133,
+      "name": "Anthony Cruz",
+      "email": "Anthonycruzin@gmail.com",
+      "userDetails": "Solutions, Emerging Products at ZoomInfo (Chorus.ai Division) - We’re Hiring"
+    },
+    {
+      "index": 134,
+      "name": "Anson Antony",
+      "email": "antony.a@northeastern.edu",
+      "userDetails": "Data Scientist Co-op at Institute for Experiential AI at Northeastern University | Actively Seeking Full-Time Roles in Machine Learning/Data Science | M.S. in Computer Science, Northeastern University"
+    },
+    {
+      "index": 135,
+      "name": "Minh Vu",
+      "email": "mtvu@umass.edu",
+      "userDetails": "CS Senior @Umass Amherst"
+    },
+    {
+      "index": 136,
+      "name": "Alex Benik",
+      "email": "alex@encoded.vc",
+      "userDetails": "Partner / Founder at Encoded Ventures"
+    },
+    {
+      "index": 137,
+      "name": "Neehar Satti",
+      "email": "satti.n@northeastern.edu",
+      "userDetails": "Graduate Student at Northeastern University | Data Scientist | Actively looking for a full-time position | I can make data tell a story"
+    },
+    {
+      "index": 138,
+      "name": "Goutham Yerramada",
+      "email": "Yerramada.g@northeastern.edu",
+      "userDetails": "Actively seeking an internship/co-op as an aspiring Data Analyst, currently pursuing a Master's in Data Analytics at Northeastern University."
+    },
+    {
+      "index": 139,
+      "name": "Mani Deepak Aila",
+      "email": "aila.m@northeastern.edu",
+      "userDetails": "Graduate Student at Northeastern University | Data Engineer"
+    },
+    {
+      "index": 140,
+      "name": "Nate Peters",
+      "email": "peters.na@northeastern.edu",
+      "userDetails": "IE @ Northeastern"
+    },
+    {
+      "index": 141,
+      "name": "Rachel U.",
+      "email": "utama.r@northeastern.edu",
+      "userDetails": "Incoming Corporate Development Co-op at Vigil Neuroscience | DS & BNS @ NEU"
+    },
+    {
+      "index": 142,
+      "name": "Kien To",
+      "email": "ktto@umass.edu",
+      "userDetails": "SWE Intern @ Amazon | Incoming @ Oracle | MS Data Science @ UMass-Amherst (Bay State Fellow)"
+    },
+    {
+      "index": 143,
+      "name": "Nitin Kumar Mittal",
+      "email": "Nitinmittal243@gmail.com",
+      "userDetails": "Machine Learning Engineer"
+    },
+    {
+      "index": 144,
+      "name": "Rebecca Wu",
+      "email": "rswu@stanford.edu",
+      "userDetails": "CS + Data Science @ Stanford"
+    },
+    {
+      "index": 145,
+      "name": "Phani Bhavana Atluri",
+      "email": "atluri.p@northeastern.edu",
+      "userDetails": "Actively seeking for Data Analyst, Data Scientist full-time roles | Data Analytics Engineering Graduate Student at Northeastern University, Boston"
+    },
+    {
+      "index": 146,
+      "name": "Bharath Gajula",
+      "email": "gajula.b@northeastern.edu",
+      "userDetails": "Ex Oracle | MS in Computer Science at Northeastern University | Full Stack Developer | AI Enthusiast | Experienced in Machine Learning and Deep Learning"
+    },
+    {
+      "index": 147,
+      "name": "Yu Lai",
+      "email": "lai.yu1@northeastern.edu",
+      "userDetails": "MSIS student @ Northeastern University | Software Developer | Lifelong Learner | Writing Code for IMPACT"
+    },
+    {
+      "index": 148,
+      "name": "Dhrumil Shah",
+      "email": "dshah36@syr.edu",
+      "userDetails": "Ex - Business Analyst at Angel One Limited || Ex - Business Development Executive - Jaro Education"
+    },
+    {
+      "index": 149,
+      "name": "UTHIRALAKSHMI S.",
+      "email": "usivaraman@wpi.edu",
+      "userDetails": "Graduate Robotics Researcher @ Manipulation and Environmental Robotics Laboratory @WPI |Past Robotics Software Engineer @ HTIC | Actively seeking full-time positions in Robotics and AI starting June 2024."
+    },
+    {
+      "index": 150,
+      "name": "Tony Zhang",
+      "email": "Tzhang@sbur.com",
+      "userDetails": "Building Sbur, a Founders' Community. If Your Venture is Stuck, Sbur Gets You Unstuck."
+    },
+    {
+      "index": 151,
+      "name": "Satish Vennapu",
+      "email": "satish@umd.edu",
+      "userDetails": "XPRIZE Competition Project Manager | Robotics Grad Student @ UMD | Automotive Engineer | Machine Learning | AI | Computer Vision | Data Science | Python | C++ | ROS | CAD | VIT |"
+    },
+    {
+      "index": 152,
+      "name": "Dhun Jayswal",
+      "email": "jayswald@bu.edu",
+      "userDetails": "Actively seeking business-tech roles | Dec'2023"
+    },
+    {
+      "index": 153,
+      "name": "Hinal Patel",
+      "email": "patel.hina@northeastern.edu",
+      "userDetails": "Actively looking for full-time opportunities in Software Development starting July 2024 | Full Stack Development | Javascript | ReactJS | AWS Certified Cloud Practitioner | Former Senior Software Developer at Infosys Ltd"
+    },
+    {
+      "index": 154,
+      "name": "Jahnavi L",
+      "email": "ljahnavi@syr.edu",
+      "userDetails": "Lean Six Sigma Consultant for CXtec || Actively seeking Internships for Summer 2024 & FT Opportunities || Msc in EM || SQL || Tableau || PowerBl || Data Analytics"
+    },
+    {
+      "index": 155,
+      "name": "Shawana Shahrin Rahman",
+      "email": "rahma27s@mtholyoke.edu",
+      "userDetails": "Freshman @Mount Holyoke |CS major| RTC’24|CodePath| Forté"
+    },
+    {
+      "index": 156,
+      "name": "Shamhith. Kamasani",
+      "email": "kamasani.s@northeastern.edu",
+      "userDetails": "Adv. Data Analytics @ FM Global | Generative AI for Prescriptive Maintenance | Graduate Teaching Assistant @ SLE | Masters in Data Analytics @ Northeastern"
+    },
+    {
+      "index": 157,
+      "name": "Nishit Popat",
+      "email": "Popat.n@northeastern.edu",
+      "userDetails": "Actively seeking summer'24 internship | Master's in Robotics (Mechanical Engineering) Northeastern University, Boston, MA"
+    },
+    {
+      "index": 158,
+      "name": "Vedant Wagh",
+      "email": "wagh.v@northeastern.edu",
+      "userDetails": "MPS student at Northeastern University | Analytics | Business Intelligence | Machine Learning | Python | Statistics | R"
+    },
+    {
+      "index": 159,
+      "name": "Riya Kadulkar",
+      "email": "kadulkar.r@northeastern.edu",
+      "userDetails": "MS Engineering Management student at Northeastern University"
+    },
+    {
+      "index": 160,
+      "name": "Komal Albhar",
+      "email": "albhar.k@northeastern.edu",
+      "userDetails": "Actively looking for Full-time Opportunities | Data Analyst | Data Engineer | Data Science | Graduate Student @Northeastern University, MSIS Program Fall 22 | Ex-UST Global"
+    },
+    {
+      "index": 161,
+      "name": "Mrunal Malekar",
+      "email": "malekar.m@northeastern.edu",
+      "userDetails": "MS in Data Science at Northeastern University | Ex-Data Scientist Co-op Massachusetts General Hospital"
+    },
+    {
+      "index": 162,
+      "name": "Anirudh Muthuswamy",
+      "email": "anirudhmuthuswamy2000@gmail.com",
+      "userDetails": "Ms AI Graduate Student @ Northeastern University | Machine Learning | Computer Vision | Deep Learning Research"
+    },
+    {
+      "index": 163,
+      "name": "Adarsh Bhat",
+      "email": "adarsh.bhat10@gmail.com",
+      "userDetails": "I capture unique local narratives from around the world to tell a story! 😌"
+    },
+    {
+      "index": 164,
+      "name": "Sudhanshu Nitin Gulhane",
+      "email": "sgulh001@ucr.edu",
+      "userDetails": "MS in Computer Science @ UC Riverside | Actively Seeking Summer 2024 Internship Role"
+    },
+    {
+      "index": 165,
+      "name": "Divya Hegde",
+      "email": "hegde.di@northeastern.edu",
+      "userDetails": "MS in Data Science student at NEU, currently seeking Summer 2024 internship opportunities| Ex-Salesforce"
+    },
+    {
+      "index": 166,
+      "name": "Sathwik Matcha",
+      "email": "matcha.s@northeastern.edu",
+      "userDetails": "Graduate Student @ Northeastern University | IIT Bombay"
+    },
+    {
+      "index": 167,
+      "name": "Puppala Saiteja",
+      "email": "puppala3@bu.edu",
+      "userDetails": "MS in Applied Data Analytics @ Boston University I Ex-TATA AIG, ICICI Bank & L&T I NIT Kurukshetra"
+    },
+    {
+      "index": 168,
+      "name": "Arpita Bhagat",
+      "email": "bhagat.ar@northeastern.edu",
+      "userDetails": "Actively seeking full-time Data roles | Graduate student at Northeastern University | Information Systems"
+    },
+    {
+      "index": 169,
+      "name": "Shriya Pandita",
+      "email": "pandita.s@northeastern.edu",
+      "userDetails": "Data Science @FiVerity | MS in Information Systems at Northeastern University | Ambassador @WiDS| Ex-Accenture"
+    },
+    {
+      "index": 170,
+      "name": "Neeha Gajula",
+      "email": "ngaju002@ucr.edu",
+      "userDetails": "Graduate Teaching Assistant @ UC Riverside | Actively Seeking Summer 2024 Internship"
+    },
+    {
+      "index": 171,
+      "name": "Srilakshmi Kanagala",
+      "email": "kanagala.s@northeastern.edu",
+      "userDetails": "AI Graduate Student and TA at Northeastern University | Ex- Machine Learning Research Engineer Co-op at Dassault systems | Ex-Associate Engineer at Qualcomm | Ex- Data Science Research Intern at Vitra.ai"
+    },
+    {
+      "index": 172,
+      "name": "Greeshma Yaluru",
+      "email": "greesh@bu.edu",
+      "userDetails": "Graduate Student at BU GRS | Actively seeking new job opportunities as Product Manager | Data Engineer"
+    },
+    {
+      "index": 173,
+      "name": "Sumit Patil",
+      "email": "patil.sum@northeastern.edu",
+      "userDetails": "Machine Learning Engineer | Data Scientist | MS in DS at NEU '23 | Python | SQL | AWS | Statistical Analysis | Transforming Data into Insights"
+    },
+    {
+      "index": 174,
+      "name": "Krishna Kankipati",
+      "email": "krishnatasya@gmail.com",
+      "userDetails": "AI @ thirdi | Formerly AI @ OpenView Partners | LLM and Generative AI Developer | Proficient in PyTorch, TensorFlow, LangChain, and other Frameworks | AWS, Azure, GCP and Snowflake"
+    },
+    {
+      "index": 175,
+      "name": "Amitesh Tripathi",
+      "email": "amitvedtrade@gmail.com",
+      "userDetails": "Data Scientist @ CREWASIS (Techstars '24) | Innovator @ Metaphysical Solutions | Podcast @ GITM | Artificial Intelligence | Gen AI | LLMOps | Machine Learning | Google Certified | Ex-Capgemini"
+    },
+    {
+      "index": 176,
+      "name": "Poornima JD",
+      "email": "jaykumardharamdasa.p@northeastern.edu",
+      "userDetails": "MS in Artificial Intelligence at Northeastern University"
+    },
+    {
+      "index": 177,
+      "name": "Kirthana Shri C",
+      "email": "chandrasekar.k@northeastern.edu",
+      "userDetails": "Actively looking for Full-time Opportunities || Graduate TA @ Northeastern University | IIT Roorkee"
+    },
+    {
+      "index": 178,
+      "name": "Arihant Banthia",
+      "email": "abanthia@usc.edu",
+      "userDetails": "MSCS @ USC, LA | Ex AMDOCS | MCA @ NIT, Trichy"
+    },
+    {
+      "index": 179,
+      "name": "Sriram kumar Chamarthi",
+      "email": "Chamarthi.v@northeastern.edu",
+      "userDetails": "Actively Seeking Summer/Fall 2024 Co-op/ Internship opportunities | Product/ Project Management | Engineering Management |"
+    },
+    {
+      "index": 180,
+      "name": "Aadarsh S.",
+      "email": "siddha.a@northeastern.edu",
+      "userDetails": "MS Data Analytics Student @ Northeastern University"
+    },
+    {
+      "index": 181,
+      "name": "Bhakti Ukey",
+      "email": "ukey.b@northeastern.edu",
+      "userDetails": "AI Engineer | Data Enthusiast | Python | SQL | Tableau | Deep Learning | ML & AI"
+    },
+    {
+      "index": 182,
+      "name": "Shrushti A.",
+      "email": "agarwal.shrus@northeastern.edu",
+      "userDetails": "MSCS @ Northeastern University | Data Science | Data Analysis | Machine Learning"
+    },
+    {
+      "index": 183,
+      "name": "Abhinav Anil Kumar",
+      "email": "anilkumar.ab@northeastern.edu",
+      "userDetails": "Aspiring AIML Engineer | Master's in Robotics | Northeastern University | Seeking Internships Summer/Fall 2024"
+    },
+    {
+      "index": 184,
+      "name": "Siddharth Dumbre",
+      "email": "siddharthdumbre23@gmail.com",
+      "userDetails": "Graduate Student at Northeastern University | Former Frontend Android Developer at Jio"
+    },
+    {
+      "index": 185,
+      "name": "Mrudula Acharya",
+      "email": "acharya.mr@northeastern.edu",
+      "userDetails": "Pursuing MS in Artificial Intelligence at Northeastern University"
+    },
+    {
+      "index": 186,
+      "name": "Aditya Varshney",
+      "email": "varshney.ad@northeastern.edu",
+      "userDetails": "Machine Learning (Computer Vision) Engineer | MS CS @Northeastern | Looking for Internship opportunities for Summer/ Fall 2024"
+    },
+    {
+      "index": 187,
+      "name": "Sandip Sharan Senthil Kumar",
+      "email": "sandip26@umd.edu",
+      "userDetails": "Research Assistant | Actively seeking full-time opportunities starting May '24 | Graduate Student @ University of Maryland | Specializing in Computer Vision, Machine Learning, and Deep Learning |"
+    },
+    {
+      "index": 188,
+      "name": "Uday Girish Maradana",
+      "email": "umaradana@wpi.edu",
+      "userDetails": "Actively Looking for Co-Op/Internships | MS Robotics - WPI | ML Engineer"
+    },
+    {
+      "index": 189,
+      "name": "Anders Lie",
+      "email": "anders.erik.lie@gmail.com",
+      "userDetails": "Software Engineer & Consultant | LLM Tamer"
+    },
+    {
+      "index": 190,
+      "name": "Shivani Sahu",
+      "email": "sahu.shi@northeastern.edu",
+      "userDetails": "🔻Looking for Full Time Opportunity May 2024 | Graduate Student at Northeastern University | Ex-Salesforce Software Engineer @ LTIMindtree"
+    },
+    {
+      "index": 191,
+      "name": "Margi Shah",
+      "email": "shah.margi@northeastern.edu",
+      "userDetails": "Masters Data Science @Northeastern | Machine Learning | Python | R | Data Visualization | Data cleaning"
+    },
+    {
+      "index": 192,
+      "name": "Jim McGoldrick",
+      "email": "jim.mcgoldrick@trinet.com",
+      "userDetails": "Technology focused HR & Benefit Advisor"
+    },
+    {
+      "index": 193,
+      "name": "Nishant Pandey",
+      "email": "avipandey676@gmail.com",
+      "userDetails": "Robotics Engineer seeking fulltime opportunities | Passionate about 2D & 3D Computer Vision and Deep Learning | Innovating at the Intersection of Technology and Robotics."
+    },
+    {
+      "index": 194,
+      "name": "Kirti Kshirsagar",
+      "email": "kshirsagar.ki@northeastern.edu",
+      "userDetails": "MSAI @ Northeastern University | Actively Seeking Summer 2024 Internship/Full-time Opportunities | Machine Learning | Data Science | Artificial Intelligence | Computer Vision | Gen AI"
+    },
+    {
+      "index": 195,
+      "name": "Shayak Bhadraray",
+      "email": "bhadraray.s@northeastern.edu",
+      "userDetails": "Graduate Research Assistant @ NEU | Ex - Orangewood Labs | Ex - IISC | Ex - IIITH"
+    },
+    {
+      "index": 196,
+      "name": "Vishwadeepsinh Makwana",
+      "email": "makwana.vi@northeastern.edu",
+      "userDetails": "Actively Seeking Fall’24 Co-Op and Internship | Data Scientist | Passionate about Machine Learning | Master's Student in AI at Northeastern University"
+    },
+    {
+      "index": 197,
+      "name": "Sanjay Prabhakar",
+      "email": "prabhakar.sa@northeastern.edu",
+      "userDetails": "MS in Artificial Intelligence @Northeastern University"
+    },
+    {
+      "index": 198,
+      "name": "Sabita Kumari",
+      "email": "kumari.sa@northeastern.edu",
+      "userDetails": "Seeking Summer '24 internship | MSCS @Northeastern | Software Engineer | Java | React | Web Development"
+    },
+    {
+      "index": 199,
+      "name": "Saanidhya Vats",
+      "email": "vats.saa@northeastern.edu",
+      "userDetails": "Research Assistant @ Northeastern University | NLP, Computer Vision"
+    },
+    {
+      "index": 200,
+      "name": "Anirudh Ravikumar",
+      "email": "ar16847@usc.edu",
+      "userDetails": "MS CS at University of Southern California | MLE at Graphene AI"
+    },
+    {
+      "index": 201,
+      "name": "Julia Epshtein",
+      "email": "jepshtein@umass.edu",
+      "userDetails": "Computational Intern @ DaCapo | Break Through Tech Fellow @ MIT | Former SWE Research Intern @ UC San Diego | CS & Math @ UMass Amherst"
+    },
+    {
+      "index": 202,
+      "name": "Tal Globus",
+      "email": "network@talglobus.com",
+      "userDetails": "Building tools to make companies better, and humbled daily by the incredible team I'm doing it with"
+    },
+    {
+      "index": 203,
+      "name": "Sukanya Nag",
+      "email": "nag.su@northeastern.edu",
+      "userDetails": "Software Engineer Intern @ IpserLab | MS CS Student @ Northeastern University"
+    },
+    {
+      "index": 204,
+      "name": "Aaron Moffatt",
+      "email": "aaron@immersionanalytics.com",
+      "userDetails": "CTO and creator of super-unsecret spy tools"
+    },
+    {
+      "index": 205,
+      "name": "Shuvam C.",
+      "email": "shuvamch@buffalo.edu",
+      "userDetails": "Data Analyst | Tableau | SQL | Excel"
+    },
+    {
+      "index": 206,
+      "name": "Rohit Jadhav",
+      "email": "rohitj1177@gmail.com",
+      "userDetails": "Product Manager | Driving User Engagement and Business Growth through Innovative Product Solutions | Product Marketing and GTM | Fin-tech"
+    },
+    {
+      "index": 207,
+      "name": "Anirudh Singh",
+      "email": "ansingh@bu.edu",
+      "userDetails": "Junior Computer Engineering Major"
+    },
+    {
+      "index": 208,
+      "name": "Anvi Jain",
+      "email": "jain.anv@northeastern.edu",
+      "userDetails": "Grad Student @ Northeastern University | Data Science | Machine Learning | Actively Looking for Full-Time roles Starting May 2024"
+    },
+    {
+      "index": 209,
+      "name": "Nishtha S.",
+      "email": "sawhney.n@northeastern.edu",
+      "userDetails": "MSCS Student Seeking Co-op & Internship Opportunities in Cutting-Edge Tech"
+    },
+    {
+      "index": 210,
+      "name": "PUNITH M N",
+      "email": "makavalliningappa.p@northeastern.edu",
+      "userDetails": "Technical Consultant at Blue Yonder(Panasonic) | Supply Chain"
+    },
+    {
+      "index": 211,
+      "name": "Manju Bhargavi Sudanagunta",
+      "email": "msudanag@asu.edu",
+      "userDetails": "MS CSE @ ASU | Ex-Wipro (Software Engineer)"
+    },
+    {
+      "index": 212,
+      "name": "Sai Goutham Goli",
+      "email": "goli.sa@northeastern.edu",
+      "userDetails": "Actively looking for Full-Time Opportunities || Graduate Student @Northeastern University || Passionate Data Scientist || Transforming Insights into Action || ML Engineer"
+    },
+    {
+      "index": 213,
+      "name": "Brendan E.",
+      "email": "Erhardbr@gmail.com",
+      "userDetails": "Global Technology Growth investor | Portfolio Analyst at Columbia Threadneedle Investments, US"
+    },
+    {
+      "index": 214,
+      "name": "Anshi Mittal",
+      "email": "anshimit@bu.edu",
+      "userDetails": "Junior at Boston University studying at The School of Computing and Data Sciences"
+    },
+    {
+      "index": 215,
+      "name": "Ryan Nie",
+      "email": "ryanznie@bu.edu",
+      "userDetails": "Data Scientist / Machine Learning Eng | prev. Microsoft, StateStreet | Physics + Stats @ BostonU | MS Analytics @ Georgia Tech"
+    }
+  ]
+]

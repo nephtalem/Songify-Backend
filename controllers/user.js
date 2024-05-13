@@ -12,9 +12,9 @@ export const generatePdf = async (req, res, next) => {
       let css;
     
       if(html){
-        if(template == 1){
+        if(template === 1){
         css = fs.readFileSync('template1.css', 'utf-8');
-        }else if(template == 2)
+        }else if(template === 2)
         {
         css = fs.readFileSync('template2.css', 'utf-8');
         }
@@ -32,13 +32,16 @@ export const generatePdf = async (req, res, next) => {
             </body>
           </html>
         `;
-        const browser = await puppeteer.launch({
-          executablePath: process.env.PUPPETEER_EXECUTABLE_PATH? process.env.PUPPETEER_EXECUTABLE_PATH : false,
+        console.log(html1)
+        const browser = await puppeteer.launch(
+          {
+          // executablePath: process.env.PUPPETEER_EXECUTABLE_PATH? process.env.PUPPETEER_EXECUTABLE_PATH : false,
           args : [
             '--no-sandbox',
-            // '--disable-setuid-sandbox'
+            '--disable-setuid-sandbox'
           ]
-        });
+        }
+      );
   
         // Create a new page
         const page = await browser.newPage();

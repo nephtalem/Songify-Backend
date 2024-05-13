@@ -66,27 +66,92 @@
        width: 90%;
        margin: 10px auto;
    }
+  
+	
+   .temp1 h1, h2, h3{
+	  margin: 0;
+	  color: #000;
+	}
+	
+
+  .temp1 ul{
+	display: list-item;
+	list-style: none;
+	margin: 1px 12px;
+	padding: 0;
+  }
+ .temp1 li{
+	list-style: inside;
+  }
+  .temp1 p{
+	margin: 0;
+  }
+
+  
+  .temp1-inner{
+	/* width: var(--page-width) !important;
+	height: var(--page-height) !important; */
+	border: 1px solid #d8d6d4;
+	border-radius: 3px;
+	height: 100%;
+	display: flex;
+  }
+	
+   .temp1-container {
+	   width: 90%;
+	   margin: 10px auto;
+   }
    .temp1-header {
-       text-align: center;
+	   text-align: center;
    }
    .temp1-section-title {
-       font-weight: bold;
-       text-decoration: underline;
+	   font-weight: bold;
+	   text-decoration: underline;
    }
    .temp1-work-experience, .temp1-project-experience, .temp1-leadership-experience, .temp1-education {
-       margin-top: 10px;
-       border-top: 2px solid black;
-
+	   margin-top: 10px;
+	   border-top: 2px solid black;
    }
+   .temp1-blocks{
+container-type: inline-size;
+  }
+  .temp1-section-title{
+	container-type: inline-size;
+}
+.temp1-header{
+	container-type: inline-size;
+}
+.temp1-header h1{
+	font-size: 4.2cqw !important;
+}
+.temp1-header p{
+	font-size: 2.3cqw !important;
+}
+.temp1 ul{
+	container-type: inline-size;
+}
+.temp1 li{
+	font-size: 2.2cqw !important;
+}
+.temp1-education-flex p{
+	font-size: 2.2cqw !important;
+}
+  .temp1-blocks span{
+    font-size: 2.2cqw !important;
+  }
+  .temp1-section-title h3{
+    font-size: 2.3cqw !important;
+  }
    .temp1-job-title {
-       font-weight: bold;
+	   font-weight: bold;
    }
    .temp1-job-duration {
-       float: right;
+	   float: right;
    }
    .temp1-education-flex {
-    display: flex;
-    justify-content: space-between;
+	display: flex;
+	justify-content: space-between;
+	container-type: inline-size;
 }
 
 

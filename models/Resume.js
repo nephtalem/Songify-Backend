@@ -18,6 +18,10 @@ const ResumeSchema = new Schema(
     Profile: {
       type: Schema.Types.Mixed, 
     },
+    Other: {
+      type: [Schema.Types.Mixed], 
+      default:[],
+    },
     Education: {
       type: Schema.Types.Mixed,
     },
