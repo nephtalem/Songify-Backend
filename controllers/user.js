@@ -35,7 +35,7 @@ export const generatePdf = async (req, res, next) => {
         console.log(html1)
         const browser = await puppeteer.launch(
           {
-          // executablePath: process.env.PUPPETEER_EXECUTABLE_PATH? process.env.PUPPETEER_EXECUTABLE_PATH : false,
+          executablePath: process.env.PUPPETEER_EXECUTABLE_PATH? process.env.PUPPETEER_EXECUTABLE_PATH : false,
           args : [
             '--no-sandbox',
             '--disable-setuid-sandbox'
