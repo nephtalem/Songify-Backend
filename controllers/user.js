@@ -43,21 +43,23 @@ export const generatePdf = async (req, res, next) => {
         }
       );
   
-        // Create a new page
+  
         const page = await browser.newPage();
+
+        // Load the HTML content
+        await page.goto(`https://dashboard.resumez.tech/resume1`, { waitUntil: 'domcontentloaded' });
       
-        // Website URL to export as pdf
-        // const html = fs.readFileSync('index2.html', 'utf-8');
-        await page.setContent(html1, { waitUntil: 'domcontentloaded' });
       
-        //To reflect CSS used for screens instead of print
-        // await page.emulateMediaType('screen');
+        // await page.setContent(html1, { waitUntil: 'domcontentloaded' });
       
-      // Downlaod the PDF
+   
+        await page.emulateMediaType('screen');
+      
+
         const pdf = await page.pdf({
           // path: 'result.pdf',
-          // margin: { top: '10px', right: '50px', bottom: '10px', left: '50px' },
-          // printBackground: true,
+          margin: { top: '0px', right: '0px', bottom: '0px', left: '0px' },
+          printBackground: true,
           format: 'A4',
         });
       
