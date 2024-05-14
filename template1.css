@@ -8,6 +8,7 @@
   box-sizing: border-box;
 }
 :root{
+  font-family: "Times New Roman", Times, serif !important;
   --page-width: 8.5in;
   --page-height: 11in;
   --main-width: 6.4in;
@@ -131,29 +132,38 @@ container-type: inline-size;
   container-type: inline-size;
 } */
 .temp1-header h1{
+  font-family: "Times New Roman", Times, serif !important;
 font-size: 23px !important;
 }
 .temp1-header p{
+  font-family: "Times New Roman", Times, serif !important;
 font-size: 14px !important;
 }
 .temp1 li{
+  font-family: "Times New Roman", Times, serif !important;
 font-size: 13px !important;
 }
 .temp1-education-flex p{
+  font-family: "Times New Roman", Times, serif !important;
 font-size: 14px !important;
   /* font-weight: 800; */
 }
 .temp1-blocks span{
+  font-family: "Times New Roman", Times, serif !important;
   font-size: 14px !important;
 }
 .temp1-section-title h3{
+  font-family: "Times New Roman", Times, serif !important;
   font-weight: bold;
   font-size: 14px !important;
 }
+
  .temp1-job-title {
+  font-family: "Times New Roman", Times, serif !important;
    font-weight: bold;
  }
  .temp1-education-text{
+  font-family: "Times New Roman", Times, serif !important;
   font-size: 14px;
  }
  .temp1-job-duration {

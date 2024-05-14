@@ -73,7 +73,8 @@ puppeteer.use(StealthPlugin());
   });
   const page = await browser.newPage();
 
-  const url = "https://www.linkedin.com/posts/avnibarman_should-i-share-the-cold-email-template-that-activity-7149112327756275713-kDdf?utm_source=share&utm_medium=member_desktop"
+  const url = "https://www.linkedin.com/posts/simran-sachdeva-b88258222_hiring-jobs-internships-activity-7187464587871453184-ONiL?utm_source=share&utm_medium=member_desktop"
+  // "https://www.linkedin.com/posts/avnibarman_should-i-share-the-cold-email-template-that-activity-7149112327756275713-kDdf?utm_source=share&utm_medium=member_desktop"
   // "https://www.linkedin.com/posts/mercor-ai_i-need-to-hire-300-remote-software-engineers-activity-7159984706262908930-06fn?utm_source=share&utm_medium=member_desktop"
   // "https://www.linkedin.com/posts/abigaylepeterson_internships-jobs-career-activity-7156375203957141505-iWRq?utm_source=share&utm_medium=member_desktop"
   // 'https://www.linkedin.com/posts/luke-geel_boston-ai-artificialintelligence-activity-7183174561041928192-YeZK/?utm_source=share&utm_medium=member_desktop'
@@ -87,7 +88,8 @@ puppeteer.use(StealthPlugin());
     let i = 0;
     while (true) {
       const loadMoreButton = await page.$('.comments-comments-list__load-more-comments-button');
-      if (!loadMoreButton || i==70) break; // Break the loop if the button is not found
+      if (!loadMoreButton ) break; // Break the loop if the button is not found
+      // || i==70
       await loadMoreButton.click();
       await setTimeout(3000)
       i++;
