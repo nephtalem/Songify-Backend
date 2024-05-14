@@ -1,20 +1,13 @@
-@page{
-  size: letter portrait;
-  margin: 0;
-}
-*{
-  box-sizing: border-box;
-}
+
 :root{
   --page-width: 8.5in;
-  --page-height: 11in;
+  --page-height: 12in;
   --main-width: 6.4in;
   --sidebar-width: calc(var(--page-width) - var(--main-width));
   --decorator-horizontal-margin: 0.2in;
 
   --sidebar-horizontal-padding: 0.2in;
 
-  /* XXX: using px for very good precision control */
   --decorator-outer-offset-top: 10px;
   --decorator-outer-offset-left: -5.5px;
   --decorator-border-width: 1px;
@@ -59,20 +52,19 @@ margin: 0;
   height: var(--page-height) !important;
   font-family:"Poppins",sans-serif;
   overflow: hidden;
+
 }
 
 .template2-inner{
-  width: var(--page-width) !important;
-  height: var(--page-height) !important;
-  height: 100%;
+  height: 100% !important;
   display: flex;
 }
 
 
 .template2-inner{
-  height: 100%;
+
   border: 1px solid #d8d6d4;
-  container-type: inline-size;
+
 }
   
  .template2 h1, h2, h3{
@@ -128,27 +120,6 @@ margin: 0;
     list-style-type: none;
   }
 
-  :root{
-    --page-width: 100%;
-    --main-width: 70%;
-    --sidebar-width: 30%;
-    --decorator-horizontal-margin: 0.2in;
-  
-    --sidebar-horizontal-padding: 0.2in;
-  
-    /* XXX: using px for very good precision control */
-    --decorator-outer-offset-top: 10px;
-    --decorator-outer-offset-left: -5.5px;
-    --decorator-border-width: 1px;
-    --decorator-outer-dim: 9px;
-    --decorator-border: 1px solid #ccc;
-  
-    --row-blocks-padding-top: 5pt;
-    --date-block-width: 0.6in;
-  
-    --main-blocks-title-icon-offset-left: -19pt;
-  }
-  
   .temp2-main{
     float: left;
     width: var(--main-width);
