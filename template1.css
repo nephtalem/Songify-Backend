@@ -73,6 +73,7 @@ container-type: inline-size;
 	container-type: inline-size;
 }
 .temp1-header h1{
+  text-transform: uppercase;
 	font-size: 4cqw !important;
 }
 .temp1-header p{
