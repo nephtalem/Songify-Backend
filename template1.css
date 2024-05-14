@@ -126,25 +126,25 @@ container-type: inline-size;
 	container-type: inline-size;
 }
 .temp1-header h1{
-	font-size: 4.2cqw !important;
+	font-size: 4cqw !important;
 }
 .temp1-header p{
-	font-size: 2.3cqw !important;
+	font-size: 2cqw !important;
 }
 .temp1 ul{
 	container-type: inline-size;
 }
 .temp1 li{
-	font-size: 2.2cqw !important;
+	font-size: 2cqw !important;
 }
 .temp1-education-flex p{
-	font-size: 2.2cqw !important;
+	font-size:cqw !important;
 }
   .temp1-blocks span{
-    font-size: 2.2cqw !important;
+    font-size: 2cqw !important;
   }
   .temp1-section-title h3{
-    font-size: 2.3cqw !important;
+    font-size: 2cqw !important;
   }
    .temp1-job-title {
 	   font-weight: bold;
