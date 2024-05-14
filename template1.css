@@ -2,6 +2,7 @@
 @page{
     size: letter portrait;
     margin: 0;
+    font-family: "Times New Roman", Times, serif !important;
   }
   *{
     box-sizing: border-box;
@@ -32,7 +33,7 @@
     height: var(--page-height) !important;
     margin: 0;
     font-family: "Times New Roman", Times, serif !important;
-    font-weight: 300;
+    font-weight: 280;
     line-height: 1.1;
     color: #444;
     hyphens: auto;
@@ -45,11 +46,14 @@
   }
   li{
     list-style: inside;
+    font-family: "Times New Roman", Times, serif !important;
   }
   p{
     margin: 0;
+    font-family: "Times New Roman", Times, serif !important;
   }
   .temp1{
+    font-family: "Times New Roman", Times, serif !important;
     width: var(--page-width) !important;
     height: var(--page-height) !important;
     overflow: hidden;
