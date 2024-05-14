@@ -51,13 +51,13 @@ export const generatePdf = async (req, res, next) => {
         await page.setContent(html1, { waitUntil: 'domcontentloaded' });
       
         //To reflect CSS used for screens instead of print
-        await page.emulateMediaType('screen');
+        // await page.emulateMediaType('screen');
       
       // Downlaod the PDF
         const pdf = await page.pdf({
           // path: 'result.pdf',
-          margin: { top: '10px', right: '50px', bottom: '10px', left: '50px' },
-          printBackground: true,
+          // margin: { top: '10px', right: '50px', bottom: '10px', left: '50px' },
+          // printBackground: true,
           format: 'A4',
         });
       
