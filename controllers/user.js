@@ -47,10 +47,10 @@ export const generatePdf = async (req, res, next) => {
         const page = await browser.newPage();
 
         // Load the HTML content
-        await page.goto(`https://dashboard.resumez.tech/resume1`, { waitUntil: 'domcontentloaded' });
+        // await page.goto(`https://dashboard.resumez.tech/resume1`, { waitUntil: 'domcontentloaded' });
       
       
-        // await page.setContent(html1, { waitUntil: 'domcontentloaded' });
+        await page.setContent(html1, { waitUntil: 'domcontentloaded' });
       
    
         await page.emulateMediaType('screen');
