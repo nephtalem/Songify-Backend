@@ -56,7 +56,7 @@ export const generatePdf = async (req, res, next) => {
       // Downlaod the PDF
         const pdf = await page.pdf({
           // path: 'result.pdf',
-          margin: { top: '0px', right: '50px', bottom: '0px', left: '50px' },
+          margin: { top: '10px', right: '50px', bottom: '10px', left: '50px' },
           printBackground: true,
           format: 'A4',
         });
