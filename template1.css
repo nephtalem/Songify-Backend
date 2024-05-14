@@ -48,14 +48,14 @@ ul{
 }
 li{
   list-style: inside;
-  font-family: "Times New Roman", Times, serif !important;
+
 }
 p{
   margin: 0;
-  font-family: "Times New Roman", Times, serif !important;
+
 }
 .temp1{
-  font-family: "Times New Roman", Times, serif !important;
+ 
   width: var(--page-width) !important;
   height: var(--page-height) !important;
   overflow: hidden;
@@ -66,6 +66,10 @@ p{
   height: var(--page-height) !important;
   height: 100%;
   display: flex;
+  border: 1px solid #d8d6d4;
+border-radius: 3px;
+
+
 }
   
  .temp1-container {
@@ -94,14 +98,6 @@ margin: 0;
 }
 
 
-.temp1-inner{
-
-border: 1px solid #d8d6d4;
-border-radius: 3px;
-height: 100%;
-display: flex;
-}
-
  .temp1-container {
    width: 90%;
    margin: 10px auto;
@@ -119,38 +115,30 @@ display: flex;
  }
 
 .temp1-header h1{
-  font-family: "Times New Roman", Times, serif !important;
 font-size: 23px !important;
 }
 .temp1-header p{
-  font-family: "Times New Roman", Times, serif !important;
 font-size: 14px !important;
 }
 .temp1 li{
-  font-family: "Times New Roman", Times, serif !important;
 font-size: 13px !important;
 }
 .temp1-education-flex p{
-  font-family: "Times New Roman", Times, serif !important;
 font-size: 14px !important;
 
 }
 .temp1-blocks span{
-  font-family: "Times New Roman", Times, serif !important;
   font-size: 14px !important;
 }
 .temp1-section-title h3{
-  font-family: "Times New Roman", Times, serif !important;
   font-weight: bold;
   font-size: 14px !important;
 }
 
  .temp1-job-title {
-  font-family: "Times New Roman", Times, serif !important;
    font-weight: bold;
  }
  .temp1-education-text{
-  font-family: "Times New Roman", Times, serif !important;
   font-size: 14px;
  }
  .temp1-job-duration {
