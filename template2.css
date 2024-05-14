@@ -30,8 +30,8 @@ body{
   width: var(--page-width) !important;
   height: var(--page-height) !important;
   margin: 0;
-  /* font-family:"Poppins",sans-serif; */
-  font-family: "Times New Roman", Times, serif !important;
+  font-family:"Poppins",sans-serif;
+  /* font-family: "Times New Roman", Times, serif !important; */
   font-weight: 300;
   line-height: 1.3;
   color: #444;
@@ -40,8 +40,8 @@ body{
 .template2{
   width: var(--page-width) !important;
   height: var(--page-height) !important;
-  /* font-family:"Poppins",sans-serif; */
-  font-family: "Times New Roman", Times, serif !important;
+  font-family:"Poppins",sans-serif;
+  /* font-family: "Times New Roman", Times, serif !important; */
   overflow: hidden;
 }
 
