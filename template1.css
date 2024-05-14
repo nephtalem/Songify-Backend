@@ -2,13 +2,12 @@
 @page{
   size: letter portrait;
   margin: 0;
-  font-family: "Times New Roman", Times, serif !important;
+  
 }
 *{
   box-sizing: border-box;
 }
 :root{
-  font-family: "Times New Roman", Times, serif !important;
   --page-width: 8.5in;
   --page-height: 11in;
   --main-width: 6.4in;
@@ -17,7 +16,7 @@
 
   --sidebar-horizontal-padding: 0.2in;
 
-  /* XXX: using px for very good precision control */
+
   --decorator-outer-offset-top: 10px;
   --decorator-outer-offset-left: -5.5px;
   --decorator-border-width: 1px;
@@ -96,8 +95,7 @@ margin: 0;
 
 
 .temp1-inner{
-/* width: var(--page-width) !important;
-height: var(--page-height) !important; */
+
 border: 1px solid #d8d6d4;
 border-radius: 3px;
 height: 100%;
@@ -119,18 +117,7 @@ display: flex;
    margin-top: 10px;
    border-top: 2px solid black;
  }
- /* .temp1-blocks{
-container-type: inline-size;
-}
-.temp1-section-title{
-container-type: inline-size;
-}
-.temp1-header{
-container-type: inline-size;
-} */
-/* .temp1 ul{
-  container-type: inline-size;
-} */
+
 .temp1-header h1{
   font-family: "Times New Roman", Times, serif !important;
 font-size: 23px !important;
@@ -146,7 +133,7 @@ font-size: 13px !important;
 .temp1-education-flex p{
   font-family: "Times New Roman", Times, serif !important;
 font-size: 14px !important;
-  /* font-weight: 800; */
+
 }
 .temp1-blocks span{
   font-family: "Times New Roman", Times, serif !important;
