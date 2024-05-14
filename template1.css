@@ -33,8 +33,10 @@ body{
   height: var(--page-height) !important;
   margin: 0;
   font-family: "Times New Roman", Times, serif !important;
-  font-weight: 280;
-  line-height: 1.1;
+  font-weight: 200;
+  line-height: 1.15;
+  font-size: 14px;
+
   color: #444;
   hyphens: auto;
 }
@@ -142,13 +144,17 @@ font-size: 14px !important;
   /* font-weight: 800; */
 }
 .temp1-blocks span{
-  font-size: 10px !important;
+  font-size: 14px !important;
 }
 .temp1-section-title h3{
-  font-size: 1px !important;
+  font-weight: bold;
+  font-size: 14px !important;
 }
  .temp1-job-title {
    font-weight: bold;
+ }
+ .temp1-education-text{
+  font-size: 14px;
  }
  .temp1-job-duration {
    float: right;
