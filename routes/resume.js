@@ -5,6 +5,7 @@ import {
   getResume,
   fetchUsersResumes,
   updateResume,
+  AIupdateResume,
 } from "../controllers/resume.js";
 import {
   verifyAdmin,
@@ -19,6 +20,8 @@ router.post("/create", addResume);
 
 // //GET ALL
 router.get("/getResumes", getResumes);
+router.post("/AiGenerate", AIupdateResume);
+
 router.post("/getUsersResumes/:id", fetchUsersResumes);
 router.get("/getResume", getResume);
 

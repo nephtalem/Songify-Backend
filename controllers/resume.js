@@ -1,5 +1,6 @@
 import Resume from "../models/Resume.js";
 import User from "../models/User.js";
+import OpenAI from 'openai'
 import { customMail } from "./mailer.js";
 
 export const updateResume = async (req, res, next) => {
@@ -19,6 +20,81 @@ export const updateResume = async (req, res, next) => {
     } else {
       res.status(200).json({ status: "Error", data: "Not authorized" });
     }
+  } catch (err) {
+    next(err);
+  }
+};
+
+export const AIupdateResume = async (req, res, next) => {
+  const openai = new OpenAI();
+  const { description,userId } = req.body;
+
+
+  // const description = undefined
+  const messages = [
+    {
+        "role": "system",
+        "content": `You are a resume maker. You will be given a job requerment details,
+         you should be able to take the key words and give 10 skills in the form 
+         Skills: skill number one, skill number 2 separated by comma. Don't take the works literally, 
+         instead change as people write in there resumes. Mkake the skills specific,
+          example programming languages. remember each skill sould not have more than three words `,
+    }
+];
+messages.push({
+  "role": "user",
+  "content": `Job description: ${description}`,
+});
+let didAnswer=true
+let skills
+let i=0
+  try {
+    let doc = await User.findById(userId);
+    let freeTrial = doc.freeTrial;
+    if(!freeTrial){
+       doc = await User.findOneAndUpdate(
+        { _id: userId },
+        { $set: {freeTrial:0} },
+        { new: true }
+      );
+      freeTrial = doc.freeTrial;
+    }
+    if(freeTrial <=10){
+    while(didAnswer){
+  
+    const response = await openai.chat.completions.create({
+      model: "gpt-3.5-turbo",
+      max_tokens: 1024,
+      messages: messages,
+  });
+
+  const message = response.choices[0].message;
+  const message_text = message.content;
+
+  const myArray = message_text.split("Skills: ");
+  skills = myArray[1]
+
+  if(skills){
+    didAnswer = false
+  }else{
+    i++
+    if(i>=2) {
+      console.log("Try",i)
+      didAnswer = true
+      res.status(201).send({ status: "error", data:"unable to ask the AI, Please modify your prompt" });
+    }
+  }
+}
+await User.findOneAndUpdate(
+  { _id: userId },
+  { $set: {freeTrial:(freeTrial+1)} },
+  { new: true }
+);
+res.status(201).send({ status: "Success", data:skills });
+    }else{
+      res.status(201).send({ status: "error", data:"Your Trial Ended" });
+    }
+
   } catch (err) {
     next(err);
   }

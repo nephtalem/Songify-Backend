@@ -6,8 +6,10 @@ const UserSchema = new mongoose.Schema(
     },
     last_name: {
       type: String,
-  
     },  
+    freeTrial: {
+      type: Number,
+    },
     stripe_customer_id:{
       type: String,
     },

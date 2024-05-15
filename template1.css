@@ -108,13 +108,15 @@ container-type: inline-size;
 
 
 .temp1-skills-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Creates 3 equal columns */
+  gap: 5px; /* Adds space between the items */
 }
 
-.temp1-skills-item {
-  width: 45%;
-  margin-left: 3px;
- 
+  
+  
+
+	  .temp1-skills-item {
+	text-align: center;
+	width: fit-content;
 }
