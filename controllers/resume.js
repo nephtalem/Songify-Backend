@@ -37,8 +37,8 @@ export const AIupdateResume = async (req, res, next) => {
         "content": `You are a resume maker. You will be given a job requerment details,
          you should be able to take the key words and give 10 skills in the form 
          Skills: skill number one, skill number 2 separated by comma. Don't take the works literally, 
-         instead change as people write in there resumes. Mkake the skills specific,
-          example programming languages. remember each skill sould not have more than three words `,
+         instead change as people write in there resumes. Make the skills specific.
+          Remember each skill sould not have more than three words. Separate them by a comma. `,
     }
 ];
 messages.push({
