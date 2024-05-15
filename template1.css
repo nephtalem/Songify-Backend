@@ -100,19 +100,17 @@ container-type: inline-size;
    .temp1-job-duration {
 	   float: right;
    }
-   .temp1-education-flex {
-	display: flex;
-	justify-content: space-between;
-	container-type: inline-size;
-}
-
-
-.temp1-skills-container {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr); /* Creates 3 equal columns */
-  gap: 5px; /* Adds space between the items */
-}
-
+   .temp1-skills-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Creates 3 equal columns */
+    gap: 5px; /* Adds space between the items */
+    container-type: inline-size;
+    }
+    
+      .temp1-skills-item {
+        font-size: 1.6cqw !important;
+      width: fit-content;
+    }
   
   
 
