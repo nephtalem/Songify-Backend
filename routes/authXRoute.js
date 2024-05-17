@@ -2,7 +2,7 @@ import express from "express";
 import askgpt from "../scraper.js";
 import { TwitterApi } from "twitter-api-v2";
 import cron from 'node-cron';
-import XToken from "../Models/XToken.js";
+import XToken from "../models/XToken.js";
 import OpenAI from "openai";
 import "dotenv/config";
 import User from "../models/User.js";
