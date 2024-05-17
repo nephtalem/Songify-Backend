@@ -98,7 +98,7 @@ const postUrl = "https://api.linkedin.com/v2/ugcPosts"
 // Route for posting on LinkedIn
 router.get("/post", async (req, res) => {
   const { accessToken, message } = req.body;
-  const post = "First post using Galactus.io";
+  const post = "Second Post";
   
 
   try {

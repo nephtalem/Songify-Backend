@@ -1,0 +1,4692 @@
+[
+  [
+    {
+      "firstname": "Suganeswar",
+      "lastname": "Engineer",
+      "index": 1,
+      "name": "Suganeswar S - AWS Data Engineer",
+      "email": "suganeswar2000@gmail.com",
+      "userDetails": "Masters Student @ Pace University | AWS Certified Developer – Associate"
+    },
+    {
+      "firstname": "Nazni",
+      "lastname": "Parveen",
+      "index": 2,
+      "name": "Nazni Parveen",
+      "email": "naznikhatooon321@gmail.com",
+      "userDetails": "Learner || Enthusiastic Developer || Passionate about aesthetics and UI designs."
+    },
+    {
+      "firstname": "Tirth",
+      "lastname": "Patel",
+      "index": 3,
+      "name": "Tirth Patel",
+      "email": "tirth.ampatel@gmail.com",
+      "userDetails": "Student at Temple University"
+    },
+    {
+      "firstname": "Omar",
+      "lastname": "Akbar",
+      "index": 4,
+      "name": "Omar Akbar",
+      "email": "omarakbar926@gmail.com",
+      "userDetails": "Software Engineer"
+    },
+    {
+      "firstname": "Maithili",
+      "lastname": "Deshmukh",
+      "index": 5,
+      "name": "Maithili Deshmukh",
+      "email": "deshmukh.mai@northeastern.edu",
+      "userDetails": "6+ Years Experienced Professional | Ex - (BIM) Product Manager & (VDC) Project Lead | Driving Strategic outcomes and Scalable Business Plans"
+    },
+    {
+      "firstname": "viveka",
+      "lastname": "gangaraboina",
+      "index": 6,
+      "name": "viveka gangaraboina",
+      "email": "viveka.gangaraboina@gmail.com",
+      "userDetails": "Azure Data Analyst with 2 Years at TCS | Master's Student in University of North Texas"
+    },
+    {
+      "firstname": "Madina",
+      "lastname": "Nasriddinova",
+      "index": 7,
+      "name": "Madina Nasriddinova",
+      "email": "madina@brandeis.edu",
+      "userDetails": "B.S. in C.S. @ Brandeis | SWE Intern @ ENACT | Full Stack Developer"
+    },
+    {
+      "firstname": "Ria",
+      "lastname": "Chittargi",
+      "index": 8,
+      "name": "Ria Chittargi",
+      "email": "riakchittargi@gmail.com",
+      "userDetails": "Software Quality Tester Analyst Intern @ Clinical Ink | Senior Campus Leader at Apple  | Apple Pathways Alliance Scholar  | Information Science & Technology Student @ Temple University"
+    },
+    {
+      "firstname": "Claudia",
+      "lastname": "Tang",
+      "index": 9,
+      "name": "Claudia Tang",
+      "email": "ct3008@barnard.edu",
+      "userDetails": "Student at Barnard College"
+    },
+    {
+      "firstname": "Adithya",
+      "lastname": "Kodamanchili",
+      "index": 10,
+      "name": "Adithya Sharma Kodamanchili",
+      "email": "adithy@umich.edu",
+      "userDetails": "Student at University of Michigan-Dearborn"
+    },
+    {
+      "firstname": "Pranav",
+      "lastname": "Powar",
+      "index": 11,
+      "name": "Pranav Powar",
+      "email": "ppowar_be21@thapar.edu",
+      "userDetails": "Student at Thapar Institute of Engineering & Technology"
+    },
+    {
+      "firstname": "YOGESH",
+      "lastname": "-",
+      "index": 12,
+      "name": "YOGESH -",
+      "email": "yogi70155@gmail.com",
+      "userDetails": "Data Analyst |Ex Intern@Pregrad| NIT KURUKSHETRA'24|Secretary Literary & Debating club|"
+    },
+    {
+      "firstname": "Vidit",
+      "lastname": "Jain",
+      "index": 13,
+      "name": "Vidit Jain",
+      "email": "viditjain2005@gmail.com",
+      "userDetails": "Computer Science + Business @ UC Irvine"
+    },
+    {
+      "firstname": "Omar",
+      "lastname": "Kashmar",
+      "index": 14,
+      "name": "Omar Kashmar",
+      "email": "Omar.b.kashmar.iitb@gmail.com",
+      "userDetails": "Mechatronics Engineer || MTech Student, IIT Bombay | Aerospace Engineering ||Control ||Aerospace ||Robotics || Navigation || Ml"
+    },
+    {
+      "firstname": "Monisha",
+      "lastname": "Patro",
+      "index": 15,
+      "name": "Monisha Patro",
+      "email": "monishaapatro@gmail.com",
+      "userDetails": "Data Science | Python | Tableau | NLP | SQL | AWS Certified"
+    },
+    {
+      "firstname": "Mirza",
+      "lastname": "Baig",
+      "index": 16,
+      "name": "Mirza Baig",
+      "email": "mirzab.ug21.ec@nitp.ac.in",
+      "userDetails": "DSA Enthusiast || FUll Stack || AI/ML || Joint-secretary (Expresso) || Industrial- Intern AI/ML @MTE || Campus Ambassador Placewit || 450+ DSA Questions || Intern @Unschool"
+    },
+    {
+      "firstname": "Shivangi",
+      "lastname": "Sharma",
+      "index": 17,
+      "name": "Shivangi Sharma",
+      "email": "Sharma.sivang@northeastern.edu",
+      "userDetails": "Actively seeking Summer internship 2024 | Masters in Analytics (Northeastern University) | IES MCRC - Alumni | IIM-I Alumni | Ex- Research Analyst and Journalist at ION group | Ex- ESG Analyst at Integreon"
+    },
+    {
+      "firstname": "Shivoham",
+      "lastname": "Angal",
+      "index": 18,
+      "name": "Shivoham Angal",
+      "email": "angal@usc.edu",
+      "userDetails": "MS CS @ USC | Actively looking for Fall 2024 Co-ops | GSoC '22 @CDLI | Full Stack Developer"
+    },
+    {
+      "firstname": "Deepika",
+      "lastname": "Velu",
+      "index": 19,
+      "name": "Deepika S Velu",
+      "email": "dsingarivelu@umass.edu",
+      "userDetails": "Actively seeking Summer'24 internships | MSCS Grad Student @Umass Amherst| Ex-Software Engineer @ TCS | DevSecOps | Java | Google Cloud Platform | Web Developer"
+    },
+    {
+      "firstname": "Christine",
+      "lastname": "Liu",
+      "index": 20,
+      "name": "Christine Liu",
+      "email": "Christineliu111005@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Kunal",
+      "lastname": "Chahal",
+      "index": 21,
+      "name": "Kunal Chahal",
+      "email": "Kunalchahal1203@gmail.com",
+      "userDetails": "Bachelors of Arts in Psychology Honours, York University"
+    },
+    {
+      "firstname": "Shriyanshu",
+      "lastname": "Kumar",
+      "index": 22,
+      "name": "Shriyanshu Kumar",
+      "email": "Shriyanshu.sinha.aub@gmail.com",
+      "userDetails": "EE IIT KGP || Backend Developer @Ajastos.Ltd || Cloud Computing Intern @GOI || Specialist @Codeforces || Forbes India || Finalist KPMG Ideation Challenge || Finalist Smart India Hackathon || AGV"
+    },
+    {
+      "firstname": "Naresh",
+      "lastname": "Nunsavath",
+      "index": 23,
+      "name": "Naresh Nunsavath",
+      "email": "nnunsavath3833@muleriders.saumag.edu",
+      "userDetails": "Actively looking for full-time opportunities as an Azure Data Engineer | Currently 2.5 years of experience as a Java FSD | Graduate Student at Southern Arkansas University | Ex-Virtusa"
+    },
+    {
+      "firstname": "Divya",
+      "lastname": "Hegde",
+      "index": 24,
+      "name": "Divya Hegde",
+      "email": "d.hegde@northeastern.edu",
+      "userDetails": "MS in Data Science student at NEU, currently seeking Summer 2024 internship opportunities| Ex-Salesforce"
+    },
+    {
+      "firstname": "Shivansh",
+      "lastname": "Srivastava",
+      "index": 25,
+      "name": "Shivansh Srivastava",
+      "email": "Shivsrivastava6392@gmail.com",
+      "userDetails": "Immediate joiner||Unleashing the Power of Code: Web Wizard Crafting Extraordinary Online Experiences"
+    },
+    {
+      "firstname": "Nishtha",
+      "lastname": "Gupta",
+      "index": 26,
+      "name": "Nishtha Gupta",
+      "email": "Ngupta23@ur.rochester.edu",
+      "userDetails": "Incoming Business Analyst Intern @ Autodesk | STEM MS in Business Analytics | Ex- Business Analyst at Natwest Group"
+    },
+    {
+      "firstname": "Marc",
+      "lastname": "Kleyman",
+      "index": 27,
+      "name": "Marc Kleyman",
+      "email": "Ma.kleyman1@gmail.com",
+      "userDetails": "Student at Rutgers University"
+    },
+    {
+      "firstname": "Diya",
+      "lastname": "Nihalani",
+      "index": 28,
+      "name": "Diya Nihalani",
+      "email": "Diyanihalani19@gmail.com",
+      "userDetails": "Employee Engagement || Employee Relations || Human Resource || Recruitment || Talent Acquisition || Organizational Development || Performance Management || Training and Development"
+    },
+    {
+      "firstname": "Manish",
+      "lastname": "CSM®",
+      "index": 29,
+      "name": "Manish Yadav, CSM®",
+      "email": "Yadav.mani@northeastern.edu",
+      "userDetails": "MS Project Management || Certified Scrum Master || Experienced Project Manager || Agile || AI Enthusiast || Data Analysis"
+    },
+    {
+      "firstname": "Syed",
+      "lastname": "A.",
+      "index": 30,
+      "name": "Syed A.",
+      "email": "Ibadahmed2014@gmail.com",
+      "userDetails": "Bachelor of Science in Supply Chain and Logistics Technology with Customer Service Operations Expertise"
+    },
+    {
+      "firstname": "Kshitiz",
+      "lastname": "Agarwal",
+      "index": 31,
+      "name": "Kshitiz Agarwal",
+      "email": "Kagarwa3@simon.rochester.edu",
+      "userDetails": "Business Developer & Analyst | Simon Vision Consulting | Ex WeMakeScholars | MS in Marketing Analytics(Stem Professional) | Analyst Specialist"
+    },
+    {
+      "firstname": "Islem",
+      "lastname": "Hamzaoui",
+      "index": 32,
+      "name": "Islem Hamzaoui",
+      "email": "Hamzaouiislem47@gmail.com",
+      "userDetails": "Business Analytics & Information Technology student at Tunis Business School-University of Tunis"
+    },
+    {
+      "firstname": "Sarpreet",
+      "lastname": "Singh",
+      "index": 33,
+      "name": "Sarpreet Singh",
+      "email": "Sarpreet.concierge@gmail.com",
+      "userDetails": "Masters in Finance, Passionate about data-driven insights & global markets |SQL| Tableau|"
+    },
+    {
+      "firstname": "Krishna",
+      "lastname": "Dudani",
+      "index": 34,
+      "name": "Krishna Dudani",
+      "email": "Krishna.dudani94@qmail.cuny.edu",
+      "userDetails": "Student at Queens College"
+    },
+    {
+      "firstname": "Archie",
+      "lastname": "Avirati",
+      "index": 35,
+      "name": "Archie Avirati",
+      "email": "Aviratiarchie@gmail.com",
+      "userDetails": "Mentee@JPMC| Mentee@Nomura |Events Head@Shaurya| Governor@TAdS | IIT Kharagpur"
+    },
+    {
+      "firstname": "Rukmini",
+      "lastname": "S",
+      "index": 36,
+      "name": "Rukmini S",
+      "email": "Rukmini.sundaraneedi@gmail.com",
+      "userDetails": "GHC’23|Actively seeking Summer Internships|AWS Certified|MSCS graduate student @University of Florida|Graduate Research Assistant|Software Developer | Ex-Associate Software Developer at Accenture"
+    },
+    {
+      "firstname": "Nicholas",
+      "lastname": "Carter",
+      "index": 37,
+      "name": "Nicholas Carter",
+      "email": "Nicholas.carter@bison.howard.edu",
+      "userDetails": "Sophomore Computer Science Major at Howard University"
+    },
+    {
+      "firstname": "Zubier",
+      "lastname": "Akbar",
+      "index": 38,
+      "name": "Zubier Akbar",
+      "email": "zubiernakbar@gmail.com",
+      "userDetails": "Bachelors of Science in Computer Information Systems"
+    },
+    {
+      "firstname": "Sahil",
+      "lastname": "Shukla",
+      "index": 39,
+      "name": "Sahil Shukla",
+      "email": "sahils3@uw.edu",
+      "userDetails": "Student at University of Washington pursuing a Computer Science Major and a Business minor"
+    },
+    {
+      "firstname": "Swapna",
+      "lastname": "Patel",
+      "index": 40,
+      "name": "Swapna Patel",
+      "email": "Patel.swapn@northeastern.edu",
+      "userDetails": "MS in Health Informatics, Northeastern University | Actively seeking internship opportunities for Summer & Fall 2024 | Data Analyst | SQL | Python | R | Data Visualization | Excel | Visio"
+    },
+    {
+      "firstname": "Prasad",
+      "lastname": "Koli",
+      "index": 41,
+      "name": "Prasad Koli",
+      "email": "Koliprasad2003@gmail.com",
+      "userDetails": "Mechanical Engineer l Electric Vehicle l Event Co-ordinator at EV Club l MIT ADT University l"
+    },
+    {
+      "firstname": "Vincent",
+      "lastname": "Xu",
+      "index": 42,
+      "name": "Vincent Xu",
+      "email": "vincent_xu@brown.edu",
+      "userDetails": "Computer Science @ Brown University"
+    },
+    {
+      "firstname": "Saahas",
+      "lastname": "Buricha",
+      "index": 43,
+      "name": "Saahas Buricha",
+      "email": "sburicha@ucsb.edu",
+      "userDetails": "Software Engineer & Data Science Intern @ Tangelo.ai | Computer Science at UCSB"
+    },
+    {
+      "firstname": "Kavil",
+      "lastname": "Parikh",
+      "index": 44,
+      "name": "Kavil Parikh",
+      "email": "parikhkavil@gmail.com",
+      "userDetails": "Software Developer | Data Analyst | Actively Seeking Internship opportunities for Spring'24 & Summer'24"
+    },
+    {
+      "firstname": "Pranav",
+      "lastname": "Karthik",
+      "index": 45,
+      "name": "Pranav Karthik",
+      "email": "Pranavkarthik@berkeley.edu",
+      "userDetails": "Sophomore at the University of California, Berkeley - Computer Science and Astrophysics"
+    },
+    {
+      "firstname": "Rishika",
+      "lastname": "Pulluri",
+      "index": 46,
+      "name": "Rishika Pulluri",
+      "email": "Rpulluri487@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Sanket",
+      "lastname": "Baviskar",
+      "index": 47,
+      "name": "Sanket Baviskar",
+      "email": "sanketsharad.baviskar@ucdenver.edu",
+      "userDetails": "Actively seeking Software Engineering Internship roles | Fullstack Engineer, AI, ML | CU Denver | NIT Raipur"
+    },
+    {
+      "firstname": "Aaron",
+      "lastname": "S.",
+      "index": 48,
+      "name": "Aaron S.",
+      "email": "aaronjsoekiatno@gmail.com",
+      "userDetails": "Student at Eleanor Roosevelt High School"
+    },
+    {
+      "firstname": "Sayyed",
+      "lastname": "Saif",
+      "index": 49,
+      "name": "Sayyed Saif",
+      "email": "saifsn17@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Emin",
+      "lastname": "S.",
+      "index": 50,
+      "name": "Emin S.",
+      "email": "ess180000@utdallas.edu",
+      "userDetails": "Student at The University of Texas at Dallas"
+    },
+    {
+      "firstname": "Daniel",
+      "lastname": "Odetoye",
+      "index": 51,
+      "name": "Daniel Odetoye",
+      "email": "dodetoye@terpmail.umd.edu",
+      "userDetails": "Computer Science Major | Student at University of Maryland College Park | QUEST- Honors Program | Incoming AmazonxNext CodePath"
+    },
+    {
+      "firstname": "AFRID",
+      "lastname": "SYED",
+      "index": 52,
+      "name": "AFRID SYED",
+      "email": "Afridsyed501@gmail.com",
+      "userDetails": "Student at University of New Haven Looking for summer intern 2024"
+    },
+    {
+      "firstname": "Asin",
+      "lastname": "Fathima",
+      "index": 53,
+      "name": "Asin Fathima",
+      "email": "asinhashi25@gmail.com",
+      "userDetails": "Associate Director @The Cosmos Championship I Debater I Future MD's in STEM 2021 I Global Student STEM Conference Speaker"
+    },
+    {
+      "firstname": "Paayal",
+      "lastname": "Maheshwari",
+      "index": 54,
+      "name": "Paayal Maheshwari",
+      "email": "prma2020@mymail.pomona.edu",
+      "userDetails": "Student at Pomona College"
+    },
+    {
+      "firstname": "Mohamad",
+      "lastname": "Nowfal",
+      "index": 55,
+      "name": "Mohamad Nowfal",
+      "email": "nowfanowfal07@gmail.com",
+      "userDetails": "Full stack dev | UI UX |Computer science engineer"
+    },
+    {
+      "firstname": "Atharva",
+      "lastname": "Pore",
+      "index": 56,
+      "name": "Atharva Pore",
+      "email": "atharva@umich.edu",
+      "userDetails": "Open for Summer job opportunities | Graduate Student @ University of Michigan | Ex-Software Developer @ IUCAA"
+    },
+    {
+      "firstname": "Nithish",
+      "lastname": "Mohan",
+      "index": 57,
+      "name": "Nithish Mohan",
+      "email": "nithishmohan89@gmail.com",
+      "userDetails": "International Baccalaureate Student at Frisco High School | Aspiring Cyber Forensics Analyst and/or Entrepreneur"
+    },
+    {
+      "firstname": "Anamol",
+      "lastname": "Kaspal",
+      "index": 58,
+      "name": "Anamol Kaspal",
+      "email": "kaspal.anamol@gmail.com",
+      "userDetails": "Tufts CS/Technician at Museum of Science"
+    },
+    {
+      "firstname": "Venkata",
+      "lastname": "Bontha",
+      "index": 59,
+      "name": "Venkata Prasanth Reddy Bontha",
+      "email": "Prasanthreddy1722@gmail.com",
+      "userDetails": "Masters in Information Technology and Management"
+    },
+    {
+      "firstname": "Jaydon",
+      "lastname": "Bingham",
+      "index": 60,
+      "name": "Jaydon Bingham",
+      "email": "Jaydon.bingham.bp@gmail.com",
+      "userDetails": "CS @ VT, Research Team Lead on Machine Learning Exploratory Team"
+    },
+    {
+      "firstname": "Joseph",
+      "lastname": "Garrido",
+      "index": 61,
+      "name": "Joseph Garrido",
+      "email": "Jgarrido8500@gmail.com",
+      "userDetails": "Student at Skyline College"
+    },
+    {
+      "firstname": "Arshnoor",
+      "lastname": "Chadha",
+      "index": 62,
+      "name": "Arshnoor Kaur Chadha",
+      "email": "akchadha@umass.edu",
+      "userDetails": "GHC’23 Scholar | TAPIA’23 Scholar | BS Computer Science @ UMass Amherst'25 | Undergraduate Researcher @ CICS"
+    },
+    {
+      "firstname": "Kartik",
+      "lastname": "Singla",
+      "index": 63,
+      "name": "Kartik Singla",
+      "email": "Kartiksingla20@proton.me",
+      "userDetails": "MAIT'25 | Web Developer | MERN Stack | C++, JavaScript | EJS | learning TS and NextJs"
+    },
+    {
+      "firstname": "Karan",
+      "lastname": "Badlani",
+      "index": 64,
+      "name": "Karan Badlani",
+      "email": "Badlani.k@northeastern.edu",
+      "userDetails": "Open to Summer Internships 2024 | Data Science Grad Student @Northeastern University"
+    },
+    {
+      "firstname": "Riti",
+      "lastname": "Patel",
+      "index": 65,
+      "name": "Riti Patel",
+      "email": "Ritipatel2005@g.ucla.edu",
+      "userDetails": "Student at the University of California- Los Angeles"
+    },
+    {
+      "firstname": "Nitesh",
+      "lastname": "khalia",
+      "index": 66,
+      "name": "Nitesh khalia",
+      "email": "Niteshkhalia21@gmail.com",
+      "userDetails": "Student at Indian Institute of Technology (Banaras Hindu University), Varanasi"
+    },
+    {
+      "firstname": "Bhavika",
+      "lastname": "Maini",
+      "index": 67,
+      "name": "Bhavika Maini",
+      "email": "Bhavikamaini.04@gmail.com",
+      "userDetails": "WE'23 Scholar.| Freshman at Vellore Institute of Technology,chennai campus"
+    },
+    {
+      "firstname": "Prafulkumar",
+      "lastname": "Patil",
+      "index": 68,
+      "name": "Prafulkumar Patil",
+      "email": "Ppatil@student.hult.edu",
+      "userDetails": "Data Analyst | Python, SQL, R, Excel, Tableau, Power BI, AWS | Digital Product Management | Design Thinking | Market Analysis, Product Strategy | Agile, SCRUM, Kanban | Data Visualization, Insight Extraction"
+    },
+    {
+      "firstname": "Ogochukwu",
+      "lastname": "Uba",
+      "index": 69,
+      "name": "Ogochukwu Uba",
+      "email": "Ogochukwuuba16@gmail.com",
+      "userDetails": "Incoming Software Engineer @ Meta |Student at Fisk university| Ella Shepherd Moore Provost Scholar | Excel with Dell scholar|"
+    },
+    {
+      "firstname": "Selina",
+      "lastname": "Noori",
+      "index": 70,
+      "name": "Selina Noori",
+      "email": "Selinanoori26@gmail.com",
+      "userDetails": "Data Enthusiast | Operations Analytics Intern at TRC Companies | Master’s of Data Science Student at CUNY SPS"
+    },
+    {
+      "firstname": "Rahul",
+      "lastname": "Thakur",
+      "index": 71,
+      "name": "Rahul Singh Thakur",
+      "email": "Thakur27rahul@gmail.com",
+      "userDetails": "Intern Category Associate @Unacademy | IIT Bombay Campus Ambassador | National Service Scheme (B & C) Certificate Awardee | IEEE Members ( Bombay Section) | State Awardee (Rajya purushkaar Award) in Scouts & Guide India"
+    },
+    {
+      "firstname": "Unnati",
+      "lastname": "Verma",
+      "index": 72,
+      "name": "Unnati Verma",
+      "email": "taun2001@gmail.com",
+      "userDetails": "Computer Science Student"
+    },
+    {
+      "firstname": "Aiman",
+      "lastname": "Mubasher",
+      "index": 73,
+      "name": "Aiman Mubasher",
+      "email": "aimanmubasher@gmail.com",
+      "userDetails": "Student at Lahore University of Management Sciences"
+    },
+    {
+      "firstname": "Misthi",
+      "lastname": "Sood",
+      "index": 74,
+      "name": "Misthi Sood",
+      "email": "misood@ucsd.edu",
+      "userDetails": "Junior at UC San Diego"
+    },
+    {
+      "firstname": "Nitish",
+      "lastname": "Dadapuram",
+      "index": 75,
+      "name": "Nitish Dadapuram",
+      "email": "nitish6867@gmail.com",
+      "userDetails": "Looking for Summer Internship"
+    },
+    {
+      "firstname": "Smrutik",
+      "lastname": "Sahu",
+      "index": 76,
+      "name": "Smrutik Sahu",
+      "email": "smrutiksarita@berkeley.edu",
+      "userDetails": "Data Science + Economics @ UC Berkeley"
+    },
+    {
+      "firstname": "Ayaan",
+      "lastname": "Gul",
+      "index": 77,
+      "name": "Ayaan Gul",
+      "email": "ayaangul07@gmail.com",
+      "userDetails": "Political Science Student at University of Illinois at Urbana-Champaign, College of Liberal Arts"
+    },
+    {
+      "firstname": "Uzma",
+      "lastname": "Naeem",
+      "index": 78,
+      "name": "Uzma Naeem",
+      "email": "unaeem@sfsu.edu",
+      "userDetails": "Aspiring Business/Data Analyst | Actively Seeking Internship Opportunities for Summer 2024 | Analytical Mindset, Strategic Thinker"
+    },
+    {
+      "firstname": "Sophia",
+      "lastname": "Salas",
+      "index": 79,
+      "name": "Sophia Salas",
+      "email": "s2salas@ucsd.edu",
+      "userDetails": "UC San Diego | B.S. Business Economics | Minor in Design | Aspiring Marketing and Creative Director | Stata and R | Canva, Adobe Photoshop, InDesign, Illustrator | Microsoft Suite"
+    },
+    {
+      "firstname": "Katrina",
+      "lastname": "Lin",
+      "index": 80,
+      "name": "Katrina Lin",
+      "email": "katrinalin1244@gmail.com",
+      "userDetails": "Student at Walter Payton College Prep"
+    },
+    {
+      "firstname": "Manish",
+      "lastname": "Dubey",
+      "index": 81,
+      "name": "Manish Dubey",
+      "email": "b21cs037@nitm.ac.in",
+      "userDetails": "CSE || Pre-Final Year || NITM-25"
+    },
+    {
+      "firstname": "Sruthi",
+      "lastname": "Alle",
+      "index": 82,
+      "name": "Sruthi Alle",
+      "email": "salle037@ucr.edu",
+      "userDetails": "Bus Admin Information Systems and Data Science at the University of California, Riverside"
+    },
+    {
+      "firstname": "Shakir",
+      "lastname": "Ahmed",
+      "index": 83,
+      "name": "Shakir Ahmed",
+      "email": "datashakir0585@gmail.com",
+      "userDetails": "Graduate Student Researcher @ ASTEC (UoA) | MS in Data Science at University of Arizona | Ex EY Business Consultant | Transforming data into insights | AI & ML Enthusiast"
+    },
+    {
+      "firstname": "Abdisalam",
+      "lastname": "Bade",
+      "index": 84,
+      "name": "Abdisalam Bade",
+      "email": "abdisalam.bade@emory.edu",
+      "userDetails": "BBA Student at Emory University"
+    },
+    {
+      "firstname": "Aditya",
+      "lastname": "Oza",
+      "index": 85,
+      "name": "Aditya Oza",
+      "email": "adityaoza2524@gmail.com",
+      "userDetails": "Student Council Head || IIITNR || ML Enthusiast"
+    },
+    {
+      "firstname": "Raphael",
+      "lastname": "Boakye",
+      "index": 86,
+      "name": "Raphael Boakye",
+      "email": "raphael.boakye@students.cookman.edu",
+      "userDetails": "CS @ Bethune-Cookman University | Cybersecurity @ CodePath"
+    },
+    {
+      "firstname": "Ahmed",
+      "lastname": "Shah",
+      "index": 87,
+      "name": "Ahmed Ali Shah",
+      "email": "ashah283@uic.edu",
+      "userDetails": "Computer Science major at the University of Illinois at Chicago"
+    },
+    {
+      "firstname": "Divyam",
+      "lastname": "Prajapati",
+      "index": 88,
+      "name": "Divyam Prajapati",
+      "email": "divyambp@gmail.com",
+      "userDetails": "Actively Seeking Summer 2024 Internship | MSCS @ UTD | Budding Developer | Machine Learning Enthusiast"
+    },
+    {
+      "firstname": "Advait",
+      "lastname": "Rajmane",
+      "index": 89,
+      "name": "Advait Rajmane",
+      "email": "rajmane2@illinois.edu",
+      "userDetails": "Finance Student at the Gies College of Business"
+    },
+    {
+      "firstname": "Aarushi",
+      "lastname": "Sachdeva",
+      "index": 90,
+      "name": "Aarushi Sachdeva",
+      "email": "aarushisachd01@gmail.com",
+      "userDetails": "Computer Science Major at Swarthmore College"
+    },
+    {
+      "firstname": "Asrita",
+      "lastname": "Yelisetti",
+      "index": 91,
+      "name": "Asrita Yelisetti",
+      "email": "asritay@gmail.com",
+      "userDetails": "Freshman @ Dougherty Valley High School"
+    },
+    {
+      "firstname": "Nicholas",
+      "lastname": "Hoang",
+      "index": 92,
+      "name": "Nicholas Hoang",
+      "email": "nhoang4227@gmail.com",
+      "userDetails": "Student Software Developer at Cal Poly Pomona"
+    },
+    {
+      "firstname": "Sena",
+      "lastname": "Kaddurah",
+      "index": 93,
+      "name": "Sena Kaddurah",
+      "email": "senakadd@umich.edu",
+      "userDetails": "Product Marketing Manager @ Microsoft | Teamwork, Leadership, PowerPoint"
+    },
+    {
+      "firstname": "Shanzay",
+      "lastname": "Khan",
+      "index": 94,
+      "name": "Shanzay Ijaz Khan",
+      "email": "skhan258@depaul.edu",
+      "userDetails": "Computer Science student at DePaul University"
+    },
+    {
+      "firstname": "Adeoluwa",
+      "lastname": "Anthony-Egorp",
+      "index": 95,
+      "name": "Adeoluwa Anthony-Egorp",
+      "email": "adeegorp@gmail.com",
+      "userDetails": "Computer Science Student at Western University"
+    },
+    {
+      "firstname": "Rutvik",
+      "lastname": "Parikh",
+      "index": 96,
+      "name": "Rutvik Parikh",
+      "email": "rvparikh@umich.edu",
+      "userDetails": "CS + Business @ University of Michigan"
+    },
+    {
+      "firstname": "Neha",
+      "lastname": "Agrawal",
+      "index": 97,
+      "name": "Neha Agrawal",
+      "email": "nehaagrawal@berkeley.edu",
+      "userDetails": "Economics @ UC Berkeley | Beats by Dre | Ex-RippleMatch"
+    },
+    {
+      "firstname": "Suraj",
+      "lastname": "Vaghela",
+      "index": 98,
+      "name": "Suraj Vaghela",
+      "email": "suvaghela23@gmail.com",
+      "userDetails": "Student at the University of Washington"
+    },
+    {
+      "firstname": "Thao",
+      "lastname": "Vu",
+      "index": 99,
+      "name": "Thao Vu",
+      "email": "lyvu1025@gmail.com",
+      "userDetails": "Computer Science Student at the University of Texas at Dallas"
+    },
+    {
+      "firstname": "Rohith",
+      "lastname": "Basireddy",
+      "index": 100,
+      "name": "Rohith Reddy Basireddy",
+      "email": "rohithbasireddy11@gmail.com",
+      "userDetails": "Actively looking for Full-Time positions || UTA Graduate Student @CS || Ex-Capgemini"
+    },
+    {
+      "firstname": "Vinusha",
+      "lastname": "Bheemireddy",
+      "index": 101,
+      "name": "Vinusha Bheemireddy",
+      "email": "Vinusha.vgs32@gmail.com",
+      "userDetails": "Actively Seeking for Job Opportunities - Data Analyst | Business Analyst | Data Governance"
+    },
+    {
+      "firstname": "Mansi",
+      "lastname": "Singh",
+      "index": 102,
+      "name": "Mansi Singh",
+      "email": "mansisingh21@iitk.ac.in",
+      "userDetails": "Student at Indian Institute of Technology, Kanpur"
+    },
+    {
+      "firstname": "Gautam",
+      "lastname": "Vabilisetty",
+      "index": 103,
+      "name": "Gautam Pradyumna Vabilisetty",
+      "email": "Pradyumnavgs@gmail.com",
+      "userDetails": "Actively seeking Full time SDE opportunities | Graduate Student at San José State University | Ex LTIMindtree | Full stack Developer | Frontend Developer | React.js Developer"
+    },
+    {
+      "firstname": "Kumar",
+      "lastname": "Vaibhav",
+      "index": 104,
+      "name": "Kumar Vaibhav",
+      "email": "Kumarvaibhav1603@gmail.com",
+      "userDetails": "Student at Vellore Institute of Technology"
+    },
+    {
+      "firstname": "ganesh",
+      "lastname": "mantrapudi",
+      "index": 105,
+      "name": "ganesh mantrapudi",
+      "email": "ganeshmantrapudi8420@gmail.com",
+      "userDetails": "Student at National Institute of Technology Silchar 2020-2024"
+    },
+    {
+      "firstname": "Faizan",
+      "lastname": "Hassan",
+      "index": 106,
+      "name": "Faizan Hassan",
+      "email": "Fhassan0221@gmail.com",
+      "userDetails": "LUMS'26 | Associate Consultant"
+    },
+    {
+      "firstname": "Yash",
+      "lastname": "Patni",
+      "index": 107,
+      "name": "Yash Patni",
+      "email": "yashrpatni@gmail.com",
+      "userDetails": "2⭐️ @Codechef | Competitive Programming | Postman Student Expert | Events Co-Lead @GFG RCOEM | Student at Shri Ramdeobaba College of Engineering and Management | Pre-final year"
+    },
+    {
+      "firstname": "Tracy",
+      "lastname": "Mai",
+      "index": 108,
+      "name": "Tracy Mai",
+      "email": "tracytmai@outlook.com",
+      "userDetails": "CS and Philosophy @ SPU"
+    },
+    {
+      "firstname": "Janhavi",
+      "lastname": "Tatkare",
+      "index": 109,
+      "name": "Janhavi Tatkare",
+      "email": "jst44@njit.edu",
+      "userDetails": "Computer Science Grad Student at New Jersey Institute of Technology | Ex-Full Stack Developer at Tata Consultancy Services | ReactJs"
+    },
+    {
+      "firstname": "Shivani",
+      "lastname": "Nayakam",
+      "index": 110,
+      "name": "Shivani Nayakam",
+      "email": "nayakam.shivani@ufl.edu",
+      "userDetails": "Actively seeking 2024 summer internships | MS CS student at University of Florida | Ex- Deloitte | CBIT'20"
+    },
+    {
+      "firstname": "Mounusha",
+      "lastname": "Metti",
+      "index": 111,
+      "name": "Mounusha Ram Metti",
+      "email": "metti.mounu@gmail.com",
+      "userDetails": "Product Management Intern @ Dharte | Final Year UG | Indian Institute of Technology, Kharagpur"
+    },
+    {
+      "firstname": "Adam",
+      "lastname": "Guled",
+      "index": 112,
+      "name": "Adam Guled",
+      "email": "aguled24@arizona.edu",
+      "userDetails": "Cyber Operations major @ The Unversity of Arizona | Looking for an internship for summer/fall 24'!"
+    },
+    {
+      "firstname": "Lex",
+      "lastname": "Tellez",
+      "index": 113,
+      "name": "Lex Tellez",
+      "email": "atellez@u.rochester.edu",
+      "userDetails": "Student at University of Rochester"
+    },
+    {
+      "firstname": "Peter",
+      "lastname": "Lin",
+      "index": 114,
+      "name": "Peter Lin",
+      "email": "peterql2@illinois.edu",
+      "userDetails": "CS + Philosophy @ UIUC"
+    },
+    {
+      "firstname": "Hawra",
+      "lastname": "Safri",
+      "index": 115,
+      "name": "Hawra Safri",
+      "email": "hawrasafri@gmail.com",
+      "userDetails": "Student at Al Diyafah High School | Aspiring Architect | 3D Designing | Podcast Host | Digital Marketing"
+    },
+    {
+      "firstname": "Srushti",
+      "lastname": "Kulkarni",
+      "index": 116,
+      "name": "Srushti Girish Kulkarni",
+      "email": "skulkar8@ur.rochester.edu",
+      "userDetails": "Quantitative Marketing, Pricing Analytics & Product Enthusiast | Former Consultant and Startup Founder | STEM MS Marketing Analytics"
+    },
+    {
+      "firstname": "Safiullah",
+      "lastname": "Saif",
+      "index": 117,
+      "name": "Safiullah Saif",
+      "email": "safisaif4444@gmail.com",
+      "userDetails": "Software Engineering Student | Resident Advisor | Calculus III Tutor | iSucceed Peer Mentor at San Jose State University"
+    },
+    {
+      "firstname": "Khush",
+      "lastname": "Mutha",
+      "index": 118,
+      "name": "Khush Mutha",
+      "email": "kmutha@psu.edu",
+      "userDetails": "Incoming CX Data Analyst @SLCKR | Building PROMUNCH Snacks!"
+    },
+    {
+      "firstname": "Aadi",
+      "lastname": "Ajmire",
+      "index": 119,
+      "name": "Aadi Ajmire",
+      "email": "ayajmire@ucla.edu",
+      "userDetails": "AI & Epigenetics Research Assistant @ UCLA's Bouchard Lab | B.S. in Computational and Systems Biology"
+    },
+    {
+      "firstname": "Yash",
+      "lastname": "Ashtekar",
+      "index": 120,
+      "name": "Yash Ashtekar",
+      "email": "yash.ashte@gmail.com",
+      "userDetails": "Computer Engineering Student at Purdue University"
+    },
+    {
+      "firstname": "Abdullah",
+      "lastname": "Khan",
+      "index": 121,
+      "name": "Abdullah Khan",
+      "email": "Abdullah5601013@gmail.com",
+      "userDetails": "Mern Stack | HTML | CSS | JavaScript | Bootstrap |Express | Sequilzed | postgres | Node | React"
+    },
+    {
+      "firstname": "Nehil",
+      "lastname": "Mahindru",
+      "index": 122,
+      "name": "Nehil Mahindru",
+      "email": "nehil@schulich.yorku.ca",
+      "userDetails": "Aspiring Business Leader | Schulich School of Business | Strategy | Real Estate"
+    },
+    {
+      "firstname": "Rohan",
+      "lastname": "Sharma",
+      "index": 123,
+      "name": "Rohan Sharma",
+      "email": "rohan.workinfo@gmail.com",
+      "userDetails": "Python | C++ | ML(PyTorch) | Django"
+    },
+    {
+      "firstname": "Tanya",
+      "lastname": "Khatri",
+      "index": 124,
+      "name": "Tanya Khatri",
+      "email": "khatritanya1111@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Spandita",
+      "lastname": "Sarma",
+      "index": 125,
+      "name": "Spandita Das Sarma",
+      "email": "sd551@duke.edu",
+      "userDetails": "MEM @ Duke University | CSPO | Product | Business Analyst | Ex- Deloitte | Harvard Conference ‘24"
+    },
+    {
+      "firstname": "Sanskriti",
+      "lastname": "Yadav",
+      "index": 126,
+      "name": "Sanskriti Yadav",
+      "email": "syadav13@umd.edu",
+      "userDetails": "MSIS student @University of Maryland College Park"
+    },
+    {
+      "firstname": "Abid",
+      "lastname": "Hussain",
+      "index": 127,
+      "name": "Abid Hussain",
+      "email": "abidh@unc.edu",
+      "userDetails": "Freshman at UNC Chapel Hill"
+    },
+    {
+      "firstname": "Parth",
+      "lastname": "Danve",
+      "index": 128,
+      "name": "Parth Danve",
+      "email": "parth.danve@uconn.edu",
+      "userDetails": "CSE @ UConn"
+    },
+    {
+      "firstname": "Aryavardhan",
+      "lastname": "Rathour",
+      "index": 129,
+      "name": "Aryavardhan Singh Rathour",
+      "email": "aryavardhan0912@gmail.com",
+      "userDetails": "Student at Indian Institute of Technology, Kanpur"
+    },
+    {
+      "firstname": "Harshil",
+      "lastname": "Jain",
+      "index": 130,
+      "name": "Harshil Jain",
+      "email": "harshil4@illinois.edu",
+      "userDetails": "James Scholar | Industrial Engineering @ UIUC"
+    },
+    {
+      "firstname": "Sabiha",
+      "lastname": "Yeasmin",
+      "index": 131,
+      "name": "Sabiha Yeasmin",
+      "email": "sabiha.yeasmin13@bcmail.cuny.edu",
+      "userDetails": "Student at Brooklyn College pursuing a Bachelor of Science"
+    },
+    {
+      "firstname": "Husnain",
+      "lastname": "Muzzammil",
+      "index": 132,
+      "name": "Husnain Muzzammil",
+      "email": "husnain.muzzammil@berkeley.edu",
+      "userDetails": "Undergraduate Student at University of California, Berkeley"
+    },
+    {
+      "firstname": "Hadi",
+      "lastname": "Mohammad",
+      "index": 133,
+      "name": "Hadi Mohammad",
+      "email": "mohammadhadiawan@gmail.com",
+      "userDetails": "Studying Information Technology & Systems at University of Texas at Dallas"
+    },
+    {
+      "firstname": "Ish",
+      "lastname": "Khattar",
+      "index": 134,
+      "name": "Ish Khattar",
+      "email": "ish.khattar.99@gmail.com",
+      "userDetails": "Computer Science Student at University Of Manitoba with minor in Marketing"
+    },
+    {
+      "firstname": "Hridul",
+      "lastname": "Sreenivasan",
+      "index": 135,
+      "name": "Hridul Sreenivasan",
+      "email": "sagaralieajacky@gmail.com",
+      "userDetails": "Student at MES Indian School, Abu Hamour Branch, and a Karate black belt 2 holder"
+    },
+    {
+      "firstname": "Rishyank",
+      "lastname": "Sivam",
+      "index": 136,
+      "name": "Rishyank Sivam",
+      "email": "sivamrishyank0911@gmail.com",
+      "userDetails": "B.Tech Mechanical Engineering"
+    },
+    {
+      "firstname": "Rohini",
+      "lastname": "Saravanakumar",
+      "index": 137,
+      "name": "Rohini Saravanakumar",
+      "email": "rohiniskumar17@gmail.com",
+      "userDetails": "Syracuse University MS CS Student | Looking for Summer Internship Opportunities"
+    },
+    {
+      "firstname": "Abdul-Salam",
+      "lastname": "G.",
+      "index": 138,
+      "name": "Abdul-Salam G.",
+      "email": "eby2ch@virginia.edu",
+      "userDetails": "Echols Scholar at the University of Virginia | Class of 2027 | Pre-Med Student"
+    },
+    {
+      "firstname": "Sanjana",
+      "lastname": "Kumari",
+      "index": 139,
+      "name": "Sanjana Kumari",
+      "email": "sanjanamanglani2004@gmail.com",
+      "userDetails": "Former FA @NEMS | Data Entry and Finance Expertise | Hands-on experience in C, Python, HTML, CSS"
+    },
+    {
+      "firstname": "Maria",
+      "lastname": "Hameed",
+      "index": 140,
+      "name": "Maria Hameed",
+      "email": "mariahameed8945@gmail.com",
+      "userDetails": "Data Science | ML | CV | Content writer | Content analyzer | Web Site Developer| C language | C++ | Python"
+    },
+    {
+      "firstname": "Raiyaan",
+      "lastname": "Zafar",
+      "index": 141,
+      "name": "Raiyaan Zafar",
+      "email": "zafarraiyaan@gmail.com",
+      "userDetails": "Freshman @ Institute of Business Management (BBA)"
+    },
+    {
+      "firstname": "Arryan",
+      "lastname": "Kanodia",
+      "index": 142,
+      "name": "Arryan Kanodia",
+      "email": "arryank2@illinois.edu",
+      "userDetails": "Student at University of Illinois Urbana-Champaign"
+    },
+    {
+      "firstname": "Zernab",
+      "lastname": "Akram",
+      "index": 143,
+      "name": "Zernab Akram",
+      "email": "zernabakram1@gmail.com",
+      "userDetails": "Student @ Lahore University of Management Sciences | xNBP | US Exchange Alumnus"
+    },
+    {
+      "firstname": "NK",
+      "lastname": "Nagarajan",
+      "index": 144,
+      "name": "NK Tharun Nagarajan",
+      "email": "nktharunnagarajan@gmail.com",
+      "userDetails": "3rd Year Student at VIT - Chennai having 5 - star in Hackerrank (Python, Problem Solving , C++ and JAVA) and also a UI/UX Design Enthusiast"
+    },
+    {
+      "firstname": "Anita",
+      "lastname": "Annor",
+      "index": 145,
+      "name": "Anita Annor",
+      "email": "aaannor@cougarney.uh.edu",
+      "userDetails": "CS @ UH | Sophomore | Seeking SWE Internships"
+    },
+    {
+      "firstname": "Abhishek",
+      "lastname": "Kumar",
+      "index": 146,
+      "name": "Abhishek Kumar",
+      "email": "kumarabhishekhzb019@gmail.com",
+      "userDetails": "MS Economic Sciences|| International Relations||Debating|| Policy Reviews & Analysis"
+    },
+    {
+      "firstname": "Aryan",
+      "lastname": "Shirwadkar",
+      "index": 147,
+      "name": "Aryan Shirwadkar",
+      "email": "ashirwad@syr.edu",
+      "userDetails": "Actively Seeking Internships for Summer 2024 | MS CS Student at Syracuse University"
+    },
+    {
+      "firstname": "Mahima",
+      "lastname": "Gauchan",
+      "index": 148,
+      "name": "Mahima Gauchan",
+      "email": "mgauchan@asu.edu",
+      "userDetails": "Student @ Arizona State University"
+    },
+    {
+      "firstname": "Catherine",
+      "lastname": "Tran",
+      "index": 149,
+      "name": "Catherine Tran",
+      "email": "cptra@ucdavis.edu",
+      "userDetails": "UX and Graphic Designer | Cognitive Science and Design @ UC Davis"
+    },
+    {
+      "firstname": "Hamza",
+      "lastname": "Yousuf",
+      "index": 150,
+      "name": "Hamza Yousuf",
+      "email": "yousufm@wit.edu",
+      "userDetails": "Student at Wentworth Institute of Technology"
+    },
+    {
+      "firstname": "Saanvi",
+      "lastname": "Shukla",
+      "index": 151,
+      "name": "Saanvi Shukla",
+      "email": "sshukla@connect.ust.hk",
+      "userDetails": "School of Engineering @ HKUST"
+    },
+    {
+      "firstname": "Galymzhan",
+      "lastname": "Tolepbergen",
+      "index": 152,
+      "name": "Galymzhan Tolepbergen",
+      "email": "galymzhan.tolepbergen@gmail.com",
+      "userDetails": "~"
+    },
+    {
+      "firstname": "Suraj",
+      "lastname": "Jindam",
+      "index": 153,
+      "name": "Suraj Jindam",
+      "email": "surajjindam3100@gmail.com",
+      "userDetails": "Graduate Student at UNC Charlotte"
+    },
+    {
+      "firstname": "Annu",
+      "lastname": "Priya",
+      "index": 154,
+      "name": "Annu Priya",
+      "email": "apriya3@buffalo.edu",
+      "userDetails": "Actively seeking opportunities in data analytics | MS in Data Science | Ex-Amazon"
+    },
+    {
+      "firstname": "Skylar",
+      "lastname": "Lo",
+      "index": 155,
+      "name": "Skylar Lo",
+      "email": "skylarlo@g.ucla.edu",
+      "userDetails": "Student at University of California, Los Angeles"
+    },
+    {
+      "firstname": "Ayan",
+      "lastname": "Dadwani",
+      "index": 156,
+      "name": "Ayan Dadwani",
+      "email": "adadwan3@cougarnet.uh.edu",
+      "userDetails": "University of Houston C.T. Bauer MIS Major '24 | Seeking full-time entry-level position"
+    },
+    {
+      "firstname": "SIRI",
+      "lastname": "REDDY",
+      "index": 157,
+      "name": "SIRI DHATRI REDDY",
+      "email": "spanuga4@uncc.edu",
+      "userDetails": "Grad Student at University of North Carolina Charlotte | Ex - Process Analyst At T4B Trust for Business. (Vendor through Cognizant Ltd)"
+    },
+    {
+      "firstname": "Wendy",
+      "lastname": "Myat",
+      "index": 158,
+      "name": "Wendy Myat",
+      "email": "imyat.jobsearch@gmail.com",
+      "userDetails": "Econ at Fordham NYC | driven, forward thinker"
+    },
+    {
+      "firstname": "Nidhi",
+      "lastname": "Sathish",
+      "index": 159,
+      "name": "Nidhi Sathish",
+      "email": "npsathis@calpoly.edu",
+      "userDetails": "Student at Calpoly SLO"
+    },
+    {
+      "firstname": "Manpreet",
+      "lastname": "Kaur",
+      "index": 160,
+      "name": "Manpreet Kaur",
+      "email": "manpreet12312003@gmail.com",
+      "userDetails": "Computer Science and Cognitive Science Student at Rutgers University"
+    },
+    {
+      "firstname": "Yash",
+      "lastname": "Varde",
+      "index": 161,
+      "name": "Yash Varde",
+      "email": "yashv3@uw.edu",
+      "userDetails": "Incoming AI/ML Engineering Intern @Everlexx Inc. | Computer Science & Software Engineering @University of Washington | UW ACM President"
+    },
+    {
+      "firstname": "Keshav",
+      "lastname": "Goyal",
+      "index": 162,
+      "name": "Keshav Goyal",
+      "email": "keshavg1@uw.edu",
+      "userDetails": "Student at University of Washington"
+    },
+    {
+      "firstname": "Rheona",
+      "lastname": "Mehta",
+      "index": 163,
+      "name": "Rheona Mehta",
+      "email": "rhemehta@bu.edu",
+      "userDetails": "Data science and economics student @ Boston University"
+    },
+    {
+      "firstname": "Javeria",
+      "lastname": "Majeed",
+      "index": 164,
+      "name": "Javeria Majeed",
+      "email": "javeriamajeed02@gmail.com",
+      "userDetails": "Data Analysts | ML enthusiast | xComputer vision intern | Electronics engineer | Undergrad"
+    },
+    {
+      "firstname": "Ayush",
+      "lastname": "Yadav",
+      "index": 165,
+      "name": "Ayush Yadav",
+      "email": "ayushy20@iitk.ac.in",
+      "userDetails": "UG at Indian Institute of Technology Kanpur"
+    },
+    {
+      "firstname": "Mayuranath",
+      "lastname": "Medavarapu",
+      "index": 166,
+      "name": "Mayuranath Medavarapu",
+      "email": "mmedavar@uwaterloo.ca",
+      "userDetails": "Student at University of Waterloo"
+    },
+    {
+      "firstname": "Ansh",
+      "lastname": "Garg",
+      "index": 167,
+      "name": "Ansh Garg",
+      "email": "ag.ansh.08@gmail.com",
+      "userDetails": "Research Analyst | Market Research | Data Analysis"
+    },
+    {
+      "firstname": "Aadit",
+      "lastname": "Tibrewala",
+      "index": 168,
+      "name": "Aadit Tibrewala",
+      "email": "aaditt2@illinois.edu",
+      "userDetails": "Student at University of Illinois Urbana-Champaign"
+    },
+    {
+      "firstname": "Vibha",
+      "lastname": "Thimmaraja",
+      "index": 169,
+      "name": "Vibha Thimmaraja",
+      "email": "vthimmaraja@binghamton.edu",
+      "userDetails": "Actively looking for Summer 2024 Internships"
+    },
+    {
+      "firstname": "Aissatou",
+      "lastname": "D.",
+      "index": 170,
+      "name": "Aissatou D.",
+      "email": "ad4043@columbia.edu",
+      "userDetails": "Computer Science & Public Health at Columbia University |MLT CP'26| QuestBridge NCM Scholar| Color Stack Fellow"
+    },
+    {
+      "firstname": "Udit",
+      "lastname": "Guleria",
+      "index": 171,
+      "name": "Udit Singh Guleria",
+      "email": "udit.guleria@tamu.edu",
+      "userDetails": "Actively seeking Full-time Product Roles | CSPO® | PSM I | ProductCon '23 | TAMU MS-MIS ‘24 | UPES CSE ‘19"
+    },
+    {
+      "firstname": "NIKHIL",
+      "lastname": "DAS",
+      "index": 172,
+      "name": "NIKHIL KUMAR DAS",
+      "email": "nikhild.ug22.cs@nitp.ac.in",
+      "userDetails": "👨‍💻 CSE Sophomore @ NIT Patna | 🛠️ Blockchain Developer @ Hackslash | 3⭐ LeetCode | 2⭐ CodeChef | 🔍 Proficient in DSA"
+    },
+    {
+      "firstname": "Denise",
+      "lastname": "Soulé",
+      "index": 173,
+      "name": "Denise Ramírez Soulé",
+      "email": "deniseramsoul@hotmail.com",
+      "userDetails": "Project & Product Management | Data Analytics | Learner Enthusiast | Looking for internships"
+    },
+    {
+      "firstname": "Vaishnavi",
+      "lastname": "Kanneboyina",
+      "index": 174,
+      "name": "Vaishnavi Kanneboyina",
+      "email": "vkanneb1@binghamton.edu",
+      "userDetails": "Student at Binghamton University"
+    },
+    {
+      "firstname": "Stella",
+      "lastname": "Kang",
+      "index": 175,
+      "name": "Stella Kang",
+      "email": "stellakangj@g.ucla.edu",
+      "userDetails": "Student at University of California, Los Angeles"
+    },
+    {
+      "firstname": "Chloe",
+      "lastname": "Mau",
+      "index": 176,
+      "name": "Chloe Mau",
+      "email": "chloem3691@gmail.com",
+      "userDetails": "Student @ University of Washington Seattle Honors Program"
+    },
+    {
+      "firstname": "Matthew",
+      "lastname": "Melohis",
+      "index": 177,
+      "name": "Matthew Melohis",
+      "email": "mm7252@princeton.edu",
+      "userDetails": "ORFE Student at Princeton University"
+    },
+    {
+      "firstname": "Unnati",
+      "lastname": "Verma",
+      "index": 178,
+      "name": "Unnati Verma",
+      "email": "taun2001@gmail.com",
+      "userDetails": "Computer Science Student"
+    },
+    {
+      "firstname": "Shrikar",
+      "lastname": "Sirobhushanam",
+      "index": 179,
+      "name": "Shrikar Sirobhushanam",
+      "email": "hgr9ba@virginia.edu",
+      "userDetails": "CS and Econ Student @ UVA"
+    },
+    {
+      "firstname": "Victor",
+      "lastname": "Pham",
+      "index": 180,
+      "name": "Victor Pham",
+      "email": "victorpham@ucsb.edu",
+      "userDetails": "Product Manager Intern @ Vascular BioSciences, Pharmacology Student @ University of California, Santa Barbara"
+    },
+    {
+      "firstname": "Aleena",
+      "lastname": "Khan",
+      "index": 181,
+      "name": "Aleena Khan",
+      "email": "aleenaak@uw.edu",
+      "userDetails": "Discovery Intern @ Microsoft | Linkedin Possibilities in Tech Scholar | Washington State Opportunity Scholar | College Success Foundation's Leadership 1000 Scholar | Sheng-Yen Lu's LOTUS Scholar"
+    },
+    {
+      "firstname": "Sreenidhi",
+      "lastname": "Kalluru",
+      "index": 182,
+      "name": "Sreenidhi Kalluru",
+      "email": "skalluru@iu.edu",
+      "userDetails": "Dedicated Student at Kelley School of Business with an Interest in Finance and Management Information Systems | Collaborative | Successful"
+    },
+    {
+      "firstname": "Isha",
+      "lastname": "Singh",
+      "index": 183,
+      "name": "Isha Singh",
+      "email": "isha.student.met22@itbhu.ac.in",
+      "userDetails": "Sophomore at IIT BHU, Varanasi | Data science enthusiast"
+    },
+    {
+      "firstname": "Shriyansh",
+      "lastname": "Sinha",
+      "index": 184,
+      "name": "Shriyansh Sinha",
+      "email": "shriyansh20sinha@gmail.com",
+      "userDetails": "HoSCA Secretary @ Students' Gymkhana, IIT Patna | Coordinator @SAAR | Sub-coordinator. @Training and Placement cell"
+    },
+    {
+      "firstname": "Manasi",
+      "lastname": "Malik",
+      "index": 185,
+      "name": "Manasi Malik",
+      "email": "manmalik@iu.edu",
+      "userDetails": "Undergraduate at Indiana University - Kelley School of Business"
+    },
+    {
+      "firstname": "Anika",
+      "lastname": "Koppula",
+      "index": 186,
+      "name": "Anika Koppula",
+      "email": "anika.koppula@utexas.edu",
+      "userDetails": "Freshman at the University of Texas at Austin"
+    },
+    {
+      "firstname": "Palak",
+      "lastname": "Goel",
+      "index": 187,
+      "name": "Palak Goel",
+      "email": "palakgoel49@gmail.com",
+      "userDetails": "Business Economics (H) | Gargi College"
+    },
+    {
+      "firstname": "Sameer",
+      "lastname": "Sharma",
+      "index": 188,
+      "name": "Sameer Sharma",
+      "email": "sameer.sharma.che21@itbhu.ac.in",
+      "userDetails": "Hospitality Head @ E-Cell IIT BHU Varanasi | Vice Captain Squash Team IIT BHU"
+    },
+    {
+      "firstname": "Pratham",
+      "lastname": "Wankhede",
+      "index": 189,
+      "name": "Pratham Wankhede",
+      "email": "prathamwankhede8@gmail.com",
+      "userDetails": "Student at John P. Stevens High School"
+    },
+    {
+      "firstname": "Sowmya",
+      "lastname": "Panthangi",
+      "index": 190,
+      "name": "Sowmya Panthangi",
+      "email": "sowmyapanthangi07@gmail.com",
+      "userDetails": "Student at University of North Texas"
+    },
+    {
+      "firstname": "Satish",
+      "lastname": "Reddy",
+      "index": 191,
+      "name": "Satish Reddy",
+      "email": "schallagonda@callutheran.edu",
+      "userDetails": "Microsoft Dynamics 365 Technical Consultant with great knowledge in C# .Net, SQL, X++. Implementation and customization of D365 FO application. Looking for new opportunities."
+    },
+    {
+      "firstname": "Anyeve",
+      "lastname": "Dogloh",
+      "index": 192,
+      "name": "Anyeve Dogloh",
+      "email": "adogloh@uci.edu",
+      "userDetails": "Azusa Pacific University, School of Nursing, Entry-Level Master's in Nursing (ELMN) Candidate | UCI Graduate | Psychological Science B.A. | Minor in Public Health"
+    },
+    {
+      "firstname": "Lauren",
+      "lastname": "Williams",
+      "index": 193,
+      "name": "Lauren Williams",
+      "email": "lauren28@stanford.edu",
+      "userDetails": "Member @ Stanford | Student Council, Sophomore College"
+    },
+    {
+      "firstname": "Jeroldine",
+      "lastname": "Oakley",
+      "index": 194,
+      "name": "Jeroldine Oakley",
+      "email": "oakleyjeroldine@gmail.com",
+      "userDetails": "AI Enthusiast || Machine Learning Lover || Aspiring Data Scientist || Core Member at Global AI Hub"
+    },
+    {
+      "firstname": "Akshat",
+      "lastname": "Mehta",
+      "index": 195,
+      "name": "Akshat Mehta",
+      "email": "akshatmehta@ucla.edu",
+      "userDetails": "Student at Samueli School of Engineering, UCLA"
+    },
+    {
+      "firstname": "Kishan",
+      "lastname": "Kumar",
+      "index": 196,
+      "name": "Kishan Kumar",
+      "email": "kumarkishan2100@gmail.com",
+      "userDetails": "Pre-Final Year Student at NIT Jamshedpur | Front-end Developer(React.Js)| Runner-up Corporate Roadies'23| Finalist VRIDDHI'23| E-CELL NIT JSR"
+    },
+    {
+      "firstname": "Prajwal",
+      "lastname": "Pardhi",
+      "index": 197,
+      "name": "Prajwal Pardhi",
+      "email": "prajwalpardhi19@gmail.com",
+      "userDetails": "Student at IIT KHARAGPUR"
+    },
+    {
+      "firstname": "Jayesh",
+      "lastname": "Sharma",
+      "index": 198,
+      "name": "Jayesh Sharma",
+      "email": "Jjayeshs@nyit.edu",
+      "userDetails": "NYITGRAD STUDENT"
+    },
+    {
+      "firstname": "Reema",
+      "lastname": "S.",
+      "index": 199,
+      "name": "Reema S.",
+      "email": "Reema.solan@ufl.edu",
+      "userDetails": "Actively Exploring a 2024 Internship Opportunity | MS in Computer Science at the University of Florida | Kaggle Expert | Eager for Impactful Experiences"
+    },
+    {
+      "firstname": "Sri",
+      "lastname": "Giri",
+      "index": 200,
+      "name": "Sri Giri",
+      "email": "srigiri@iu.edu",
+      "userDetails": "IU Kelley School of Business I Finance and Information Systems"
+    },
+    {
+      "firstname": "Xiyun",
+      "lastname": "Hu",
+      "index": 201,
+      "name": "Xiyun Hu",
+      "email": "huxiyun@unc.edu",
+      "userDetails": "Computer Science and Statistics student at University of North Carolina at Chapel Hill"
+    },
+    {
+      "firstname": "Ce",
+      "lastname": "Zhang",
+      "index": 202,
+      "name": "Ce Zhang",
+      "email": "czh104@simon.rochester.edu",
+      "userDetails": "Aspiring Marketing Analyst | MS in Marketing Analytics 2024 (STEM) | Bachelor Degree in Advertising | Digital Marketing | Business Analyst | Pricing Analyst | Project Management"
+    },
+    {
+      "firstname": "Aryan",
+      "lastname": "Shah",
+      "index": 203,
+      "name": "Aryan Shah",
+      "email": "sharyan@umich.edu",
+      "userDetails": "Computer Science Student @ University of Michigan"
+    },
+    {
+      "firstname": "Vidushi",
+      "lastname": "Singhal",
+      "index": 204,
+      "name": "Vidushi Singhal",
+      "email": "svidushi184@gmail.com",
+      "userDetails": "Student at KIET Group of Institutions|| MERN stack developer|| C++ Programmer"
+    },
+    {
+      "firstname": "Angel",
+      "lastname": "Balogun",
+      "index": 205,
+      "name": "Angel Balogun",
+      "email": "balogun.angel@philander.edu",
+      "userDetails": "Thomas Mason Scholar@Philander Smith University .|| ColorStack Fellow|| Rewriting the Code Fellow|| Aspiring Software Engineer."
+    },
+    {
+      "firstname": "Asbah",
+      "lastname": "Wasim",
+      "index": 206,
+      "name": "Asbah Wasim",
+      "email": "asbahwasim@berkeley.edu",
+      "userDetails": "Design Enthusiast meets Data Insights | UC Berkeley Student"
+    },
+    {
+      "firstname": "Ishaan",
+      "lastname": "Kalbhor",
+      "index": 207,
+      "name": "Ishaan Kalbhor",
+      "email": "ikalb001@fiu.edu",
+      "userDetails": "Actively looking for summer internships 2024 | MS in CS @ FIU | 2x Hackathon Winner | Ex - KPMG | MIT Pune (Intelligent Systems)"
+    },
+    {
+      "firstname": "Oluwafikunayomi",
+      "lastname": "Shobande",
+      "index": 208,
+      "name": "Oluwafikunayomi Shobande",
+      "email": "shobande.oluwa@philander.edu",
+      "userDetails": "Incoming SWE Intern @Dell Technologies || Presidential Scholar || Tech Enthusiast || Computer Science Student"
+    },
+    {
+      "firstname": "Disha",
+      "lastname": "Sharma",
+      "index": 209,
+      "name": "Disha Sharma",
+      "email": "dishasharma@utexas.edu",
+      "userDetails": "Finance and Economics @ UT Austin"
+    },
+    {
+      "firstname": "Vinayak",
+      "lastname": "Sood",
+      "index": 210,
+      "name": "Vinayak Sood",
+      "email": "vinayak.sood@stonybrook.edu",
+      "userDetails": "Computer Engineering Graduate Student at State University Of New York at Stony Brook || Actively Looking for full time job opportunities starting May 2025."
+    },
+    {
+      "firstname": "Yash",
+      "lastname": "Rao",
+      "index": 211,
+      "name": "Yash Rao",
+      "email": "yashrao@bu.edu",
+      "userDetails": "MS ADA @ Boston University | Former Research Intern at Indian Institute of Technology Roorkee | Data Science | Machine Learning | Deep Learning | Statistics | Seeking Data Science and Data Analyst Internships"
+    },
+    {
+      "firstname": "Krisha",
+      "lastname": "Gandhi",
+      "index": 212,
+      "name": "Krisha Gandhi",
+      "email": "krishadh@usc.edu",
+      "userDetails": "Data Analyst | Python, SQL,Tableau, Power BI | Statistical Modelling, ML & AI | Data Science | Business Intelligence | Business Strategy | USC Marshall (STEM) Business Analytics"
+    },
+    {
+      "firstname": "Malaika",
+      "lastname": "Junaid",
+      "index": 213,
+      "name": "Malaika Junaid",
+      "email": "malaikajun@gmail.com",
+      "userDetails": "MIS Student at the C.T. Bauer College Of Business at the University of Houston"
+    },
+    {
+      "firstname": "Veer",
+      "lastname": "V.",
+      "index": 214,
+      "name": "Veer V.",
+      "email": "vv2344@columbia.edu",
+      "userDetails": "OR:FE & CS @ Columbia"
+    },
+    {
+      "firstname": "Gunji",
+      "lastname": "Lakshmi",
+      "index": 215,
+      "name": "Gunji Jaya Lakshmi",
+      "email": "jayalakshmigunji99@gmail.com",
+      "userDetails": "Teaching Assistant @ San Jose State University | Data Analytics, Machine Learning"
+    },
+    {
+      "firstname": "Jatin",
+      "lastname": "Agrawal",
+      "index": 216,
+      "name": "Jatin Agrawal",
+      "email": "jagrawalsushil@gmail.com",
+      "userDetails": "Mitacs GRI'23 Intern | Chemical Engineering | NIT Surat'24"
+    },
+    {
+      "firstname": "Anil",
+      "lastname": "Nayak",
+      "index": 217,
+      "name": "Anil Nayak",
+      "email": "anayak2@uw.edu",
+      "userDetails": "Product @ Virufy | MS in Information Management @ University of Washington | Product Strategy | Ex-Cognizant | 5 x Microsoft Azure Certified"
+    },
+    {
+      "firstname": "Aelaph",
+      "lastname": "Elias",
+      "index": 218,
+      "name": "Aelaph Elias",
+      "email": "eliasaelaph@gmail.com",
+      "userDetails": "Current Freshman at the University of Washington Bothell studying Computer Science and Software Engineering"
+    },
+    {
+      "firstname": "Adwait",
+      "lastname": "Shastri",
+      "index": 219,
+      "name": "Adwait Shastri",
+      "email": "adhvaith311@gmail.com",
+      "userDetails": "Upcoming Intern @Aditya Birla Group | Chief PR Officer @Technovanza | Textile Engineering Student @VJTI | Software Development Enthusiast"
+    },
+    {
+      "firstname": "Anish",
+      "lastname": "Das",
+      "index": 220,
+      "name": "Anish Das",
+      "email": "anishdas1705@gmail.com",
+      "userDetails": "IIM Lucknow PGP’26 | SCC’23"
+    },
+    {
+      "firstname": "Sreeja",
+      "lastname": "Madireddy",
+      "index": 221,
+      "name": "Sreeja Madireddy",
+      "email": "sreejareddymadireddy@gmail.com",
+      "userDetails": "Graduate Teaching Assistant @ Saint Louis University | Master's in Computer Science | Ex- Accenture Associate Software Engineer"
+    },
+    {
+      "firstname": "Kevin",
+      "lastname": "Patel",
+      "index": 222,
+      "name": "Kevin Patel",
+      "email": "kevin.patel@duke.edu",
+      "userDetails": "MBA Candidate at Duke University, Class of 2025"
+    },
+    {
+      "firstname": "Sayma",
+      "lastname": "Tamboli",
+      "index": 223,
+      "name": "Sayma Tamboli",
+      "email": "saymat@umich.edu",
+      "userDetails": "Graduate Research Assistant @Percom Lab | MS in Computer and Information Science"
+    },
+    {
+      "firstname": "Ahmad",
+      "lastname": "Abdullah",
+      "index": 224,
+      "name": "Ahmad Abdullah",
+      "email": "aabdullah.bee22seecs@seecs.edu.pk",
+      "userDetails": "| Sophomore Electrical Engineering Student | Embedded Systems | Voice over Artist | NCBS | NUST 26' |"
+    },
+    {
+      "firstname": "Ankur",
+      "lastname": "Singh",
+      "index": 225,
+      "name": "Ankur Singh",
+      "email": "ankursingh91002@gmail.com",
+      "userDetails": "Open Data Intern @Lillup | Placement coordinator@ CSJMU| Prev: LFX Mentee'23, ML intern @Ignitus"
+    },
+    {
+      "firstname": "Antara",
+      "lastname": "More",
+      "index": 226,
+      "name": "Antara More",
+      "email": "amore0174@sdsu.edu",
+      "userDetails": "Actively seeking Summer Internships 2024 | MSIS Graduate Student at San Diego State University | Ex-Accenture"
+    },
+    {
+      "firstname": "Shadad",
+      "lastname": "Hossain",
+      "index": 227,
+      "name": "Shadad Hossain",
+      "email": "mfh9822@nyu.edu",
+      "userDetails": "Finance and Data Science @ NYU Stern | Statistical Data Analysis"
+    },
+    {
+      "firstname": "Laura",
+      "lastname": "Khotemlyansky",
+      "index": 228,
+      "name": "Laura Khotemlyansky",
+      "email": "laurak11@uw.edu",
+      "userDetails": "Electrical and Computer Engineering Student at the University of Washington"
+    },
+    {
+      "firstname": "Dhrumil",
+      "lastname": "Shah",
+      "index": 229,
+      "name": "Dhrumil Shah",
+      "email": "dshah36@syr.edu",
+      "userDetails": "Ex - Business Analyst at Angel One Limited || Ex - Business Development Executive - Jaro Education"
+    },
+    {
+      "firstname": "Anya",
+      "lastname": "Kumar",
+      "index": 230,
+      "name": "Anya Kumar",
+      "email": "ank726@lehigh.edu",
+      "userDetails": "Program Management & Consulting | Adaptable Computer Science & Business Honors Student at Lehigh University | Global Work Experience"
+    },
+    {
+      "firstname": "Anju",
+      "lastname": "K",
+      "index": 231,
+      "name": "Anju Krishnan N K",
+      "email": "an4103@nyu.edu",
+      "userDetails": "MS in Management of Technology at New York University"
+    },
+    {
+      "firstname": "Reet",
+      "lastname": "Kampani",
+      "index": 232,
+      "name": "Reet Kampani",
+      "email": "rkampani@binghamton.edu",
+      "userDetails": "Accounting @ Binghamton University - SOM"
+    },
+    {
+      "firstname": "Kevin",
+      "lastname": "Y.",
+      "index": 233,
+      "name": "Kevin Y.",
+      "email": "kly2016@stern.nyu.edu",
+      "userDetails": "Student at NYU Stern School of Business"
+    },
+    {
+      "firstname": "Mukul",
+      "lastname": "Rajput",
+      "index": 234,
+      "name": "Mukul Rajput",
+      "email": "kodanta1234@gmail.com",
+      "userDetails": "Sophomore ||GSSOC\"24 || College ambassador @GDG Prayagraj || C || C++ || DSA || Web Development || Certified Postman API Fundamentals Student Expert || Designing skills || Robotics enthusiast || Advertiser"
+    },
+    {
+      "firstname": "Ryan",
+      "lastname": "Georgian",
+      "index": 235,
+      "name": "Ryan Georgian",
+      "email": "rygeorg@wharton.upenn.edu",
+      "userDetails": "Sophomore @ The University of Pennsylvania | Joseph Wharton Scholar"
+    },
+    {
+      "firstname": "Reeya",
+      "lastname": "Patel",
+      "index": 236,
+      "name": "Reeya Patel",
+      "email": "rapatel@usc.edu",
+      "userDetails": "Presidential Scholar at University of Southern California"
+    },
+    {
+      "firstname": "Sai",
+      "lastname": "Padakanti",
+      "index": 237,
+      "name": "Sai Vivek Padakanti",
+      "email": "saivivek@colostate.edu",
+      "userDetails": "Grad Student @ Colorado State University | Peer Research Mentor @ Morgan Library | Computer Science | Artificial Intelligence | Instrumentation | Electronics"
+    },
+    {
+      "firstname": "Kevin",
+      "lastname": "Liu",
+      "index": 238,
+      "name": "Kevin Liu",
+      "email": "kliu469@uwo.ca",
+      "userDetails": "CS @ Western | Director of Events at WCS | Founder of K11 Games"
+    },
+    {
+      "firstname": "Bijan",
+      "lastname": "D.",
+      "index": 239,
+      "name": "Bijan D.",
+      "email": "i21bijand@iimidr.ac.in",
+      "userDetails": "IIM Indore PGP'24 | Ex@ Bharti Airtel Foundation"
+    },
+    {
+      "firstname": "Nida",
+      "lastname": "nimra",
+      "index": 240,
+      "name": "Nida e nimra",
+      "email": "nedaenimra790@gmail.com",
+      "userDetails": "IBA’26 |xAIESEC|xIBA ANP|xIBA PSS| xILC"
+    },
+    {
+      "firstname": "Phillipe",
+      "lastname": "Manio",
+      "index": 241,
+      "name": "Phillipe Manio",
+      "email": "pmanio@uci.edu",
+      "userDetails": "Computer Science @ UC Irvine"
+    },
+    {
+      "firstname": "Kaushiki",
+      "lastname": "Marupalli",
+      "index": 242,
+      "name": "Kaushiki Sreeja Marupalli",
+      "email": "ks.marupalli@gmail.com",
+      "userDetails": "Junior at Triangle Math and Science Academy"
+    },
+    {
+      "firstname": "Hamza",
+      "lastname": "Malik",
+      "index": 243,
+      "name": "Hamza Malik",
+      "email": "hamza.malik575859@gmail.com",
+      "userDetails": "Student at St. Francis Xavier SS ~ Photographer and Digital Creator"
+    },
+    {
+      "firstname": "Sukaina",
+      "lastname": "Abbas",
+      "index": 244,
+      "name": "Sukaina Abbas",
+      "email": "sukainaabbas337@gmail.com",
+      "userDetails": "IBA'25 | Maxment,Inc | Co-Founder at Brainy Bazaar | IBA ANP | TCF"
+    },
+    {
+      "firstname": "Tanishq",
+      "lastname": "Raj",
+      "index": 245,
+      "name": "Tanishq Raj",
+      "email": "tanishqraj0408@gmail.com",
+      "userDetails": "Indigo Squad Member at Mood Indigo IIT Bombay"
+    },
+    {
+      "firstname": "Tin",
+      "lastname": "Do",
+      "index": 246,
+      "name": "Tin Do",
+      "email": "tindo@sas.upenn.edu",
+      "userDetails": "CIS @ UPenn"
+    },
+    {
+      "firstname": "Srishti",
+      "lastname": "Gupta",
+      "index": 247,
+      "name": "Srishti Gupta",
+      "email": "Sgupta01@umd.edu",
+      "userDetails": "\"Entrepreneur & Business Analyst | Educator, Mentor & Speaker | Living by Growth, Resilience, & Seizing Possibilities\""
+    },
+    {
+      "firstname": "Amitoj",
+      "lastname": "A.",
+      "index": 248,
+      "name": "Amitoj Singh A.",
+      "email": "singh99amitoj@gmail.com",
+      "userDetails": "Open to Full Time Opportunities | Software Engineer Intern @ NOKIA | MAC @ UOW | Winner SIH'20 | CSE @ SLIET | SSDC"
+    },
+    {
+      "firstname": "Susmitha",
+      "lastname": "Katta",
+      "index": 249,
+      "name": "Susmitha Katta",
+      "email": "susmitha182004@gmail.com",
+      "userDetails": "KIIT University"
+    },
+    {
+      "firstname": "Shalini",
+      "lastname": "Kumar",
+      "index": 250,
+      "name": "Shalini Shyam Kumar",
+      "email": "sshyamku3975@scrippscollege.edu",
+      "userDetails": "SoCal Youth Leader @ Pratham USA"
+    },
+    {
+      "firstname": "Tanushri",
+      "lastname": "Warade",
+      "index": 251,
+      "name": "Tanushri Warade",
+      "email": "tanushriwarade2004@gmail.com",
+      "userDetails": "Pre-Final Year Student at VJTI | IGBC VJTI Student's Chapter | Business Analytics | Web Development | Digital Marketing | Content Writing"
+    },
+    {
+      "firstname": "Aruga",
+      "lastname": "Firmansyah",
+      "index": 252,
+      "name": "Aruga Yudish Firmansyah",
+      "email": "ayudish7@gmail.com",
+      "userDetails": "ex Developer at Telkom Indonesia | Coding Teacher at Ruangguru | Founder Exless Eyewear | ex System Analyst & Front End Developer | IS Student"
+    },
+    {
+      "firstname": "Akhilesh",
+      "lastname": "Kumar",
+      "index": 253,
+      "name": "Akhilesh Kumar",
+      "email": "akumar20@rockets.utoledo.edu",
+      "userDetails": "Aspiring Software-Developer | Senior @University of Toledo"
+    },
+    {
+      "firstname": "Komal",
+      "lastname": "Yadav",
+      "index": 254,
+      "name": "Komal Yadav",
+      "email": "202152317@iiitvadodara.ac.in",
+      "userDetails": "UI/UX designer ||Web developer ||4☆java@hackerrank|| Student at Indian Institute of Information Technology Vadodara"
+    },
+    {
+      "firstname": "Kainat",
+      "lastname": "Noor",
+      "index": 255,
+      "name": "Kainat Noor",
+      "email": "kainatn32@gmail.com",
+      "userDetails": "Student at Institute of Business Administration"
+    },
+    {
+      "firstname": "Vivek",
+      "lastname": "Parley",
+      "index": 256,
+      "name": "Vivek Parley",
+      "email": "v.parley@iitg.ac.in",
+      "userDetails": "Attended Indian Institute of Technology, Guwahati"
+    },
+    {
+      "firstname": "Anisha",
+      "lastname": "Panda",
+      "index": 257,
+      "name": "Anisha Panda",
+      "email": "anishapanda2002@gmail.com",
+      "userDetails": "Student at BIITM, BHUBANESWAR 👩🏻‍🎓"
+    },
+    {
+      "firstname": "Likhitha",
+      "lastname": "Veshala",
+      "index": 258,
+      "name": "Likhitha Veshala",
+      "email": "veshalalikhitha@gmail.com",
+      "userDetails": "Full Stack Developer Trainee @AccioJob | DSA, Spring Boot, SQL, HTML, CSS, JavaScript | 2023 MCA Graduate | Actively seeking opportunities as Java Developer, Web Developer"
+    },
+    {
+      "firstname": "Ashish",
+      "lastname": "Kumar",
+      "index": 259,
+      "name": "Ashish Kumar",
+      "email": "cashishkumar277@gmail.com",
+      "userDetails": "Student at Sreenidhi Institute of Science and Technology"
+    },
+    {
+      "firstname": "Harinethra",
+      "lastname": "Ramanathan",
+      "index": 260,
+      "name": "Harinethra Ramanathan",
+      "email": "harinethraram@gmail.com",
+      "userDetails": "Junior at Independence High School"
+    },
+    {
+      "firstname": "Wardah",
+      "lastname": "Nadeem",
+      "index": 261,
+      "name": "Wardah Nadeem",
+      "email": "wardah.bmc22s3h@student.nust.edu.pk",
+      "userDetails": "Sophomore Mass Communication Student at School of Social Sciences and Humanities, NUST"
+    },
+    {
+      "firstname": "Yasir",
+      "lastname": "Jalal",
+      "index": 262,
+      "name": "Yasir Jalal",
+      "email": "y.jalal.25258@khi.iba.edu.pk",
+      "userDetails": "AI | Data Science"
+    },
+    {
+      "firstname": "Trishika",
+      "lastname": "Kalapuram",
+      "index": 263,
+      "name": "Trishika Kalapuram",
+      "email": "kodalisp@msu.edu",
+      "userDetails": "Honors College at Eli Broad College of Business"
+    },
+    {
+      "firstname": "Kidist",
+      "lastname": "Nega",
+      "index": 264,
+      "name": "Kidist Nega",
+      "email": "knega@usc.edu",
+      "userDetails": "Business Administration Student at the University of Southern California’s Marshall School of Business"
+    },
+    {
+      "firstname": "Elena",
+      "lastname": "Mao",
+      "index": 265,
+      "name": "Elena Mao",
+      "email": "eamao@usc.edu",
+      "userDetails": "Accounting + Business Administration @ USC Marshall and Leventhal"
+    },
+    {
+      "firstname": "Hetvi",
+      "lastname": "Patel",
+      "index": 266,
+      "name": "Hetvi Patel",
+      "email": "hetvipra@usc.edu",
+      "userDetails": "Actively looking for Summer '24 SDE/SWE Internships || MS CS @ USC || WE'23"
+    },
+    {
+      "firstname": "Anqi",
+      "lastname": "G.",
+      "index": 267,
+      "name": "Anqi \"Angie\" G.",
+      "email": "anqi.guan@outlook.com",
+      "userDetails": "Incoming Software Engineer Intern @PayPal | M.S. in Computer Software Engineering @Northeastern University | RTC | Python | Java | React.js | SpringBoot | Tableau"
+    },
+    {
+      "firstname": "Racheet",
+      "lastname": "Shah",
+      "index": 268,
+      "name": "Racheet Shah",
+      "email": "Shahrach@iu.edu",
+      "userDetails": "Rising Sophomore at the Kelley School of Business | Finance and General Music Studies | Creating a Financial Impact for Start-Up Companies"
+    },
+    {
+      "firstname": "Pragati",
+      "lastname": "Rathi",
+      "index": 269,
+      "name": "Pragati Rathi",
+      "email": "rathi.pragati15@gmail.com",
+      "userDetails": "Student at Indian Institute of Technology, Kanpur"
+    },
+    {
+      "firstname": "Luisa",
+      "lastname": "Torres",
+      "index": 270,
+      "name": "Luisa Yamel Muñoz Torres",
+      "email": "munozyya08@lakeforest.edu",
+      "userDetails": "Economics and Data Science"
+    },
+    {
+      "firstname": "Kelly",
+      "lastname": "Dunn",
+      "index": 271,
+      "name": "Kelly Dunn",
+      "email": "kellytdunn2@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Prerna",
+      "lastname": "Gupta",
+      "index": 272,
+      "name": "Prerna Gupta",
+      "email": "pg493@njit.edu",
+      "userDetails": "Actively looking for Software Development Full Time Roles | MS@NJIT | Full Stack Web Development | Database Administrator | PL/SQL | Python | Cloud Computing/AWS | Java"
+    },
+    {
+      "firstname": "Chloe",
+      "lastname": "Park",
+      "index": 273,
+      "name": "Chloe Park",
+      "email": "csp8@rice.edu",
+      "userDetails": "B.S. Candidate for Computer Science at Rice University | Software Engineering Concentration | Data Science Minor"
+    },
+    {
+      "firstname": "Kennedy",
+      "lastname": "Achugamonu",
+      "index": 274,
+      "name": "Kennedy Achugamonu",
+      "email": "kia2@duke.edu",
+      "userDetails": "Computer Science and Finance at Duke University, New York Times Student Podcast Winner"
+    },
+    {
+      "firstname": "Bhavik",
+      "lastname": "Tadigotla",
+      "index": 275,
+      "name": "Bhavik Tadigotla",
+      "email": "bt30@rice.edu",
+      "userDetails": "Digital Health Innovation | Health Sciences @ Rice University"
+    },
+    {
+      "firstname": "Miles",
+      "lastname": "Hall",
+      "index": 276,
+      "name": "Miles Hall",
+      "email": "mileshall423@gmail.com",
+      "userDetails": "Computer Science at Loyola University Maryland"
+    },
+    {
+      "firstname": "Ashrith",
+      "lastname": "Dodla",
+      "index": 277,
+      "name": "Ashrith Dodla",
+      "email": "ashrith.dodla@gmail.com",
+      "userDetails": "Student at Rouse High School"
+    },
+    {
+      "firstname": "Amnah",
+      "lastname": "M.",
+      "index": 278,
+      "name": "Amnah M.",
+      "email": "amnahminal@gmail.com",
+      "userDetails": "MPGSS'23"
+    },
+    {
+      "firstname": "Sahil",
+      "lastname": "Shukla",
+      "index": 279,
+      "name": "Sahil Shukla",
+      "email": "sahils3@uw.edu",
+      "userDetails": "Student at University of Washington pursuing a Computer Science Major and a Business minor"
+    },
+    {
+      "firstname": "Siddhant",
+      "lastname": "Shinde",
+      "index": 280,
+      "name": "Siddhant Shinde",
+      "email": "siddhanthshinde.2002@gmail.com",
+      "userDetails": "Student at Veermata Jijabai Technological Institute (VJTI)"
+    },
+    {
+      "firstname": "Sameer",
+      "lastname": "Jha",
+      "index": 281,
+      "name": "Sameer Jha",
+      "email": "sameer.jha884@gmail.com",
+      "userDetails": "Student at Aryabhatta College"
+    },
+    {
+      "firstname": "Tanuj",
+      "lastname": "Chandekar",
+      "index": 282,
+      "name": "Tanuj Chandekar",
+      "email": "Tchandek@iu.edu",
+      "userDetails": "Student at Kelley School of Business majoring in finance and accounting with a passion for financial analysis and management | Quantitative | Leader"
+    },
+    {
+      "firstname": "Vaishali",
+      "lastname": "Choudhary",
+      "index": 283,
+      "name": "Vaishali Choudhary",
+      "email": "mt1221948@iitd.ac.in",
+      "userDetails": "Student at Indian Institute of Technology, Delhi"
+    },
+    {
+      "firstname": "Stuti",
+      "lastname": "Sharma",
+      "index": 284,
+      "name": "Stuti Sharma",
+      "email": "stuti067btece23@igdtuw.ac.in",
+      "userDetails": "Tech Enthusiast | TnP Coord | Web Development & AI Enthusiast | Protégé IGDTUW | TechNeeds IGDTUW | Web Development Circle | GDSC IGDTUW | Google Cloud Study Jam | Lean In @IGDTUW | DSA in CPP Mentee"
+    },
+    {
+      "firstname": "Evan",
+      "lastname": "Su",
+      "index": 285,
+      "name": "Evan Su",
+      "email": "esu@ucsd.edu",
+      "userDetails": "Cognitive Science, Machine Learning Student at UC San Diego"
+    },
+    {
+      "firstname": "Sergey",
+      "lastname": "Kislenkov",
+      "index": 286,
+      "name": "Sergey Kislenkov",
+      "email": "skis@umich.edu",
+      "userDetails": "Computer Science at the University of Michigan"
+    },
+    {
+      "firstname": "Khoa",
+      "lastname": "Nguyen",
+      "index": 287,
+      "name": "Khoa Nguyen",
+      "email": "khoan@berkeley.edu",
+      "userDetails": "ML Research Lead @ Berkeley EECS | Studying EECS @ Berkeley"
+    },
+    {
+      "firstname": "Kathy",
+      "lastname": "L.",
+      "index": 288,
+      "name": "Kathy L.",
+      "email": "kathy_m_li@brown.edu",
+      "userDetails": "Student at Brown University"
+    },
+    {
+      "firstname": "Faria",
+      "lastname": "Ellahi",
+      "index": 289,
+      "name": "Faria Ellahi",
+      "email": "fariaellahi5@gmail.com",
+      "userDetails": "Senior at Habib University"
+    },
+    {
+      "firstname": "Spring",
+      "lastname": "Fang",
+      "index": 290,
+      "name": "Spring Fang",
+      "email": "Fangs2@rpi.edu",
+      "userDetails": "Senior Student at Rensselear Polytechnic Institute (RPI) BS Mathematics and BS Economics, Operation Utilities Intern at BNY Mellon"
+    },
+    {
+      "firstname": "Precious",
+      "lastname": "Onah",
+      "index": 291,
+      "name": "Precious Onah",
+      "email": "precious.onah@stillman.edu",
+      "userDetails": "Computational Mathematics Major | Harte Honors Scholar | Aspiring Software engineer | Rewriting the Code Fellow | xTech Finalist"
+    },
+    {
+      "firstname": "Javeria",
+      "lastname": "Rizwan",
+      "index": 292,
+      "name": "Javeria Rizwan",
+      "email": "javeriarizwan23@gmail.com",
+      "userDetails": "Student at Forman Christian College (A Chartered University)"
+    },
+    {
+      "firstname": "Yenan",
+      "lastname": "Jin",
+      "index": 293,
+      "name": "Yenan Jin",
+      "email": "yj479@cornell.edu",
+      "userDetails": "Student at Cornell University"
+    },
+    {
+      "firstname": "Joseph",
+      "lastname": "Dattilo",
+      "index": 294,
+      "name": "Joseph Dattilo",
+      "email": "jdatt@sas.upenn.edu",
+      "userDetails": "Incoming Intern @ Noblis | Lead Developer @ PennApps | Band Leader @ Mask & Wig | CS & Music @ UPenn"
+    },
+    {
+      "firstname": "Sumaiya",
+      "lastname": "Sayeed",
+      "index": 295,
+      "name": "Sumaiya Sayeed",
+      "email": "ss54@williams.edu",
+      "userDetails": "Prospective CS & American Studies Major at Williams College | Questbridge National Match Scholar"
+    },
+    {
+      "firstname": "Dhruv",
+      "lastname": "Bejugam",
+      "index": 296,
+      "name": "Dhruv Bejugam",
+      "email": "dsb59@duke.edu",
+      "userDetails": "Computer Science and Economics | Duke University"
+    },
+    {
+      "firstname": "Ruchitha",
+      "lastname": "Munugala",
+      "index": 297,
+      "name": "Ruchitha Reddy Munugala",
+      "email": "rm23s@fsu.edu",
+      "userDetails": "Graduate Student at Florida State University | Actively looking for internship opportunities starting Summer 2024 | Java Developer | Ex-TCS"
+    },
+    {
+      "firstname": "Dhrutika",
+      "lastname": "Kalidindi",
+      "index": 298,
+      "name": "Dhrutika Kalidindi",
+      "email": "kalidindidhrutika@gmail.com",
+      "userDetails": "BTECH 3rd year student at IIT DH"
+    },
+    {
+      "firstname": "Titas",
+      "lastname": "Roy",
+      "index": 299,
+      "name": "Titas Roy",
+      "email": "titas7118@gmail.com",
+      "userDetails": "IEM'25||Tech Enthusiast ||Beginner Full stack web developer||C- ⭐⭐⭐,C++⭐⭐,Python|| PR Head @IEI-IEM Student's Chapter ( Electrical Division)"
+    },
+    {
+      "firstname": "Anudeep",
+      "lastname": "Yelakala",
+      "index": 300,
+      "name": "Anudeep Yelakala",
+      "email": "anudeepyelakala6@gmail.com",
+      "userDetails": "| Student at IIITDM | Art Club Core"
+    },
+    {
+      "firstname": "Sreekari",
+      "lastname": "Chinta",
+      "index": 301,
+      "name": "Sreekari Chinta",
+      "email": "sreekaric@gmail.com",
+      "userDetails": "Seeking Spring 2024/Fall 2025 Internships |CS @ SFSU"
+    },
+    {
+      "firstname": "Raj",
+      "lastname": "Kedia",
+      "index": 302,
+      "name": "Raj Kedia",
+      "email": "b21ec019@nitm.ac.in",
+      "userDetails": "Pre-final year at NITM||ACM- ICPC Regionalist 2023-24||Competitive Programmer ||Python, Django"
+    },
+    {
+      "firstname": "Riya",
+      "lastname": "Sinha",
+      "index": 303,
+      "name": "Riya Sinha",
+      "email": "790riyasinha@gmail.com",
+      "userDetails": "Frontend, React, Web Developer | Passionated about DS, Algo | NIT Raipur"
+    },
+    {
+      "firstname": "Shruti",
+      "lastname": "Sengottuvel",
+      "index": 304,
+      "name": "Shruti Sengottuvel",
+      "email": "shrutisen03@gmail.com",
+      "userDetails": "Computer Science + Technology Management @ UC Davis"
+    },
+    {
+      "firstname": "Prince",
+      "lastname": "Aggarwal",
+      "index": 305,
+      "name": "Prince Aggarwal",
+      "email": "prince991151@gmail.com",
+      "userDetails": "C C++ PYTHON HTML CSS MACHINE LEARNING DEEP LEARNING MLOPS|| Placement coordinator at Maharaja agrasen institute of technology|| Team chaitanya Promotional head"
+    },
+    {
+      "firstname": "Paras",
+      "lastname": "Ahuja",
+      "index": 306,
+      "name": "Paras Ahuja",
+      "email": "parasxahuja@gmail.com",
+      "userDetails": "Full Stack Web Developer || MongoDb || Express.js || React.js || Node.js"
+    },
+    {
+      "firstname": "Uma",
+      "lastname": "Uppuloori",
+      "index": 307,
+      "name": "Uma Uppuloori",
+      "email": "uxu210003@utdallas.edu",
+      "userDetails": "CS @ UT Dallas | Break Through Tech AI/ML Fellow @ Cornell Tech"
+    },
+    {
+      "firstname": "Sanjana",
+      "lastname": "M.",
+      "index": 308,
+      "name": "Sanjana Reddy M.",
+      "email": "smethuk1@uncc.edu",
+      "userDetails": "Actively looking for Summer 2024 internship opportunities | MSCS @ University of North Carolina at Charlotte | Ex - Accenture"
+    },
+    {
+      "firstname": "Shivani",
+      "lastname": "J",
+      "index": 309,
+      "name": "Shivani Singh T J",
+      "email": "singhsonushivani@gmail.com",
+      "userDetails": "Attended Sambhram Institute of Technology, BANGALORE"
+    },
+    {
+      "firstname": "Gaurav",
+      "lastname": "Nair",
+      "index": 310,
+      "name": "Gaurav Nair",
+      "email": "gaurav.nair2511@gmail.com",
+      "userDetails": "Math-CS + Business Economics @ UC San Diego"
+    },
+    {
+      "firstname": "Vinit",
+      "lastname": "Patel",
+      "index": 311,
+      "name": "Vinit Patel",
+      "email": "vinitp0310@gmail.com",
+      "userDetails": "Searching for a Summer/Fall 2024 Co-Op | Computer Science + AI @ Northeastern University"
+    },
+    {
+      "firstname": "Faizan",
+      "lastname": "Aamir",
+      "index": 312,
+      "name": "Faizan Aamir",
+      "email": "aamirs6@mcmaster.ca",
+      "userDetails": "Data Science | Python | Machine learning | Student at McMaster University"
+    },
+    {
+      "firstname": "Karan",
+      "lastname": "Darji",
+      "index": 313,
+      "name": "Karan Darji",
+      "email": "darji.karan26@gmail.com",
+      "userDetails": "Python Developer | Backend Developer | Flask Developer | Django Learner | Data Science & Machine Learning Enthusiast"
+    },
+    {
+      "firstname": "Hsun-Wen",
+      "lastname": "Chang",
+      "index": 314,
+      "name": "Hsun-Wen Chang",
+      "email": "hchang42@ur.rochester.edu",
+      "userDetails": "Seeking Opportunities in Marketing/Business Analytics | MSMA @Simon Business School | Digital Marketing | SQL | Tableau | Available for Full-Time from May 2024"
+    },
+    {
+      "firstname": "Julian",
+      "lastname": "Martinez",
+      "index": 315,
+      "name": "Julian Martinez",
+      "email": "julianmartinez21466@gmail.com",
+      "userDetails": "Software engineer"
+    },
+    {
+      "firstname": "Sai",
+      "lastname": "Sivareddy",
+      "index": 316,
+      "name": "Sai SrinathReddy Sivareddy",
+      "email": "ss18364@nyu.edu",
+      "userDetails": "MS Student @NYU |Ex-FULL Creative | Ex-Cognizant | Actively Looking for Summer'24 Internships"
+    },
+    {
+      "firstname": "Shikha",
+      "lastname": "Choudhary",
+      "index": 317,
+      "name": "Shikha Choudhary",
+      "email": "shikhacse45@gmail.com",
+      "userDetails": "Igdtuw'25"
+    },
+    {
+      "firstname": "Caden",
+      "lastname": "Chang",
+      "index": 318,
+      "name": "Caden Chang",
+      "email": "cadenchang33@gmail.com",
+      "userDetails": "Computer Science and Economics Student at Tufts University"
+    },
+    {
+      "firstname": "Shilpa",
+      "lastname": "Kuppili",
+      "index": 319,
+      "name": "Shilpa Kuppili",
+      "email": "shilpakp333@gmail.com",
+      "userDetails": "Seeking for Summer 2024 internship/Full time opportunities|AI/ML enthusiast|Senior Software Engineer|"
+    },
+    {
+      "firstname": "Divya",
+      "lastname": "Kapil",
+      "index": 320,
+      "name": "Divya Kapil",
+      "email": "dikapil@syr.edu",
+      "userDetails": "Actively Seeking 2024 Summer Internships | MS CS Graduate Student at Syracuse University | Software Engineer at Infogain"
+    },
+    {
+      "firstname": "Vinay",
+      "lastname": "Maurya",
+      "index": 321,
+      "name": "Vinay Kumar Maurya",
+      "email": "vinne0563@gmail.com",
+      "userDetails": "Frontend intern at Salesqueen Software Solutions||Skills (Javascript+ React.js + Node.js + MongoDb + Machine Learning)|| 4 ⭐ on Hackerrank || 500+ solved question on Leetcode || Institute Rank 11 on GeeksforGeeks"
+    },
+    {
+      "firstname": "Lakshay",
+      "lastname": "Nagpal",
+      "index": 322,
+      "name": "Lakshay Nagpal",
+      "email": "lakshnag2004@utexas.edu",
+      "userDetails": "MIS @ UT Austin"
+    },
+    {
+      "firstname": "Gaurav",
+      "lastname": "Gautam",
+      "index": 323,
+      "name": "Gaurav Gautam",
+      "email": "gauravg131@outlook.com",
+      "userDetails": "Backend Developer"
+    },
+    {
+      "firstname": "Abhishek",
+      "lastname": "A",
+      "index": 324,
+      "name": "Abhishek A",
+      "email": "arunkumar3@wisc.edu",
+      "userDetails": "MS-IS @ University of Wisconsin-Madison | Associate | PwC Acceleration Centers | AWS Certified Developer"
+    },
+    {
+      "firstname": "Vidhya",
+      "lastname": "K",
+      "index": 325,
+      "name": "Vidhya Varsha Sri K",
+      "email": "varsha12th@gmail.com",
+      "userDetails": "GSSOC'23||NIT_A ECE 2025||5⭐️@HackerRank||DSA||Front-End"
+    },
+    {
+      "firstname": "Satvik",
+      "lastname": "Muddana",
+      "index": 326,
+      "name": "Satvik Muddana",
+      "email": "satvikmuddana@berkeley.edu",
+      "userDetails": "Incoming Software Intern @ SoFi | Ex- Visa, Cisco Meraki | BAIR | Student at University of California, Berkeley"
+    },
+    {
+      "firstname": "Daniel",
+      "lastname": "Detchev",
+      "index": 327,
+      "name": "Daniel Detchev",
+      "email": "daniel.detchev@gmail.com",
+      "userDetails": "CS @ UC Berkeley"
+    },
+    {
+      "firstname": "Akshika",
+      "lastname": "Chawade",
+      "index": 328,
+      "name": "Akshika Chawade",
+      "email": "aac225@cornell.edu",
+      "userDetails": "Computer Science Student at Cornell University"
+    },
+    {
+      "firstname": "Salah",
+      "lastname": "Mohamed",
+      "index": 329,
+      "name": "Salah Mohamed",
+      "email": "moha1574@umn.edu",
+      "userDetails": "CS + DS Student @ University of Minnesota-Twin Cities | ColorStack Fellow | MLT CP Fellow ‘26 SWE Track | Codepath"
+    },
+    {
+      "firstname": "Shirlene",
+      "lastname": "Bandela",
+      "index": 330,
+      "name": "Shirlene Bandela",
+      "email": "shirleneroseb@vt.edu",
+      "userDetails": "M.Eng Computer Science at Virginia Tech | Seeking Summer 2024 Internships | Ex SE-I JPMorgan Chase & Co."
+    },
+    {
+      "firstname": "Gaurav",
+      "lastname": "Sharma",
+      "index": 331,
+      "name": "Gaurav Sharma",
+      "email": "grs9@uw.edu",
+      "userDetails": "MS EE Grad at University of Washington-Seattle| Ex research intern @ASU and Yuan Ze University"
+    },
+    {
+      "firstname": "Aadi",
+      "lastname": "Gupta",
+      "index": 332,
+      "name": "Aadi Gupta",
+      "email": "Iamgupta@ucdavis.edu",
+      "userDetails": "Student at University of California, Davis"
+    },
+    {
+      "firstname": "Krishna",
+      "lastname": "Gandhi",
+      "index": 333,
+      "name": "Krishna Gandhi",
+      "email": "krishnagandhi2012@gmail.com",
+      "userDetails": "Ex-Intern @ SAMSUNG SDS | Completed JAVA FSD, GUVI Certificate | Completed MERN FSD | Secretary @ IEEE Student Branch of ABV-IIITM Gwalior | Volunteer @ High End Workshop on Resent Trends in VLSI"
+    },
+    {
+      "firstname": "Basit",
+      "lastname": "Usman",
+      "index": 334,
+      "name": "Basit Usman",
+      "email": "basitu955@gmail.com",
+      "userDetails": "Project Management | Process Improvement | Cloud Technologies | DevOps Enthusiast"
+    },
+    {
+      "firstname": "Rishit",
+      "lastname": "Puri",
+      "index": 335,
+      "name": "Rishit Puri",
+      "email": "rispuri@iu.edu",
+      "userDetails": "MSDS @ Indiana Univ | SRM | Research Intern @ NUS | Semester Abroad @ UC Davis | Summer Training @ HPE"
+    },
+    {
+      "firstname": "Hepsiba",
+      "lastname": "Sali",
+      "index": 336,
+      "name": "Hepsiba Sali",
+      "email": "hepsiba20@iitk.ac.in",
+      "userDetails": "Indian Institute of Technology Kanpur"
+    },
+    {
+      "firstname": "Christian",
+      "lastname": "Kirby",
+      "index": 337,
+      "name": "Christian Kirby",
+      "email": "cdk37@duke.edu",
+      "userDetails": "Second-Year at Duke University | Gates Scholar Cohort VI | Trinity School of Arts and Sciences"
+    },
+    {
+      "firstname": "Hina",
+      "lastname": "Hamidani",
+      "index": 338,
+      "name": "Hina Hamidani",
+      "email": "hhamid4@uic.edu",
+      "userDetails": "Student at University of Illinois Chicago"
+    },
+    {
+      "firstname": "Ethan",
+      "lastname": "Zhou",
+      "index": 339,
+      "name": "Ethan Zhou",
+      "email": "ethan.zhou@rutgers.edu",
+      "userDetails": "Finance/CS @ Rutgers Business School"
+    },
+    {
+      "firstname": "Sarthak",
+      "lastname": "Bathla",
+      "index": 340,
+      "name": "Sarthak Bathla",
+      "email": "sarthakbathla17@gmail.com",
+      "userDetails": "Intern @Gharbar | Ex-intern @Ineuron.ai | 300+ DSA problems solved"
+    },
+    {
+      "firstname": "Utkarsha",
+      "lastname": "Manoj",
+      "index": 341,
+      "name": "Utkarsha Manoj",
+      "email": "utkarshamanoj245@gmail.com",
+      "userDetails": "Student at Nitte Meenakshi Institute of Technology"
+    },
+    {
+      "firstname": "Tejal",
+      "lastname": "Palwankar",
+      "index": 342,
+      "name": "Tejal Palwankar",
+      "email": "tpalwank@syr.edu",
+      "userDetails": "Actively seeking for Summer Internships | MS in Information Systems | Graduate Student @Syracuse University | Business Analyst @Kiya.ai | Bachelors of Engineering in Computer Science"
+    },
+    {
+      "firstname": "Srishti",
+      "lastname": "Soni",
+      "index": 343,
+      "name": "Srishti Soni",
+      "email": "srishso1202@gmail.com",
+      "userDetails": "CSE undergrad at nitrr || nitrr'25 || 3⭐@Codechef || Contributor GSSOC'24"
+    },
+    {
+      "firstname": "Srushti",
+      "lastname": "Nandal",
+      "index": 344,
+      "name": "Srushti Nandal",
+      "email": "srushti.nandal29@utexas.edu",
+      "userDetails": "Actively Seeking Full-Time starting May 2024| Masters Student @University of Texas at Austin | Ex-Software Engineer @UBS"
+    },
+    {
+      "firstname": "Frank",
+      "lastname": "F.",
+      "index": 345,
+      "name": "Frank F.",
+      "email": "yuqiao.feng@maine.edu",
+      "userDetails": "SDE Intern @ BMW |Founder of Frankland | Mentor of ChickTech | MSCS at college of computer science|BS in Project Management & Information System @University of Maine | Programmer"
+    },
+    {
+      "firstname": "Lillian",
+      "lastname": "Yu",
+      "index": 346,
+      "name": "Lillian Yu",
+      "email": "lyu2@andrew.cmu.edu",
+      "userDetails": "Computer Science @ CMU"
+    },
+    {
+      "firstname": "Andy",
+      "lastname": "T.",
+      "index": 347,
+      "name": "Andy T.",
+      "email": "adthai@uw.edu",
+      "userDetails": "CS @ UW Seattle, Minoring in Business"
+    },
+    {
+      "firstname": "Vani",
+      "lastname": "Sood",
+      "index": 348,
+      "name": "Vani Sood",
+      "email": "vanisood04@gmail.com",
+      "userDetails": "Student at Lady Shri Ram College For Women"
+    },
+    {
+      "firstname": "Arpit",
+      "lastname": "Agrawal",
+      "index": 349,
+      "name": "Arpit Agrawal",
+      "email": "arpitagrawal2402@gmail.com",
+      "userDetails": "Software Engineer Intern @Act21 || Full Stack Developer [ MERN ] || Problem Solver || Knight @Leetcode || 3⭐ @Codechef || Pupil @Codeforces"
+    },
+    {
+      "firstname": "Ankita",
+      "lastname": "Choudhary",
+      "index": 350,
+      "name": "Ankita Choudhary",
+      "email": "ankitawork26@gmail.com",
+      "userDetails": "Project Intern @ TBRL- DRDO | MERN-STACK Developer | Contributor GSSOC'24|DevOps Enthusiast|"
+    },
+    {
+      "firstname": "Medha",
+      "lastname": "Gupta",
+      "index": 351,
+      "name": "Medha Gupta",
+      "email": "medhag2@uw.edu",
+      "userDetails": "SWE @ Alleo | CS @ UW | CSE TA"
+    },
+    {
+      "firstname": "Badri",
+      "lastname": "A",
+      "index": 352,
+      "name": "Badri A",
+      "email": "badusumalli@hawk.iit.edu",
+      "userDetails": "Actively seeking Internship Opportunities for Summer 2024 | Graduate Data Science student at IIT Chicago | Microsoft 3x | Databricks 2x | Snowflake 1x | Ex - Innovaccer | US Healthcare Analytics"
+    },
+    {
+      "firstname": "Ananya",
+      "lastname": "Nandi",
+      "index": 353,
+      "name": "Ananya Nandi",
+      "email": "ananyanandi8@gmail.com",
+      "userDetails": "MSIM student @University of Washington | Aspiring PM | Software Engineer | Emerging Tech"
+    },
+    {
+      "firstname": "Kriti",
+      "lastname": "Sachan",
+      "index": 354,
+      "name": "Kriti Sachan",
+      "email": "kritisachan2@gmail.com",
+      "userDetails": "Manipal University Jaipur"
+    },
+    {
+      "firstname": "Meith",
+      "lastname": "Navlakha",
+      "index": 355,
+      "name": "Meith Hitesh Navlakha",
+      "email": "meithnav@g.ucla.edu",
+      "userDetails": "MSCS @ UCLA | TA PIC 10A - C++ | Ex-NLP intern @IITP | Actively looking for Summer Internship 2024"
+    },
+    {
+      "firstname": "Ganapathy",
+      "lastname": "Sankarasubramaniyan",
+      "index": 356,
+      "name": "Ganapathy Sankarasubramaniyan",
+      "email": "gsankar6@asu.edu",
+      "userDetails": "Project Manager Intern | Lean Six Sigma Green Belt certified @ CSSC | Ex-HPE | Teaching Assistant | Engineering Management"
+    },
+    {
+      "firstname": "Saniya",
+      "lastname": "Shaikh",
+      "index": 357,
+      "name": "Saniya Shaikh",
+      "email": "sshai10@simon.rochester.edu",
+      "userDetails": "Investment Banking Analyst | Strategy & Consulting | Chartered Accountant (CPA Equivalent)"
+    },
+    {
+      "firstname": "Chirag",
+      "lastname": "Goyal",
+      "index": 358,
+      "name": "Chirag Goyal",
+      "email": "aashigoyal77@gmail.com",
+      "userDetails": "High Frequency Trading | Quantitative Finance | Algorithmic Trading"
+    },
+    {
+      "firstname": "Ragini",
+      "lastname": "Singh",
+      "index": 359,
+      "name": "Ragini Singh",
+      "email": "ragi19122000@gmail.com",
+      "userDetails": "Student at Shri Shankaracharya Technical campus, Bhilai"
+    },
+    {
+      "firstname": "Afnan",
+      "lastname": "Ahmed",
+      "index": 360,
+      "name": "Afnan Ahmed",
+      "email": "afnansheik116@gmail.com",
+      "userDetails": "Passionate Computer Science & AI Student 2-Year | Emerging Innovator in Tech"
+    },
+    {
+      "firstname": "Muhammad",
+      "lastname": "Fahad",
+      "index": 361,
+      "name": "Muhammad Fahad",
+      "email": "muhammadfahad11698@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Sai",
+      "lastname": "N",
+      "index": 362,
+      "name": "Sai Avinash N",
+      "email": "saiavinashn@gwmail.gwu.edu",
+      "userDetails": "Data Scientist"
+    },
+    {
+      "firstname": "Mansi",
+      "lastname": "Dhamne",
+      "index": 363,
+      "name": "Mansi Dhamne",
+      "email": "mansiadhamne@gmail.com",
+      "userDetails": "Winner at SE Hackathon, S.P.I.T | Joint-Sec @RC S.P.I.T | Creative Head @GDSC S.P.I.T"
+    },
+    {
+      "firstname": "Abdirahman",
+      "lastname": "Ibrahim",
+      "index": 364,
+      "name": "Abdirahman Ibrahim",
+      "email": "ibrah342@umn.edu",
+      "userDetails": "CS @ UMN | ColorStack | NSBE | Co-Founder of Somalis in Tech and Business (SIBAT)"
+    },
+    {
+      "firstname": "Manu",
+      "lastname": "Deva",
+      "index": 365,
+      "name": "Manu Deva",
+      "email": "manudeva2025@u.northwestern.edu",
+      "userDetails": "Computer Science and Economics Student at Northwestern University"
+    },
+    {
+      "firstname": "Moses",
+      "lastname": "Madavaram",
+      "index": 366,
+      "name": "Moses Madavaram",
+      "email": "mvm7031@psu.edu",
+      "userDetails": "Software Engineering | Computer Science Undergraduate student"
+    },
+    {
+      "firstname": "Priyanshu",
+      "lastname": "Agarwal",
+      "index": 367,
+      "name": "Priyanshu Agarwal",
+      "email": "priyanshuagarwal1008@gmail.com",
+      "userDetails": "Passionate MERN Developer | Crafting Scalable Web Solutions with MongoDB, Express.js, Reaqct.js & Node.js | Open to Exciting Opportunities | 200+ question on leetcode"
+    },
+    {
+      "firstname": "Vaishnavi",
+      "lastname": "Kataram",
+      "index": 368,
+      "name": "Vaishnavi Kataram",
+      "email": "vk54010n@pace.edu",
+      "userDetails": "Aspiring Software Developer | Full-Stack Development | Java | Spring boot | Node.js | Express | React.js | MongoDB | SQL | Python | AWS | CS Grad Student"
+    },
+    {
+      "firstname": "Vanessa",
+      "lastname": "Yu",
+      "index": 369,
+      "name": "Vanessa Yu",
+      "email": "vanessayu2027@u.northwestern.edu",
+      "userDetails": "Northwestern Student"
+    },
+    {
+      "firstname": "MD",
+      "lastname": "FAIZAN",
+      "index": 370,
+      "name": "MD FAIZAN",
+      "email": "faizan96596@gmail.com",
+      "userDetails": "Seeking Internship Role || DSA in JAVA || HTML, CSS, Bootstrap, JavaScript, Express, Node.js, MongoDB || MAKAUT'25"
+    },
+    {
+      "firstname": "Sreya",
+      "lastname": "Siloju",
+      "index": 371,
+      "name": "Sreya Sree Siloju",
+      "email": "ssiloju1@umbc.edu",
+      "userDetails": "Data Science Graduate Student at UMBC//Ex-ZF Group employee Actively seeking internships for Summer 2024"
+    },
+    {
+      "firstname": "Jills",
+      "lastname": "Babu",
+      "index": 372,
+      "name": "Jills Babu",
+      "email": "jb8643@nyu.edu",
+      "userDetails": "Mechatronics designs | Robotics systems and controls | Networked Robotics Systems | Cooperative Control and Swarming | ROS"
+    },
+    {
+      "firstname": "Nitish",
+      "lastname": "Mahesh",
+      "index": 373,
+      "name": "Nitish Chandra Mahesh",
+      "email": "n.chandramahesh@ufl.edu",
+      "userDetails": "Actively seeking Software Engineering internships for Summer 2024 | MS CS at the University of Florida"
+    },
+    {
+      "firstname": "Suraj",
+      "lastname": "Venna",
+      "index": 374,
+      "name": "Suraj Venna",
+      "email": "vennasj@mail.uc.edu",
+      "userDetails": "Graduate Student at University of Cincinnati"
+    },
+    {
+      "firstname": "Abhay",
+      "lastname": "kesarwani",
+      "index": 375,
+      "name": "Abhay kesarwani",
+      "email": "abhay.kesarwani.ece@gmail.com",
+      "userDetails": "System Engineer at Tata Consultancy Services"
+    },
+    {
+      "firstname": "Atharva",
+      "lastname": "Dahotre",
+      "index": 376,
+      "name": "Atharva Dahotre",
+      "email": "adahotre@uwm.edu",
+      "userDetails": "Actively seeking Summer Internships 2024 | Master's in ITM - Data Analytics and AI at University of Wisconsin Milwaukee"
+    },
+    {
+      "firstname": "Rutvi",
+      "lastname": "Sutariya",
+      "index": 377,
+      "name": "Rutvi Sutariya",
+      "email": "rsutariy1@stevens.edu",
+      "userDetails": "Masters in Computer Science, Stevens Institute Of Technology"
+    },
+    {
+      "firstname": "Shrijat",
+      "lastname": "Majumdar",
+      "index": 378,
+      "name": "Shrijat Majumdar",
+      "email": "shrijat2601@gmail.com",
+      "userDetails": "Sophomore at Birla Institute of Technology and Science, Pilani (CSE Department)"
+    },
+    {
+      "firstname": "Tejal",
+      "lastname": "Patel",
+      "index": 379,
+      "name": "Tejal Patel",
+      "email": "tpatel3@seattleu.edu",
+      "userDetails": "Actively seeking summer internships 2024| computer science | Seattle University"
+    },
+    {
+      "firstname": "Ritika",
+      "lastname": "Luthra",
+      "index": 380,
+      "name": "Ritika Luthra",
+      "email": "ritikaluthra15@gmail.com",
+      "userDetails": "Computer Science Student at Rutgers University - New Brunswick"
+    },
+    {
+      "firstname": "Riwaj",
+      "lastname": "Gautam",
+      "index": 381,
+      "name": "Riwaj Gautam",
+      "email": "riwajgau@usc.edu",
+      "userDetails": "Undergraduate Business Student At USC Marshall"
+    },
+    {
+      "firstname": "Badar",
+      "lastname": "Shaikh",
+      "index": 382,
+      "name": "Badar Shaikh",
+      "email": "badarshaikh1717@gmail.com",
+      "userDetails": "Third Year Student at Bilkent University Faculty of Business Administration | Business Analyst | Data Science Enthusiast | Web Data Extraction Specialist | Aspiring Quantitative Analyst"
+    },
+    {
+      "firstname": "Krishna",
+      "lastname": "Hota",
+      "index": 383,
+      "name": "Krishna Hota",
+      "email": "khota2@illinois.edu",
+      "userDetails": "Computer Science student at University of Illinois Urbana-Champaign"
+    },
+    {
+      "firstname": "Nathan",
+      "lastname": "Mathew",
+      "index": 384,
+      "name": "Nathan Mathew",
+      "email": "mathewna@iu.edu",
+      "userDetails": "Kelley School of Business student majoring in information systems. Effective communicator with proven ability to lead a team."
+    },
+    {
+      "firstname": "Ramanuj",
+      "lastname": "Tripathi",
+      "index": 385,
+      "name": "Ramanuj Tripathi",
+      "email": "ashishkunda8512@gmail.com",
+      "userDetails": "Front-end Development II Web development II Software Engineering II Business Sales Specialist and Development"
+    },
+    {
+      "firstname": "Ahan",
+      "lastname": "Saripalli",
+      "index": 386,
+      "name": "Ahan Saripalli",
+      "email": "ahan.saripalli@utdallas.edu",
+      "userDetails": "CS Sophomore @ UTD"
+    },
+    {
+      "firstname": "Aditi",
+      "lastname": "Ranjan",
+      "index": 387,
+      "name": "Aditi Ranjan",
+      "email": "aditi.ranjan.mtv@gmail.com",
+      "userDetails": "AI Enthusiast | FTC Robotics | 3x Hackathon Winner | Freshman @ Dougherty Valley High School"
+    },
+    {
+      "firstname": "Kelechi",
+      "lastname": "Opurum",
+      "index": 388,
+      "name": "Kelechi Opurum",
+      "email": "kelechiopurum2005@gmail.com",
+      "userDetails": "CS @ Loyola University Maryland"
+    },
+    {
+      "firstname": "Vineet",
+      "lastname": "Kumar",
+      "index": 389,
+      "name": "Vineet Kumar",
+      "email": "vin123eet2002@gmail.com",
+      "userDetails": "DSA in C++||LEARNING- WEB DEVELOPMENT &SOFTWARE TESTING||HTML||CSS||C||C++||JAVA ||JS"
+    },
+    {
+      "firstname": "Moin",
+      "lastname": "Hasan",
+      "index": 390,
+      "name": "Moin Hasan",
+      "email": "mh29096n@pace.edu",
+      "userDetails": "Student at Pace University, New York // On a Quest for Summer Internships: Let's Innovate Together!"
+    },
+    {
+      "firstname": "Alok",
+      "lastname": "Maurya",
+      "index": 391,
+      "name": "Alok Maurya",
+      "email": "22mc3041@rgipt.ac.in",
+      "userDetails": "Sophomore at RGIPT (Institute of National Importance)| B.Tech in Mathematics and Computing | JEE Adv' 22 | Sponsorship Coordinator at ACM"
+    },
+    {
+      "firstname": "Sanchit",
+      "lastname": "`",
+      "index": 392,
+      "name": "Sanchit `",
+      "email": "sanchit2220@gmail.com",
+      "userDetails": "Ex-SDE Intern @Snug Technologies | JAVA | Angular| Student MSIT"
+    },
+    {
+      "firstname": "Nrithesh",
+      "lastname": "Gundla",
+      "index": 393,
+      "name": "Nrithesh Reddy Gundla",
+      "email": "nrithesh@colostate.edu",
+      "userDetails": "student at colorado state university"
+    },
+    {
+      "firstname": "Ali",
+      "lastname": "Mir",
+      "index": 394,
+      "name": "Ali Sher Mir",
+      "email": "sher.mir@ug.bilkent.edu.tr",
+      "userDetails": "Aspiring Computer Engineering Student | Enthusiastic about Technology, Data, AI, and Fintech | Future Global Tech Innovator"
+    },
+    {
+      "firstname": "Hemansh",
+      "lastname": "Adunoor",
+      "index": 395,
+      "name": "Hemansh Adunoor",
+      "email": "ahemansh04@vt.edu",
+      "userDetails": "Student at Virginia Tech University"
+    },
+    {
+      "firstname": "Sneh",
+      "lastname": "Duggal",
+      "index": 396,
+      "name": "Sneh Duggal",
+      "email": "snehduggal@uvic.ca",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Leo",
+      "lastname": "Liao",
+      "index": 397,
+      "name": "Leo Liao",
+      "email": "bofeiliao27@berkeley.edu",
+      "userDetails": "Regents’ & Chancellor’s Scholar @ University of California, Berkeley"
+    },
+    {
+      "firstname": "Samitha",
+      "lastname": "Ranasinghe",
+      "index": 398,
+      "name": "Samitha Ranasinghe",
+      "email": "sranasi@purdue.edu",
+      "userDetails": "CompEng at Purdue | ML in Robotics"
+    },
+    {
+      "firstname": "Vanshika",
+      "lastname": "Mittal",
+      "index": 399,
+      "name": "Vanshika Mittal",
+      "email": "vanshika8998@gmail.com",
+      "userDetails": "Student at Kiet group of Institutions || Front-end developer || CSE'25 undergrad || 3 ⭐ java | C at hackerrank"
+    },
+    {
+      "firstname": "Danny",
+      "lastname": "Dang",
+      "index": 400,
+      "name": "Danny Dang",
+      "email": "dangdanny64@g.ucla.edu",
+      "userDetails": "Computer Science and Mathematics @UCLA"
+    },
+    {
+      "firstname": "Grace",
+      "lastname": "Chia",
+      "index": 401,
+      "name": "Grace Chia",
+      "email": "gwchia@uci.edu",
+      "userDetails": "Computer Science and Engineering Student at UC Irvine"
+    },
+    {
+      "firstname": "Raihana",
+      "lastname": "Saeedi",
+      "index": 402,
+      "name": "Raihana Saeedi",
+      "email": "raihanasaeedi2019@gmail.com",
+      "userDetails": "BSCS | Front End Developer | Graphic Designer | SEO expert"
+    },
+    {
+      "firstname": "Tejashree",
+      "lastname": "Manjunathreddy",
+      "index": 403,
+      "name": "Tejashree Manjunathreddy",
+      "email": "txm220047@utdallas.edu",
+      "userDetails": "Actively seeking Summer 2024 internships | MS ITM @UTD | Data Analyst | Data Engineering| Business Intelligence| Python| SQL| Tableau |R"
+    },
+    {
+      "firstname": "Preethi",
+      "lastname": "S",
+      "index": 404,
+      "name": "Preethi I S",
+      "email": "preethikarpagavalli@gmail.com",
+      "userDetails": "Sophomore at National Institute of Technology, Tiruchirappalli"
+    },
+    {
+      "firstname": "Shrishti",
+      "lastname": "Shetty",
+      "index": 405,
+      "name": "Shrishti Shetty",
+      "email": "sshetty1@umassd.edu",
+      "userDetails": "Graduate Student at University of Massachusetts Dartmouth || Actively seeking for Summer 2024 Internship || Available to join immediately"
+    },
+    {
+      "firstname": "Purvi",
+      "lastname": "Shah",
+      "index": 406,
+      "name": "Purvi Shah",
+      "email": "purvi.shah1@somaiya.edu",
+      "userDetails": "Computer Engineer"
+    },
+    {
+      "firstname": "MAHENDRA",
+      "lastname": "GURJAR",
+      "index": 407,
+      "name": "MAHENDRA SINGH GURJAR",
+      "email": "mhndrmahendragurjar@gmail.com",
+      "userDetails": "HTML| CSS | JAVASCRIPT |PYTHON | SQL | 1⭐ @codechef |DSA | IT'26 Student @ M.B.M. UNIVERSITY JODHPUR |"
+    },
+    {
+      "firstname": "Sravani",
+      "lastname": "Kaligotla",
+      "index": 408,
+      "name": "Sravani Kaligotla",
+      "email": "skaligo1@uncc.edu",
+      "userDetails": "Actively Seeking Internship Opportunities for Summer 2024 | MS CS @ UNC Charlotte | Ex-Amazon"
+    },
+    {
+      "firstname": "Jiaqiang",
+      "lastname": "Yuan",
+      "index": 409,
+      "name": "Jiaqiang Yuan",
+      "email": "styode@gmail.com",
+      "userDetails": "Software Engineer"
+    },
+    {
+      "firstname": "Suhaa",
+      "lastname": "Veeramachaneni",
+      "index": 410,
+      "name": "Suhaa Veeramachaneni",
+      "email": "suveera@iu.edu",
+      "userDetails": "Community Driven | Restorative | Empowered Business Information Systems and Analytics Student at the Kelley School at Indiana University Bloomington"
+    },
+    {
+      "firstname": "Raghvendra",
+      "lastname": "Vaishnav",
+      "index": 411,
+      "name": "Raghvendra Vaishnav",
+      "email": "vaishnavraghavendra68@gmail.com",
+      "userDetails": "@ web development"
+    },
+    {
+      "firstname": "Riya",
+      "lastname": "Danve",
+      "index": 412,
+      "name": "Riya Danve",
+      "email": "rdanve@umass.edu",
+      "userDetails": "MS CS at UMass Amherst | Actively Seeking Summer'24 Internship"
+    },
+    {
+      "firstname": "Nam",
+      "lastname": "Bui",
+      "index": 413,
+      "name": "Nam Bui",
+      "email": "namhaibui693@gmail.com",
+      "userDetails": "Aspiring Software Engineer | Software Development, Problem-Solving, Full-Stack Development, Cloud Development, Technical Support"
+    },
+    {
+      "firstname": "Uzair",
+      "lastname": "Mukadam",
+      "index": 414,
+      "name": "Uzair Mukadam",
+      "email": "umm7905@g.rit.edu",
+      "userDetails": "MS Software Engineering @ RIT"
+    },
+    {
+      "firstname": "Satvik",
+      "lastname": "Eltepu",
+      "index": 415,
+      "name": "Satvik Eltepu",
+      "email": "satvik09@g.ucla.edu",
+      "userDetails": "Computer Science @ UCLA"
+    },
+    {
+      "firstname": "Rohan",
+      "lastname": "Patel",
+      "index": 416,
+      "name": "Rohan Patel",
+      "email": "rohannp@uw.edu",
+      "userDetails": "SDE Intern @ Gekko Corp. | CSSE @ UWB"
+    },
+    {
+      "firstname": "Yiyun",
+      "lastname": "Lei",
+      "index": 417,
+      "name": "Yiyun (Chloe) Lei",
+      "email": "chloelei.lyy@gmail.com",
+      "userDetails": "Actively seeking 24 summer intern | MSDS@UMD | EE@HUST | RTC | Python | SQL | AWS"
+    },
+    {
+      "firstname": "Dia",
+      "lastname": "Kumar",
+      "index": 418,
+      "name": "Dia Ganesh Kumar",
+      "email": "dganeshk@uci.edu",
+      "userDetails": "Computer Science & Business Information Management @ UC Irvine"
+    },
+    {
+      "firstname": "Anusha",
+      "lastname": "Akundi",
+      "index": 419,
+      "name": "Anusha Akundi",
+      "email": "akundianusha@gmail.com",
+      "userDetails": "Passionate Cyber Security Student | Dedicated to Securing Digital Landscapes"
+    },
+    {
+      "firstname": "Dharshan",
+      "lastname": "Bellan",
+      "index": 420,
+      "name": "Dharshan Bellan",
+      "email": "dbellan1291@gmail.com",
+      "userDetails": "Software Engineer"
+    },
+    {
+      "firstname": "Manav",
+      "lastname": "Parikh",
+      "index": 421,
+      "name": "Manav Parikh",
+      "email": "mpp6923@nyu.edu",
+      "userDetails": "MSCS Student at NYU | VIT Vellore CSE 2023 | Full Stack | Flutter | Machine Learning"
+    },
+    {
+      "firstname": "Harshit",
+      "lastname": "Raj",
+      "index": 422,
+      "name": "Harshit Raj",
+      "email": "harshitraj.work04@gmail.com",
+      "userDetails": "Data Engineer @Ford || VIT 2022 || AWS Certified Cloud Practitioner"
+    },
+    {
+      "firstname": "Nhan",
+      "lastname": "Ton",
+      "index": 423,
+      "name": "Nhan Ton",
+      "email": "tdn26903@bu.edu",
+      "userDetails": "Founder @ UniMate | Aspiring Product Manager"
+    },
+    {
+      "firstname": "Bharat",
+      "lastname": "Pullela",
+      "index": 424,
+      "name": "Bharat Pullela",
+      "email": "vpull6@illinois.edu",
+      "userDetails": "Computer Engineering @ UIUC | SWE Co-Op at CNH Industrial"
+    },
+    {
+      "firstname": "Ghirish",
+      "lastname": "Thaenraj",
+      "index": 425,
+      "name": "Ghirish Thaenraj",
+      "email": "ghirish05@gmail.com",
+      "userDetails": "CS @ UCI"
+    },
+    {
+      "firstname": "Shrey",
+      "lastname": "Kamdar",
+      "index": 426,
+      "name": "Shrey Kamdar",
+      "email": "sk10881@nyu.edu",
+      "userDetails": "Graduate Student at NYU Tandon School Of Engineering | Ex Associate Product Manager at Bewakoof Brands"
+    },
+    {
+      "firstname": "Siva",
+      "lastname": "Kunapuli",
+      "index": 427,
+      "name": "Siva Kunapuli",
+      "email": "kunapusv@mail.uc.edu",
+      "userDetails": "Computer Engineering @ UC"
+    },
+    {
+      "firstname": "Tahiya",
+      "lastname": "Azad",
+      "index": 428,
+      "name": "Tahiya Azad",
+      "email": "tazad03@manhattan.edu",
+      "userDetails": "Computer Science student @ Manhattan College"
+    },
+    {
+      "firstname": "Siri",
+      "lastname": "Anubolu",
+      "index": 429,
+      "name": "Siri Anubolu",
+      "email": "sirianubolu99@gmail.com",
+      "userDetails": "Project Management Associate at ZONTAL | MSITM'23 | PSM-1"
+    },
+    {
+      "firstname": "Dishank",
+      "lastname": "Gangar",
+      "index": 430,
+      "name": "Dishank Gangar",
+      "email": "dishank.gangar98@gmail.com",
+      "userDetails": "Actively seeking Full-Time opportunities as a Software Developer | 2+ YoE Building REST APIs, Designing Efficient Databases, and Interactive UIs | Python | SQL | Javascript | HTML/CSS"
+    },
+    {
+      "firstname": "MIMANSA",
+      "lastname": "BHARGAVA",
+      "index": 431,
+      "name": "MIMANSA BHARGAVA",
+      "email": "bhargavamimansa2@gmail.com",
+      "userDetails": "Content Writer at Scribblex"
+    },
+    {
+      "firstname": "Himesh",
+      "lastname": "Mohapatra",
+      "index": 432,
+      "name": "Himesh Mohapatra",
+      "email": "himeshmahapatra@gmail.com",
+      "userDetails": "Student at KIIT University"
+    },
+    {
+      "firstname": "Kevin",
+      "lastname": "Ghobrial",
+      "index": 433,
+      "name": "Kevin Ghobrial",
+      "email": "kghobrial3@gatech.edu",
+      "userDetails": "Georgia Institute of Technology || Computer Engineering"
+    },
+    {
+      "firstname": "Ashrith",
+      "lastname": "Vardhan",
+      "index": 434,
+      "name": "Ashrith Vardhan",
+      "email": "boppudisai@iitbhilai.ac.in",
+      "userDetails": "Senior @ IIT Bhilai | ML Engineer Intern @Logy.AI | Ex-AI Research Intern @IIT Bhilai | Amazon ML Summer School'23 | Outreach Sponsorship and PR Head"
+    },
+    {
+      "firstname": "Abhishek",
+      "lastname": "Ranjan",
+      "index": 435,
+      "name": "Abhishek Ranjan",
+      "email": "imabhishekranjann1001@gmail.com",
+      "userDetails": "Ex-Intern @stealth mode | Pupil @Codeforces | Full stack WEB-DEVELOPER | Prefinal-year student @IIITDMJ"
+    },
+    {
+      "firstname": "Rahul",
+      "lastname": "Mareja",
+      "index": 436,
+      "name": "Rahul Mareja",
+      "email": "r.mareja@iitg.ac.in",
+      "userDetails": "Sophomore at IIT Guwahati || Overall Coordinator @Finance and Economics Club IIT Guwahati"
+    },
+    {
+      "firstname": "Tushar",
+      "lastname": "Thonupunoori",
+      "index": 437,
+      "name": "Tushar Thonupunoori",
+      "email": "tushartt@uw.edu",
+      "userDetails": "Undergraduate at University of Washington"
+    },
+    {
+      "firstname": "Aashish",
+      "lastname": "Kumar",
+      "index": 438,
+      "name": "Aashish Kumar",
+      "email": "aashish@iiitmanipur.ac.in",
+      "userDetails": "ML Engineer intern @CollectivAI |Ex - Intern at Fleksa |Ex - Member of Asquire-IISC bangalore |Python Developer | ML Engineer | Backend Engineer| Building Gen-AI Products | Student at IIIT Senapati"
+    },
+    {
+      "firstname": "Shaijal",
+      "lastname": "Gupta",
+      "index": 439,
+      "name": "Shaijal Gupta",
+      "email": "shaijalgupta7@gmail.com",
+      "userDetails": "KIET'25 || CSIT || SSOC contributor-23 || Web Development enthusiast"
+    },
+    {
+      "firstname": "Toluwani",
+      "lastname": "Oyeleke",
+      "index": 440,
+      "name": "Toluwani Oyeleke",
+      "email": "oyeleke.toluwani@philander.edu",
+      "userDetails": "Product Management || Prev @ Boston Scientific || ColorStack Member || Rewriting The Code Member || Excited about all things product and health"
+    },
+    {
+      "firstname": "Abdiresac",
+      "lastname": "Sheikdon",
+      "index": 441,
+      "name": "Abdiresac Sheikdon",
+      "email": "abdiresacs@gmail.com",
+      "userDetails": "Incoming ICP @ Codepath | CS @ University of Minnesota | MLT Career Prep Fellow"
+    },
+    {
+      "firstname": "Maurya",
+      "lastname": "Samanta",
+      "index": 442,
+      "name": "Maurya Samanta",
+      "email": "mauryasamanta1508@gmail.com",
+      "userDetails": "Data Structures and Algorithms | GSSoC'24 | Full Stack Web Developer | Node.JS | Express.JS | MongoDB | Java | Problem Solving | JU ProdE'26"
+    },
+    {
+      "firstname": "Shreyas",
+      "lastname": "Sreenivas",
+      "index": 443,
+      "name": "Shreyas Sreenivas",
+      "email": "sreenivas.s@northeastern.edu",
+      "userDetails": "MS in Data Analytics Engineering at NEU, Boston MA | Intern at Chipmonk Technologies Pvt. Ltd. | AI&ML Graduate | Ex Co-Founder of Helping Panda |"
+    },
+    {
+      "firstname": "Kushal",
+      "lastname": "Patel",
+      "index": 444,
+      "name": "Kushal Patel",
+      "email": "kpatel92@wisc.edu",
+      "userDetails": "Computer Science & Data Science major at UW Madison"
+    },
+    {
+      "firstname": "Srishti",
+      "lastname": "Jain",
+      "index": 445,
+      "name": "Srishti Jain",
+      "email": "srishti.j@utexas.edu",
+      "userDetails": "Aspiring professional in the field of Computer Science | University of Texas at Austin"
+    },
+    {
+      "firstname": "rashmi",
+      "lastname": "vijay",
+      "index": 446,
+      "name": "rashmi vijay",
+      "email": "mt1221957@iitd.ac.in",
+      "userDetails": "Mathematics and computing ,IIT Delhi"
+    },
+    {
+      "firstname": "Sharjeel",
+      "lastname": "Hyder",
+      "index": 447,
+      "name": "Sharjeel Hyder",
+      "email": "sharjeelhydergopang@gmail.com",
+      "userDetails": "Empowering Strategic Business Growth with Expertise in Cross-Cultural Communication & Customer Relationship Management"
+    },
+    {
+      "firstname": "Suhaa",
+      "lastname": "Veeramachaneni",
+      "index": 448,
+      "name": "Suhaa Veeramachaneni",
+      "email": "suveera@iu.edu",
+      "userDetails": "Community Driven | Restorative | Empowered Business Information Systems and Analytics Student at the Kelley School at Indiana University Bloomington"
+    },
+    {
+      "firstname": "Prachi",
+      "lastname": "Prasoon",
+      "index": 449,
+      "name": "Prachi Prasoon",
+      "email": "225100029@iitdh.ac.in",
+      "userDetails": "Student at IIT Dharwad"
+    },
+    {
+      "firstname": "MohammadReza",
+      "lastname": "Alavi",
+      "index": 450,
+      "name": "MohammadReza Alavi",
+      "email": "mralavi1000@gmail.com",
+      "userDetails": "Computer Engineering Student at University of Tehran"
+    },
+    {
+      "firstname": "Robin",
+      "lastname": "Francois",
+      "index": 451,
+      "name": "Robin Francois",
+      "email": "rrobinfrancois@gmail.com",
+      "userDetails": "Tech Intern at Immpression | Student at CUNY Queens College"
+    },
+    {
+      "firstname": "Soham",
+      "lastname": "Kolhatkar",
+      "index": 452,
+      "name": "Soham Kolhatkar",
+      "email": "sohamk0524@gmail.com",
+      "userDetails": "Computer Science @ UC Davis"
+    },
+    {
+      "firstname": "Timothy",
+      "lastname": "Park",
+      "index": 453,
+      "name": "Timothy Park",
+      "email": "timothyypark04@gmail.com",
+      "userDetails": "Cog Sci + CS @ UC Berkeley"
+    },
+    {
+      "firstname": "Laraib",
+      "lastname": "Leghari",
+      "index": 454,
+      "name": "Laraib Leghari",
+      "email": "lleghari@terpmail.umd.edu",
+      "userDetails": "Actively seeking Summer'24 Internship | Information Science @ University of Maryland | Aspiring Data Scientist and Analyst | Web Development Enthusiast | Python | SQL"
+    },
+    {
+      "firstname": "Rina",
+      "lastname": "Kushwaha",
+      "index": 455,
+      "name": "Rina Kushwaha",
+      "email": "kushwaha123rina@gmail.com",
+      "userDetails": "CSE'25|| JAVA || Python || C || student at KIET Group of Institutions Ghaziabad."
+    },
+    {
+      "firstname": "Prudhvi",
+      "lastname": "Rekula",
+      "index": 456,
+      "name": "Prudhvi Raj Rekula",
+      "email": "pr45629n@pace.edu",
+      "userDetails": "AI Enthusiast | Data Analyst | Full-Stack | Cybersecurity | Azure | Python | SQL | React | MS in Computer Science at Pace University | Actively seeking for Internships"
+    },
+    {
+      "firstname": "Sloan",
+      "lastname": "Ireland",
+      "index": 457,
+      "name": "Sloan Ireland",
+      "email": "Sireland@oxy.edu",
+      "userDetails": "Computer Science enthusiast. Basketball player. Looking for 2024 CS summer internship."
+    },
+    {
+      "firstname": "Justin",
+      "lastname": "Leung",
+      "index": 458,
+      "name": "Justin Leung",
+      "email": "justin.leung38@gmail.com",
+      "userDetails": "Neuroscience Student at University of British Columbia"
+    },
+    {
+      "firstname": "Archit",
+      "lastname": "Pansare",
+      "index": 459,
+      "name": "Archit Pansare",
+      "email": "Archit.Pansare@rockets.utoledo.edu",
+      "userDetails": "CSE Student | Seeking Fall 2024 SWE/Firmware Engineer Co-Op"
+    },
+    {
+      "firstname": "Addula",
+      "lastname": "Jahnavi",
+      "index": 460,
+      "name": "Addula Jahnavi",
+      "email": "Jaddula@uncc.edu",
+      "userDetails": "Data scientist and Business Analyst"
+    },
+    {
+      "firstname": "Alex",
+      "lastname": "Tomack",
+      "index": 461,
+      "name": "Alex Tomack",
+      "email": "alexander.e.tomack@vanderbilt.edu",
+      "userDetails": "Math/Econ/CS @ Vanderbilt"
+    },
+    {
+      "firstname": "Nawal",
+      "lastname": "Tareque",
+      "index": 462,
+      "name": "Nawal Naz Tareque",
+      "email": "nawalnaz.tareque@yale.edu",
+      "userDetails": "Junior, CS @ Yale"
+    },
+    {
+      "firstname": "Pratyusa",
+      "lastname": "Sinha",
+      "index": 463,
+      "name": "Pratyusa Sinha",
+      "email": "pratyusasinha2001@gmail.com",
+      "userDetails": "Aspiring SDE 👩🏻‍💻 ll Information Technology ll5⭐@Hackerrank in C++ll 3⭐ @Codechef in C++ll GSSoC'23 ll Data Science ll Front-end developer ll React.js IINode.jsII Rapid API II Rest API II B.Tech IT'25"
+    },
+    {
+      "firstname": "Raj",
+      "lastname": "Dwivedi",
+      "index": 464,
+      "name": "Raj Dwivedi",
+      "email": "rajdwivedi61202@gmail.com",
+      "userDetails": "Pranveer Singh Institute of Technology, Kanpur"
+    },
+    {
+      "firstname": "Ritik",
+      "lastname": "Gupta",
+      "index": 465,
+      "name": "Ritik Gupta",
+      "email": "gupta.ritik@northeastern.edu",
+      "userDetails": "Graduate Student at Northeastern University | Former Deloitte US-India Analyst"
+    },
+    {
+      "firstname": "Laksh",
+      "lastname": "Jadhwani",
+      "index": 466,
+      "name": "Laksh Jadhwani",
+      "email": "lakshjadhwani.lj@gmail.com",
+      "userDetails": "Actively Looking for Summer 2024 Internships! | Computer Science Graduate Student @ CSU Long Beach | Former Consultant @ LTIMindtree | Software Developer | Python, React, JavaScript, Java"
+    },
+    {
+      "firstname": "Taimur",
+      "lastname": "Shaikh",
+      "index": 467,
+      "name": "Taimur Shaikh",
+      "email": "tfs2123@columbia.edu",
+      "userDetails": "Computer Science & Operations Research @ Columbia University"
+    },
+    {
+      "firstname": "Jai",
+      "lastname": "Uparkar",
+      "index": 468,
+      "name": "Jai Uparkar",
+      "email": "jaiuparkar@ucsb.edu",
+      "userDetails": "Strategy Summer Scholar @ Deloitte | Statistics + CS @ UCSB"
+    },
+    {
+      "firstname": "Shrey",
+      "lastname": "Desai",
+      "index": 469,
+      "name": "Shrey Desai",
+      "email": "desai.shrey@northeastern.edu",
+      "userDetails": "AI Graduate Student @ Northeastern University | Seeking Data Science and Machine Learning Engineer roles from May '25"
+    },
+    {
+      "firstname": "Nisha",
+      "lastname": "M.",
+      "index": 470,
+      "name": "Nisha M.",
+      "email": "nmakwana@binghamton.edu",
+      "userDetails": "Actively looking for internships in Salesforce/Data Science || Salesforce lightning developer || Data Scientist || Data Analyst || 6× Salesforce Certified || Trailhead Ranger || LWC || Aura"
+    },
+    {
+      "firstname": "Chitraksh",
+      "lastname": "Dhingra",
+      "index": 471,
+      "name": "Chitraksh Dhingra",
+      "email": "chitrakshdhingra202003@gmail.com",
+      "userDetails": "IIT PATNA EEE'25||Competitive programmer||Web developer"
+    },
+    {
+      "firstname": "Sai",
+      "lastname": "Karri",
+      "index": 472,
+      "name": "Sai Likhith Karri",
+      "email": "s.likhith.karri@gmail.com",
+      "userDetails": "Sophomore At John P Stevens High School"
+    },
+    {
+      "firstname": "Parag",
+      "lastname": "Deshpande",
+      "index": 473,
+      "name": "Parag Deshpande",
+      "email": "pvdeshpande03@gmail.com",
+      "userDetails": "MERN Stack | Programming | SDLC | Problem Solving| Machine Learning Enthusiastic"
+    },
+    {
+      "firstname": "Abhilash",
+      "lastname": "dirisala",
+      "index": 474,
+      "name": "Abhilash dirisala",
+      "email": "abhilashdirisala91@gmail.com",
+      "userDetails": "Passionate Full Stack Developer | Crafting Innovative Solutions |Open for Global Opportunities🌍."
+    },
+    {
+      "firstname": "Diya",
+      "lastname": "Nair",
+      "index": 475,
+      "name": "Diya Nair",
+      "email": "dn2549@barnard.edu",
+      "userDetails": "CS & Philosophy @ Barnard College, Columbia University"
+    },
+    {
+      "firstname": "Trushaa",
+      "lastname": "Ramanan",
+      "index": 476,
+      "name": "Trushaa Ramanan",
+      "email": "trushaar@uw.edu",
+      "userDetails": "Informatics + Human-Computer Interaction @ University of Washington"
+    },
+    {
+      "firstname": "Laura",
+      "lastname": "Zhuang",
+      "index": 477,
+      "name": "Laura Zhuang",
+      "email": "loannezhuang@gmail.com",
+      "userDetails": "Student at California State University - East Bay"
+    },
+    {
+      "firstname": "Kritika",
+      "lastname": "Sharma",
+      "index": 478,
+      "name": "Kritika Sharma",
+      "email": "kritish@umich.edu",
+      "userDetails": "Actively Seeking Summer Internship opportunities | Data Science Graduate Student at University of Michigan-Dearborn | Ex-Accenture"
+    },
+    {
+      "firstname": "Umar",
+      "lastname": "Yasser",
+      "index": 479,
+      "name": "Umar Yasser",
+      "email": "uyasser@purdue.edu",
+      "userDetails": "Freshman in Business Analytics and Information Management at Purdue University | BAIM Association | Purdue Prosthetics Club"
+    },
+    {
+      "firstname": "Shastransu",
+      "lastname": "Suprabh",
+      "index": 480,
+      "name": "Shastransu Suprabh",
+      "email": "suprabh.s@northeastern.edu",
+      "userDetails": "Student at Northeastern University||Ex - SSE at Accenture || Python || Machine Learning || gRPC || Computer Vision || protobuf || NLP || Selenium || SQL || PySpark ||Microsoft Azure Certified AI-900 and DP-100"
+    },
+    {
+      "firstname": "Varshita",
+      "lastname": "Anumolu",
+      "index": 481,
+      "name": "Varshita Anumolu",
+      "email": "vxa230009@utdallas.edu",
+      "userDetails": "Actively Seeking Summer '24 internship | MSITM student @ UTD | Data Analyst | Data Engineering | Python | SQL | Tableau | R | UX"
+    },
+    {
+      "firstname": "Tyler",
+      "lastname": "Do",
+      "index": 482,
+      "name": "Tyler Do",
+      "email": "tylerdo@ucsb.edu",
+      "userDetails": "HR Communications Coordinator @ UCSB Information Technology"
+    },
+    {
+      "firstname": "Supreeth",
+      "lastname": "Ravindra",
+      "index": 483,
+      "name": "Supreeth Hassan Ravindra",
+      "email": "shassanr@stevens.edu",
+      "userDetails": "CS Grad @ Stevens Institute of Technology' Fall 2023 | Actively looking for Summer 2024 Internship | Prev Cognizant"
+    },
+    {
+      "firstname": "Ajay",
+      "lastname": "Sengar",
+      "index": 484,
+      "name": "Ajay Sengar",
+      "email": "asengar@umd.edu",
+      "userDetails": "Actively seeking Co-op and full time oppurtunities | UMD Software engineering Grad"
+    },
+    {
+      "firstname": "Abhishek",
+      "lastname": "Goyal",
+      "index": 485,
+      "name": "Abhishek Goyal",
+      "email": "abhi2358@seas.upenn.edu",
+      "userDetails": "MS CS @ University of Pennsylvania | ML & AI Research | Ex SDE - American Express | Gold Medalist @ Bachelor of Engg."
+    },
+    {
+      "firstname": "Justin",
+      "lastname": "Song",
+      "index": 486,
+      "name": "Justin Song",
+      "email": "jsong04@berkeley.edu",
+      "userDetails": "CS & DS @ UC Berkeley"
+    },
+    {
+      "firstname": "Gautham",
+      "lastname": "Saravanan",
+      "index": 487,
+      "name": "Gautham Saravanan",
+      "email": "gautham.v.saravanan@gmail.com",
+      "userDetails": "CS + Math @ UT Austin"
+    },
+    {
+      "firstname": "Meena",
+      "lastname": "Kuduva",
+      "index": 488,
+      "name": "Meena Kuduva",
+      "email": "meenakg@uw.edu",
+      "userDetails": "Computer Science/Data Science @ UW Seattle"
+    },
+    {
+      "firstname": "Prabhanjan",
+      "lastname": "Gogulamudi",
+      "index": 489,
+      "name": "Prabhanjan Gogulamudi",
+      "email": "prabhanjanreddygogulamudi@my.unt.edu",
+      "userDetails": "Actively seeking for Summer Internships 2024 and Full time opportunities | DevOps | AWS | Git | Terraform | Kubernetes | Docker | Azure | GCP |"
+    },
+    {
+      "firstname": "Tram",
+      "lastname": "Vu",
+      "index": 490,
+      "name": "Tram Vu",
+      "email": "Tvu0@chicagobooth.edu",
+      "userDetails": "2025 MBA Candidate at Chicago Booth | Growth Strategy | Fintech | E-commerce | Media"
+    },
+    {
+      "firstname": "Rishi",
+      "lastname": "Vadaga",
+      "index": 491,
+      "name": "Rishi Vadaga",
+      "email": "Rvadaga@uh.edu",
+      "userDetails": "Honors Computer Science @ UH '26 | HERE Undergraduate Research Scholar 2023 | Events Coordinator @ Cougars of Data Science | Actively seeking internship opportunities"
+    },
+    {
+      "firstname": "Grace",
+      "lastname": "Katz",
+      "index": 492,
+      "name": "Grace Katz",
+      "email": "katzgx@dukes.jmu.edu",
+      "userDetails": "Sophomore Marketing Student at James Madison University"
+    },
+    {
+      "firstname": "Shashwat",
+      "lastname": "Gupta",
+      "index": 493,
+      "name": "Shashwat Gupta",
+      "email": "guptashashwatme+linkedin@gmail.com",
+      "userDetails": "Incoming Associate @ PwC | IITK CSE'24 | EPFL | ACM SIGCHI | Machine Learning, Data Science"
+    },
+    {
+      "firstname": "Teri",
+      "lastname": "Chung",
+      "index": 494,
+      "name": "Teri Chung",
+      "email": "tc3252@columbia.edu",
+      "userDetails": "Operations Research: Engineering Management Systems @ Columbia Engineering"
+    },
+    {
+      "firstname": "Shirley",
+      "lastname": "Dhaka",
+      "index": 495,
+      "name": "Shirley Dhaka",
+      "email": "shirleydhaka7@gmail.com",
+      "userDetails": "IGDTUW '27 (CSE-AI)"
+    },
+    {
+      "firstname": "Daniel",
+      "lastname": "Kong",
+      "index": 496,
+      "name": "Daniel Kong",
+      "email": "djkong@usc.edu",
+      "userDetails": "Business, Applied Analytics, Digital Experience Design @ USC | Dean's Scholar"
+    },
+    {
+      "firstname": "Sri",
+      "lastname": "Nunna",
+      "index": 497,
+      "name": "Sri Sai Anisha Nunna",
+      "email": "nunna.sr@northeastern.edu",
+      "userDetails": "Project Management Student @Northeastern University || Positivity Enthusiast || Former Data Associate at Amazon and Wipro || Co-founder @ Happituality"
+    },
+    {
+      "firstname": "Riyaansh",
+      "lastname": "Mittal",
+      "index": 498,
+      "name": "Riyaansh Mittal",
+      "email": "riyaanshmittal14@gmail.com",
+      "userDetails": "SDE Intern @SDNA TECH | Passionate ML Enthusiast & Web Developer | Record-Breaking Accuracy Achiever | Dedicated to Transforming Ideas into Innovative Solutions | TIET24"
+    },
+    {
+      "firstname": "Shreya",
+      "lastname": "Shamarthi",
+      "index": 499,
+      "name": "Shreya Shamarthi",
+      "email": "sxs220057@utdallas.edu",
+      "userDetails": "Actively looking for Full-Time roles/Internships | Graduate student at UTD | MS - Business Analytics | R | Python | SQL | Data Visualization | Data Analyst | Data Engineer"
+    },
+    {
+      "firstname": "Kanishka",
+      "lastname": "Agarwal",
+      "index": 500,
+      "name": "Kanishka Agarwal",
+      "email": "kanishkaagarwal1312@gmail.com",
+      "userDetails": "Software Developer || Engineering Student"
+    },
+    {
+      "firstname": "Emily",
+      "lastname": "You",
+      "index": 501,
+      "name": "Emily You",
+      "email": "ey9445@princeton.edu",
+      "userDetails": "CS @ Princeton University"
+    },
+    {
+      "firstname": "Vaishnavi",
+      "lastname": "Veeranki",
+      "index": 502,
+      "name": "Vaishnavi Veeranki",
+      "email": "vveeranki2@student.gsu.edu",
+      "userDetails": "Graduate Assistant at Georgia State University with expertise in data analytics."
+    },
+    {
+      "firstname": "Mahima",
+      "lastname": "Rashmi",
+      "index": 503,
+      "name": "Mahima Rashmi",
+      "email": "mahimar@uwindsor.ca",
+      "userDetails": "Former Software Engineer @DXC Technology | Linux System Admin | Cloud Specialist | Walmart Associate | Server Management"
+    },
+    {
+      "firstname": "Junyi",
+      "lastname": "Pan",
+      "index": 504,
+      "name": "Junyi (Florence) Pan",
+      "email": "jup324@lehigh.edu",
+      "userDetails": "Seeking Entry Level Full-Stack Software Engineering Job | SWE Intern @ Studio Corsair | CS Senior @ Lehigh | GHC'23 | SWE’23 | Harvard WECode 24’"
+    },
+    {
+      "firstname": "Justin",
+      "lastname": "Sortland",
+      "index": 505,
+      "name": "Justin Sortland",
+      "email": "justinsortland2025@u.northwestern.edu",
+      "userDetails": "BS/MS CS @ Northwestern"
+    },
+    {
+      "firstname": "Wei",
+      "lastname": "Li",
+      "index": 506,
+      "name": "Wei Li",
+      "email": "lilyweiei@gmail.com",
+      "userDetails": "Former Graduate Research Assistant in Machine Learning @ HKU | MSCS 25' @ Northeastern | Mathematics & Computer Science 23' @ HKU | Seeking 2024 Summer Machine Learning/Software Engineering Internship"
+    },
+    {
+      "firstname": "Abhinandana",
+      "lastname": "Gottigundala",
+      "index": 507,
+      "name": "Abhinandana Gottigundala",
+      "email": "agottigundala1@student.gsu.edu",
+      "userDetails": "MSIS Graduate Student | Georgia State University | Ex-Harman | Devops Engineer|Kubernetes|Jenkins|Prometheus|Thanos|Grafana|Aws|Azure|GCP|Argo Cd| Spinnaker |Terraform"
+    },
+    {
+      "firstname": "Sheri",
+      "lastname": "Reddy",
+      "index": 508,
+      "name": "Sheri Keerthi Reddy",
+      "email": "ksheri@umich.edu",
+      "userDetails": "Grad Student at University of Michigan - Dearborn"
+    },
+    {
+      "firstname": "Sayamdeep",
+      "lastname": "Bhose",
+      "index": 509,
+      "name": "Sayamdeep Bhose",
+      "email": "sayamdeep.bhose@emory.edu",
+      "userDetails": "MBA Candidate at Emory University - Goizueta Business School Co'25 | GMAT 740 | Ex TCS"
+    },
+    {
+      "firstname": "Bhanu",
+      "lastname": "devireddygari",
+      "index": 510,
+      "name": "Bhanu Prakash devireddygari",
+      "email": "dbpr041555@gmail.com",
+      "userDetails": "Student at PES University"
+    },
+    {
+      "firstname": "Jacob",
+      "lastname": "Pearce-Perry",
+      "index": 511,
+      "name": "Jacob Pearce-Perry",
+      "email": "pearceperryjacob@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Rithushri",
+      "lastname": "Umashankar",
+      "index": 512,
+      "name": "Rithushri Umashankar",
+      "email": "rithushriumashankar@gmail.com",
+      "userDetails": "Student at GEMS Education"
+    },
+    {
+      "firstname": "Nithish",
+      "lastname": "Ubaru",
+      "index": 513,
+      "name": "Nithish Ubaru",
+      "email": "nithishu15@gmail.com",
+      "userDetails": "Student at PES University. || looking for summer internship"
+    },
+    {
+      "firstname": "Vaishnavi",
+      "lastname": "Gopal",
+      "index": 514,
+      "name": "Vaishnavi N Gopal",
+      "email": "vaishung312@gmail.com",
+      "userDetails": "Student at Visvesvaraya Technological University (VTU)"
+    },
+    {
+      "firstname": "Roshan",
+      "lastname": "Bajaj",
+      "index": 515,
+      "name": "Roshan Bajaj",
+      "email": "roshanbajaj99@gmail.com",
+      "userDetails": "#Sophomore at IIT KGP | AI/ML (NLP) Enthusiast | Aerospace Engineering| @Android dev"
+    },
+    {
+      "firstname": "Madhurekaa",
+      "lastname": "Kalaiarasu",
+      "index": 516,
+      "name": "Madhurekaa Kalaiarasu",
+      "email": "mkalaiar@purdue.edu",
+      "userDetails": "Graduate student at Purdue University, Indianapolis | MS in Computer Science | LTI | Cloud Engineer | Cloud Operations | AWS | Azure"
+    },
+    {
+      "firstname": "anish",
+      "lastname": "kumar",
+      "index": 517,
+      "name": "anish kumar",
+      "email": "anishkumar130119@iiitmanipur.ac.in",
+      "userDetails": "Student at Indian Institute of Information Technology Senapati, Manipur (26) | codechef 2★★ max rating(1554)| leetcode 1⭐(nearly 100 questions)| web developer| frontend (html, css , js, react)"
+    },
+    {
+      "firstname": "Aellam",
+      "lastname": "sai",
+      "index": 518,
+      "name": "Aellam Sarangapani Balaji Manideep sai",
+      "email": "aellam.s@northeastern.edu",
+      "userDetails": "Student at Northeastern university |EX Automation engineer at Ericsson Global"
+    },
+    {
+      "firstname": "Deepayan",
+      "lastname": "Mallick",
+      "index": 519,
+      "name": "Deepayan Mallick",
+      "email": "deepmallick340@gmail.com",
+      "userDetails": "B.com 3rd year student | Drop Servicing| Digital Marketing|| Agency|| S.E.O || Project Manager"
+    },
+    {
+      "firstname": "Soundarya",
+      "lastname": "R",
+      "index": 520,
+      "name": "Soundarya R",
+      "email": "rsoundarya0503@gmail.com",
+      "userDetails": "Front-end developer,Java,SQL Visvesvaraya Technological University"
+    },
+    {
+      "firstname": "Andrii",
+      "lastname": "Sych",
+      "index": 521,
+      "name": "Andrii Sych",
+      "email": "andrii.sych.2003@gmail.com",
+      "userDetails": "Working as a Research Assistant at Seneca Polytechnic. Core technologies: TypeScript, Node.JS, JavaScript, C#, ASP.NET Core, AWS, ReactJS, Next.JS."
+    },
+    {
+      "firstname": "Janvi",
+      "lastname": "Deliwala",
+      "index": 522,
+      "name": "Janvi Deliwala",
+      "email": "janvideliwala.ca@gmail.com",
+      "userDetails": "Aspiring Media Professional"
+    },
+    {
+      "firstname": "Anne",
+      "lastname": "Zhou",
+      "index": 523,
+      "name": "Anne Zhou",
+      "email": "annezhou@bu.edu",
+      "userDetails": "Data Science @ Boston University"
+    },
+    {
+      "firstname": "Arman",
+      "lastname": "Garg",
+      "index": 524,
+      "name": "Arman Garg",
+      "email": "garg.25@iitj.ac.in",
+      "userDetails": "Pre-Final year at IIT Jodhpur CSE"
+    },
+    {
+      "firstname": "Abhinav",
+      "lastname": "A.",
+      "index": 525,
+      "name": "Abhinav A.",
+      "email": "arvind5@illinois.edu",
+      "userDetails": "Finance + Data Science Major, CS Minor at University of Illinois Urbana-Champaign"
+    },
+    {
+      "firstname": "Tinku",
+      "lastname": "kalita",
+      "index": 526,
+      "name": "Tinku Moni kalita",
+      "email": "tinkumonikalita80@gmail.com",
+      "userDetails": "Web Developer||Competitive Coding||Student of Nit Silchar||CSE"
+    },
+    {
+      "firstname": "INDRAJEET",
+      "lastname": "Patel",
+      "index": 527,
+      "name": "INDRAJEET Patel",
+      "email": "indrajeetpatel.patel44@gmail.com",
+      "userDetails": "Ex-Software Development intern at Prodigy Infotech||Ex-Java programmer intern at Codsoft || Software Engineer."
+    },
+    {
+      "firstname": "Suraju",
+      "lastname": "Issah",
+      "index": 528,
+      "name": "Suraju Fongo Issah",
+      "email": "billfigure@gmail.com",
+      "userDetails": "Cybersecurity Student | Teacher"
+    },
+    {
+      "firstname": "Durgesh",
+      "lastname": "Thorat",
+      "index": 529,
+      "name": "Durgesh Thorat",
+      "email": "thoratdurgeshprakash@gmail.com",
+      "userDetails": "Datta Meghe College Of Engineering CIDCO Sector ||| Airoli, Navi Mumbai 400708"
+    },
+    {
+      "firstname": "Chetna",
+      "lastname": "Dawda",
+      "index": 530,
+      "name": "Chetna Dawda",
+      "email": "chdawda@davidson.edu",
+      "userDetails": "CS Student at Davidson College"
+    },
+    {
+      "firstname": "Abhinav",
+      "lastname": "Sharma",
+      "index": 531,
+      "name": "Abhinav Sharma",
+      "email": "abhinavsharma0803@gmail.com",
+      "userDetails": "Student at Sardar Vallabhbhai National Institute of Technology, Surat"
+    },
+    {
+      "firstname": "Krupali",
+      "lastname": "Dangshiya",
+      "index": 532,
+      "name": "Krupali Dangshiya",
+      "email": "kd12834n@pace.edu",
+      "userDetails": "Python Developer | Software Engineering | Data Science | Machine Learning | Problem Solver | MS Student in Computer Science"
+    },
+    {
+      "firstname": "Musfirah",
+      "lastname": "Mushtaq",
+      "index": 533,
+      "name": "Musfirah Mushtaq",
+      "email": "musfirahmushtaq786@gmail.com",
+      "userDetails": "Student at NED University of Engineering and Technology | Exploring Data Science and ML"
+    },
+    {
+      "firstname": "Sujal",
+      "lastname": "Kumar",
+      "index": 534,
+      "name": "Sujal Kumar",
+      "email": "Skkumarkumarkumar07@gmail.com",
+      "userDetails": "Aspiring Quant || Pursuing Major in Mathematics & Quantitative Economics, minor in Computer science || Regional Finalist for Fed College Challenge 2023 || College Assistant Tutor for Math and Econ."
+    },
+    {
+      "firstname": "Wilmer",
+      "lastname": "Hernandez",
+      "index": 535,
+      "name": "Wilmer Hernandez",
+      "email": "whernandez4@student.gsu.edu",
+      "userDetails": "Computer Science Student at Georgia State University"
+    },
+    {
+      "firstname": "Oreoluwapo",
+      "lastname": "Oyede",
+      "index": 536,
+      "name": "Oreoluwapo Oyede",
+      "email": "ooyede@cougarnet.uh.edu",
+      "userDetails": "Seeking Summer 2024 Internships | Computer Science Major"
+    },
+    {
+      "firstname": "Mohammad",
+      "lastname": "Adnan",
+      "index": 537,
+      "name": "Mohammad Adnan",
+      "email": "adnanfarhan762@gmail.com",
+      "userDetails": "Student"
+    },
+    {
+      "firstname": "SAARANSH",
+      "lastname": "GUPTA",
+      "index": 538,
+      "name": "SAARANSH GUPTA",
+      "email": "saaranshgupta2022@vitbhopal.ac.in",
+      "userDetails": "Sophomore at VIT Bhopal | Bharat Intern"
+    },
+    {
+      "firstname": "Richita",
+      "lastname": "A.",
+      "index": 539,
+      "name": "Richita A.",
+      "email": "imrju22@gmail.com",
+      "userDetails": "Research Intern"
+    },
+    {
+      "firstname": "Huzaifa",
+      "lastname": "Tariq",
+      "index": 540,
+      "name": "Huzaifa Bin Tariq",
+      "email": "huzaifa252001@gmail.com",
+      "userDetails": "Pursuing a Bachelor's degree in Computer Science at IBA Karachi."
+    },
+    {
+      "firstname": "Atreyee",
+      "lastname": "Mondal",
+      "index": 541,
+      "name": "Atreyee Mondal",
+      "email": "atreyee28mondal@gmail.com",
+      "userDetails": "M.Sc. Economics (International Business Economics and Finance),GIPE'25 | Placement Coordinator | Aspiring Economist | University of Calcutta'22"
+    },
+    {
+      "firstname": "Lokeshwaran",
+      "lastname": "R",
+      "index": 542,
+      "name": "Lokeshwaran R",
+      "email": "rajasekar.lokeshwaran@gmail.com",
+      "userDetails": "Student at Vellore Institute of Technology"
+    },
+    {
+      "firstname": "Kaushik",
+      "lastname": "PB",
+      "index": 543,
+      "name": "Kaushik PB",
+      "email": "kparrayb@gmu.edu",
+      "userDetails": "Actively seeking Summer 2024 Internship | AWS Certified Solutions Architect | Graduate Teaching Assistant @ George Mason University | Grad Student-Computer Science"
+    },
+    {
+      "firstname": "Abhishek",
+      "lastname": "Atoriya",
+      "index": 544,
+      "name": "Abhishek Atoriya",
+      "email": "akatoriya2004@gmail.com",
+      "userDetails": "Attended National Institute of Technology Jamshedpur"
+    },
+    {
+      "firstname": "Vishnu",
+      "lastname": "Motam",
+      "index": 545,
+      "name": "Vishnu Motam",
+      "email": "vishnumotam967@gmail.com",
+      "userDetails": "Intern at Prodigy InfoTech"
+    },
+    {
+      "firstname": "Subhan",
+      "lastname": "Zaki-Zada",
+      "index": 546,
+      "name": "Subhan Zaki-Zada",
+      "email": "zakizadasubhan@gmail.com",
+      "userDetails": "Student at University of Washington"
+    },
+    {
+      "firstname": "BHAWANI",
+      "lastname": "SHANKAR",
+      "index": 547,
+      "name": "BHAWANI SHANKAR",
+      "email": "bhawanijangid147@gmail.com",
+      "userDetails": "Student at MBM university"
+    },
+    {
+      "firstname": "Antonie",
+      "lastname": "Tran",
+      "index": 548,
+      "name": "Antonie Tran",
+      "email": "Antonie.Tran001@umb.edu",
+      "userDetails": "NASA MITTIC Spring 2024 Finalist | First-Generation Honors College Student Studying Management Information Systems"
+    },
+    {
+      "firstname": "Christina",
+      "lastname": "Tharu",
+      "index": 549,
+      "name": "Christina Tharu",
+      "email": "CTharu@caldwell.edu",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Waiz",
+      "lastname": "K.",
+      "index": 550,
+      "name": "Waiz K.",
+      "email": "kayani.6@buckeyemail.osu.edu",
+      "userDetails": "Computer Science and Information | tOSU"
+    },
+    {
+      "firstname": "Kashish",
+      "lastname": "Shah",
+      "index": 551,
+      "name": "Kashish Shah",
+      "email": "kashisha@usc.edu",
+      "userDetails": "SWE Intern @Audiencelogy | GHC'23 | Applied Data Science Graduate Student @ USC | Gen AI & LLMs | Machine Learning Engineer, Data Scientist"
+    },
+    {
+      "firstname": "Aarna",
+      "lastname": "Sahu",
+      "index": 552,
+      "name": "Aarna Sahu",
+      "email": "aarnasahu6@gmail.com",
+      "userDetails": "Founder & CEO of Aarna's News | Founder of Prospect High's Society of Women Engineers"
+    },
+    {
+      "firstname": "Nikhitha",
+      "lastname": "Thota",
+      "index": 553,
+      "name": "Nikhitha Thota",
+      "email": "nthota@stevens.edu",
+      "userDetails": "Computer Science Graduate Student at Stevens Institute of Technology | Actively Seeking for Summer/Spring Internship"
+    },
+    {
+      "firstname": "Gowtham",
+      "lastname": "Pollam",
+      "index": 554,
+      "name": "Gowtham Pollam",
+      "email": "gpollam@ncsu.edu",
+      "userDetails": "NCSU MCS'25 | Ex-SDE at JPMorgan Chase &Co."
+    },
+    {
+      "firstname": "Hilary",
+      "lastname": "Chung",
+      "index": 555,
+      "name": "Hilary Chung",
+      "email": "lalalalary@berkeley.edu",
+      "userDetails": "Student at University of California, Berkeley"
+    },
+    {
+      "firstname": "Hazeem",
+      "lastname": "Kairo",
+      "index": 556,
+      "name": "Hazeem Kairo",
+      "email": "hazeemkairo48@gmail.com",
+      "userDetails": "UI/UX Design Student | Graphic Design + Social Media Marketing"
+    },
+    {
+      "firstname": "Jacqueline",
+      "lastname": "Kim",
+      "index": 557,
+      "name": "Jacqueline Kim",
+      "email": "jacqkim@chapman.edu",
+      "userDetails": "PR & Communications, Music Business | Co-President of KIEA"
+    },
+    {
+      "firstname": "Amanda",
+      "lastname": "Cai",
+      "index": 558,
+      "name": "Amanda Cai",
+      "email": "amandacai@ucla.edu",
+      "userDetails": "Sociology & Digital Humanities @ UCLA"
+    },
+    {
+      "firstname": "Justin",
+      "lastname": "Zheng",
+      "index": 559,
+      "name": "Justin Zheng",
+      "email": "jzd4vb@virginia.edu",
+      "userDetails": "UVA Systems Engineering Student | Process Optimization, Data-driven Insights, Problem Solving | Empowering Organizations with Innovative Strategies"
+    },
+    {
+      "firstname": "Sneha",
+      "lastname": "Sundar",
+      "index": 560,
+      "name": "Sneha Sundar",
+      "email": "snehas9@illinois.edu",
+      "userDetails": "Stats & CS @ UIUC"
+    },
+    {
+      "firstname": "Chiranjeevi",
+      "lastname": "Marutla",
+      "index": 561,
+      "name": "Chiranjeevi Singh Marutla",
+      "email": "c.marutla@ufl.edu",
+      "userDetails": "Student Research Assistant @ University of Florida | Master of Science in Computer Science"
+    },
+    {
+      "firstname": "Fore",
+      "lastname": "Odufalu",
+      "index": 562,
+      "name": "Fore Odufalu",
+      "email": "fore.odufalu@gmail.com",
+      "userDetails": "Computer Science student at Rutgers University"
+    },
+    {
+      "firstname": "Kanika",
+      "lastname": "Panwar",
+      "index": 563,
+      "name": "Kanika Panwar",
+      "email": "kanikapanwar2716@gmail.com",
+      "userDetails": "Undergraduate Management Student |"
+    },
+    {
+      "firstname": "Naga",
+      "lastname": "Bollapragada",
+      "index": 564,
+      "name": "Naga Abhishek Bollapragada",
+      "email": "nbollapr@yorku.ca",
+      "userDetails": "MBA Candidate at Schulich School of Business, Co'25 | Boston Consulting Group (BCG) Virtual Experience Program Participant with Forage | Sustainability"
+    },
+    {
+      "firstname": "Suma",
+      "lastname": "Reddy",
+      "index": 565,
+      "name": "Suma Reddy",
+      "email": "smallu1@asu.edu",
+      "userDetails": "Computer Science Major, Business Minor at Arizona State University || Actively seeking Internships for Summer 2024 in ML, SDE, C++"
+    },
+    {
+      "firstname": "Nasteho",
+      "lastname": "Abdi",
+      "index": 566,
+      "name": "Nasteho Abdi",
+      "email": "Nasteho290@outlook.com",
+      "userDetails": "Software Engineering in the works"
+    },
+    {
+      "firstname": "Sophia",
+      "lastname": "Hou",
+      "index": 567,
+      "name": "Sophia Hou",
+      "email": "slh288@scarletmail.rutgers.edu",
+      "userDetails": "Computer Science Student at Rutgers University"
+    },
+    {
+      "firstname": "Sunidhi",
+      "lastname": "Munshi",
+      "index": 568,
+      "name": "Sunidhi Munshi",
+      "email": "sunidhi2106@gmail.com",
+      "userDetails": "Intern at Vanillakart | Student at Fr. Conceicao Rodrigues Institute of Technology"
+    },
+    {
+      "firstname": "Lisa",
+      "lastname": "Cruz",
+      "index": 569,
+      "name": "Lisa Cruz",
+      "email": "lisa_cruz2996@yahoo.com",
+      "userDetails": "National Louis University student majoring in Business Administration and minoring in Computer Science seeking career accelerating opportunities."
+    },
+    {
+      "firstname": "Rishabh",
+      "lastname": "Goel",
+      "index": 570,
+      "name": "Rishabh Goel",
+      "email": "rgoel22@umd.edu",
+      "userDetails": "Grad student software engineering @UMD"
+    },
+    {
+      "firstname": "Fadila",
+      "lastname": "ElMahdaoui",
+      "index": 571,
+      "name": "Fadila ElMahdaoui",
+      "email": "fadila20061@gmail.com",
+      "userDetails": "Healthcare Advocate, Founder of Healthcare Rise Up | American Red Cross VVIC Associate | Research Intern @Brainwave Teen Psychology and @East-West Connections"
+    },
+    {
+      "firstname": "Aravind",
+      "lastname": "K.",
+      "index": 572,
+      "name": "Aravind K.",
+      "email": "ak12124@nyu.edu",
+      "userDetails": "NYU MS Applied Statistics Candidate | BS Statistics | Data Analyst Intern @ Paris Brain Institute"
+    },
+    {
+      "firstname": "Scott",
+      "lastname": "Ren",
+      "index": 573,
+      "name": "Scott Ren",
+      "email": "scottren@mit.edu",
+      "userDetails": "Researcher at MIT Media Lab"
+    },
+    {
+      "firstname": "Bhashya",
+      "lastname": "Sheth",
+      "index": 574,
+      "name": "Bhashya Sheth",
+      "email": "shethbhashyar@vt.edu",
+      "userDetails": "Actively seeking Summer'24 internships | CS grad @vtech | Former CS undergrad @VJTI"
+    },
+    {
+      "firstname": "Vishwadeepsinh",
+      "lastname": "Makwana",
+      "index": 575,
+      "name": "Vishwadeepsinh Makwana",
+      "email": "makwana.vi@northeastern.edu",
+      "userDetails": "Actively Seeking Fall’24 Co-Op and Internship | Data Scientist | Passionate about Machine Learning | Master's Student in AI at Northeastern University"
+    },
+    {
+      "firstname": "Nishank",
+      "lastname": "Verma",
+      "index": 576,
+      "name": "Nishank Verma",
+      "email": "shivv2403@gmail.com",
+      "userDetails": "NIT B'25"
+    },
+    {
+      "firstname": "Yifan",
+      "lastname": "Zhang",
+      "index": 577,
+      "name": "Yifan Zhang",
+      "email": "yzh397@simon.rochester.edu",
+      "userDetails": "Simon STEM MS student in Marketing Analytics expected to graduate in 2024"
+    },
+    {
+      "firstname": "Yash",
+      "lastname": "Joshi",
+      "index": 578,
+      "name": "Yash Joshi",
+      "email": "yj44099@uga.edu",
+      "userDetails": "Actively seeking Intern / Co-op / Full-time Opportunity | MSCS @ UGA | Ex-Accenture | Big Data | ETL | .NET | SQL | Python | C++| Power-BI | Data Science | Azure Certified"
+    },
+    {
+      "firstname": "Olga",
+      "lastname": "Subtselnaia",
+      "index": 579,
+      "name": "Olga Subtselnaia",
+      "email": "Olga.subtselnaia@gmail.com",
+      "userDetails": "Seeking Business Analyst Internship and Job | NLU Business Administration student | Dec 2024 Graduation"
+    },
+    {
+      "firstname": "Saumya",
+      "lastname": "Gupta",
+      "index": 580,
+      "name": "Saumya Gupta",
+      "email": "Guptasaumya154@outlook.com",
+      "userDetails": "SRCC'25/26 || B.A. (Hons) Economics"
+    },
+    {
+      "firstname": "Anvi",
+      "lastname": "G",
+      "index": 581,
+      "name": "Anvi G",
+      "email": "anvigautam19@gmail.com",
+      "userDetails": "Mentee@Codess.cafe| GHC'23 scholar | #Include<Her>Cohort 2.0 | ex Technical Coordinator@GDSC-DYPCOE | SSOC| TSOC'23 | GSSOC'23 |SheCodes Foundation scholar |Html|Css|Javascript|SQL|CSE'25"
+    },
+    {
+      "firstname": "Arya",
+      "lastname": "Rathi",
+      "index": 582,
+      "name": "Arya Rathi",
+      "email": "mail.2.rathi9@gmail.com",
+      "userDetails": "-- @ MCA '26"
+    },
+    {
+      "firstname": "Rahul",
+      "lastname": "Karnati",
+      "index": 583,
+      "name": "Rahul Karnati",
+      "email": "rahul.karnati02@gmail.com",
+      "userDetails": "Student at Manipal Institute of Technology"
+    },
+    {
+      "firstname": "Srijan",
+      "lastname": "Daga",
+      "index": 584,
+      "name": "Srijan Daga",
+      "email": "f20220618@goa.bits-pilani.ac.in",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Sushma",
+      "lastname": "Koncha",
+      "index": 585,
+      "name": "Sushma Reddy Koncha",
+      "email": "sushmareddykoncha1@gmail.com",
+      "userDetails": "Student at Texas A&M University-Corpus Christi"
+    },
+    {
+      "firstname": "Daniyal",
+      "lastname": "Saffi",
+      "index": 586,
+      "name": "Daniyal Saffi",
+      "email": "daniyal2021@namal.edu.pk",
+      "userDetails": "Computer Networks, InfoSec, AI/ML, Software Engineering | Decoding the Future"
+    }
+  ]
+]

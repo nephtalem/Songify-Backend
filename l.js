@@ -73,7 +73,11 @@ puppeteer.use(StealthPlugin());
   });
   const page = await browser.newPage();
 
-  const url = "https://www.linkedin.com/posts/simran-sachdeva-b88258222_hiring-jobs-internships-activity-7187464587871453184-ONiL?utm_source=share&utm_medium=member_desktop"
+  const url = "https://www.linkedin.com/posts/simran-sachdeva-b88258222_hiring-jobs-internships-activity-7187464587871453184-ONiL/"
+  // "https://www.linkedin.com/posts/senankhawaja_if-youre-looking-for-a-remote-compensated-activity-7172694912700727296-oyYY/"
+  // "https://www.linkedin.com/posts/abigaylepeterson_do-you-know-the-student-who-cold-emailed-activity-7168651092921139202-RGdB/"
+  // "https://www.linkedin.com/posts/avi-agola_still-open-for-internships-drop-your-email-activity-7189750122002411520-TeU_/"
+  // "https://www.linkedin.com/posts/simran-sachdeva-b88258222_hiring-jobs-internships-activity-7187464587871453184-ONiL?utm_source=share&utm_medium=member_desktop"
   // "https://www.linkedin.com/posts/avnibarman_should-i-share-the-cold-email-template-that-activity-7149112327756275713-kDdf?utm_source=share&utm_medium=member_desktop"
   // "https://www.linkedin.com/posts/mercor-ai_i-need-to-hire-300-remote-software-engineers-activity-7159984706262908930-06fn?utm_source=share&utm_medium=member_desktop"
   // "https://www.linkedin.com/posts/abigaylepeterson_internships-jobs-career-activity-7156375203957141505-iWRq?utm_source=share&utm_medium=member_desktop"
@@ -88,7 +92,7 @@ puppeteer.use(StealthPlugin());
     let i = 0;
     while (true) {
       const loadMoreButton = await page.$('.comments-comments-list__load-more-comments-button');
-      if (!loadMoreButton ) break; // Break the loop if the button is not found
+      if (!loadMoreButton || i==100 ) break; // Break the loop if the button is not found
       // || i==70
       await loadMoreButton.click();
       await setTimeout(3000)

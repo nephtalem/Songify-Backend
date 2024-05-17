@@ -1,0 +1,4700 @@
+[
+  [
+    {
+      "firstname": "Admya",
+      "lastname": "Maheshwari",
+      "index": 1,
+      "name": "Admya Maheshwari",
+      "email": "aadimaheshwari888@gmail.com",
+      "userDetails": "Sophomore at Indian Institute of Technology, Kharagpur"
+    },
+    {
+      "firstname": "SHIVANGI",
+      "lastname": "JHA",
+      "index": 2,
+      "name": "SHIVANGI SINGH JHA",
+      "email": "jhashivangisingh03@gmail.com",
+      "userDetails": "Front End Developer | Java | DSA | C++ | MySQL"
+    },
+    {
+      "firstname": "Sonal",
+      "lastname": "Sharma",
+      "index": 3,
+      "name": "Sonal Sharma",
+      "email": "Sonals7755@gmail.com",
+      "userDetails": "BCOM.H @KMV ||•Content Head @NSS ||•Class Representative ||•ACCA(4/13) @ Grant Thorton||Junior Executive @EDP ||•Economics"
+    },
+    {
+      "firstname": "Yuvraj",
+      "lastname": "Kataria",
+      "index": 4,
+      "name": "Yuvraj Kataria",
+      "email": "yuvrajkataria11@gmail.com",
+      "userDetails": "IIM Rohtak | IPM 22-27 | Summer Intern @ EY | Product Management Intern @Enrichmentors | Aspiring Business Leader | Consulting Aspirant"
+    },
+    {
+      "firstname": "Jay",
+      "lastname": "Agarwal",
+      "index": 5,
+      "name": "Jay Agarwal",
+      "email": "agarwal.jay789@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Sahana",
+      "lastname": "Chowdhury",
+      "index": 6,
+      "name": "Sahana Roy Chowdhury",
+      "email": "sroych01@gmail.com",
+      "userDetails": "Student at University of Calcutta"
+    },
+    {
+      "firstname": "Riya",
+      "lastname": "Aggarwal",
+      "index": 7,
+      "name": "Riya Aggarwal",
+      "email": "aggarwal.riya878@gmail.com",
+      "userDetails": "C++ ||Machine learning || Deep learning ||Data structures and algorithms || SQL || Python || UI Designing"
+    },
+    {
+      "firstname": "Shravani",
+      "lastname": "Nandani",
+      "index": 8,
+      "name": "Shravani Nandani",
+      "email": "shravani24ct@gmail.com",
+      "userDetails": "Student at Manipal University Jaipur || Aspiring Business Analyst"
+    },
+    {
+      "firstname": "Raj",
+      "lastname": "Khandelwal",
+      "index": 9,
+      "name": "Raj Khandelwal",
+      "email": "khandelwalraj990@gmail.com",
+      "userDetails": "B.com(hons) student with focus in business management"
+    },
+    {
+      "firstname": "Arya",
+      "lastname": "Bhattacharyya",
+      "index": 10,
+      "name": "Arya Sankar Bhattacharyya",
+      "email": "aryasbhattacharyya2002@gmail.com",
+      "userDetails": "KIIT '26 | JAVA | Data Structures & Algorithms | C Programming"
+    },
+    {
+      "firstname": "Nirakh",
+      "lastname": "Satsangi",
+      "index": 11,
+      "name": "Nirakh Satsangi",
+      "email": "nirakh2003@gmail.com",
+      "userDetails": "DSA | Development | DevOps | Network Automation"
+    },
+    {
+      "firstname": "SOHAM",
+      "lastname": "KUMAR",
+      "index": 12,
+      "name": "SOHAM KUMAR",
+      "email": "sohamkumar245@gmail.com",
+      "userDetails": "SXC'27 | BMS(H) | Actuarial Aspirant"
+    },
+    {
+      "firstname": "Anil",
+      "lastname": "Jaiswal",
+      "index": 13,
+      "name": "Anil Jaiswal",
+      "email": "aniljaiswal2441@gmail.com",
+      "userDetails": "|| At student savitribai pully Pune University || pursuing B-tech in Computer Engineering || S.Y. student ||"
+    },
+    {
+      "firstname": "Angel",
+      "lastname": "Wilson",
+      "index": 14,
+      "name": "Angel Wilson",
+      "email": "wilsonangel871@gmail.com",
+      "userDetails": "Aspiring Data Analyst: Transforming Insights into Action"
+    },
+    {
+      "firstname": "Palak",
+      "lastname": "Seth",
+      "index": 15,
+      "name": "Palak Seth",
+      "email": "palak.seth08@gmail.com",
+      "userDetails": "Student at SRM University"
+    },
+    {
+      "firstname": "Sweta",
+      "lastname": "Singh",
+      "index": 16,
+      "name": "Sweta Singh",
+      "email": "swetasinghh30@gmail.com",
+      "userDetails": "CSE, Kalinga Institute of Industrial Technology | GeeksforGeeks KIIT | GSSoC'24 contributor"
+    },
+    {
+      "firstname": "Emmanuelle",
+      "lastname": "Delatour",
+      "index": 17,
+      "name": "Emmanuelle Delatour",
+      "email": "e.delatour@lse.ac.uk",
+      "userDetails": "Student at The London School of Economics and Political Science (LSE)"
+    },
+    {
+      "firstname": "Arshiya",
+      "lastname": "Anwar",
+      "index": 18,
+      "name": "Arshiya Anwar",
+      "email": "arshiyaanwar13@gmail.com",
+      "userDetails": "Psychologist & Psychotherapist | HR | Team Leader | Operation | Marketing"
+    },
+    {
+      "firstname": "Devesh",
+      "lastname": "Karde",
+      "index": 19,
+      "name": "Devesh Karde",
+      "email": "deveshkarde@gmail.com",
+      "userDetails": "MERN Stack developer | Front End Developer | 3⭐@Hackerrank | Data Analyst | Writer | B.E Computer's"
+    },
+    {
+      "firstname": "Aayushi",
+      "lastname": "Saini",
+      "index": 20,
+      "name": "Aayushi Saini",
+      "email": "Aayushisaini0555@gmail.com",
+      "userDetails": "Economics hons. | DRC'26| University of Delhi"
+    },
+    {
+      "firstname": "Ruchika",
+      "lastname": "Motwani",
+      "index": 21,
+      "name": "Ruchika Motwani",
+      "email": "ruchikamotwani20@gmail.com",
+      "userDetails": "BE student at Thadomal Shahani Engineering College | Social media director of Rotaract Club of Parleshwar Genz| JPMorgan Chase & Co. Software Engineering Virtual Experience Participant with Forage"
+    },
+    {
+      "firstname": "Shreya",
+      "lastname": ".",
+      "index": 22,
+      "name": "Shreya .",
+      "email": "22csu515@ncuindia.edu",
+      "userDetails": "Btech(CSE) at Northcap University"
+    },
+    {
+      "firstname": "Tejas",
+      "lastname": "Gadewar",
+      "index": 23,
+      "name": "Tejas Gadewar",
+      "email": "Tejassgadewar@gmail.com",
+      "userDetails": "IIM Nagpur || Partner || Account Manager || Brand Manager || Co-Founder || National Finalist At IIM Indore, SIBM Bengaluru and Masters Union || Six Sigma (Green Belt)||"
+    },
+    {
+      "firstname": "Janhavi",
+      "lastname": "Mishra",
+      "index": 24,
+      "name": "Janhavi Mishra",
+      "email": "Janhavimishra2004@gmail.com",
+      "userDetails": "Business Analyst @Paytm | Product Consultant | Business Intelligence | Agile | Immediate Joiner | Looking for a job change"
+    },
+    {
+      "firstname": "Aishwarya",
+      "lastname": "M.",
+      "index": 25,
+      "name": "Aishwarya M.",
+      "email": "dtsm18466@gmail.com",
+      "userDetails": "Summer Intern, Johnson & Johnson | IIFT-Delhi’24 MBA(IB)| Silver medallist B.E(Computers) | University of Mumbai’20"
+    },
+    {
+      "firstname": "Urvashi",
+      "lastname": "Burman",
+      "index": 26,
+      "name": "Urvashi Burman",
+      "email": "Burman.u@northeastern.edu",
+      "userDetails": "Actively looking for Full-time roles as a Scrum Master | IT Project Manager | Certified Scrum Master CSM® |"
+    },
+    {
+      "firstname": "Divyam",
+      "lastname": ".",
+      "index": 27,
+      "name": "Divyam .",
+      "email": "dvmnmn18pro@gmail.com",
+      "userDetails": "WebDev || JAVA || DSA || Marketing || Tech Enthusiast || Designing"
+    },
+    {
+      "firstname": "Shreya",
+      "lastname": "Mahajan",
+      "index": 28,
+      "name": "Shreya Mahajan",
+      "email": "mahajan112shreya@gmail.com",
+      "userDetails": "Du '26 | Economics Major | Chanakya finance and investment cell ( consulting)| Catalyst - placement cell"
+    },
+    {
+      "firstname": "Khushi",
+      "lastname": "Garg",
+      "index": 29,
+      "name": "Khushi Garg",
+      "email": "khushig9012@gmail.com",
+      "userDetails": "CA Intermediate || Bcom Hons at Amity University || Enthusiastic learner || 20k+ impressions ||Play with words || CA Talks ||"
+    },
+    {
+      "firstname": "Shreya",
+      "lastname": "Aggarwal",
+      "index": 30,
+      "name": "Shreya Aggarwal",
+      "email": "shreyatott@gmail.com",
+      "userDetails": "IPM|IIM ROHTAK|Volunteer at Naya Sawera NGO"
+    },
+    {
+      "firstname": "Ashi",
+      "lastname": "Chandravanshi",
+      "index": 31,
+      "name": "Ashi Chandravanshi",
+      "email": "ashich2627@gmail.com",
+      "userDetails": "CSE-AIML Student at Lakshmi Narain College of Technology, Bhopal"
+    },
+    {
+      "firstname": "harshita",
+      "lastname": "bihani",
+      "index": 32,
+      "name": "harshita bihani",
+      "email": "harshitabihani25@gmail.com",
+      "userDetails": "Finance student | Excel Proficiency | Video editing"
+    },
+    {
+      "firstname": "Ipsita",
+      "lastname": "Pal",
+      "index": 33,
+      "name": "Ipsita Pal",
+      "email": "ipsitapal613@gmail.com",
+      "userDetails": "Market Research | Digital Marketing | SEO | Freelance Writing"
+    },
+    {
+      "firstname": "Naman",
+      "lastname": "Malhotra",
+      "index": 34,
+      "name": "Naman Malhotra",
+      "email": "asknamanx@gmail.com",
+      "userDetails": "130K+ Impressions | BBA(FIA)@DelhiUniversity | Ex-Blogger@Marpu Foundation | Ex-TeamLeader@Lernx | Financially Inclined | Enthusiast & Probably Your Future Colleague | LinkedIn's Creators Programme 2023 | DU'25 | RSA'22"
+    },
+    {
+      "firstname": "Dhruv",
+      "lastname": "Rastogi",
+      "index": 35,
+      "name": "Dhruv Rastogi",
+      "email": "dhruvrastogi30@gmail.com",
+      "userDetails": "HPAIR’24 || growth@maphood || TheBlueChip FIC || Enactus || TEDxSVC || Comsoc || SVC’26 || CBSE’2023 AIR 9"
+    },
+    {
+      "firstname": "RIYA",
+      "lastname": "N.",
+      "index": 36,
+      "name": "RIYA N.",
+      "email": "riyanayak409@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Sreehari",
+      "lastname": "S",
+      "index": 37,
+      "name": "Sreehari S",
+      "email": "s11sreehari@gmail.com",
+      "userDetails": "SRCC'23 | CMA US semi-qualified"
+    },
+    {
+      "firstname": "Roshni",
+      "lastname": "Chawla",
+      "index": 38,
+      "name": "Roshni Chawla",
+      "email": "roshnichawla2005@gmail.com",
+      "userDetails": "Attended Maharaja Surajmal Institute"
+    },
+    {
+      "firstname": "Mahesh",
+      "lastname": "Kharel",
+      "index": 39,
+      "name": "Mahesh Kharel",
+      "email": "kharel.mahesh@gmail.com",
+      "userDetails": "IT Support| Active Directory | Office 365 | Microsoft Azure | System Administrator"
+    },
+    {
+      "firstname": "Dhruv",
+      "lastname": "Malpani",
+      "index": 40,
+      "name": "Dhruv Malpani",
+      "email": "dhruvmalpani05@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Mayur",
+      "lastname": "Gaikwad",
+      "index": 41,
+      "name": "Mayur Gaikwad",
+      "email": "gmayur96k@gmail.com",
+      "userDetails": "CSE Student | Student at Dr. D. Y. Patil Institute of Engineering & Technology, Pune"
+    },
+    {
+      "firstname": "Rishabh",
+      "lastname": "Saini",
+      "index": 42,
+      "name": "Rishabh Saini",
+      "email": "rishabhkirodiwal04@gmail.com",
+      "userDetails": "CSE'25 Rajasthan Technical Univerisity,Kota | DS'25 IIT Madras ,Chennai"
+    },
+    {
+      "firstname": "Mitali",
+      "lastname": "K",
+      "index": 43,
+      "name": "Mitali K",
+      "email": "kmitali328@gmail.com",
+      "userDetails": "LSR'24|B.Com(H) major|Computer Applications minor"
+    },
+    {
+      "firstname": "Rishita",
+      "lastname": "Mirchandani",
+      "index": 44,
+      "name": "Rishita Mirchandani",
+      "email": "rishitamirchandani122@gmail.com",
+      "userDetails": "BBA Honours | E- CELL | SKILL DEVELOPMENT TRAINER | DISCIPLINE COMMITTEE | MARKETING & HR ENTHUSIAST"
+    },
+    {
+      "firstname": "Aman",
+      "lastname": "Verma",
+      "index": 45,
+      "name": "Aman Verma",
+      "email": "aman0724.verma@gmail.com",
+      "userDetails": "INTERN AT SAMSUNG INDIA||WINNER UXPLORE|| WINNER IDEAFORGE|| ASSOCIATE AT NEXT TECH LAB|| HEAD OF CREATIVES @TPHxSRMIST AND @ECELL SRMIST||LEAD GRAPHIC DESIGNER@NSCC SRM||FRONT END WEB DEVELOPER||NTSE RANK HOLDER"
+    },
+    {
+      "firstname": "Anmol",
+      "lastname": "Thora",
+      "index": 46,
+      "name": "Anmol Thora",
+      "email": "80anmolthora@gmail.com",
+      "userDetails": "SSE @Infosys | Java, Mysql, AWS Cloud Practitioner"
+    },
+    {
+      "firstname": "Sejal",
+      "lastname": "Jain",
+      "index": 47,
+      "name": "Sejal Jain",
+      "email": "jsejal.2912@gmail.com",
+      "userDetails": "Student at University College London."
+    },
+    {
+      "firstname": "Lavisha",
+      "lastname": "Mahajan",
+      "index": 48,
+      "name": "Lavisha Mahajan",
+      "email": "lavishamahajan1910@gmail.com",
+      "userDetails": "3X LinkedIn Top Voice • GNDU'27 • Volunteer @ Mentorle • CA @BECON'24 IITD • Kshitij,IIT KGP • E-Summit IITR • Mood Indigo squad member@IITB • AI & ML enthusiast • Writer • CSE • Open for collab •Postman API certified"
+    },
+    {
+      "firstname": "Garv",
+      "lastname": "J.",
+      "index": 49,
+      "name": "Garv J.",
+      "email": "garvjainpb@gmail.com",
+      "userDetails": "Sophomore at Vellore Institute of Technology| Senior Core Member @ACM-VIT Chapter"
+    },
+    {
+      "firstname": "Pakhi",
+      "lastname": "Goel",
+      "index": 50,
+      "name": "Pakhi Goel",
+      "email": "goelpakhi.10@gmail.com",
+      "userDetails": "Currently pursuing Global MBA @ SP Jain School Of Global Management| Ex: NAB| Genpact"
+    },
+    {
+      "firstname": "Navyanth",
+      "lastname": "Bhupathi",
+      "index": 51,
+      "name": "Navyanth Kumar Bhupathi",
+      "email": "kianaledner45@gmail.com",
+      "userDetails": "Student | Passionate Problem Solver | Seeking Opportunities to Learn and Grow | Freelancer"
+    },
+    {
+      "firstname": "Arnav",
+      "lastname": "kumar",
+      "index": 52,
+      "name": "Arnav kumar",
+      "email": "karnav731@gmail.com",
+      "userDetails": "Pursuing B.tech in Electronics & Communication Engineering from Galgotias College of Engineering and technology | Core Java | HTML | CSS | Spring Boot"
+    },
+    {
+      "firstname": "Manasi",
+      "lastname": "Gawali",
+      "index": 53,
+      "name": "Manasi Gawali",
+      "email": "manasigawali7@gmail.com",
+      "userDetails": "Student at St. Xavier's College"
+    },
+    {
+      "firstname": "Sradha",
+      "lastname": "Prasannan",
+      "index": 54,
+      "name": "Sradha Prasannan",
+      "email": "sradhaprasannan213@gmail.com",
+      "userDetails": "Student at Kerala University, Thiruvananthapuram"
+    },
+    {
+      "firstname": "Mrinalika",
+      "lastname": "Santoshi",
+      "index": 55,
+      "name": "Mrinalika Santoshi",
+      "email": "mrinalika0702@gmail.com",
+      "userDetails": "Pursuing BCom (hons) from Vivekanada Institute of Professional Studies"
+    },
+    {
+      "firstname": "Roudrak",
+      "lastname": "Saha",
+      "index": 56,
+      "name": "Roudrak Saha",
+      "email": "saha.roudrak@gmail.com",
+      "userDetails": "Student at Kalinga Institute of Industrial Technology, Bhubaneswar"
+    },
+    {
+      "firstname": "Richa",
+      "lastname": "Patel",
+      "index": 57,
+      "name": "Richa Patel",
+      "email": "richaapatel06@gmail.com",
+      "userDetails": "Student at Dwarkadas J. Sanghvi College of Engineering"
+    },
+    {
+      "firstname": "Arushi",
+      "lastname": "Bansal",
+      "index": 58,
+      "name": "Arushi Bansal",
+      "email": "Arushibansal.career@gmail.com",
+      "userDetails": "Entrepreneur | Founder | MBA | CSM@Spotdraft"
+    },
+    {
+      "firstname": "Ahana",
+      "lastname": "Hui",
+      "index": 59,
+      "name": "Ahana Hui",
+      "email": "ahanahui98@gmail.com",
+      "userDetails": "Student at St. Paul's Cathedral Mission College"
+    },
+    {
+      "firstname": "Vanshika",
+      "lastname": "R.",
+      "index": 60,
+      "name": "Vanshika R.",
+      "email": "Vanshur280701@gmail.com",
+      "userDetails": "Project & Product Manager at U2opia Mobile | PMP | CSM | Ex intern- Dabur"
+    },
+    {
+      "firstname": "Shaik",
+      "lastname": "Tawfiq",
+      "index": 61,
+      "name": "Shaik Yasir Tawfiq",
+      "email": "shaikyasirtawfiq@gmail.com",
+      "userDetails": "Student at SRM University/ Web designer/ Aspiring Data analyst / Social media manager"
+    },
+    {
+      "firstname": "Jaanya",
+      "lastname": "Raheja",
+      "index": 62,
+      "name": "Jaanya Raheja",
+      "email": "janyaraheja@gmail.com",
+      "userDetails": "Learner|Student|Data Science and Analytics"
+    },
+    {
+      "firstname": "Dhruv",
+      "lastname": "Chhajer",
+      "index": 63,
+      "name": "Dhruv Chhajer",
+      "email": "chhajerdhruv7@gmail.com",
+      "userDetails": "IIM Rohtak IPM'24 I NMS'21"
+    },
+    {
+      "firstname": "Rishabh",
+      "lastname": "Gupta",
+      "index": 64,
+      "name": "Rishabh Gupta",
+      "email": "guptarishabh0409@gmail.com",
+      "userDetails": "IMT Nagpur | PGDM Finance'25 | Member of Utthaan - The CSR COMMITTEE"
+    },
+    {
+      "firstname": "Ridhi",
+      "lastname": "Goel",
+      "index": 65,
+      "name": "Ridhi Goel",
+      "email": "rg851@snu.edu.in",
+      "userDetails": "3rd Year Business Management Major | Dean's List Scholar | Shiv Nadar Institute of Eminence | Research, Data Analysis, Marketing Management"
+    },
+    {
+      "firstname": "Bharathi",
+      "lastname": "Ravi",
+      "index": 66,
+      "name": "Bharathi Ravi",
+      "email": "br403@snu.edu.in",
+      "userDetails": "Junior at Shiv Nadar University | Bachelor’s in Management Studies | YLS 23’ Delegate @ IIMB"
+    },
+    {
+      "firstname": "Rushikesh",
+      "lastname": "Chopade",
+      "index": 67,
+      "name": "Rushikesh Chopade",
+      "email": "rushipc@gmail.com",
+      "userDetails": "AI based Mobile application dev | SDE | Data science"
+    },
+    {
+      "firstname": "Darshit",
+      "lastname": "Jain",
+      "index": 68,
+      "name": "Darshit Jain",
+      "email": "Darshitjain.work@gmail.com",
+      "userDetails": "CA Intermediate Aspirant || Maharaja Agrasen Institute of Management Studies (MAIMS) || B.Com (H) || Member at Placement Cell || Member at BizMind, E-Cell || Member at Rotaract Club, RD-3011 || NSS || Finance Enthusiast"
+    },
+    {
+      "firstname": "Abhradeep",
+      "lastname": "Maity",
+      "index": 69,
+      "name": "Abhradeep Maity",
+      "email": "abhradeep7maity@gmail.com",
+      "userDetails": "Student at SRM University"
+    },
+    {
+      "firstname": "Hetvi",
+      "lastname": "Shah",
+      "index": 70,
+      "name": "Hetvi Shah",
+      "email": "hss2003@yahoo.com",
+      "userDetails": "CFA Level 1 cleared | Passionate for Finance | Pursuing BFM from Mithibai College"
+    },
+    {
+      "firstname": "Mahak",
+      "lastname": "Raghuwanshi",
+      "index": 71,
+      "name": "Mahak Raghuwanshi",
+      "email": "mahakraghuwanshi007@gmail.com",
+      "userDetails": "Pursuing BBA at IIM Jammu | Committed to Lifelong Learning | Sports Enthusiastic | Keyboardist | Singer | Painter"
+    },
+    {
+      "firstname": "Shakthi",
+      "lastname": "Kumaran",
+      "index": 72,
+      "name": "Shakthi Kumaran",
+      "email": "sk872@snu.edu.in",
+      "userDetails": "Summer Intern at HCL Foundation | President of Girl Up SNIOE | Undergraduate Student at Shiv Nadar University"
+    },
+    {
+      "firstname": "Nishant",
+      "lastname": "Sharma",
+      "index": 73,
+      "name": "Nishant Sharma",
+      "email": "Nishantsharma3112@yahoo.com",
+      "userDetails": "Intern @Cograd | CSE Sophomore |Google Cloud Arcade Facilitator | Member Placement Cell @RTUK | UAV Designer and Fabricator | Aeromodelling & Robotics Enthusiast"
+    },
+    {
+      "firstname": "Wahib",
+      "lastname": "Butt",
+      "index": 74,
+      "name": "Wahib Butt",
+      "email": "wahibbutt12@gmail.com",
+      "userDetails": "Accounting and Finance student at the London School of Economics and Political Science (LSE) Spring Intern at EY"
+    },
+    {
+      "firstname": "Priya",
+      "lastname": "Kashyap",
+      "index": 75,
+      "name": "Priya Kashyap",
+      "email": "priyakashyapp007@gmail.com",
+      "userDetails": "Data Analyst | Crafting Innovative Solutions from Data | Ex-Quality analyst at MapMyIndia | Ex-TCSer"
+    },
+    {
+      "firstname": "RIYA",
+      "lastname": "DHARIWAL",
+      "index": 76,
+      "name": "RIYA DHARIWAL",
+      "email": "riyadhariwal475@gmail.com",
+      "userDetails": "SXC'27 l XCC l NCC"
+    },
+    {
+      "firstname": "Haripriya",
+      "lastname": "Dubey",
+      "index": 77,
+      "name": "Haripriya Dubey",
+      "email": "haripriya2285@gmail.com",
+      "userDetails": "Student | Artificial Intelligence and Machine Learning | BVP-DET'27 | Navi Mumbai"
+    },
+    {
+      "firstname": "Deepika",
+      "lastname": "Singh",
+      "index": 78,
+      "name": "Deepika P Singh",
+      "email": "deepikapsingh04@gmail.com",
+      "userDetails": "Fellow @Marquee Equity - Raising Capital? We can help Student at BMS College for Women"
+    },
+    {
+      "firstname": "Simran",
+      "lastname": "Raizada",
+      "index": 79,
+      "name": "Simran Raizada",
+      "email": "Raizada.s@northeastern.edu",
+      "userDetails": "Graduate Student at Northeastern University | Ex- Delloite"
+    },
+    {
+      "firstname": "Priyanshi",
+      "lastname": "Agrawal",
+      "index": 80,
+      "name": "Priyanshi Agrawal",
+      "email": "apriyanshi.09@gmail.com",
+      "userDetails": "High School Student at DPS,Gurgaon"
+    },
+    {
+      "firstname": "ALEKHYA",
+      "lastname": "RAVINDRA",
+      "index": 81,
+      "name": "ALEKHYA RAVINDRA",
+      "email": "ravindraa.k.2023@business.smu.edu.sg",
+      "userDetails": "Home Business Owner @ Smoobaby | Bachelor of Business Management"
+    },
+    {
+      "firstname": "Umme",
+      "lastname": "Saleh",
+      "index": 82,
+      "name": "Umme Saleh",
+      "email": "ummesaleh06@gmail.com",
+      "userDetails": "•Android developer @GDSC KIIT •Front-end web developer •Growth member @GDSC KIIT •BTECH - CSE @KIIT"
+    },
+    {
+      "firstname": "Harshini",
+      "lastname": "Jagarapu",
+      "index": 83,
+      "name": "Harshini Jagarapu",
+      "email": "jsv.harshini@gmail.com",
+      "userDetails": "3rd Year UG Student, IIT Kharagpur."
+    },
+    {
+      "firstname": "Himanshu",
+      "lastname": "Sadhotra",
+      "index": 84,
+      "name": "Himanshu Sadhotra",
+      "email": "Sadhotra.himanshu13@gmail.com",
+      "userDetails": "Summer intern@Amul (GCMMF) NLDIMSR'25 | PGDM Marketing | Core Member Mark X Magazine Commitee."
+    },
+    {
+      "firstname": "Prachi",
+      "lastname": "Gangwani",
+      "index": 85,
+      "name": "Prachi Gangwani",
+      "email": "Prachi.gangwani33@gmail.com",
+      "userDetails": "Flutter Developer | Bubble.io Developer at WeCredit"
+    },
+    {
+      "firstname": "Dhvani",
+      "lastname": "Dodia",
+      "index": 86,
+      "name": "Dhvani Dodia",
+      "email": "dhvanidodia24@gmail.com",
+      "userDetails": "Student at Mumbai University | Business Development intern at Pharmakwik Healthtech | Training & Placement cell | Pharmacist (sophomore) | Social Media/ Content Creation Aficionada Instagram: @dhvanidodia"
+    },
+    {
+      "firstname": "Ryansh",
+      "lastname": "Rajput",
+      "index": 87,
+      "name": "Ryansh Rajput",
+      "email": "ryanshrajput408@gmail.com",
+      "userDetails": "Student at Kalinga Institute of Industrial Technology, Bhubaneswar"
+    },
+    {
+      "firstname": "VENUS",
+      "lastname": "DHARMIK",
+      "index": 88,
+      "name": "VENUS DHARMIK",
+      "email": "venus.dharmik.ug21@nsut.ac.in",
+      "userDetails": "Chief Convener @Techweek'24| NSUT CSE25 | Head Sponsorship, Moksha'24 | Full Stack Developer | Vice Chairperson @IEEE NSUT"
+    },
+    {
+      "firstname": "Shubham",
+      "lastname": "Yadav",
+      "index": 89,
+      "name": "Shubham Yadav",
+      "email": "shubham.yadav.inbox@gmail.com",
+      "userDetails": "|| B.Tech. CSE NSUT || Placement Coordinator @TNP NSIT ||"
+    },
+    {
+      "firstname": "Paragi",
+      "lastname": "Sethia",
+      "index": 90,
+      "name": "Paragi Sethia",
+      "email": "sethiaparagi@gmail.com",
+      "userDetails": "Fresher UG Biotechnology ⚛️"
+    },
+    {
+      "firstname": "Soumyadip",
+      "lastname": "Chatterjee",
+      "index": 91,
+      "name": "Soumyadip Chatterjee",
+      "email": "soumyadipchatterjee75@gmail.com",
+      "userDetails": "Event Vice-Head @ Symbiosis Sports Media Club | Event Management"
+    },
+    {
+      "firstname": "Aadya",
+      "lastname": "Agarwal",
+      "index": 92,
+      "name": "Aadya Agarwal",
+      "email": "aadyaagarwal0108@gmail.com",
+      "userDetails": "B.Sc. Mathematics honours| Miranda House'26| Placement Cell| Finance and Investment Club| Vatavaran| Reliance Foundation Scholar"
+    },
+    {
+      "firstname": "Khushii",
+      "lastname": "Hotwani",
+      "index": 93,
+      "name": "Khushii Hotwani",
+      "email": "khushiihotwani1@gmail.com",
+      "userDetails": "Summer Intern at DawaaDost || IIM Amritsar 2023-25 || Student Representative at Christ Church College 2020-23 || DPS 2020"
+    },
+    {
+      "firstname": "Asmi",
+      "lastname": "Bhargav",
+      "index": 94,
+      "name": "Asmi Bhargav",
+      "email": "asmibhargav.2003@gmail.com",
+      "userDetails": "Paytm Marketing & Strategy | Gulshan Group | SSCBS'24"
+    },
+    {
+      "firstname": "Kirti",
+      "lastname": "Agarwal",
+      "index": 95,
+      "name": "Kirti Agarwal",
+      "email": "agkirti1@gmail.com",
+      "userDetails": "Integrated BBA+MBA (Finance) Student at UPES | AIESEC Alumnus | Event Management Enthusiast"
+    },
+    {
+      "firstname": "Nikita",
+      "lastname": "Jain",
+      "index": 96,
+      "name": "Nikita Jain",
+      "email": "nikita.jain@mail.utoronto.ca",
+      "userDetails": "University of Toronto '27 | Victoria College"
+    },
+    {
+      "firstname": "Suraj",
+      "lastname": "Konda",
+      "index": 97,
+      "name": "Suraj Kumar Konda",
+      "email": "surajkonda2004@gmail.com",
+      "userDetails": "AI & ML Enthusiast | Data Science | IIT Madras BS | CSE @ MUJ '26"
+    },
+    {
+      "firstname": "Riya",
+      "lastname": "Surya",
+      "index": 98,
+      "name": "Riya Surya",
+      "email": "riyaasuryaa@gmail.com",
+      "userDetails": "Student at Dwarkadas J. Sanghvi College of Engineering"
+    },
+    {
+      "firstname": "Niharika",
+      "lastname": "Verma",
+      "index": 99,
+      "name": "Niharika Verma",
+      "email": "niiharikaverma@gmail.com",
+      "userDetails": "Y1 Business Student @SMU | Market Research Intern @Dorf Ketal Asia Pacific | Ian R Taylor Asia Scholar"
+    },
+    {
+      "firstname": "Arham",
+      "lastname": "L.",
+      "index": 100,
+      "name": "Arham L.",
+      "email": "arhamlunkar@gmail.com",
+      "userDetails": "Integrated MBA Student | Founder & CEO at Anusha SNVM | Ex-City Leader, Viral Fission | Marketing Enthusiast crafting impactful strategies for societal change and business growth"
+    },
+    {
+      "firstname": "Harsh",
+      "lastname": "Kumar",
+      "index": 101,
+      "name": "Harsh Kumar",
+      "email": "harsh245k@gmail.com",
+      "userDetails": "Full Stack Developer | React.js | 3rd Year NIT Kurukshetra | IT'25"
+    },
+    {
+      "firstname": "Manishika",
+      "lastname": "Gupta",
+      "index": 102,
+      "name": "Manishika Gupta",
+      "email": "manishikag@gmail.com",
+      "userDetails": "Biotechnology undergrad | SRMIST"
+    },
+    {
+      "firstname": "Mousam",
+      "lastname": "Narula",
+      "index": 103,
+      "name": "Mousam Narula",
+      "email": "mousamnarula9@gmail.com",
+      "userDetails": "CUET- 799.65/800, St. Stephens College - 2026'27, University of Delhi"
+    },
+    {
+      "firstname": "Dilshani",
+      "lastname": "A",
+      "index": 104,
+      "name": "Dilshani A",
+      "email": "Dilshania@arizona.edu",
+      "userDetails": "Graduate Student at University of Arizona"
+    },
+    {
+      "firstname": "Khushi",
+      "lastname": "Chaudhary",
+      "index": 105,
+      "name": "Khushi Chaudhary",
+      "email": "garud486@gmail.com",
+      "userDetails": "\"Bachelor's Student at Delhi University | Aspiring Data Analyst | Graphic Designer | Python learner\""
+    },
+    {
+      "firstname": "Pratibha",
+      "lastname": "Sharma",
+      "index": 106,
+      "name": "Pratibha Sharma",
+      "email": "sharmapratibha1812@gmail.com",
+      "userDetails": "--JMC'26|| Economics Hons||CS Minor|| Project Dhara Head, Enactus JMC"
+    },
+    {
+      "firstname": "Anushka",
+      "lastname": "Vats",
+      "index": 107,
+      "name": "Anushka Vats",
+      "email": "anushkavats29@gmail.com",
+      "userDetails": "Economics Hons DCAC'24 | GATE'24 (Economics) - Qualified | Bhumi NGO | Apollo Green Energy Limited |"
+    },
+    {
+      "firstname": "Marvi",
+      "lastname": "Agarwal",
+      "index": 108,
+      "name": "Marvi Agarwal",
+      "email": "marviagarwal1802@gmail.com",
+      "userDetails": "Student at Christ University, Bangalore| Bachelors of Business Administration Honours"
+    },
+    {
+      "firstname": "Shreya",
+      "lastname": "Agrawal",
+      "index": 109,
+      "name": "Shreya Agrawal",
+      "email": "shreyaagrawal101112@gmail.com",
+      "userDetails": "Member at UG Placement Committee, NMIMS Bangalore | President at Navodaya - The UG Social Responsibility Committee"
+    },
+    {
+      "firstname": "Sayali",
+      "lastname": "Putcha",
+      "index": 110,
+      "name": "Sayali Putcha",
+      "email": "sayaliputcha@gmail.com",
+      "userDetails": "ARSD DU'26/27 I Student | Passionate learner | Aspiring Economist"
+    },
+    {
+      "firstname": "NANDINI",
+      "lastname": "GAUR",
+      "index": 111,
+      "name": "NANDINI GAUR",
+      "email": "gaurnandini025@gmail.com",
+      "userDetails": "UPES ‘23 || SNU ‘25 || MSc. Economics || Teaching Assistant at SNU"
+    },
+    {
+      "firstname": "Ayush",
+      "lastname": "Jain",
+      "index": 112,
+      "name": "Ayush Jain",
+      "email": "ayushanil000@gmail.com",
+      "userDetails": "ASE Accenture | DSA | Programming | React | Flutter(Dart) | Android Developer | Freelancing | 5* in Java @Hacker rank | 500+ Problems solve on GFG | Microsoft certified Java developer | 6 month intern on flynaut"
+    },
+    {
+      "firstname": "Koustav",
+      "lastname": "Mandal",
+      "index": 113,
+      "name": "Koustav Mandal",
+      "email": "utpalkumarmandal1967@gmail.com",
+      "userDetails": "Immediate Joiner , Analyst"
+    },
+    {
+      "firstname": "Jhanvi",
+      "lastname": "Parikh",
+      "index": 114,
+      "name": "Jhanvi Parikh",
+      "email": "jhanvip1@umbc.edu",
+      "userDetails": "University of Maryland Baltimore County"
+    },
+    {
+      "firstname": "Arshi",
+      "lastname": "Bilakhiya",
+      "index": 115,
+      "name": "Arshi Bilakhiya",
+      "email": "regal786204@gmail.com",
+      "userDetails": "Attended Dr. Bhanuben Nanavati College of Pharmacy"
+    },
+    {
+      "firstname": "Udit",
+      "lastname": "Rao",
+      "index": 116,
+      "name": "Udit Rao",
+      "email": "udit.r.rao@gmail.com",
+      "userDetails": "Ambitious Computer Engineering Student | Marketing Head at CSI Sardar Patel Institute of Technology | Business Development Intern @Antino Labs"
+    },
+    {
+      "firstname": "Satchi",
+      "lastname": "Sawhney",
+      "index": 117,
+      "name": "Satchi Sawhney",
+      "email": "Satchi.sah@gmail.com",
+      "userDetails": "Aspiring Engineer & Researcher | Future Business Leader"
+    },
+    {
+      "firstname": "Aditya",
+      "lastname": "Narayanan",
+      "index": 118,
+      "name": "Aditya Narayanan",
+      "email": "an8594@srmist.edu.in",
+      "userDetails": "Student at SRMIST, Kattankulathur, Chennai ,Tamil Nadu"
+    },
+    {
+      "firstname": "Harshitha",
+      "lastname": "Nanjegowda",
+      "index": 119,
+      "name": "Harshitha Nanjegowda",
+      "email": "Harshitha.nanjegowda333@gmail.com",
+      "userDetails": "Master of Science in Business Analytics (STEM) | Prev. Business and Integration Architecture Senior Analyst in Accenture | SDLC & ISO 20022 | Project Management"
+    },
+    {
+      "firstname": "Vanshika",
+      "lastname": "Gupta",
+      "index": 120,
+      "name": "Vanshika Gupta",
+      "email": "Vanshika.22448@sscbs.du.ac.in",
+      "userDetails": "SSCBS'26 University of Delhi |BBA (FIA)"
+    },
+    {
+      "firstname": "Sri",
+      "lastname": "Kamisetty",
+      "index": 121,
+      "name": "Sri Surya Shobith Kamisetty",
+      "email": "kamisettisurya204@gmail.com",
+      "userDetails": "Student at Amrita Vishwa Vidyapeetham"
+    },
+    {
+      "firstname": "Mukul",
+      "lastname": "Rajput",
+      "index": 122,
+      "name": "Mukul Rajput",
+      "email": "kodanta1234@gmail.com",
+      "userDetails": "Sophomore ||GSSOC\"24 || College ambassador @GDG Prayagraj || C || C++ || DSA || Web Development || Certified Postman API Fundamentals Student Expert || Designing skills || Robotics enthusiast || Advertiser"
+    },
+    {
+      "firstname": "Ananya",
+      "lastname": "Singh",
+      "index": 123,
+      "name": "Ananya Singh",
+      "email": "ananya.iitkgp21@gmail.com",
+      "userDetails": "Public Relations Head @Students' Alumni Cell | Cambridge Judge Business School | Financial Analyst | Campus Connect | 3rd year IIT Kharagpur"
+    },
+    {
+      "firstname": "DEV",
+      "lastname": "PALIWAL",
+      "index": 124,
+      "name": "DEV PALIWAL",
+      "email": "paliwaldev172@gmail.com",
+      "userDetails": "HR Intern at Estrange Aurora | Delhi college of arts and commerce | BA Economics (Hons.)"
+    },
+    {
+      "firstname": "Bhavna",
+      "lastname": "Agarwal",
+      "index": 125,
+      "name": "Bhavna Agarwal",
+      "email": "bhabhnaagarwal@gmail.com",
+      "userDetails": "B.com(H) at IPCW | DU'26/27 | CA INTERMEDIATE"
+    },
+    {
+      "firstname": "Shreya",
+      "lastname": "Agrawal",
+      "index": 126,
+      "name": "Shreya Agrawal",
+      "email": "Shreyaagrawal04112@gmail.com",
+      "userDetails": "Sophomore @SRM l CSE l SSSVV'21 l Front-end intern @impetus l AWS AI/ML scholar l Graphic designer l Web development enthusiast l problem solver l public speaker l"
+    },
+    {
+      "firstname": "Nayan",
+      "lastname": "Chopra",
+      "index": 127,
+      "name": "Nayan Chopra",
+      "email": "nayanchopra12@gmail.com",
+      "userDetails": "Incoming Undergraduate at UCL"
+    },
+    {
+      "firstname": "Rishit",
+      "lastname": "Sharma",
+      "index": 128,
+      "name": "Rishit Sharma",
+      "email": "rishitsharmawx@gmail.com",
+      "userDetails": "Former Intern @ SHAURYA TS (Edtech startup) & FinOak | Finance and Investments | Entrepreneurship & Management"
+    },
+    {
+      "firstname": "Archit",
+      "lastname": "Gupta",
+      "index": 129,
+      "name": "Archit Gupta",
+      "email": "guptaarchit615@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Karan",
+      "lastname": "kumar",
+      "index": 130,
+      "name": "Karan kumar",
+      "email": "kk811376@gmail.com",
+      "userDetails": "Student at Shri Ram College of commerce"
+    },
+    {
+      "firstname": "Swayam",
+      "lastname": "Gupta",
+      "index": 131,
+      "name": "Swayam Gupta",
+      "email": "swayamgupta999@proton.me",
+      "userDetails": "🍁"
+    },
+    {
+      "firstname": "Higashi",
+      "lastname": "Gulati",
+      "index": 132,
+      "name": "Higashi Gulati",
+      "email": "higashigulati@gmail.com",
+      "userDetails": "Social Media Manager @GetinStartup | MSI’24 | BBA | Digital Marketing | Analytics"
+    },
+    {
+      "firstname": "Katyayani",
+      "lastname": "Singh",
+      "index": 133,
+      "name": "Katyayani Singh",
+      "email": "singhkatyayani01@gmail.com",
+      "userDetails": "IBS'25| Summer Intern at EY on DIGITREASURY PROJECT (Treasury Analytics)| SAMARTH(Ministry of Textiles)|"
+    },
+    {
+      "firstname": "Mayhul",
+      "lastname": "Kanwar",
+      "index": 134,
+      "name": "Mayhul Kanwar",
+      "email": "kanwarmayhul@gmail.com",
+      "userDetails": "Audit Assistant at Deloitte USI"
+    },
+    {
+      "firstname": "Mehika",
+      "lastname": "Khatri",
+      "index": 135,
+      "name": "Mehika Khatri",
+      "email": "mehika021@gmail.com",
+      "userDetails": "Indian Institute of Management, Rohtak | BBA-LLB | Vidhi Centre for Legal Policy | National Green Tribunal | Bank of India"
+    },
+    {
+      "firstname": "Suhani",
+      "lastname": "Jain",
+      "index": 136,
+      "name": "Suhani Jain",
+      "email": "suhanijain589@gmail.com",
+      "userDetails": "DRC'26 || DU || B.Com (H) || Vice president Comneur,commerce department || Ex-180dcdrc || Marketing and Finance Enthusiast ||"
+    },
+    {
+      "firstname": "Manya",
+      "lastname": "Rajput",
+      "index": 137,
+      "name": "Manya Rajput",
+      "email": "rmanya249@gmail.com",
+      "userDetails": "Journalism hons | PR Head at Awaken, Consumer’s Club | Kamala Nehru College University of Delhi"
+    },
+    {
+      "firstname": "Shivam",
+      "lastname": "Mishra",
+      "index": 138,
+      "name": "Shivam Mishra",
+      "email": "100mishrashiva@gmail.com",
+      "userDetails": "Corporate Communication Cell | Datamatics || MBA(BE),DFBE'25 || CAT'22 96.54%iler ||University of Delhi"
+    },
+    {
+      "firstname": "Harsh",
+      "lastname": "Sharma",
+      "index": 139,
+      "name": "Harsh Sharma",
+      "email": "harsh.22428@knit.ac.in",
+      "userDetails": "GSSOC'24 || SSOC'24 || Ex-Web D Intern at iNeuBytes || MERN Stack Developer || Campus Ambassador IITD Rendezvous|| 10x Google Cloud Badge (GCP) || Attended GDSCWOW || Ex-ISP Internshala || C++(DSA) || Sophomore@KNIT'26"
+    },
+    {
+      "firstname": "Rudranil",
+      "lastname": "Saha",
+      "index": 140,
+      "name": "Rudranil Saha",
+      "email": "rs.rudn@gmail.com",
+      "userDetails": "Computer Science Engineering undergrad || Javascript developer intern @Codsoft"
+    },
+    {
+      "firstname": "Bhuvnesh",
+      "lastname": "Richhariya",
+      "index": 141,
+      "name": "Bhuvnesh Richhariya",
+      "email": "bhuvibhai04@gmail.com",
+      "userDetails": "Upcoming Summer Intern @ISRO || ISRO SIF HACKATHON 23 Finalist || Web Developement ||B.Tech Geoinformatics || Python || Member@IIF in NSUT || NSUT'27"
+    },
+    {
+      "firstname": "Akshat",
+      "lastname": "Khatri",
+      "index": 142,
+      "name": "Akshat Khatri",
+      "email": "khatriakshat5@gmail.com",
+      "userDetails": "Sophomore Law Student at Vivekananda Institute of Professional Studies ll Guru Gobind Singh Indraprastha University"
+    },
+    {
+      "firstname": "Adrija",
+      "lastname": "Ganguly",
+      "index": 143,
+      "name": "Adrija Ganguly",
+      "email": "adrija.ganguly15@gmail.com",
+      "userDetails": "B.Com (Hons) | Training in Investment Banking & FMVA | Hands-on forex trading experience | Dedicated to driving organizational growth in banking & finance"
+    },
+    {
+      "firstname": "Riya",
+      "lastname": "Suthar",
+      "index": 144,
+      "name": "Riya Suthar",
+      "email": "riya.21ece523@rtu.ac.in",
+      "userDetails": "VLSI Enthusiast | Co-coordinator(Robotics Club) | Embedded C | PCB Designing | C++ | C | RTU'25(ECE)"
+    },
+    {
+      "firstname": "Ishika",
+      "lastname": "-",
+      "index": 145,
+      "name": "Ishika -",
+      "email": "ishika.jsharma@gmail.com",
+      "userDetails": "Student at Doon Business School | NISM MUTUAL FUND SERIES V-A CERTIFIED"
+    },
+    {
+      "firstname": "Udita",
+      "lastname": "Bansal",
+      "index": 146,
+      "name": "Udita Bansal",
+      "email": "uditabansal@u.nus.edu",
+      "userDetails": "Freshman at the National University of Singapore"
+    },
+    {
+      "firstname": "Rishadd",
+      "lastname": "Ranjith",
+      "index": 147,
+      "name": "Rishadd Ranjith",
+      "email": "ranjithrishadd@gmail.com",
+      "userDetails": "Upcoming sophomore @ NITK | Cadet @ 2 Kar Engr Coy NCC"
+    },
+    {
+      "firstname": "Tanisha",
+      "lastname": "Hisariya",
+      "index": 148,
+      "name": "Tanisha Hisariya",
+      "email": "hisariya.tani123@gmail.com",
+      "userDetails": "MSC AI QMUL || Former Associate at NOKIA || Python ||C++ || Kubernetes || Machine Learning || Automation || AI || Robot Framework || Data Science"
+    },
+    {
+      "firstname": "Anudeep",
+      "lastname": "J",
+      "index": 149,
+      "name": "Anudeep B J",
+      "email": "anudeep.jagadeesh16@gmail.com",
+      "userDetails": "Sophomore at Dayananda Sagar University"
+    },
+    {
+      "firstname": "Shreeyash",
+      "lastname": "Behera",
+      "index": 150,
+      "name": "Shreeyash Behera",
+      "email": "shreeyashbehera04@gmail.com",
+      "userDetails": "SRCC'26||BCom(Hons)||"
+    },
+    {
+      "firstname": "Chiranth",
+      "lastname": "Suresh",
+      "index": 151,
+      "name": "Chiranth Hundi Suresh",
+      "email": "chundisu@depaul.edu",
+      "userDetails": "Actively seeking Internship and full-Time Opportunities for Summer 2024 | Graduate Student, DePaul University | Major in Computer Science | Data Analyst | Software Developer"
+    },
+    {
+      "firstname": "Ayush",
+      "lastname": "Anand",
+      "index": 152,
+      "name": "Ayush Anand",
+      "email": "ayush.a2028i@iimbg.ac.in",
+      "userDetails": "IIM Bodh Gaya IPM'28 | MaSq: Marketing Club"
+    },
+    {
+      "firstname": "Ritik",
+      "lastname": "Jha",
+      "index": 153,
+      "name": "Ritik Jha",
+      "email": "jharitik321@gmail.com",
+      "userDetails": "Student at Biju Patnaik University of Technology, Odisha"
+    },
+    {
+      "firstname": "Siddhartha",
+      "lastname": "Barua",
+      "index": 154,
+      "name": "Siddhartha Barua",
+      "email": "sid.barua@hotmail.com",
+      "userDetails": "Sr.Coordinator-50mm-The Photography Club of IIM Amritsar | Student at IIM Amritsar 2023-2025 | Nagaland Polymer Industry | Assam Science and Technology University"
+    },
+    {
+      "firstname": "Ryan",
+      "lastname": "Tandiono",
+      "index": 155,
+      "name": "Ryan Tandiono",
+      "email": "ryantandionoo@gmail.com",
+      "userDetails": "BSc (Honours) in Investment Science and Finance Analytics Student at The Hong Kong Polytechnic University"
+    },
+    {
+      "firstname": "Vansh",
+      "lastname": "Gupta",
+      "index": 156,
+      "name": "Vansh Gupta",
+      "email": "vanshgupta1977@gmail.com",
+      "userDetails": "Intern @ UBS | Ex-ML intern @ GERMI | BITS PILANI"
+    },
+    {
+      "firstname": "Bhavya",
+      "lastname": ".",
+      "index": 157,
+      "name": "Bhavya .",
+      "email": "bvya257@gmail.com",
+      "userDetails": "Student at Banasthali Vidyapith"
+    },
+    {
+      "firstname": "Aadhithya",
+      "lastname": "Ramadurai",
+      "index": 158,
+      "name": "Aadhithya Ramadurai",
+      "email": "aadhithyaramadurai@gmail.com",
+      "userDetails": "YOUNGO F&M-SSSIHL'26/27"
+    },
+    {
+      "firstname": "Agnibho",
+      "lastname": "Chakrabarty",
+      "index": 159,
+      "name": "Agnibho Chakrabarty",
+      "email": "agnibho1811@gmail.com",
+      "userDetails": "Research Analyst @ S&P Global | Loan Reference Data | IPUCET AIR 145 (BBA)"
+    },
+    {
+      "firstname": "Manan",
+      "lastname": "Upadhyay",
+      "index": 160,
+      "name": "Manan Upadhyay",
+      "email": "mananupadhyay2000@gmail.com",
+      "userDetails": "MS in Business Analytics | Experienced Business Analyst | Seeking Summer Internships for 2024"
+    },
+    {
+      "firstname": "Shivansh",
+      "lastname": "Rai",
+      "index": 161,
+      "name": "Shivansh Rai",
+      "email": "raishivansh980@gmail.com",
+      "userDetails": "Economics honours student at Hindu college, University of Delhi | National Hockey Player | Vishalakshi foundation"
+    },
+    {
+      "firstname": "Harshal",
+      "lastname": "Dodia",
+      "index": 162,
+      "name": "Harshal Dodia",
+      "email": "harshaldodia49@gmail.com",
+      "userDetails": "Member- Enthral(the Music Society) || Member- Integration(the Statistics and Mathematics Society) || PGDM - IMI, New Delhi '25 || Gujarat University"
+    },
+    {
+      "firstname": "Kruti",
+      "lastname": "Shah",
+      "index": 163,
+      "name": "Kruti Shah",
+      "email": "shah.kruti@northeastern.edu",
+      "userDetails": "Product Owner & Business Analyst professional | Bridging the gap between business, product, tech, & operations | Driving business success through product ownership, process optimization & business analysis | STEM MSPM'24"
+    },
+    {
+      "firstname": "Dhruv",
+      "lastname": "Wadhwa",
+      "index": 164,
+      "name": "Dhruv Wadhwa",
+      "email": "dhruv6927@gmail.com",
+      "userDetails": "SRCC'25 • BCG Bruce Henderson Ideathon National Finalist • 180 Degrees Consulting, SRCC • CUET 99.3 Percentiler"
+    },
+    {
+      "firstname": "Kunjan",
+      "lastname": "Dand",
+      "index": 165,
+      "name": "Kunjan Dand",
+      "email": "kunjand1@umbc.edu",
+      "userDetails": "Project Management | Product Management |Supply Chain Professional | Manufacturing Professional | Engineering Management Professional"
+    },
+    {
+      "firstname": "Sneha",
+      "lastname": "Sharma",
+      "index": 166,
+      "name": "Sneha Sharma",
+      "email": "snehasharma04038@gmail.com",
+      "userDetails": "Digital Marketing | Project Management | Public Relations"
+    },
+    {
+      "firstname": "Muskan",
+      "lastname": "Sharma",
+      "index": 167,
+      "name": "Muskan Sharma",
+      "email": "muskansharma6012@gmail.com",
+      "userDetails": "Member - Academic Secretaries || PGDM - IMI, New Delhi || Ex-TravClan || Ex-Better || Delhi University"
+    },
+    {
+      "firstname": "Ruba",
+      "lastname": "S",
+      "index": 168,
+      "name": "Ruba Roshini S",
+      "email": "rubaroshinis@gmail.com",
+      "userDetails": "🚀 Data Science Enthusiast | Turning Raw Data into Insights | Leveraging Technology for Business Solutions | Power BI & Machine Learning Wizard 📊🐍🤖"
+    },
+    {
+      "firstname": "Nikki",
+      "lastname": "Sheth",
+      "index": 169,
+      "name": "Nikki Sheth",
+      "email": "sheth.ni@northeastern.edu",
+      "userDetails": "Actively looking for full time job in the Project Management and Public Relations roles | STEM Master’s of Science in Project Management 2022 |"
+    },
+    {
+      "firstname": "Sonakshi",
+      "lastname": "Mundra",
+      "index": 170,
+      "name": "Sonakshi Mundra",
+      "email": "mundrasonakshi@gmail.com",
+      "userDetails": "B.Com Honours || SRCC' 25/26 || Marketing & Designing Head at Vittshala - The Financial Literacy Cell || Corporate Communications Head at Fine Arts Society"
+    },
+    {
+      "firstname": "Kriti",
+      "lastname": "Vyas",
+      "index": 171,
+      "name": "Kriti Vyas",
+      "email": "kritivyas005@gmail.com",
+      "userDetails": "Fashion Designer"
+    },
+    {
+      "firstname": "Vaishali",
+      "lastname": "Aggarwal",
+      "index": 172,
+      "name": "Vaishali Aggarwal",
+      "email": "vaishaliaggarwal0810@gmail.com",
+      "userDetails": "Student at Vivekananda Institute of Professional Studies"
+    },
+    {
+      "firstname": "Shubham",
+      "lastname": "Raj",
+      "index": 173,
+      "name": "Shubham Raj",
+      "email": "shubhamraj993108@gmail.com",
+      "userDetails": "Student at Kalinga Institute of Industrial Technology, Bhubaneswar"
+    },
+    {
+      "firstname": "Chahak",
+      "lastname": "Beriwala",
+      "index": 174,
+      "name": "Chahak Beriwala",
+      "email": "chahakberiwala@gmail.com",
+      "userDetails": "Economics Major | TA-SNU"
+    },
+    {
+      "firstname": "Abhinav",
+      "lastname": "Arun",
+      "index": 175,
+      "name": "Abhinav Arun",
+      "email": "abhinavarun357@gmail.com",
+      "userDetails": "Harvard University Asian Conference 24 Indian delegate 🌍 Postgraduate Student at Delhi School of Economics, University of Delhi |Aspire to be an Economist | Writer | Research Enthusiast| My Insta-abhinavarun04"
+    },
+    {
+      "firstname": "Shabda",
+      "lastname": "Mantripragada",
+      "index": 176,
+      "name": "Shabda Pyari Mantripragada",
+      "email": "shabda.murthy@gmail.com",
+      "userDetails": "Intern C-DAC, HPC -AI-IT Infra & Operations Group"
+    },
+    {
+      "firstname": "Shivani",
+      "lastname": "Verma",
+      "index": 177,
+      "name": "Shivani Verma",
+      "email": "shivuverma175@gmail.com",
+      "userDetails": "MARG ASSOCIATE PROFESSIONAL FROM MARGERP9+ CERTIFIED BUSINESS ACCOUNTANT DIPLOMA FROM IAP PROFESSIONAL"
+    },
+    {
+      "firstname": "Aditi",
+      "lastname": "Khambe",
+      "index": 178,
+      "name": "Aditi Khambe",
+      "email": "akhambe02@gmail.com",
+      "userDetails": "Student at Vidyavardhini's College of Engineering and Technology"
+    },
+    {
+      "firstname": "Nitya",
+      "lastname": "K",
+      "index": 179,
+      "name": "Nitya K",
+      "email": "nityak660@gmail.com",
+      "userDetails": "EY | Indraprastha College for Women, DU"
+    },
+    {
+      "firstname": "Krishna",
+      "lastname": "Sharma",
+      "index": 180,
+      "name": "Krishna Sharma",
+      "email": "sharmakrishnadei5040@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "SUPRIYO",
+      "lastname": "DAS",
+      "index": 181,
+      "name": "SUPRIYO DAS",
+      "email": "dassupriyo2003@gmail.com",
+      "userDetails": "B.E. CHEMICAL ENGINEERING, JADAVPUR UNIVERSITY'26"
+    },
+    {
+      "firstname": "Taniya",
+      "lastname": "Agrawal",
+      "index": 182,
+      "name": "Taniya Agrawal",
+      "email": "taniya7@umd.edu",
+      "userDetails": "MS in Business Analytics @ University of Maryland"
+    },
+    {
+      "firstname": "Hritick",
+      "lastname": "Sidana",
+      "index": 183,
+      "name": "Hritick Sidana",
+      "email": "hriticksidana44@gmail.com",
+      "userDetails": "Data analyst | Ex intern at PHN technology private lmt|SQL|Python|Mongo db|PowerBI"
+    },
+    {
+      "firstname": "Arnav",
+      "lastname": "Agrawal",
+      "index": 184,
+      "name": "Arnav Agrawal",
+      "email": "arnavagrawal8may@gmail.com",
+      "userDetails": "SXC'25|CA INTERMEDIATE (Group 1 cleared)|PCN"
+    },
+    {
+      "firstname": "Anurag",
+      "lastname": "Som",
+      "index": 185,
+      "name": "Anurag Som",
+      "email": "anuragsom1123@gmail.com",
+      "userDetails": "CSE-SWE || SRM'27"
+    },
+    {
+      "firstname": "Mehak",
+      "lastname": "Garg",
+      "index": 186,
+      "name": "Mehak Garg",
+      "email": "mehakgarg341@gmail.com",
+      "userDetails": "SRCC'25 | B.Com(Hons.) | President-Udaya, E-Cell SRCC"
+    },
+    {
+      "firstname": "Dhruvisha",
+      "lastname": "Parsana",
+      "index": 187,
+      "name": "Dhruvisha Parsana",
+      "email": "parsana.d@northeastern.edu",
+      "userDetails": "Graduate student at Northeastern University | M.S. in Project Management | Product Designer | CSM"
+    },
+    {
+      "firstname": "Rupali",
+      "lastname": "Srivastava",
+      "index": 188,
+      "name": "Rupali Srivastava",
+      "email": "rupalisri52@gmail.com",
+      "userDetails": "Student at Maharaja Agrasen Institute Of Technology"
+    },
+    {
+      "firstname": "Rashmi",
+      "lastname": "jha",
+      "index": 189,
+      "name": "Rashmi Ranjan jha",
+      "email": "rashmijha649@gmail.com",
+      "userDetails": "DRC'26 || B. Com ( hons)|| 2nd runner up IIT BHU|| 2nd runner up SRCC|| National finalist IIM Kashipur||"
+    },
+    {
+      "firstname": "Priyanka",
+      "lastname": "Singh",
+      "index": 190,
+      "name": "Priyanka Singh",
+      "email": "priyankas0520@gmail.com",
+      "userDetails": "Commerce major | Ramjas'26 | FIC Ramjas"
+    },
+    {
+      "firstname": "Amrutha",
+      "lastname": "Satheesh",
+      "index": 191,
+      "name": "Amrutha Satheesh",
+      "email": "amruthasatheeshmail@gmail.com",
+      "userDetails": "B.Com Student || Gargi'26 || Member at Placement Cell || CMA Intermediate Student"
+    },
+    {
+      "firstname": "Stuti",
+      "lastname": "Singh",
+      "index": 192,
+      "name": "Stuti Singh",
+      "email": "2304singhstuti@gmail.com",
+      "userDetails": "Student at Delhi University, College of Vocational Studies"
+    },
+    {
+      "firstname": "Umang",
+      "lastname": "Jain",
+      "index": 193,
+      "name": "Umang Jain",
+      "email": "umangjain10a@gmail.com",
+      "userDetails": "SXC | IIM-A & IIM-C National Finalist Case Comp| ISC AIR-7 98.25% | State Head(HR) @SEF | Research Head@ThriveTogether | Placement Cell | Student's Council SXC"
+    },
+    {
+      "firstname": "Kruti",
+      "lastname": "Thakker",
+      "index": 194,
+      "name": "Kruti Thakker",
+      "email": "kthakker1@babson.edu",
+      "userDetails": "Masters in Finance (STEM) | Babson College’24"
+    },
+    {
+      "firstname": "Himanshu",
+      "lastname": "Jain",
+      "index": 195,
+      "name": "Himanshu Jain",
+      "email": "Himanshu.jain.2805@gmail.com",
+      "userDetails": "Process Developer at Genpact EMEA"
+    },
+    {
+      "firstname": "Zenil",
+      "lastname": "SP",
+      "index": 196,
+      "name": "Zenil Pethani ENV SP",
+      "email": "Pethani.z@northeastern.edu",
+      "userDetails": "A graduate in Project Management, with significant expertise in educational and residential development, supported by a strong industry background"
+    },
+    {
+      "firstname": "Smriti",
+      "lastname": "Lal",
+      "index": 197,
+      "name": "Smriti Lal",
+      "email": "smritilal23@gmail.com",
+      "userDetails": "IIM NAGPUR PGP'24|| IMS ENGINEERING COLLEGE, GHAZIABAD"
+    },
+    {
+      "firstname": "Tejas",
+      "lastname": "Agarwal",
+      "index": 198,
+      "name": "Tejas Agarwal",
+      "email": "tejashagarwwal@gmail.com",
+      "userDetails": "DBS'23"
+    },
+    {
+      "firstname": "AMMAR",
+      "lastname": "SURATWALA",
+      "index": 199,
+      "name": "AMMAR SURATWALA",
+      "email": "ammarsuratwala25@gmail.com",
+      "userDetails": "Tech-driven Innovator, prompt engineering & IoT Enthusiast, Fitness Devotee, Entrepreneurial Mindset, Exploring Boundaries with Every Step."
+    },
+    {
+      "firstname": "Youval",
+      "lastname": "Singh",
+      "index": 200,
+      "name": "Youval Singh",
+      "email": "youvalsingh40@gmail.com",
+      "userDetails": "Student at KIIT - Kalinga Institute of Industrial Technology"
+    },
+    {
+      "firstname": "vanshika",
+      "lastname": "Gupta",
+      "index": 201,
+      "name": "vanshika Gupta",
+      "email": "vanshika.g0412@gmail.com",
+      "userDetails": "Currently in Banasthali vidyapith"
+    },
+    {
+      "firstname": "Santhiya",
+      "lastname": "KJ",
+      "index": 202,
+      "name": "Santhiya KJ",
+      "email": "jaishivaani702@gmail.com",
+      "userDetails": "Student at Easwari Engineering College(SRM Group)"
+    },
+    {
+      "firstname": "Ashutosh",
+      "lastname": "Sharma",
+      "index": 203,
+      "name": "Ashutosh Sharma",
+      "email": "Ashutoshsharma9358@gmail.com",
+      "userDetails": "Summer Intern at Skilled Sapiens || Member- Academic Secretaries || PGDM- IMI New Delhi || SVSU'22-Gold Medalist"
+    },
+    {
+      "firstname": "Sambaran",
+      "lastname": "Banerjee",
+      "index": 204,
+      "name": "Sambaran Banerjee",
+      "email": "Sambaranb25@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Hemant",
+      "lastname": "Nagar",
+      "index": 205,
+      "name": "Hemant Nagar",
+      "email": "hemantnagar310@gmail.com",
+      "userDetails": "Dyal Singh College(E)"
+    },
+    {
+      "firstname": "Aditya",
+      "lastname": "Kanojiya",
+      "index": 206,
+      "name": "Aditya Kanojiya",
+      "email": "adiiitya.uiux@gmail.com",
+      "userDetails": "IIIT Surat'25 | UI/UX Designer | Front-end developer"
+    },
+    {
+      "firstname": "Tushar",
+      "lastname": "Goyal",
+      "index": 207,
+      "name": "Tushar Goyal",
+      "email": "goyaltushar1@gmail.com",
+      "userDetails": "PPO Holder & Management Trainee Intern at ICICI Lombard | Senior Students' Council"
+    },
+    {
+      "firstname": "Amritansh",
+      "lastname": "S.",
+      "index": 208,
+      "name": "Amritansh S.",
+      "email": "Amritansh1518@gmail.com",
+      "userDetails": "Hindu ‘27 | Majoring in Commerce | Junior Coordinator at The Placement Cell, Hindu College |"
+    },
+    {
+      "firstname": "Siddhesh",
+      "lastname": "Mishra",
+      "index": 209,
+      "name": "Siddhesh Mishra",
+      "email": "sidm@umd.edu",
+      "userDetails": "Pursuing Master's in Information Systems @ University of Maryland, College Park | Ex Data Science Intern @ Servify"
+    },
+    {
+      "firstname": "Arka",
+      "lastname": "Pal",
+      "index": 210,
+      "name": "Arka Pal",
+      "email": "arpal@ucsc.edu",
+      "userDetails": "Lead Backend Software Engineer @ Sports.Excitement | M.S. CSE @ UCSC | AWS Certified Cloud Practitioner | Javascript | Python | NodeJS | NestJS | GraphQL - I design and implement robust and scalable services"
+    },
+    {
+      "firstname": "Aditi",
+      "lastname": "Madhukar",
+      "index": 211,
+      "name": "Aditi Madhukar",
+      "email": "aditimadhukar20@gmail.com",
+      "userDetails": "Uni Student | SAC, DU'27 | Electronics Major | Commerce Minor | Tech & Business Enthusiast | Content Writer"
+    },
+    {
+      "firstname": "Nancy",
+      "lastname": "Verma",
+      "index": 212,
+      "name": "Nancy Verma",
+      "email": "nancyverma.121205@gmail.com",
+      "userDetails": "Student at Pillai College of Engineering"
+    },
+    {
+      "firstname": "Shayak",
+      "lastname": "Roy",
+      "index": 213,
+      "name": "Shayak Roy",
+      "email": "shayakroy.pat@gmail.com",
+      "userDetails": "Research Intern at Evepaper|| 2nd year Student at Christ University Bangalore"
+    },
+    {
+      "firstname": "Sidharth",
+      "lastname": "N",
+      "index": 214,
+      "name": "Sidharth N",
+      "email": "sidharthnadakkavil@gmail.com",
+      "userDetails": "Market Development Intern @ TAFE Ltd | IPM-BBA '24 | IIM Rohtak"
+    },
+    {
+      "firstname": "Renee",
+      "lastname": "Gupta",
+      "index": 215,
+      "name": "Renee Gupta",
+      "email": "Reneetwinkle1617@gmail.com",
+      "userDetails": "Intern @Nexus Info | Java | Cloud Computing | Machine Learning | DevOps | Logistics Co-Head @Engifest'24 | DTU'26"
+    },
+    {
+      "firstname": "Sowmya",
+      "lastname": "..",
+      "index": 216,
+      "name": "Sowmya ..",
+      "email": "Alsoumya1804@gmail.com",
+      "userDetails": "Student"
+    },
+    {
+      "firstname": "Debiprasad",
+      "lastname": "Swain",
+      "index": 217,
+      "name": "Debiprasad Swain",
+      "email": "kk2468964@gmail.com",
+      "userDetails": "DevOps Engineer | 2 Years of Cloud, Container, and Automation Mastery."
+    },
+    {
+      "firstname": "Sambhav",
+      "lastname": "Gupta",
+      "index": 218,
+      "name": "Sambhav Gupta",
+      "email": "sambhav7702@gmail.com",
+      "userDetails": "BCom( Hons ) at Sri Venkateswara College ( DU ) '26 | The Blue Chip | The Marketing Club | The Extension | The Placement Cell | Mindler Twentyunder20 | The IMPACT Project"
+    },
+    {
+      "firstname": "Anika",
+      "lastname": "Dhir",
+      "index": 219,
+      "name": "Anika Dhir",
+      "email": "anikakdhir@gmail.com",
+      "userDetails": "SGTBKC | B.COM(H)'26"
+    },
+    {
+      "firstname": "Vishesh",
+      "lastname": "Jawa",
+      "index": 220,
+      "name": "Vishesh Jawa",
+      "email": "vj261@snu.edu.in",
+      "userDetails": "Engineering Student at Shiv Nadar University. Core Member of Economics Society SNU. Member of IEEE SNU."
+    },
+    {
+      "firstname": "Barkha",
+      "lastname": "Kriplani",
+      "index": 221,
+      "name": "Barkha Kriplani",
+      "email": "Barkhakriplani11@gmail.com",
+      "userDetails": "US CMA ( License awaiting)"
+    },
+    {
+      "firstname": "Madhav",
+      "lastname": "Kumar",
+      "index": 222,
+      "name": "Madhav Jay Modesh Kumar",
+      "email": "madhavjay2005@gmail.com",
+      "userDetails": "Hansraj'27 Economics Honours | FIC | ICell"
+    },
+    {
+      "firstname": "Supratim",
+      "lastname": "Das",
+      "index": 223,
+      "name": "Supratim Das",
+      "email": "supratimdas100@gmail.com",
+      "userDetails": "SXC'27 || Co-Founder@CapitalCopia || Head of Finance@SangharshEF || Hult Prize SXC || Finance || Valuation"
+    },
+    {
+      "firstname": "Dhruv",
+      "lastname": "Bhardwaj",
+      "index": 224,
+      "name": "Dhruv Bhardwaj",
+      "email": "bhardwajdhruv064@gmail.com",
+      "userDetails": "Dr. BR Ambedkar National Institute of Technology, Jalandhar"
+    },
+    {
+      "firstname": "Nishtha",
+      "lastname": "Birla",
+      "index": 225,
+      "name": "Nishtha Birla",
+      "email": "nishthabirla1@gmail.com",
+      "userDetails": "Economics, Finance & Data Analytics @NUS | President @ 61st NUS Economics Society | Vice President @NUS Women In Business| Debate Coach @ UWCSEA"
+    },
+    {
+      "firstname": "Bhuvi",
+      "lastname": "Minocha",
+      "index": 226,
+      "name": "Bhuvi Minocha",
+      "email": "bhuviminocha13@gmail.com",
+      "userDetails": "Student at Maharaja Surajmal Institute"
+    },
+    {
+      "firstname": "Vasu",
+      "lastname": "Jindal",
+      "index": 227,
+      "name": "Vasu Jindal",
+      "email": "jindalvasu07@gmail.com",
+      "userDetails": "SRCC'26/27 || The Dramatics Society, SRCC || Aarohan || WOF || FAS || Udaya || Delta || AIR 48 CUET'23 || 99.72 Percentile || AIR 6 CBSE'23 || BBPS’23 || Musician"
+    },
+    {
+      "firstname": "Medhaabi",
+      "lastname": "Roy",
+      "index": 228,
+      "name": "Medhaabi Roy",
+      "email": "roymedhaabi@gmail.com",
+      "userDetails": "SRCC'26 I CUET’23 Economics(H) AIR 29"
+    },
+    {
+      "firstname": "Aashi",
+      "lastname": "Gupta",
+      "index": 229,
+      "name": "Aashi Gupta",
+      "email": "aashi.gupta@sjsu.edu",
+      "userDetails": "Seeking Immediate Full-time and Internship Opportunities | Lean Six Sigma Green Belt | Certified SAFe 5 Scrum Master | Graduate Assistant @ San Jose State University"
+    },
+    {
+      "firstname": "Kriti",
+      "lastname": "Gupta",
+      "index": 230,
+      "name": "Kriti Gupta",
+      "email": "aggrawalkriti@gmail.com",
+      "userDetails": "ACER @DS Group | Gold Medalist | Director's Merit List | IIM Amritsar '24 | Institute Rank - 4 | National Finalist Flipkart Wired 7.0 | Summer Intern at Flipkart | Winner Fujitsu 100 | Delhi University"
+    },
+    {
+      "firstname": "Sunaina",
+      "lastname": "Nath",
+      "index": 231,
+      "name": "Sunaina Nath",
+      "email": "sunaina14nath@gmail.com",
+      "userDetails": "DTU'26 | Amazon WoW Mentee | Member @Google’s Women Techmakers | Google Girl Hackathon 2024"
+    },
+    {
+      "firstname": "Vibhuti",
+      "lastname": "Minghlani",
+      "index": 232,
+      "name": "Vibhuti Minghlani",
+      "email": "vibhutiminghlani@gmail.com",
+      "userDetails": "Student at Netaji Subhash University of Technology"
+    },
+    {
+      "firstname": "Aman",
+      "lastname": "Garg",
+      "index": 233,
+      "name": "Aman Garg",
+      "email": "gargaman2003@gmail.com",
+      "userDetails": "JIIT CSE 26"
+    },
+    {
+      "firstname": "KUNAL",
+      "lastname": "YADAV",
+      "index": 234,
+      "name": "KUNAL YADAV",
+      "email": "kunal17yadav@gmail.com",
+      "userDetails": "Business Development Associate @ Cube | Customer Outreach, SaaS Development"
+    },
+    {
+      "firstname": "HEMA",
+      "lastname": "BODANAPU",
+      "index": 235,
+      "name": "HEMA VARSHINI BODANAPU",
+      "email": "hemavarshinibodanapu@gmail.com",
+      "userDetails": "ENTHUSIASTIC | STUDENT AT DAYANANDA SAGAR UNIVERSITY"
+    },
+    {
+      "firstname": "Yaashi",
+      "lastname": "Berelia",
+      "index": 236,
+      "name": "Yaashi Berelia",
+      "email": "bereliayaashi@gmail.com",
+      "userDetails": "ABSS, St. Xavier's College (autonomous) Kolkata, XMS"
+    },
+    {
+      "firstname": "Arnav",
+      "lastname": "Puri",
+      "index": 237,
+      "name": "Arnav Puri",
+      "email": "puriarnav1307@gmail.com",
+      "userDetails": "Student at Christ University, Bangalore | CAT Aspirant |"
+    },
+    {
+      "firstname": "Priya",
+      "lastname": "Khali",
+      "index": 238,
+      "name": "Priya Khali",
+      "email": "priyakhali123@gmail.com",
+      "userDetails": "GARGI'26/27 DELHI UNIVERSITY||Bachelor of Commerce|| CUET'23 score(721/800)|| Member of PROJECT TEAM SAMARTH( The Enabling unit). Currently working as Human Resource Intern at Project Savera"
+    },
+    {
+      "firstname": "Riya",
+      "lastname": "Singhal",
+      "index": 239,
+      "name": "Riya Singhal",
+      "email": "riyapras@andrew.cmu.edu",
+      "userDetails": "Actively looking for Summer Internships 2024 | AI @ CMU | Ex-SDE @JPMorgan Chase & Co. | B-Tech. Computer Engineering @NIT-Surat 2022"
+    },
+    {
+      "firstname": "Anup",
+      "lastname": "Thakur",
+      "index": 240,
+      "name": "Anup Thakur",
+      "email": "anupthakur209@gmail.com",
+      "userDetails": "Student at Indian Institute of Technology (Indian School of Mines), Dhanbad"
+    },
+    {
+      "firstname": "Pawan",
+      "lastname": "dhami",
+      "index": 241,
+      "name": "Pawan Singh dhami",
+      "email": "dhamips789@gmail.com",
+      "userDetails": "Human Resource|| Activity Coordinator|| MBA|| Doon Business School"
+    },
+    {
+      "firstname": "Toshi",
+      "lastname": "Khandelwal",
+      "index": 242,
+      "name": "Toshi Khandelwal",
+      "email": "toshiknmh05@gmail.com",
+      "userDetails": "Miranda House \"26/27 Economics Major"
+    },
+    {
+      "firstname": "Annika",
+      "lastname": "Sinha",
+      "index": 243,
+      "name": "Annika Sinha",
+      "email": "annika22082@iiitd.ac.in",
+      "userDetails": "Finalist @Google Girl Hackathon'24-Silicon Engineering | Electronics +VLSI Undergraduate @ IIIT Delhi"
+    },
+    {
+      "firstname": "Priyanshi",
+      "lastname": ".",
+      "index": 244,
+      "name": "Priyanshi .",
+      "email": "apriyanshi1126@gmail.com",
+      "userDetails": "Fellow@Marquee Equity-Raising Capital? We can help! Economics | University of Delhi"
+    },
+    {
+      "firstname": "Sanchita",
+      "lastname": "Sahu",
+      "index": 245,
+      "name": "Sanchita Sahu",
+      "email": "ssanchita911@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Kusum",
+      "lastname": "Warad",
+      "index": 246,
+      "name": "Kusum Warad",
+      "email": "kusummohan.warad@sjsu.edu",
+      "userDetails": "MS in Engineering Management at SJSU | Certified Lean Six Sigma Green Belt | Open to Full-time roles starting May 2024."
+    },
+    {
+      "firstname": "Rasika",
+      "lastname": "I.",
+      "index": 247,
+      "name": "Rasika I.",
+      "email": "rasikaisane1999@gmail.com",
+      "userDetails": "(She/Her) • 3rd+"
+    },
+    {
+      "firstname": "Pragi",
+      "lastname": "Washkhiyar",
+      "index": 248,
+      "name": "Pragi Washkhiyar",
+      "email": "pragiwashkhiyar@gmail.com",
+      "userDetails": "BBA | Article Writer | Content Creator | Certified Accountant Executive | Ex-Intern @Hyatt Regency Kolkata in finance"
+    },
+    {
+      "firstname": "Prisha",
+      "lastname": "Pachauri",
+      "index": 249,
+      "name": "Prisha Pachauri",
+      "email": "prishapachauri09@gmail.com",
+      "userDetails": "Miranda House '26/27 | Political Science | University of Delhi"
+    },
+    {
+      "firstname": "Nidhi",
+      "lastname": "Badve",
+      "index": 250,
+      "name": "Nidhi Badve",
+      "email": "nidhibadve@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Meet",
+      "lastname": "Patel",
+      "index": 251,
+      "name": "Meet Patel",
+      "email": "meetbharatbhai.patel@sjsu.edu",
+      "userDetails": "MS in Mechanical Engineering | Graduate student at SJSU | Actively seeking summer internship / full-time opportunities 2024."
+    },
+    {
+      "firstname": "Harsh",
+      "lastname": "Saini",
+      "index": 252,
+      "name": "Harsh Saini",
+      "email": "saini030harsh@gmail.com",
+      "userDetails": "National Semi-Finalist, Hero Campus Challenge Season 9 | National Winner, PRONIGMA 5.0 | Intern @Storia | Student at IIM Amritsar 2023-2025 | Intern @Big Bazaar | Shri Ram College, Muzaffarnagar"
+    },
+    {
+      "firstname": "Tia",
+      "lastname": "Nagpal",
+      "index": 253,
+      "name": "Tia Nagpal",
+      "email": "tianagpal@gmail.com",
+      "userDetails": "NUS Industrial Systems Engineering | 2nd Major in Business | Vice President @ NUS Electrical and Computer Engineering Club | NUS Student Ambassador"
+    },
+    {
+      "firstname": "Raj",
+      "lastname": "Shekhar",
+      "index": 254,
+      "name": "Raj Shekhar",
+      "email": "arsrajshekhar@gmail.com",
+      "userDetails": "Human Resource Intern at GAIL(India) Limited || Student at IIM Amritsar || Skilled Sapiens || KICX || Geopolitics || Philosophy || Blockchain || AI ||"
+    },
+    {
+      "firstname": "Himanshi",
+      "lastname": "gupta",
+      "index": 255,
+      "name": "Himanshi gupta",
+      "email": "ghimanshi2012@gmail.com",
+      "userDetails": "IIM Nagpur'25| Summer Intern- Kimirica Hunter International| National Finalists- IDFC Fame 3.0| Senior coordinator- Arts SIG| SVIM, DAVV'23"
+    },
+    {
+      "firstname": "Deepshikha",
+      "lastname": "Singh",
+      "index": 256,
+      "name": "Deepshikha Singh",
+      "email": "ideepshikhasingh2002@gmail.com",
+      "userDetails": "Student at SRM University"
+    },
+    {
+      "firstname": "Chirag",
+      "lastname": "D.",
+      "index": 257,
+      "name": "Chirag D.",
+      "email": "chiragsdamase@gmail.com",
+      "userDetails": "Content Writer | Video editor | Poet"
+    },
+    {
+      "firstname": "Tansu",
+      "lastname": "Gangopadhyay",
+      "index": 258,
+      "name": "Tansu Gangopadhyay",
+      "email": "tansugangopadhyay@gmail.com",
+      "userDetails": "• 3rd+"
+    },
+    {
+      "firstname": "Rahil",
+      "lastname": "Chheda",
+      "index": 259,
+      "name": "Rahil Chheda",
+      "email": "rahilchheda11@gmail.com",
+      "userDetails": "CSE student at Dwarkadas J Sanghvi College of Engineering"
+    },
+    {
+      "firstname": "Syed",
+      "lastname": "Rahman",
+      "index": 260,
+      "name": "Syed Hamzah Rahman",
+      "email": "syedhamzahrahman@gmail.com",
+      "userDetails": "CSE '24 | Smart India Hackathon 2022 - Grand Finalist | Java | DSA | SQL"
+    },
+    {
+      "firstname": "Satya",
+      "lastname": "Getta",
+      "index": 261,
+      "name": "Satya Amrutha Getta",
+      "email": "amruthagetta13@gmail.com",
+      "userDetails": "First year CSE student at SRMIST KTR | AWS AI-ML Virtual Internship Graduate"
+    },
+    {
+      "firstname": "Sonu",
+      "lastname": "kumar",
+      "index": 262,
+      "name": "Sonu kumar",
+      "email": "skshaab3@gmail.com",
+      "userDetails": "CIVIL ENGINEER || AUTOCAD (2D,3D) || HIGHWAY ENGINEERING || INFRASTRUCTURE || CONSTRUCTION & MANAGEMENT ||"
+    },
+    {
+      "firstname": "Hariom",
+      "lastname": "Upadhyay",
+      "index": 263,
+      "name": "Hariom Upadhyay",
+      "email": "hariomup231@gmail.com",
+      "userDetails": "Financial Advisor at ICICI Pru.|| CFA L1 Candidate || Ex Assistant Manager at FinTree || NISM V || NISM Vlll || Operations Head at कानूनी चर्चा - The Legal Club, VSIT."
+    },
+    {
+      "firstname": "Ishika",
+      "lastname": "Chakraborty",
+      "index": 264,
+      "name": "Ishika Chakraborty",
+      "email": "ishikaniall1713@gmail.com",
+      "userDetails": "Graphic designer | ML enthusiast | Hackerrank Gold badge | KIIT’25 ECSE"
+    },
+    {
+      "firstname": "Nikhil",
+      "lastname": "Pillai",
+      "index": 265,
+      "name": "Nikhil Pillai",
+      "email": "pillai.n@northeastern.edu",
+      "userDetails": "Data Analyst | BI/Analytics Enthusiast | Developed Insurtech AI Model with 83% Accuracy for Risk Evaluation | Ensured Exceptional Data Integrity of 6,000+ Daily Data Sets with 98% Precision"
+    },
+    {
+      "firstname": "Abhinav",
+      "lastname": "Mittal",
+      "index": 266,
+      "name": "Abhinav Mittal",
+      "email": "abhinavmittal2003@gmail.com",
+      "userDetails": "Ex-Intern at Essential Soft Pvt. Ltd | CSE Undergrad | Tech Enthusiast | SRM University'25 | Meerut Public School'21"
+    },
+    {
+      "firstname": "Kuldeep",
+      "lastname": "Choudhary",
+      "index": 267,
+      "name": "Kuldeep Choudhary",
+      "email": "choudharykuldeep1803@gmail.com",
+      "userDetails": "GSSoC'24 Contributor | DJSCE'26 - IT | Passionate IT student | Aspiring Programmer | Tech enthusiast"
+    },
+    {
+      "firstname": "PAYAL",
+      "lastname": ".",
+      "index": 268,
+      "name": "PAYAL .",
+      "email": "payalpranjal92@gmail.com",
+      "userDetails": "Student at KiiT University"
+    },
+    {
+      "firstname": "Prajwal",
+      "lastname": "Halvi",
+      "index": 269,
+      "name": "Prajwal N Halvi",
+      "email": "prajwalnhalvi53@gmail.com",
+      "userDetails": "Secretary- IEEE ComSoc Society - DSU | B.Tech (Cyber Security) - DSU | Cybersecurity Apprentice | Learning the Art of Digital Defense"
+    },
+    {
+      "firstname": "Harsh",
+      "lastname": "Raj",
+      "index": 270,
+      "name": "Harsh Raj",
+      "email": "hraj82565@gmail.com",
+      "userDetails": "Fresher at NSUT | Co-founder of Hasi movement"
+    },
+    {
+      "firstname": "Nitesha",
+      "lastname": "Paatil",
+      "index": 271,
+      "name": "Nitesha Paatil",
+      "email": "npaatil@hawk.iit.edu",
+      "userDetails": "Actively Seeking Internships for Summer 2024 | MSCS Grad Student at Illinois Tech | Ex- Data Analyst at Excelerate"
+    },
+    {
+      "firstname": "Yash",
+      "lastname": "Shah",
+      "index": 272,
+      "name": "Yash Shah",
+      "email": "yashshah0408@gmail.com",
+      "userDetails": "Ex-Software Developer Intern @Lawyantra || Ex-Web Developer Intern @Infiheal || Ex-Software Developer Intern @ArbDossier || Ex-Full Stack Developer @Solar Secure Solutions || Software Developer"
+    },
+    {
+      "firstname": "Harshil",
+      "lastname": "Shah",
+      "index": 273,
+      "name": "Harshil Shah",
+      "email": "harshil.work@outlook.com",
+      "userDetails": "📊 Data Analyst | MSBA Candidate @ Suffolk University. Dedicated to transforming complex data into strategic insights. Proficient in SAS Programming, Data Analysis, and Visualization."
+    },
+    {
+      "firstname": "Harshdip",
+      "lastname": "Saha",
+      "index": 274,
+      "name": "Harshdip Saha",
+      "email": "harshdipsaha@gmail.com",
+      "userDetails": "Freshman@NSUT||B.Tech|| CSE|| Specialization in AI"
+    },
+    {
+      "firstname": "Pratham",
+      "lastname": "Surana",
+      "index": 275,
+      "name": "Pratham Surana",
+      "email": "twinklesurana1982@gmail.com",
+      "userDetails": "Student at SVKM's Narsee Monjee Institute of Management Studies (NMIMS)"
+    },
+    {
+      "firstname": "Shridhar",
+      "lastname": "Khare",
+      "index": 276,
+      "name": "Shridhar Khare",
+      "email": "kshridhar23comp@student.mes.ac.in",
+      "userDetails": "CSE Freshman | Pillai College Of Engineering"
+    },
+    {
+      "firstname": "Priyaanshu",
+      "lastname": "Sengupta",
+      "index": 277,
+      "name": "Priyaanshu Sengupta",
+      "email": "senguptapriyaanshu@gmail.com",
+      "userDetails": "CSE Undergrad at GGSIPU"
+    },
+    {
+      "firstname": "Shuchi",
+      "lastname": "Patel,LSSGB",
+      "index": 278,
+      "name": "Shuchi Patel,LSSGB",
+      "email": "Shuchishaileshkumar.patel@sjsu.edu",
+      "userDetails": "Actively looking for Technical Project/Program Manager roles | Supply Chain Management | Six Sigma Certified | Master's Engineering Management @ SJSU"
+    },
+    {
+      "firstname": "Rudraksh",
+      "lastname": "Tripathi",
+      "index": 279,
+      "name": "Rudraksh Tripathi",
+      "email": "rutripathi96@gmail.com",
+      "userDetails": "Trainee @PwC | Machine Learning | NLP | Python | Java | HTML | CSS | JavaScript | React | Bootstrap | Power BI"
+    },
+    {
+      "firstname": "Sahajpreet",
+      "lastname": "Kalra",
+      "index": 280,
+      "name": "Sahajpreet Singh Kalra",
+      "email": "sahajpreet2020@gmail.com",
+      "userDetails": "MLNC'25 || B.Com (H) || CA Intermediate"
+    },
+    {
+      "firstname": "ANURAG",
+      "lastname": "KHAPEKAR",
+      "index": 281,
+      "name": "ANURAG KHAPEKAR",
+      "email": "anuragkhapekar1010@gmail.com",
+      "userDetails": "Associate @ Hero FinCorp | Bachelor of Business Administration - BBA"
+    },
+    {
+      "firstname": "Tanmay",
+      "lastname": "Modi",
+      "index": 282,
+      "name": "Tanmay Modi",
+      "email": "moditanmayj@gmail.com",
+      "userDetails": "Student at University of Mumbai"
+    },
+    {
+      "firstname": "Ayush",
+      "lastname": "Ranjan",
+      "index": 283,
+      "name": "Ayush Ranjan",
+      "email": "ayush.123ashu@gmail.com",
+      "userDetails": "Associate analyst at pujat international pvt. ltd. | Investment Banking Fellow at Marquee Equity | Student at Delhi University"
+    },
+    {
+      "firstname": "DRISHTI",
+      "lastname": "SETHI",
+      "index": 284,
+      "name": "DRISHTI SETHI",
+      "email": "drishtisethi.work@gmail.com",
+      "userDetails": "Student at Shri Ram College of Commerce"
+    },
+    {
+      "firstname": "Shivam",
+      "lastname": "Daruka",
+      "index": 285,
+      "name": "Shivam Kumar Daruka",
+      "email": "shivamdaruka01@gmail.com",
+      "userDetails": "SXC'27 Attending St. Xavier's College (Autonomous), Kolkata"
+    },
+    {
+      "firstname": "Devanshi",
+      "lastname": "Kumar",
+      "index": 286,
+      "name": "Devanshi Kumar",
+      "email": "devanshikumar1412@gmail.com",
+      "userDetails": "LSR’26| Political Science Major"
+    },
+    {
+      "firstname": "Amogh",
+      "lastname": "Bankar",
+      "index": 287,
+      "name": "Amogh Bankar",
+      "email": "amogh.p23@imi.edu",
+      "userDetails": "Summer Intern at Happequity Investments & Finance || Member - The Operations Club || PGDM - IMI, New Delhi || Institute of Hotel Management, Mumbai"
+    },
+    {
+      "firstname": "Purva",
+      "lastname": "Varshney",
+      "index": 288,
+      "name": "Purva Varshney",
+      "email": "varshneypurva@gmail.com",
+      "userDetails": "Student at Miranda House College | B.Sc. (Physical Science with Computer Science)"
+    },
+    {
+      "firstname": "Yaashi",
+      "lastname": "Berelia",
+      "index": 289,
+      "name": "Yaashi Berelia",
+      "email": "bereliayaashi@gmail.com",
+      "userDetails": "ABSS, St. Xavier's College (autonomous) Kolkata, XMS"
+    },
+    {
+      "firstname": "Varahala",
+      "lastname": "D.",
+      "index": 290,
+      "name": "Varahala D.",
+      "email": "varahaladurga@gmail.com",
+      "userDetails": "Data Science Student | Python, MySQL, Full Stack Development"
+    },
+    {
+      "firstname": "Hemanth",
+      "lastname": "Gandla",
+      "index": 291,
+      "name": "Hemanth Basapuram Gandla",
+      "email": "hemanth2004bg@gmail.com",
+      "userDetails": "Sophomore at Indian Institute of Technology Bhubaneswar"
+    },
+    {
+      "firstname": "Mithilesh",
+      "lastname": "CSM®",
+      "index": 292,
+      "name": "Mithilesh Khade, CSM®",
+      "email": "khade.m@northeastern.edu",
+      "userDetails": "Graduated from Northeastern University | MS in Project Management | Actively looking for Full-time opportunities."
+    },
+    {
+      "firstname": "Nysa",
+      "lastname": "Koul",
+      "index": 293,
+      "name": "Nysa Koul",
+      "email": "koulnysa78@gmail.com",
+      "userDetails": "Student at Jaypee Institute Of Information Technology"
+    },
+    {
+      "firstname": "Aryan",
+      "lastname": "Srivastava",
+      "index": 294,
+      "name": "Aryan Srivastava",
+      "email": "aryansrivastava9d@gmail.com",
+      "userDetails": "Student at Vellore Institute of Technology(Bhopal) || Frontend Developer || HTML || CSS || JavaScript"
+    },
+    {
+      "firstname": "Pavan",
+      "lastname": "Raja",
+      "index": 295,
+      "name": "Pavan Kumar Raja",
+      "email": "pavankumarraja75@gmail.com",
+      "userDetails": "Student at IBS Hyderabad"
+    },
+    {
+      "firstname": "Aagam",
+      "lastname": "Shah",
+      "index": 296,
+      "name": "Aagam Shah",
+      "email": "aagamwork8691@gmail.com",
+      "userDetails": "Student at Dwarkadas J. Sanghvi College of Engineering"
+    },
+    {
+      "firstname": "Yashika",
+      "lastname": "Malhotra",
+      "index": 297,
+      "name": "Yashika Malhotra",
+      "email": "yashikam29@gmail.com",
+      "userDetails": "LSR’26 |English Major| Commerce Minor| Polyglot| The Entrepreneurship Cell, LSR| DELTA, The Analytics Cell of LSR"
+    },
+    {
+      "firstname": "Ritika",
+      "lastname": "Batwani",
+      "index": 298,
+      "name": "Ritika Batwani",
+      "email": "ritikab2k3@gmail.com",
+      "userDetails": "LSR'24 | Economics & Mathematics | Intern @Bloomegg | Finance & Sponsorship Team, TARANG'24 | External Relations Team, TARANG'23 | Team @Prakriti | PLC sheRises"
+    },
+    {
+      "firstname": "Shiv",
+      "lastname": "Lanka",
+      "index": 299,
+      "name": "Shiv Mohan Lanka",
+      "email": "smlanka@umd.edu",
+      "userDetails": "Graduate Student at the University of Maryland(UMD) | MSIS"
+    },
+    {
+      "firstname": "Yug",
+      "lastname": "More",
+      "index": 300,
+      "name": "Yug More",
+      "email": "yugmore20@gmail.com",
+      "userDetails": "Student at San Jose State University | Computer Science Teaching Assistant | Driven by a Passion for Leadership and Innovation in the Tech Industry"
+    },
+    {
+      "firstname": "Anmol",
+      "lastname": "Kumar",
+      "index": 301,
+      "name": "Anmol Kumar",
+      "email": "officialanmolkumar437@gmail.com",
+      "userDetails": "CVS,DU'25 | AFFILIATE MARKETER | | TEB X CVS| TEAM LEAD MANAGER AT INTERNVILLAGE | NSS X CVS | PROFESSIONAL ATHLETE"
+    },
+    {
+      "firstname": "Apurva",
+      "lastname": "Kulkarni",
+      "index": 302,
+      "name": "Apurva Kulkarni",
+      "email": "apurvakulkarni2014@gmail.com",
+      "userDetails": "Student at University of Mumbai"
+    },
+    {
+      "firstname": "Jagrut",
+      "lastname": "Desai",
+      "index": 303,
+      "name": "Jagrut Desai",
+      "email": "jagrutdesai1997@gmail.com",
+      "userDetails": "MS in Mechanical Engineering Seeking summer 2024 internships/CO-OP opportunities"
+    },
+    {
+      "firstname": "Malik",
+      "lastname": "Daniyal",
+      "index": 304,
+      "name": "Malik Daniyal",
+      "email": "mdaniyal.054@gmail.com",
+      "userDetails": "Bachelor's Student (Economics) | University Of Delhi | Economics enthusiast | Writer | Editorial head @Managix - The Management Club | Vice President @Student Counseling Centre"
+    },
+    {
+      "firstname": "Shivam",
+      "lastname": "bal",
+      "index": 305,
+      "name": "Shivam bal",
+      "email": "shivambal05@gmail.com",
+      "userDetails": "G20 Project Intern and Fellowship Recipient |Content Strategist | Experienced in Government and Social Media Management"
+    },
+    {
+      "firstname": "Ishani",
+      "lastname": "Bajaj",
+      "index": 306,
+      "name": "Ishani Bajaj",
+      "email": "ishanibajaj000@gmail.com",
+      "userDetails": "STUDENT | VIPS'25 | MARKETING ENTHUSIAST"
+    },
+    {
+      "firstname": "Mukul",
+      "lastname": "Singh",
+      "index": 307,
+      "name": "Mukul Singh",
+      "email": "mukulsingh745@gmail.com",
+      "userDetails": "|| GSSoC'23 || Frontend Developer || sophomore @IIIT-Bhopal || Graphic Designer"
+    },
+    {
+      "firstname": "Dina",
+      "lastname": "Sarkar",
+      "index": 308,
+      "name": "Dina Sarkar",
+      "email": "dinasarkar20032003@gmail.com",
+      "userDetails": "Marketing Specialist at PepsiCo"
+    },
+    {
+      "firstname": "Vaibhav",
+      "lastname": "Aggarwal",
+      "index": 309,
+      "name": "Vaibhav Aggarwal",
+      "email": "vaibhavaggarwal326@gmail.com",
+      "userDetails": "DTU'27"
+    },
+    {
+      "firstname": "Mohini",
+      "lastname": "Kathrotiya",
+      "index": 310,
+      "name": "Mohini Kathrotiya",
+      "email": "Kathrotiyamohini@gmail.com",
+      "userDetails": "Actively looking for Summer 2024 Internships | Master's in Data Analytics @SJSU"
+    },
+    {
+      "firstname": "Muskan",
+      "lastname": "Miglani",
+      "index": 311,
+      "name": "Muskan Miglani",
+      "email": "muskanmiglani750@gmail.com",
+      "userDetails": "Student at Vivekananda Institute of Professional Studies"
+    },
+    {
+      "firstname": "Aditya",
+      "lastname": "Tiwari",
+      "index": 312,
+      "name": "Aditya Tiwari",
+      "email": "adityatiwari4503@gmail.com",
+      "userDetails": "Investment Banking Aspirant | Financial Modeling | Valuation | Equity research"
+    },
+    {
+      "firstname": "Rudra",
+      "lastname": "Desai",
+      "index": 313,
+      "name": "Rudra Desai",
+      "email": "drudra03@gmail.com",
+      "userDetails": "Mechanical Engineer || Production Engineer || Engineering Management || Engineering Technologist || Manufacturing Engineer"
+    },
+    {
+      "firstname": "Vinita",
+      "lastname": "Yadav",
+      "index": 314,
+      "name": "Vinita Yadav",
+      "email": "vinita20029@gmail.com",
+      "userDetails": "MSc in Economics, Shiv Nadar University, Noida"
+    },
+    {
+      "firstname": "Anjali",
+      "lastname": "Bisht",
+      "index": 315,
+      "name": "Anjali Bisht",
+      "email": "bishtanjali028@gmail.com",
+      "userDetails": "Bcom Hons| Hansraj'24"
+    },
+    {
+      "firstname": "Pooja",
+      "lastname": "Chanshetti",
+      "index": 316,
+      "name": "Pooja Chanshetti",
+      "email": "poojachanashetti114@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Rutuja",
+      "lastname": "Ghode",
+      "index": 317,
+      "name": "Rutuja Ghode",
+      "email": "rutughode1810@gmail.com",
+      "userDetails": "Student at SGBAU"
+    },
+    {
+      "firstname": "Mahir",
+      "lastname": "Chhabra",
+      "index": 318,
+      "name": "Mahir Chhabra",
+      "email": "mahirchhabra4@gmail.com",
+      "userDetails": "CVS'26 | CBSE'22 | BA ECONOMICS (HONS) | IPWS'22"
+    },
+    {
+      "firstname": "Sarvdaman",
+      "lastname": "Yadav",
+      "index": 319,
+      "name": "Sarvdaman Yadav",
+      "email": "sarvdamanyadav@gmail.com",
+      "userDetails": "Fraud Detection Analyst at Natwest Group, Cordinator at Vrikshit Foundation"
+    },
+    {
+      "firstname": "Aniket",
+      "lastname": "Tyagi",
+      "index": 320,
+      "name": "Aniket Tyagi",
+      "email": "anikettyagi104@gmail.com",
+      "userDetails": "ARSD | CBSE'23| DU'26/27 (NIRF-6) | Bachelor Of Commerce | Finance and Investment Cell | Students For Seva |"
+    },
+    {
+      "firstname": "P",
+      "lastname": "Manikantan",
+      "index": 321,
+      "name": "P Karthik Manikantan",
+      "email": "pm4272@srmist.edu.in",
+      "userDetails": "GENAI and NLP Enthusiast| Upcoming Research Intern at IIIT Hyderabad |Samsung R&D Prism Intern | Best Paper Award ICIOT'23 | IEI Technical Abstract runners up | SRM’26"
+    },
+    {
+      "firstname": "Palak",
+      "lastname": "Gupta",
+      "index": 322,
+      "name": "Palak Gupta",
+      "email": "gpalak017@gmail.com",
+      "userDetails": "Student at Galgotias University"
+    },
+    {
+      "firstname": "Harsh",
+      "lastname": "Shetye",
+      "index": 323,
+      "name": "Harsh Shetye",
+      "email": "harsh.shetye2403@gmail.com",
+      "userDetails": "Machine Learning Engineer | 7x Hackathon Winner | JPMEEP | ML Mentor @DJS Compute | CSE (Data Science) Student at Dwarkadas J. Sanghvi College of Engineering"
+    },
+    {
+      "firstname": "Tanisha",
+      "lastname": "Verma",
+      "index": 324,
+      "name": "Tanisha Verma",
+      "email": "vtanisha068@gmail.com",
+      "userDetails": "Student at Kalinga Institute of Industrial Technology, Bhubaneswar| MLSA |"
+    },
+    {
+      "firstname": "Ruchi",
+      "lastname": "Gharat",
+      "index": 325,
+      "name": "Ruchi Gharat",
+      "email": "gharatruchi2001@gmail.com",
+      "userDetails": "VCET'24"
+    },
+    {
+      "firstname": "Abdul",
+      "lastname": "Khan",
+      "index": 326,
+      "name": "Abdul Momin Khan",
+      "email": "khanabdulmomin24@gmail.com",
+      "userDetails": "JMI CSE' 27| IEEE Tech Team 24-25 | Reliance Undergraduate Scholar 23-24| AMU(+2) '23"
+    },
+    {
+      "firstname": "Khushi",
+      "lastname": "Nagpal",
+      "index": 327,
+      "name": "Khushi Nagpal",
+      "email": "khushinagpal1539@gmail.com",
+      "userDetails": "Undergrad at Bharati Vidyapeeth's College of Engineering | GSSoC'24"
+    },
+    {
+      "firstname": "Debangana",
+      "lastname": "Dutta",
+      "index": 328,
+      "name": "Debangana Dutta",
+      "email": "debanganadutta1999@gmail.com",
+      "userDetails": "CR&D IO Digital FE Engineer I -VLSI @ Alphawave Semi || M.Tech-Integrated Sensor Systems, IIT Hyderabad, '21-'23|| B.Tech ECE, IEM Kolkata, '17-'21"
+    },
+    {
+      "firstname": "Rhythm",
+      "lastname": "Jain",
+      "index": 329,
+      "name": "Rhythm Jain",
+      "email": "rhythmjain1027@gmail.com",
+      "userDetails": "Ex-Intern @GlobalLogic|MERN Stack Developer|Knight @leetcode|Pre-Final year Student at Indian Institute Of Information Technology Allahabad"
+    },
+    {
+      "firstname": "Atharva",
+      "lastname": "Kulkarni",
+      "index": 330,
+      "name": "Atharva Kulkarni",
+      "email": "atharvakulkarni.1210@gmail.com",
+      "userDetails": "Senior Analyst at PRGX India"
+    },
+    {
+      "firstname": "PRASUN",
+      "lastname": "KRISHNA",
+      "index": 331,
+      "name": "PRASUN KRISHNA",
+      "email": "prasunkrishna2005@gmail.com",
+      "userDetails": "Student at PES University"
+    },
+    {
+      "firstname": "Yashvi",
+      "lastname": "Mehta",
+      "index": 332,
+      "name": "Yashvi Mehta",
+      "email": "yashvimehta1342@gmail.com",
+      "userDetails": "Student at Dr. Bhanuben Nanavati College of Pharmacy"
+    },
+    {
+      "firstname": "Ayan",
+      "lastname": "Mitra",
+      "index": 333,
+      "name": "Ayan Mitra",
+      "email": "ayanmitra201@gmail.com",
+      "userDetails": "Student at Calcutta University, Kolkata"
+    },
+    {
+      "firstname": "Hema",
+      "lastname": "Kumbnani",
+      "index": 334,
+      "name": "Hema Kumbnani",
+      "email": "hema.kumbnani2002@gmail.com",
+      "userDetails": "Finance major (BBA-FIA) | President, Women development cell |"
+    },
+    {
+      "firstname": "Hemang",
+      "lastname": "S.",
+      "index": 335,
+      "name": "Hemang Singh S.",
+      "email": "Hemang.sengar@hotmail.com",
+      "userDetails": "Learner | Technology Aficionado | Capital Markets Enthusiast"
+    },
+    {
+      "firstname": "Aman",
+      "lastname": "Raj",
+      "index": 336,
+      "name": "Aman Raj",
+      "email": "arupadhyay2022@gmail.com",
+      "userDetails": "Product Associate at Sunbase"
+    },
+    {
+      "firstname": "Vaibhav",
+      "lastname": "Gupta",
+      "index": 337,
+      "name": "Vaibhav Gupta",
+      "email": "vg498660@gmail.com",
+      "userDetails": "Java | DSA | Spring Boot | Machine Learning | Deep Learning | Python | MAIT'26"
+    },
+    {
+      "firstname": "Heerha",
+      "lastname": "Valecha",
+      "index": 338,
+      "name": "Heerha Valecha",
+      "email": "heerhavalecha004@gmail.com",
+      "userDetails": "Student at The Institute Of Engineers, SRM-KTR Student Chapter"
+    },
+    {
+      "firstname": "Yamini",
+      "lastname": "Thakur",
+      "index": 339,
+      "name": "Yamini Thakur",
+      "email": "yaminithakur00210@gmail.com",
+      "userDetails": "Student at Galgotias University || Ex-Web development intern at Oasis Infobyte"
+    },
+    {
+      "firstname": "Monil",
+      "lastname": "Mehta",
+      "index": 340,
+      "name": "Monil Mehta",
+      "email": "monil.mehta@umbc.edu",
+      "userDetails": "Actively Seeking Opportunities in Analyst Roles | Graduate Student @UMBC | Ex-Data Science & Software Engineer Intern"
+    },
+    {
+      "firstname": "Salmali",
+      "lastname": "Chattopadhyay",
+      "index": 341,
+      "name": "Salmali Chattopadhyay",
+      "email": "salmalichattopadhyay@gmail.com",
+      "userDetails": "Learning is a life long journey. Learner/Explorer"
+    },
+    {
+      "firstname": "Rhea",
+      "lastname": "Roy",
+      "index": 342,
+      "name": "Rhea Roy",
+      "email": "rhearoy2002@gmail.com",
+      "userDetails": "Student at SRMIST"
+    },
+    {
+      "firstname": "Nazneen",
+      "lastname": "Shaikh",
+      "index": 343,
+      "name": "Nazneen Shaikh",
+      "email": "nazneen01040003@gmail.com",
+      "userDetails": "Student at Nmiet"
+    },
+    {
+      "firstname": "Piyush",
+      "lastname": "Kumar",
+      "index": 344,
+      "name": "Piyush Kumar",
+      "email": "piyushpkcorp@gmail.com",
+      "userDetails": "Data Analytics Intern @ PrepInsta | CSE'24 | Java |500+ DSA @ Leetcode | Expert in Full Stack Web Development - 20+ websites created | Freelance"
+    },
+    {
+      "firstname": "Swarnava",
+      "lastname": "Saha",
+      "index": 345,
+      "name": "Swarnava Saha",
+      "email": "swarnava0820@gmail.com",
+      "userDetails": "B. E. Instrumentation and electronics engineering, Jadavpur University '26 || C++ || Data Structures and Algorithms || Exploring Mern Stack Web Development"
+    },
+    {
+      "firstname": "gopal",
+      "lastname": "vallu",
+      "index": 346,
+      "name": "gopal vallu",
+      "email": "saigopalvallu7@gmail.com",
+      "userDetails": "Machine learning|| Deep learning || Generative AI || python, C, C++,JAVA,SQL || 2nd year@SRM IST || CSE- AI ML"
+    },
+    {
+      "firstname": "Pendekanti",
+      "lastname": "Preetham",
+      "index": 347,
+      "name": "Pendekanti Sai Preetham",
+      "email": "saipreethampendekanti@gmail.com",
+      "userDetails": "Student at Dayananda Sagar University | AI&ML | Cyber Security"
+    },
+    {
+      "firstname": "Sneha",
+      "lastname": "Thakar",
+      "index": 348,
+      "name": "Sneha Thakar",
+      "email": "snehathakar143@gmail.com",
+      "userDetails": "Business Development Associate - AdCanopus Digital Media Pvt. Ltd. || Looking for quality traffic in CPI/CPA mobile"
+    },
+    {
+      "firstname": "Anurag",
+      "lastname": "Chaturbedy",
+      "index": 349,
+      "name": "Anurag Chaturbedy",
+      "email": "anuragchaturbedy12345@gmail.com",
+      "userDetails": "Passionate about computer science - BTech CSE, looking for opportunities|JAVA||FRONTEND DEVELOPER|"
+    },
+    {
+      "firstname": "Diya",
+      "lastname": "Doshi",
+      "index": 350,
+      "name": "Diya Doshi",
+      "email": "diyarajesh.doshi@sjsu.edu",
+      "userDetails": "Data Scientist Focusing on Business Analytics| Java, Python, R and SQL | Seeking Internship Opportunity Summer 2024"
+    },
+    {
+      "firstname": "Kashish",
+      "lastname": "Gupta",
+      "index": 351,
+      "name": "Kashish Gupta",
+      "email": "guptakashishiit40@gmail.com",
+      "userDetails": "Undergrad at GGSIPU || IEEE GTBIT SB ||GTBIT'26||JAVASCRIPT||BOOTSTRAP||C/C++||JAVA|| Responsive WebDesigning"
+    },
+    {
+      "firstname": "Aastha",
+      "lastname": "Batta",
+      "index": 352,
+      "name": "Aastha Batta",
+      "email": "aasthabatta8@gmail.com",
+      "userDetails": "Software Engineer @ GRT I HaystackAnalytics | Persistent Systems"
+    },
+    {
+      "firstname": "Ananya",
+      "lastname": "Tomar",
+      "index": 353,
+      "name": "Ananya Tomar",
+      "email": "ananyatomar2308@gmail.com",
+      "userDetails": "Summer Intern @ DRDO | Contributor @ GSSOC'24 | Deputy Secretary @ ACM | UI/UX | Java | Currently Exploring ML | Python"
+    },
+    {
+      "firstname": "Mansi",
+      "lastname": "Jadhav",
+      "index": 354,
+      "name": "Mansi Jadhav",
+      "email": "mansijadhav2907@gmail.com",
+      "userDetails": "Process Analyst at Gallagher"
+    },
+    {
+      "firstname": "Raunak",
+      "lastname": "Singhi",
+      "index": 355,
+      "name": "Raunak Singhi",
+      "email": "raunaksinghi2002@gmail.com",
+      "userDetails": "IMT HYDERABAD PGDM CORE 2023-2025 || Equity Research Intern at StockEdge || Member of Alumni Relations Committee|| Member of Prarambh-E-cell Club Of IMT HYDERABAD"
+    },
+    {
+      "firstname": "Kushagra",
+      "lastname": "Rohatgi",
+      "index": 356,
+      "name": "Kushagra Rohatgi",
+      "email": "kushagra.rohatgi@outlook.com",
+      "userDetails": "Upcoming Product Intern @ Tap Invest | 20"
+    },
+    {
+      "firstname": "Adarsh",
+      "lastname": "Pandey",
+      "index": 357,
+      "name": "Adarsh Pandey",
+      "email": "adarshp601@gmail.com",
+      "userDetails": "AI Intern @Humans.ai"
+    },
+    {
+      "firstname": "Sarthak",
+      "lastname": "Bansal",
+      "index": 358,
+      "name": "Sarthak Bansal",
+      "email": "bansalsarthak504@gmail.com",
+      "userDetails": "Ex-Intern @OctaNet | Java DSA | Full Stack Web Developer | AI | CSE Sophomore | Tech Enthusiast"
+    },
+    {
+      "firstname": "Shubham",
+      "lastname": "Ramteke",
+      "index": 359,
+      "name": "Shubham Ramteke",
+      "email": "ramteke.shubham22@gmail.com",
+      "userDetails": "VGSOM , IIT Kharagpur 2022-2024 | Ex Nvidia"
+    },
+    {
+      "firstname": "Lavya",
+      "lastname": "Thapar",
+      "index": 360,
+      "name": "Lavya Thapar",
+      "email": "lavyathapar@gmail.com",
+      "userDetails": "Machine Learning Enthusiast | DTU'26, Btech (IT)"
+    },
+    {
+      "firstname": "Aaryan",
+      "lastname": "Gole",
+      "index": 361,
+      "name": "Aaryan Gole",
+      "email": "goleaaryan7@gmail.com",
+      "userDetails": "Python Enthusiast | Eager to Dive into AI - ML with Data Analytics | SE AI (DS)"
+    },
+    {
+      "firstname": "Seneen",
+      "lastname": "Khan",
+      "index": 362,
+      "name": "Seneen Khan",
+      "email": "khan.seneen333@gmail.com",
+      "userDetails": "Web developer"
+    },
+    {
+      "firstname": "Praneesh",
+      "lastname": "Sharma",
+      "index": 363,
+      "name": "Praneesh Sharma",
+      "email": "21052264@kiit.ac.in",
+      "userDetails": "CSE | B.Tech | Entrepreneurship | KIIT'25"
+    },
+    {
+      "firstname": "Vikramaditya",
+      "lastname": "Jagtap",
+      "index": 364,
+      "name": "Vikramaditya Jagtap",
+      "email": "jagtapvikramaditya.2003@gmail.com",
+      "userDetails": "Final year Mechanical Student in Shivaji University"
+    },
+    {
+      "firstname": "Siddhi",
+      "lastname": "Hate",
+      "index": 365,
+      "name": "Siddhi Hate",
+      "email": "siddhihaate@gmail.com",
+      "userDetails": "Smart India Hackathon2023 Grand Finalist 🏆| VNPS '24 Winner 🏆| Oscillations '24 Runner-Up 🏅| Student at Vidyavardhini's College of Engineering and Technology"
+    },
+    {
+      "firstname": "Divye",
+      "lastname": "Joshi",
+      "index": 366,
+      "name": "Divye Joshi",
+      "email": "joshidivye2@gmail.com",
+      "userDetails": "An MLOps practitioner | Writer | JNU Student"
+    },
+    {
+      "firstname": "Kumar",
+      "lastname": "Harsh",
+      "index": 367,
+      "name": "Kumar Harsh",
+      "email": "kharsh560@gmail.com",
+      "userDetails": "React.Js | Data Structures and Algorithms (DSA) | Full stack Web_Development | HTML | CSS | JavaScript | C/C++ || 2nd year B.Tech undergrad at MAIT, Delhi | AI&ML | 2022-26"
+    },
+    {
+      "firstname": "Shravani",
+      "lastname": "Mahesuni",
+      "index": 368,
+      "name": "Shravani Mahesuni",
+      "email": "shravanimahesuni@gmail.com",
+      "userDetails": "Aspiring Computer Science Student | Data Science Enthusiast | AI Envisioner | Researcher | Tech Enthusiast"
+    },
+    {
+      "firstname": "Urshita",
+      "lastname": "Balani",
+      "index": 369,
+      "name": "Urshita Balani",
+      "email": "ubalani18@gmail.com",
+      "userDetails": "| PRESIDENT of ACE-The Placement Cell | Member of NSS | HR intern at CEI Design Consultancy | HR intern at Evepaper| HR intern at Thoutsol Infotech Pvt. LTD"
+    },
+    {
+      "firstname": "AVIK",
+      "lastname": "PRADHAN",
+      "index": 370,
+      "name": "AVIK PRADHAN",
+      "email": "avikpradhan2004@gmail.com",
+      "userDetails": "Studying B.sc Economics at St. Xavier's College (Autonomous), Kolkata"
+    },
+    {
+      "firstname": "Kumar",
+      "lastname": "Gaurav",
+      "index": 371,
+      "name": "Kumar Gaurav",
+      "email": "kumargaurav0912@gmail.com",
+      "userDetails": "| Pre Final Year Student at KiiT University | Aspiring Data Scientist | SQL ⭐ | Python |"
+    },
+    {
+      "firstname": "Mihir",
+      "lastname": "Karira",
+      "index": 372,
+      "name": "Mihir Karira",
+      "email": "karira.mihir@gmail.com",
+      "userDetails": "Student at Thadomal Shahani Engineering College | Ex-intern at Earnest Fintech"
+    },
+    {
+      "firstname": "Sutapa",
+      "lastname": "Naskar",
+      "index": 373,
+      "name": "Sutapa Naskar",
+      "email": "Sutapanaskar48@gmail.com",
+      "userDetails": "IIT Madras(BS Data Science)"
+    },
+    {
+      "firstname": "Ritvi",
+      "lastname": "Agarwal",
+      "index": 374,
+      "name": "Ritvi Agarwal",
+      "email": "ritviagarwal0102@gmail.com",
+      "userDetails": "National University of Singapore ‘27"
+    },
+    {
+      "firstname": "Shivnarayan",
+      "lastname": "Sreeanand",
+      "index": 375,
+      "name": "Shivnarayan Sreeanand",
+      "email": "shivnarayan4077@gmail.com",
+      "userDetails": "CSE Undergraduate at SRM | Mobile Developer | Member of GDSC SRM | Member of MLSA SRM | Co-Founder of Hexadynamics"
+    },
+    {
+      "firstname": "Keerthana",
+      "lastname": "NC",
+      "index": 376,
+      "name": "Keerthana NC",
+      "email": "nckeerthana120@gmail.com",
+      "userDetails": "Data Analyst intern at ShadowFax"
+    },
+    {
+      "firstname": "NITISH",
+      "lastname": "PANI",
+      "index": 377,
+      "name": "NITISH PANI",
+      "email": "nitishpani1998@gmail.com",
+      "userDetails": "Electronics Engineering Intern at Qulabs | Student at Indian Institute of Technology, Hyderabad"
+    },
+    {
+      "firstname": "Rutuja",
+      "lastname": "Visale",
+      "index": 378,
+      "name": "Rutuja Visale",
+      "email": "rutuvisale2003@gmail.com",
+      "userDetails": "Currently an SE student pursuing Btech in Information Technology at Dwarkadas J. Sanghvi College of Engineering"
+    },
+    {
+      "firstname": "Monideepa",
+      "lastname": "Lohar",
+      "index": 379,
+      "name": "Monideepa Lohar",
+      "email": "loharmonideepa@gmail.com",
+      "userDetails": "Working as an accountant in Danspark @Co"
+    },
+    {
+      "firstname": "Deepak",
+      "lastname": "maurya",
+      "index": 380,
+      "name": "Deepak maurya",
+      "email": "ddeepakmaurya123@gmail.com",
+      "userDetails": "Student at Chatrapati Sahuji Maharaj Kanpur University, Kanpur"
+    },
+    {
+      "firstname": "Mayank",
+      "lastname": "Ghugtyal",
+      "index": 381,
+      "name": "Mayank Ghugtyal",
+      "email": "ghugtyalmayank@gmail.com",
+      "userDetails": "Student at Delhi University"
+    },
+    {
+      "firstname": "Mansimrat",
+      "lastname": "Kaur",
+      "index": 382,
+      "name": "Mansimrat Kaur",
+      "email": "mansimratkaur03@gmail.com",
+      "userDetails": "Student at Sri Guru Gobind Singh College of Commerce, Delhi University || Pursuing Bachelor of Commerce (Honours)"
+    },
+    {
+      "firstname": "Bhavik",
+      "lastname": "Jain",
+      "index": 383,
+      "name": "Bhavik Jain",
+      "email": "muskanjain.gnr@gmail.com",
+      "userDetails": "Attended Shri Ram College of Commerce"
+    },
+    {
+      "firstname": "Anshul",
+      "lastname": "Gangpuri",
+      "index": 384,
+      "name": "Anshul Gangpuri",
+      "email": "amssre.15729@gmail.com",
+      "userDetails": "Hansraj'25 ||B.A.(H) Economics"
+    },
+    {
+      "firstname": "Om",
+      "lastname": "Aggarwal",
+      "index": 385,
+      "name": "Om Aggarwal",
+      "email": "aggarwalom11236@gmail.com",
+      "userDetails": "Student at Sant Gyaneshwar Model School"
+    },
+    {
+      "firstname": "V.",
+      "lastname": "Shreyas",
+      "index": 386,
+      "name": "V. Sai Shreyas",
+      "email": "shreyasvla@gmail.com",
+      "userDetails": "Former Flutter Intern @Ligitimate India|Pre-final year at Thapar Institute of Engineering & Technology| App Developer | Graphic Designer"
+    },
+    {
+      "firstname": "Harsh",
+      "lastname": "Yadav",
+      "index": 387,
+      "name": "Harsh Yadav",
+      "email": "harshy18333@gmail.com",
+      "userDetails": "Student at Delhi Technological University (Formerly DCE)"
+    },
+    {
+      "firstname": "Adarsh",
+      "lastname": "Singh",
+      "index": 388,
+      "name": "Adarsh Singh",
+      "email": "qqadarshsingh000@gmail.com",
+      "userDetails": "Attended Mahatma Gandhi Kashi Vidyapeeth"
+    },
+    {
+      "firstname": "Nischay",
+      "lastname": "Kashyap",
+      "index": 389,
+      "name": "Nischay Kashyap",
+      "email": "nischaykashyap3@gmail.com",
+      "userDetails": "Android Developer @ GDSC KIIT, GFG KIIT and Coding Ninjas| Java, Jetpack Compose, Kotlin"
+    },
+    {
+      "firstname": "Shobit",
+      "lastname": "Gupta",
+      "index": 390,
+      "name": "Shobit Gupta",
+      "email": "shobit.g456@gmail.com",
+      "userDetails": "Hackhaven 1.0 Winner 🏆 | DJS - S4DS | DJS - NOVA | S.Y. Student at Dwarkadas J. Sanghvi College of Engineering"
+    },
+    {
+      "firstname": "Su",
+      "lastname": "Zin",
+      "index": 391,
+      "name": "Su Zin",
+      "email": "suwzin@gmail.com",
+      "userDetails": "Software Engineer | Recent BS Computer Science Grad | Interests: AI/ML, Full Stack, Frontend, Backend, Mobile Apps | Languages: Python, Javascript/Typescript, Java, React, SQL"
+    },
+    {
+      "firstname": "Siya",
+      "lastname": "Suhani",
+      "index": 392,
+      "name": "Siya Suhani",
+      "email": "siyasuhani2003@gmail.com",
+      "userDetails": "Aspiring diplomat and researcher -- Econ major/University of Delhi('25)"
+    },
+    {
+      "firstname": "UTKARSH",
+      "lastname": "SINGH",
+      "index": 393,
+      "name": "UTKARSH SINGH",
+      "email": "2105592@kiit.ac.in",
+      "userDetails": "Student at School of Computer Engineering, KIIT DU"
+    },
+    {
+      "firstname": "shreya",
+      "lastname": "ambani",
+      "index": 394,
+      "name": "shreya ambani",
+      "email": "shreyaambani@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Vrinda",
+      "lastname": "Bundelkhandi",
+      "index": 395,
+      "name": "Vrinda Bundelkhandi",
+      "email": "Vriii.2402@gmail.com",
+      "userDetails": "Artificial Intelligence & Data Science Student @TSEC '24 || TSEC Leadership Award, Ambassador Award 2023-24 || Envoy @TSEC Training & Placement Cell || Editor In-Chief @AI&DS Magazine Committee"
+    },
+    {
+      "firstname": "Sayoni",
+      "lastname": "Saha",
+      "index": 396,
+      "name": "Sayoni Saha",
+      "email": "sayonisaha34@gmail.com",
+      "userDetails": "CA Intermediate||GCC&BA'27||BCOM(H)"
+    },
+    {
+      "firstname": "Shreya",
+      "lastname": "Rai",
+      "index": 397,
+      "name": "Shreya Rai",
+      "email": "Shreya.221246@sggscc.ac.in",
+      "userDetails": "SGGSCC’25 | B.Com Hons"
+    },
+    {
+      "firstname": "Saanvi",
+      "lastname": "Kaush",
+      "index": 398,
+      "name": "Saanvi Kaush",
+      "email": "saanvikaush2005@gmail.com",
+      "userDetails": "Attended Ryan International School, Vasant Kunj"
+    },
+    {
+      "firstname": "Aryadev",
+      "lastname": "Datta",
+      "index": 399,
+      "name": "Aryadev Datta",
+      "email": "aryadevd2027i@iimbg.ac.in",
+      "userDetails": "IPM IIM BG 25' | INSPIRE: Incubation Centre | E Cell IIM Bg"
+    },
+    {
+      "firstname": "Sudip",
+      "lastname": "Karmakar",
+      "index": 400,
+      "name": "Sudip Karmakar",
+      "email": "sk7.1997k@gmail.com",
+      "userDetails": "Market Research Analyst | Data Analyst | PGDM Marketing | Freelancer |"
+    },
+    {
+      "firstname": "Khushboo",
+      "lastname": "Gogri",
+      "index": 401,
+      "name": "Khushboo Gogri",
+      "email": "gogri.k@northeastern.edu",
+      "userDetails": "Driving Success through Strategic Engineering: Uniting Vision and Execution with Agile Expertise | Pioneering Project Management and Business Analysis | Northeastern University STEM Graduate '24"
+    },
+    {
+      "firstname": "Ridhima",
+      "lastname": "SSM",
+      "index": 402,
+      "name": "Ridhima Manchala CSM®, SAFe® 6 SSM",
+      "email": "manchala.r@northeastern.edu",
+      "userDetails": "Business Analyst | Driving Agile Excellence & High-Performing Teams | JIRA | Power BI | lean | Tableau | Agile Mindset | Ex- TBM Analyst | Ex-Peapod | 3+ years in Project Management |"
+    },
+    {
+      "firstname": "Ankita",
+      "lastname": "Pimple",
+      "index": 403,
+      "name": "Ankita Pimple",
+      "email": "apimple1@hawk.iit.edu",
+      "userDetails": "MIS Student | Project Manager | Business Analyst | Master's student at Illinois Institute of Technology"
+    },
+    {
+      "firstname": "Bhavna",
+      "lastname": "M.",
+      "index": 404,
+      "name": "Bhavna M.",
+      "email": "bhavnamulchandani214@gmail.com",
+      "userDetails": "Incoming SDE @JP Morgan Chase || Smart India Hackathon'22 Winner || Member @Research and Development Club || 2x Hackathon Winner || Student at Dwarkadas J. Sanghvi College of Engineering"
+    },
+    {
+      "firstname": "Rahul",
+      "lastname": "J",
+      "index": 405,
+      "name": "Rahul J",
+      "email": "rahulbilla2010@gmail.com",
+      "userDetails": "IIM Bangalore - National 2nd runner-up | IIM Visakhapatnam PGP'25 | National Winner- Odyssey GLIM Gurgaon | National Winner- Capitalist SIIB Pune | Ex. ASE @ TCS"
+    },
+    {
+      "firstname": "Kaushal",
+      "lastname": "Pateriya",
+      "index": 406,
+      "name": "Kaushal Pateriya",
+      "email": "Kaushalpateriya@gmail.com",
+      "userDetails": "Following Dream's"
+    },
+    {
+      "firstname": "Anupam",
+      "lastname": "Sharma",
+      "index": 407,
+      "name": "Anupam Sharma",
+      "email": "as9254794@gmail.com",
+      "userDetails": "Ex-Intern at @Fa'Hinds || President at GFG_BV(DU)COEP || Google DSC Web & Flutter Lead | GCFA | GSSoC'23 Contributor || MERN || C / C++ programmer | Building Community || Love teaching"
+    },
+    {
+      "firstname": "Kushal",
+      "lastname": "Acharya",
+      "index": 408,
+      "name": "Kushal Acharya",
+      "email": "kushal7@umd.edu",
+      "userDetails": "Marketer turned Data Analyst | MSIS @ UMD | Ex-Publicis"
+    },
+    {
+      "firstname": "Caprio",
+      "lastname": "Mistry",
+      "index": 409,
+      "name": "Caprio Mistry",
+      "email": "mistrycaprio@gmail.com",
+      "userDetails": "Analog Circuit Design| Analog Test Cases| Amplifier Design| Signal Conditioning Unit| RC Network| MOS| Layout Design| Pre and Post Design Analysis"
+    },
+    {
+      "firstname": "Revanth",
+      "lastname": "Ayitha",
+      "index": 410,
+      "name": "Revanth Ayitha",
+      "email": "revanthayitha@gmail.com",
+      "userDetails": "BE CSE @2025 Aspring FullStack Developer || DataScientist"
+    },
+    {
+      "firstname": "Shweta",
+      "lastname": "Singla",
+      "index": 411,
+      "name": "Shweta Singla",
+      "email": "shwetasingla023@gmail.com",
+      "userDetails": "SRCC'26 | District topper | Cuet 100%iler | Content Creator | Marketing Director, WDC | Commerce Major , Economics Minor ||"
+    },
+    {
+      "firstname": "Rahul",
+      "lastname": "Raj",
+      "index": 412,
+      "name": "Rahul Raj",
+      "email": "Rahul.r2025@iimbg.ac.in",
+      "userDetails": "IIM Bodhgaya 23-25 || Ex-TCSer || Kendriya Vidyalaya"
+    },
+    {
+      "firstname": "Jessie",
+      "lastname": "Huang",
+      "index": 413,
+      "name": "Jessie Huang",
+      "email": "Jessie.huang@tufts.edu",
+      "userDetails": "Student at Tufts University"
+    },
+    {
+      "firstname": "Raghav",
+      "lastname": "Mandhana",
+      "index": 414,
+      "name": "Raghav Mandhana",
+      "email": "raghavmandhana1804@gmail.com",
+      "userDetails": "SXC'27 | B.COM(H) | MCKV'23"
+    },
+    {
+      "firstname": "Anandita",
+      "lastname": "Vishnoi",
+      "index": 415,
+      "name": "Anandita Vishnoi",
+      "email": "anandita.vishnoi@mail.utoronto.ca",
+      "userDetails": "Undergraduate Student | University of Toronto - Rotman Commerce"
+    },
+    {
+      "firstname": "Himanshu",
+      "lastname": "Gupta",
+      "index": 416,
+      "name": "Himanshu Gupta",
+      "email": "hgguptahimanshu29@gmail.com",
+      "userDetails": "Pursuing Btech at Bharati Vidyapeeth's College of Engineering"
+    },
+    {
+      "firstname": "Ishan",
+      "lastname": "Yadav",
+      "index": 417,
+      "name": "Ishan Yadav",
+      "email": "ishanyadav2627@gmail.com",
+      "userDetails": "CSAI @NSUT'27 (formerly NSIT,Delhi)"
+    },
+    {
+      "firstname": "Anshuman",
+      "lastname": "Sahoo",
+      "index": 418,
+      "name": "Anshuman Sahoo",
+      "email": "anshumanrunnydec@gmail.com",
+      "userDetails": "Aspiring ML/AI enthusiast || Research Intern @IIT-Kanpur'24 || Research Intern @BITS Pilani'23 || Research AISOC || Intern @Unicompiler'22 || Volunteer at NSS KIIT || ECsc Undergraduate"
+    },
+    {
+      "firstname": "Hamdan",
+      "lastname": "Khan",
+      "index": 419,
+      "name": "Hamdan Khan",
+      "email": "hamzaxe24@gmail.com",
+      "userDetails": "Pursuing Data Science and Statistics at Christ University,Bangalore"
+    },
+    {
+      "firstname": "Prapti",
+      "lastname": "Das",
+      "index": 420,
+      "name": "Prapti Das",
+      "email": "Dasprapti356@gmail.com",
+      "userDetails": "1st Year B.Sc Economics (Hons)"
+    },
+    {
+      "firstname": "Shivani",
+      "lastname": "Thakkar",
+      "index": 421,
+      "name": "Shivani Thakkar",
+      "email": "shivanithakkar3012@gmail.com",
+      "userDetails": "Student at National University of Singapore"
+    },
+    {
+      "firstname": "ANSHITA",
+      "lastname": "Sharma",
+      "index": 422,
+      "name": "ANSHITA Sharma",
+      "email": "anshita862003@gmail.com",
+      "userDetails": "Gargi College,DU 24 || NSS || BUSINESS ECONOMICS||"
+    },
+    {
+      "firstname": "Aditya",
+      "lastname": "Koli",
+      "index": 423,
+      "name": "Aditya Koli",
+      "email": "mailforaaditya28@gmail.com",
+      "userDetails": "Attended CJM Hampton Court"
+    },
+    {
+      "firstname": "VAISHNAVI",
+      "lastname": "SHARMA",
+      "index": 424,
+      "name": "VAISHNAVI SHARMA",
+      "email": "vaishnavisharma260204@gmail.com",
+      "userDetails": "Attended Guru Gobind Singh Indraprastha University(MVSIT)"
+    },
+    {
+      "firstname": "shreya",
+      "lastname": "ambani",
+      "index": 425,
+      "name": "shreya ambani",
+      "email": "shreyaambani24@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Yatish",
+      "lastname": ".",
+      "index": 426,
+      "name": "Yatish .",
+      "email": "yatishmba01@gmail.com",
+      "userDetails": "Summer Intern @ TATA Power | PGDM'25 | IMT Nagpur | Member - Corporate Interaction Committee | B.Com Hons | Delhi University"
+    },
+    {
+      "firstname": "Divyam",
+      "lastname": "Gupta",
+      "index": 427,
+      "name": "Divyam Gupta",
+      "email": "Divyam5129@gmail.com",
+      "userDetails": "Student at San Jose State University | Business Administration | Actively Looking for Internships"
+    },
+    {
+      "firstname": "Kaustubh",
+      "lastname": "Singh",
+      "index": 428,
+      "name": "Kaustubh Singh",
+      "email": "kaustubhsingh93@gmail.com",
+      "userDetails": "Fraud Analyst at Bank of America"
+    },
+    {
+      "firstname": "Soorya",
+      "lastname": "Raju",
+      "index": 429,
+      "name": "Soorya B Raju",
+      "email": "sooryabraju.dsu@gmail.com",
+      "userDetails": "Pursuing B.Tech in Computer Science & Engineering at DSU, Batch 2022-2026 | Aspiring Software Developer | Fostering Community Engagement in College Fests"
+    },
+    {
+      "firstname": "Yashasvi",
+      "lastname": "Jain",
+      "index": 430,
+      "name": "Yashasvi Jain",
+      "email": "yashasvijain2001@gmail.com",
+      "userDetails": "Looking for new opportunities"
+    },
+    {
+      "firstname": "Vijay",
+      "lastname": "Penmatsa",
+      "index": 431,
+      "name": "Vijay Rama Raju Penmatsa",
+      "email": "Pvrraju6669@gmail.com",
+      "userDetails": "Graduate Teaching and Research Assistant @ San Jose State University | Data Engineering | Data Science | Gen AI | Pursuing MS, Data Analytics"
+    },
+    {
+      "firstname": "Vikram",
+      "lastname": "Balaji",
+      "index": 432,
+      "name": "Vikram Balaji",
+      "email": "vikrambalaji2004@gmail.com",
+      "userDetails": "Student at SRM University | Data Science"
+    },
+    {
+      "firstname": "Sounak",
+      "lastname": "Nandi",
+      "index": 433,
+      "name": "Sounak Nandi",
+      "email": "sounaknandi24@gmail.com",
+      "userDetails": "Student at Dwarkadas J. Sanghvi College of Engineering"
+    },
+    {
+      "firstname": "Rohit",
+      "lastname": "Paul",
+      "index": 434,
+      "name": "Rohit Paul",
+      "email": "paulrohit804@gmail.com",
+      "userDetails": "⭐⭐ Codechef"
+    },
+    {
+      "firstname": "Kanishk",
+      "lastname": "Singhal",
+      "index": 435,
+      "name": "Kanishk Singhal",
+      "email": "singhalkanishk68@gmail.com",
+      "userDetails": "JIIT 2025 | B.Tech. CSE | Coordinator at Rapid Programming Hub | Machine Learning | DSA Enthusiast | OOPs"
+    },
+    {
+      "firstname": "Saksham",
+      "lastname": "Raj",
+      "index": 436,
+      "name": "Saksham Raj",
+      "email": "saksham202003@gmail.com",
+      "userDetails": "INTERN at YIF|NSUT CSE' 25 | DPS VK'21|Quick Learner|"
+    },
+    {
+      "firstname": "Bhoomi",
+      "lastname": "Kansal",
+      "index": 437,
+      "name": "Bhoomi Kansal",
+      "email": "bhoomikansal01@gmail.com",
+      "userDetails": "Student at Sharda University 🎓 |\"ACCA student 👩‍🎓 | Finance Enthusiast 💼 | MS Excel 📊 | Dedicated Hard Worker 💪 | Actively Seeking Opportunities in Top Companies 🌐\""
+    },
+    {
+      "firstname": "Rudraksh",
+      "lastname": "Agarwal",
+      "index": 438,
+      "name": "Rudraksh Agarwal",
+      "email": "agarwalrudraksh1@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Srikanth",
+      "lastname": "Venkatesan",
+      "index": 439,
+      "name": "Srikanth Venkatesan",
+      "email": "srikanthvenkatesan22@gmail.com",
+      "userDetails": "2nd Year Student at SRM University | Big Data Analytics"
+    },
+    {
+      "firstname": "Vansh",
+      "lastname": "Bhutani",
+      "index": 440,
+      "name": "Vansh Bhutani",
+      "email": "vanshbhutani2005@gmail.com",
+      "userDetails": "Campus Ambassador , Rendezvous 23-24, IIT Delhi | Class Representative | Tech and startup enthusiast |"
+    },
+    {
+      "firstname": "Danish",
+      "lastname": "lodi",
+      "index": 441,
+      "name": "Danish lodi",
+      "email": "danishr2002z@gmail.com",
+      "userDetails": "Bharti Vidyapeeth college of engineering"
+    },
+    {
+      "firstname": "Nayana",
+      "lastname": "B.",
+      "index": 442,
+      "name": "Nayana B.",
+      "email": "nayana2607.tech@gmail.com",
+      "userDetails": "(She/Her) • 3rd+"
+    },
+    {
+      "firstname": "Yuti",
+      "lastname": "Khamker",
+      "index": 443,
+      "name": "Yuti Khamker",
+      "email": "khamkeryuti@gmail.com",
+      "userDetails": "Data Enthusiast |Data Analytics Master's Program at San Jose State University"
+    },
+    {
+      "firstname": "Jai",
+      "lastname": "Mishra",
+      "index": 444,
+      "name": "Jai kumar Mishra",
+      "email": "mishrajaikumar283@gmail.com",
+      "userDetails": "full stack developer"
+    },
+    {
+      "firstname": "Aditya",
+      "lastname": "Sharma",
+      "index": 445,
+      "name": "Aditya Sharma",
+      "email": "adityasharma11135@gmail.com",
+      "userDetails": "Student at BVDU COEP Junior- Associate at E.D.C | Junior- Associate at Blotic"
+    },
+    {
+      "firstname": "Sumit",
+      "lastname": "Gupta",
+      "index": 446,
+      "name": "Sumit Prasad Gupta",
+      "email": "sp2717@it.jgec.ac.in",
+      "userDetails": "BTech || information technology(23-27)||Jalpaiguri Government Engeenering College||Cyber Security Enthusiast || Competitive Programmer"
+    },
+    {
+      "firstname": "Soumee",
+      "lastname": "Mete",
+      "index": 447,
+      "name": "Soumee Mete",
+      "email": "soumeemete05@gmail.com",
+      "userDetails": "Summer Intern at Straive | MBA'25 | SVKM's Narsee Monjee Institute of Management Studies, Bangalore (NMIMS) | Ex - FIAT India Automobiles Pvt. Ltd."
+    },
+    {
+      "firstname": "Akhilesh",
+      "lastname": "Malik",
+      "index": 448,
+      "name": "Akhilesh Malik",
+      "email": "akhileshmalik908@gmail.com",
+      "userDetails": "Full-Stack Developer || MERN || Open Source"
+    },
+    {
+      "firstname": "khushi",
+      "lastname": "garg",
+      "index": 449,
+      "name": "khushi garg",
+      "email": "khushigarg97197@gmail.com",
+      "userDetails": "MCA Student at Banasthali Vidyapith | BV'25"
+    },
+    {
+      "firstname": "Harsh",
+      "lastname": "Shah",
+      "index": 450,
+      "name": "Harsh Shah",
+      "email": "contact@harshs.me",
+      "userDetails": "Interned at Aumsat Technologies | Led GDSC TSEC | SIH22 Winner | Postman student expert"
+    },
+    {
+      "firstname": "Ayushi",
+      "lastname": "Jain",
+      "index": 451,
+      "name": "Ayushi Jain",
+      "email": "ayushij220ain@gmail.com",
+      "userDetails": "JEE Mains 99.90%iler in Maths"
+    },
+    {
+      "firstname": "Anbarasu",
+      "lastname": "S",
+      "index": 452,
+      "name": "Anbarasu S",
+      "email": "anbu71299@gmail.com",
+      "userDetails": "Student at SRM UNIVERSITY Pursuing Data Science"
+    },
+    {
+      "firstname": "Vedant",
+      "lastname": "Modhave",
+      "index": 453,
+      "name": "Vedant Modhave",
+      "email": "vedmodh26@gmail.com",
+      "userDetails": "Student at Thadomal Shahani Engineering College"
+    },
+    {
+      "firstname": "Rushikesh",
+      "lastname": "Chopade",
+      "index": 454,
+      "name": "Rushikesh Chopade",
+      "email": "rushipc@gmail.com",
+      "userDetails": "AI based Mobile application dev | SDE | Data science"
+    },
+    {
+      "firstname": "Vansh",
+      "lastname": "Mahajan",
+      "index": 455,
+      "name": "Vansh Mahajan",
+      "email": "vanshmahajan2023@gmail.com",
+      "userDetails": "Attended IIT JAMMU for ERDC bootcamp|| STAC MEMBER || Quantum mechanics enthusiast || Rubix Cube Solver [ 3×3,4×4,mirror,pyraminx] || Gold  Medalist in various national olympiads|| Bibliophile"
+    },
+    {
+      "firstname": "Gayatri",
+      "lastname": "Latkar",
+      "index": 456,
+      "name": "Gayatri Latkar",
+      "email": "latkargayatri30@gmail.com",
+      "userDetails": "Student at Dhole Patil College of Engineering"
+    },
+    {
+      "firstname": "Satyam",
+      "lastname": "Singhal",
+      "index": 457,
+      "name": "Satyam Singhal",
+      "email": "satyamsinghal26@gmail.com",
+      "userDetails": "ENGINEERING STUDENT || CSE || Data Analyst || Front-End Developer"
+    },
+    {
+      "firstname": "Raj",
+      "lastname": "Srivastav",
+      "index": 458,
+      "name": "Raj Srivastav",
+      "email": "rajsrivastav0603@gmail.com",
+      "userDetails": "MERN Developer | Motivated to develop expertise in technology and stay current with the latest trends and innovations"
+    },
+    {
+      "firstname": "Saksham",
+      "lastname": "Dhawan",
+      "index": 459,
+      "name": "Saksham Dhawan",
+      "email": "sakshamdhawan.official@gmail.com",
+      "userDetails": "Student@Delhi Technological University"
+    },
+    {
+      "firstname": "Yashaswini",
+      "lastname": "Jhunjhunwala",
+      "index": 460,
+      "name": "Yashaswini Jhunjhunwala",
+      "email": "yashaswinijjw@gmail.com",
+      "userDetails": "Law Student at NMIMS, School of Law| Para Legal Volunteer at District Legal Services Authority, Mumbai| National Level Lawn Tennis| Alumna- DPS, R.K.Puram, New Delhi"
+    },
+    {
+      "firstname": "VIGNESH",
+      "lastname": "S",
+      "index": 461,
+      "name": "VIGNESH S",
+      "email": "mahendrasinghdhonimahi25@gmail.com",
+      "userDetails": "Student at Anna University pursuing Bachelor's in Electrical and Electronics Engineering"
+    },
+    {
+      "firstname": "Chirag",
+      "lastname": "Kaka",
+      "index": 462,
+      "name": "Chirag Kaka",
+      "email": "chiragkaka319@gmail.com",
+      "userDetails": "Student at Thadomal Shahani Engineering College"
+    },
+    {
+      "firstname": "Taniya",
+      "lastname": "Modi",
+      "index": 463,
+      "name": "Taniya Modi",
+      "email": "moditaniya99@gmail.com",
+      "userDetails": "Srcc'26 || CUET 100%iler in 3 subjects"
+    },
+    {
+      "firstname": "Diva",
+      "lastname": "Bindal",
+      "index": 464,
+      "name": "Diva Bindal",
+      "email": "divabindalofficial@gmail.com",
+      "userDetails": "Founder- Kadam NGO Bcom (H) delhi university | markos- the marketing society | chakraview- english debsoc | mac commerce society"
+    },
+    {
+      "firstname": "Hrishikesh",
+      "lastname": "Patil",
+      "index": 465,
+      "name": "Hrishikesh Patil",
+      "email": "hrishikeshsingpatil@gmail.com",
+      "userDetails": "“Funded Trader & Business Analyst | BBA in International Business Student”"
+    },
+    {
+      "firstname": "Siddharth",
+      "lastname": "Suhane",
+      "index": 466,
+      "name": "Siddharth Suhane",
+      "email": "suhane.sidharth@gmail.com",
+      "userDetails": "Student at COLLEGE OF VOCATIONAL STUDIES , Delhi University | The Entrepreneurial Board"
+    },
+    {
+      "firstname": "VR",
+      "lastname": "S",
+      "index": 467,
+      "name": "VR S",
+      "email": "renithsaivas.vasireddi@gmail.com",
+      "userDetails": "Student at Christ University, Bangalore"
+    },
+    {
+      "firstname": "Manish",
+      "lastname": "Bhatia",
+      "index": 468,
+      "name": "Manish Bhatia",
+      "email": "manishbhatia492@gmail.com",
+      "userDetails": "Student at Thadomal Shahani Engineering College"
+    },
+    {
+      "firstname": "Aarti",
+      "lastname": "Sathe",
+      "index": 469,
+      "name": "Aarti Sathe",
+      "email": "sathearti151@gmail.com",
+      "userDetails": "PCETS NMIET"
+    },
+    {
+      "firstname": "Sanskruti",
+      "lastname": "Dabde",
+      "index": 470,
+      "name": "Sanskruti Dabde",
+      "email": "sanskrutidabde29@gmail.com",
+      "userDetails": "NMIMS, Bengaluru | B.Com(Honours) | Wealthpreneur at Bajaj Capital Ltd| Curious soul"
+    },
+    {
+      "firstname": "Raunak",
+      "lastname": "Sanghi",
+      "index": 471,
+      "name": "Raunak Sanghi",
+      "email": "raunaksanghi3@gmail.com",
+      "userDetails": "CA Intermediate || B.com || Calcutta University"
+    },
+    {
+      "firstname": "Surender",
+      "lastname": "Kumar",
+      "index": 472,
+      "name": "Surender Kumar",
+      "email": "surenderprajapati1611@gmail.com",
+      "userDetails": "Student at Maharaja Surajmal Institute Of Technology"
+    },
+    {
+      "firstname": "Prachi",
+      "lastname": "Singh",
+      "index": 473,
+      "name": "Prachi Singh",
+      "email": "shivangisingh1341@gmail.com",
+      "userDetails": "SRCC'26/27||B.com(Hons.)"
+    },
+    {
+      "firstname": "Mriganka",
+      "lastname": "Samarla",
+      "index": 474,
+      "name": "Mriganka Mouli Samarla",
+      "email": "imrigankamouli@gmail.com",
+      "userDetails": "Indian Institute of Management Rohtak"
+    },
+    {
+      "firstname": "Kamarushi",
+      "lastname": "Kumar",
+      "index": 475,
+      "name": "Kamarushi Rachit Kumar",
+      "email": "sairachit123@gmail.com",
+      "userDetails": "Contributor @GSSoC'24|| Web Developer || AI Enthusiast || Member @A.T.OM Robotics Lab ||MAIT'26|| CSE ||Sophomore"
+    },
+    {
+      "firstname": "Pranav",
+      "lastname": "Tewatia",
+      "index": 476,
+      "name": "Pranav Tewatia",
+      "email": "pranav17tewatia@gmail.com",
+      "userDetails": "Project Ikhtiraa Head @Enactus CVS | Junior Co-ordinator @Zephyr CVS | Deputy Head of Videography & Creatives @FMA CVS | Marketing and Retail | CVS, DU'25/26 | LJPS'22"
+    },
+    {
+      "firstname": "Shailesh",
+      "lastname": "r",
+      "index": 477,
+      "name": "Shailesh r",
+      "email": "shaileshramadass13@gmail.com",
+      "userDetails": "ECE 4th YEAR | VLSI DESIGN ENTHUSIAST|MACHINE LEARNING|HARDWARE ACCELERATION ON FPGA"
+    },
+    {
+      "firstname": "Angela",
+      "lastname": "Sareen",
+      "index": 478,
+      "name": "Angela Sareen",
+      "email": "angelasareen1@gmail.com",
+      "userDetails": "Aspiring English Scholar | Maitreyi College, Delhi University (26'27) 🎓"
+    },
+    {
+      "firstname": "Hanisha",
+      "lastname": "Kotwani",
+      "index": 479,
+      "name": "Hanisha Kotwani",
+      "email": "hanishakotwani@gmail.com",
+      "userDetails": "Student at SVKM's Narsee Monjee Institute of Management Studies (NMIMS)"
+    },
+    {
+      "firstname": "Aryan",
+      "lastname": "Gupta",
+      "index": 480,
+      "name": "Aryan Gupta",
+      "email": "ag1986@srmist.edu.in",
+      "userDetails": "Student at SRMIST"
+    },
+    {
+      "firstname": "Jay",
+      "lastname": "Yadav",
+      "index": 481,
+      "name": "Jay Yadav",
+      "email": "jay923060@gmail.com",
+      "userDetails": "Sophomore @ VIT | Core Member, Cyber Warriors | Executive Committee Member, ACM Student Chapter VIT Bhopal | Full Stack Developer, MERN"
+    },
+    {
+      "firstname": "Arin",
+      "lastname": "Jain",
+      "index": 482,
+      "name": "Arin Jain",
+      "email": "arinjain138@gmail.com",
+      "userDetails": "Pre final year Student at Jaypee Institute of Inormation Technology"
+    },
+    {
+      "firstname": "Parthiban",
+      "lastname": "Sekar",
+      "index": 483,
+      "name": "Parthiban Sekar",
+      "email": "dreamsparthi10222@gmail.com",
+      "userDetails": "A passionate Full Stack Web Developer, MERN Stack Developer"
+    },
+    {
+      "firstname": "Muskan",
+      "lastname": "Agarwal",
+      "index": 484,
+      "name": "Muskan Agarwal",
+      "email": "muskanagarwal051204@gmail.com",
+      "userDetails": "Jdbi 26 | BBA"
+    },
+    {
+      "firstname": "G",
+      "lastname": "Brinda",
+      "index": 485,
+      "name": "G Brinda",
+      "email": "gbrinda.12e.32047@gmail.com",
+      "userDetails": "DU Beat 21 under 21 | Figuring Life | LSR'24 | President- Impact Consulting Council, WICCI | Vice President- The Lantern Tribe | YIF Delhi General Secretary | General Secretary- GU 21st CG |"
+    },
+    {
+      "firstname": "Apeksha",
+      "lastname": "Maloo",
+      "index": 486,
+      "name": "Apeksha Maloo",
+      "email": "apekshamaloo17@gmail.com",
+      "userDetails": "Miranda house’26 | Maths | Econ | e-cell MH | CFA Aspirant | passionate about finance and entrepreneurship |"
+    },
+    {
+      "firstname": "Abhinav",
+      "lastname": "Singh",
+      "index": 487,
+      "name": "Abhinav Singh",
+      "email": "abhinav8690585084@gmail.com",
+      "userDetails": "Full Stack Web Developer | 170+ @Leetcode(Top 6.5%) | Champion(Level-5) at @CodeStudio | Student@MSIT"
+    },
+    {
+      "firstname": "Akshat",
+      "lastname": "S.",
+      "index": 488,
+      "name": "Akshat S.",
+      "email": "soganiakshat7004@gmail.com",
+      "userDetails": "SRCC'26/27 | D-Street | TEDXSRCC | IFSA | OIP | Bcon”24 | Delta | Udaya | Click | Wings of Fire | Delta Botanicals and Research | Top Rankers | 99.50% in CUET-UG'23 AIR - 11 | 96.2% Class 12th CBSE | KIS 22-23 |"
+    },
+    {
+      "firstname": "Jinanshi",
+      "lastname": "Shah",
+      "index": 489,
+      "name": "Jinanshi Shah",
+      "email": "jinanshishah@gmail.com",
+      "userDetails": "Experienced UX Researcher, with 4+ years of expertise, facilitating a 30% understanding enhancement in detailed subjects through user-tested design."
+    },
+    {
+      "firstname": "Harshit",
+      "lastname": "kumar",
+      "index": 490,
+      "name": "Harshit kumar",
+      "email": "guptaharshit537@gmail.com",
+      "userDetails": "Fraud Analyst at Bank of America"
+    },
+    {
+      "firstname": "Sheffali",
+      "lastname": "A.",
+      "index": 491,
+      "name": "Sheffali A.",
+      "email": "sheffaliagarwal27@gmail.com",
+      "userDetails": "(She/Her) • 3rd+"
+    },
+    {
+      "firstname": "Srishti",
+      "lastname": "Sharma",
+      "index": 492,
+      "name": "Srishti Sharma",
+      "email": "srishtisharmalive@gmail.com",
+      "userDetails": "Student at Lady Shri Ram College For Women Member of Events team of SU Pink Legal Club- Jazba CRY Chapter of LSR"
+    },
+    {
+      "firstname": "Sanskriti",
+      "lastname": "Saini",
+      "index": 493,
+      "name": "Sanskriti Saini",
+      "email": "siyakritiram45@gmail.com",
+      "userDetails": "SRCC'26/27 | Bcom (hons) | CUET AIR 14 | Vittshala | CA intermediate |"
+    },
+    {
+      "firstname": "Dipesh",
+      "lastname": "Todi",
+      "index": 494,
+      "name": "Dipesh Todi",
+      "email": "todidipesh73@gmail.com",
+      "userDetails": "A Fellow Student who is keen to learn about new Technologies and Programming Languages. AI & ML Enthusiast | 3x Hackathon Finalist✨️"
+    },
+    {
+      "firstname": "Diksha",
+      "lastname": "Bagh",
+      "index": 495,
+      "name": "Diksha Bagh",
+      "email": "baghdiksha@gmail.com",
+      "userDetails": "Shri Ram College of Commerce, DU I BA Economics (Hons) I SRCC'25/26"
+    },
+    {
+      "firstname": "Drishti",
+      "lastname": "Baliyan",
+      "index": 496,
+      "name": "Drishti Baliyan",
+      "email": "drishtibaliyan53@gmail.com",
+      "userDetails": "DRC DU'25/26 || B.Com(H) || Finance & Marketing"
+    },
+    {
+      "firstname": "Manan",
+      "lastname": "Singal",
+      "index": 497,
+      "name": "Manan Singal",
+      "email": "manan.22136@sscbs.du.ac.in",
+      "userDetails": "SSCBS'25 | BMS | Raise Financial Services | Skilled Sapiens | Atmoz | Grandeur, SSCBS"
+    },
+    {
+      "firstname": "gungun",
+      "lastname": "agrawal",
+      "index": 498,
+      "name": "gungun agrawal",
+      "email": "gungunagrawal1012@gmail.com",
+      "userDetails": "SRCC'25 | B.Com (Hons)"
+    },
+    {
+      "firstname": "Vidushi",
+      "lastname": "Sharma",
+      "index": 499,
+      "name": "Vidushi Sharma",
+      "email": "vidushi0620@gmail.com",
+      "userDetails": "SRCC'27 | B.A. (Hons.) Economics | Language Enthusiast | Avid Reader"
+    },
+    {
+      "firstname": "Suhani",
+      "lastname": "Garg",
+      "index": 500,
+      "name": "Suhani Garg",
+      "email": "suhanigarg178@gmail.com",
+      "userDetails": "Graphic design || Marketing || HR || IMS || BBA'25"
+    },
+    {
+      "firstname": "Kshitij",
+      "lastname": "Mukerji",
+      "index": 501,
+      "name": "Kshitij Mukerji",
+      "email": "kshitij270403@gmail.com",
+      "userDetails": "Growth and Strategy || Cerebrate || REV Freelancer || MSI'24 || Ex-BookMyShow, ABP Network, Procol"
+    },
+    {
+      "firstname": "Saanvi",
+      "lastname": "Misri",
+      "index": 502,
+      "name": "Saanvi Misri",
+      "email": "saanvimisri.edu@gmail.com",
+      "userDetails": "SRCC'26/27"
+    },
+    {
+      "firstname": "Kaivalya",
+      "lastname": "Khairnar",
+      "index": 503,
+      "name": "Kaivalya Khairnar",
+      "email": "kaivalyakhairnar@gmail.com",
+      "userDetails": "Pre-Final Year @IIT Kharagpur | Togethr | Product Enthusiast"
+    },
+    {
+      "firstname": "Utsav",
+      "lastname": "Kumar",
+      "index": 504,
+      "name": "Utsav Kumar",
+      "email": "utsav.kumar9009@gmail.com",
+      "userDetails": "DTU CSE'27 | Full Stack Web Developer | Mern Stack | AI & ML Enthusiast"
+    },
+    {
+      "firstname": "Utkarsha",
+      "lastname": "Patil",
+      "index": 505,
+      "name": "Utkarsha Patil",
+      "email": "utpatil01@gmail.com",
+      "userDetails": "Seeking Summer'24 Internship | MEM Student @SJSU | Ex-Deloitte | Ex-PwC | Ex-Wipro"
+    },
+    {
+      "firstname": "Shruti",
+      "lastname": ".",
+      "index": 506,
+      "name": "Shruti .",
+      "email": "shrutimfp2004@gmail.com",
+      "userDetails": "Attended Banasthali Vidyapith"
+    },
+    {
+      "firstname": "Susmitha",
+      "lastname": "Katta",
+      "index": 507,
+      "name": "Susmitha Katta",
+      "email": "susmitha182004@gmail.com",
+      "userDetails": "KIIT University"
+    },
+    {
+      "firstname": "Aarushi",
+      "lastname": "Aggarwal",
+      "index": 508,
+      "name": "Aarushi Aggarwal",
+      "email": "aarushi005@e.ntu.edu.sg",
+      "userDetails": "Financial Economics and Business Sophomore @NTU"
+    },
+    {
+      "firstname": "Ashwin",
+      "lastname": "Sharma",
+      "index": 509,
+      "name": "Ashwin Sharma",
+      "email": "ashwwinsharma123@gmail.com",
+      "userDetails": "Bcom | DU’26 | Junior Associate at Enactus MLNC"
+    },
+    {
+      "firstname": "Jiya",
+      "lastname": "Chahar",
+      "index": 510,
+      "name": "Jiya Chahar",
+      "email": "jiyachahar1989@gmail.com",
+      "userDetails": "Economics Hons || Miranda House’25|| Enactus MH || Career cell"
+    },
+    {
+      "firstname": "Hargun",
+      "lastname": "Kaur",
+      "index": 511,
+      "name": "Hargun Kaur",
+      "email": "hargunkaur1604@gmail.com",
+      "userDetails": "BMS || Sri Guru Gobind Singh College of Commerce, University of Delhi || Senior Consultant, 180 Degrees Consulting, SGGSCC"
+    },
+    {
+      "firstname": "Ansh",
+      "lastname": "Mishra",
+      "index": 512,
+      "name": "Ansh Mishra",
+      "email": "mishraansh4507@gmail.com",
+      "userDetails": "ViceChairperson@IEEE SB JIIT|Student at JIIT, Noida"
+    },
+    {
+      "firstname": "Jaideo",
+      "lastname": "Tandon",
+      "index": 513,
+      "name": "Jaideo Tandon",
+      "email": "jaideotandon@gmail.com",
+      "userDetails": "Narsee Monjee Institute of Management Studies || Economics Graduate 2019-2022 || FRM Level 2 (cleared)"
+    },
+    {
+      "firstname": "Aniya",
+      "lastname": "Koul",
+      "index": 514,
+      "name": "Aniya Koul",
+      "email": "aniyakoul2003@gmail.com",
+      "userDetails": "SRCC'25 | B.Com ( Hons ) | PR & Logistics Director,English Literary Society"
+    },
+    {
+      "firstname": "Muskaan",
+      "lastname": "Jain",
+      "index": 515,
+      "name": "Muskaan Jain",
+      "email": "muskaanjain7204@gmail.com",
+      "userDetails": "VIPS'25 | B.Com(Hons) | Organising Committee-TEDxVIPS | Placement Cell Student Coordinator | Antha Prerna Member | MarkeXpress VSBS"
+    },
+    {
+      "firstname": "Vinayak",
+      "lastname": "Agarwal",
+      "index": 516,
+      "name": "Vinayak Agarwal",
+      "email": "vinayak.a.kgp@gmail.com",
+      "userDetails": "General Secretary Technology, TSG, IITKGP | HPAIR Delegate '23 | IIT KGP '25"
+    },
+    {
+      "firstname": "Saksham",
+      "lastname": "Makhija",
+      "index": 517,
+      "name": "Saksham Makhija",
+      "email": "sakshammak20@gmail.com",
+      "userDetails": "B.Com Hons || Hansraj College || Comsoc || Entrepreneurship cell || Mark it || Pixels"
+    },
+    {
+      "firstname": "Cao",
+      "lastname": "Ziyi",
+      "index": 518,
+      "name": "Cao Ziyi",
+      "email": "cziyi4@outlook.com",
+      "userDetails": "Full-Time National Serviceman · Graduate of Raffles Institution"
+    },
+    {
+      "firstname": "Sidharth",
+      "lastname": "Dugar",
+      "index": 519,
+      "name": "Sidharth Dugar",
+      "email": "sidharthdugar1234@gmail.com",
+      "userDetails": "SRCC26/27||MCKV'23|| AIR 2, ISC '23(99.5%)"
+    },
+    {
+      "firstname": "Dhruv",
+      "lastname": "Sethi",
+      "index": 520,
+      "name": "Dhruv Sethi",
+      "email": "2023.1061@sbse.du.ac.in",
+      "userDetails": "B.Com (Hons) SBSEC’26 | Junior Coordinator at The Placement Cell | Enactus SBSEC Member"
+    },
+    {
+      "firstname": "Kanan",
+      "lastname": "Verma",
+      "index": 521,
+      "name": "Kanan Verma",
+      "email": "kananvrm12@gmail.com",
+      "userDetails": "Student at Shri Ram College of Commerce"
+    },
+    {
+      "firstname": "Tanmay",
+      "lastname": "S.",
+      "index": 522,
+      "name": "Tanmay S.",
+      "email": "tanmaysinkar2021@gmail.com",
+      "userDetails": "Student at Bhartiya Vidya Bhavans Sardar Patel Institute of Technology"
+    },
+    {
+      "firstname": "Kashish",
+      "lastname": "Mangal",
+      "index": 523,
+      "name": "Kashish Mangal",
+      "email": "mangalkashish1920@gmail.com",
+      "userDetails": "President @NatureKnocks | MSI'24 - Banking & Insurance | EdJustice foundation | Content & Human Resource"
+    },
+    {
+      "firstname": "Siya",
+      "lastname": "Gumber",
+      "index": 524,
+      "name": "Siya Gumber",
+      "email": "gumbersiya10@gmail.com",
+      "userDetails": "Assurance Associate @ EY GDS | IPCW' 23 | |Commerce Major| |Finance Research Content Writer at Bullsmart| | Girl Up Meera| |Feeljoy|"
+    },
+    {
+      "firstname": "Shivani",
+      "lastname": "Rekvar",
+      "index": 525,
+      "name": "Shivani Rekvar",
+      "email": "shivanirekvar@gmail.com",
+      "userDetails": "SSCBS'21"
+    },
+    {
+      "firstname": "Niharika",
+      "lastname": "Bisht",
+      "index": 526,
+      "name": "Niharika Bisht",
+      "email": "bishtniharika2003@gmail.com",
+      "userDetails": "MBA (Finance & Analytics), DFBE'25 | VC Extern | Data Analyst | Edboard Convenor 2024- 25| State Rank 7 - CBSE Class 12"
+    },
+    {
+      "firstname": "Anshul",
+      "lastname": "Sinha",
+      "index": 527,
+      "name": "Anshul Sinha",
+      "email": "sinhaanshul59@gmail.com",
+      "userDetails": "BCom Honours | ARSD'26 |"
+    },
+    {
+      "firstname": "Oishee",
+      "lastname": "Roy",
+      "index": 528,
+      "name": "Oishee Roy",
+      "email": "oisheeroy2004@gmail.com",
+      "userDetails": "Attended St. Xavier's College (Autonomous), Kolkata"
+    },
+    {
+      "firstname": "Tulika",
+      "lastname": "Kurre",
+      "index": 529,
+      "name": "Tulika Kurre",
+      "email": "tulikakurre@gmail.com",
+      "userDetails": "Indian Institute of Management, Rohtak | MBA 23-25 | Summer Intern - Bharat Heavy Electricals Limited (BHEL) | Ex - Member - Student Council | Ex - Coordinator - Riwaayat, IPM Cultural Club"
+    },
+    {
+      "firstname": "Nipa",
+      "lastname": "M",
+      "index": 530,
+      "name": "Nipa B M",
+      "email": "nipabm08213@gmail.com",
+      "userDetails": "Student at Dr.B.R. Ambedkar School of Economics University, Bengaluru"
+    },
+    {
+      "firstname": "Tarang",
+      "lastname": "Desai",
+      "index": 531,
+      "name": "Tarang Desai",
+      "email": "Tarangdesai25@gmail.com",
+      "userDetails": "Consultant (BFSI) @ EXL Service | NIT Surat 2021 | Passionate about Sports analytics & Equity analytics"
+    },
+    {
+      "firstname": "Peh",
+      "lastname": "Din",
+      "index": 532,
+      "name": "Peh Wee Din",
+      "email": "PEHW0014@e.ntu.edu.sg",
+      "userDetails": "Strategic Projects Intern at Grab | Final Year Business and Data Analytics Student in Nanyang Technological University"
+    },
+    {
+      "firstname": "Aakriti",
+      "lastname": "Manchanda",
+      "index": 533,
+      "name": "Aakriti Manchanda",
+      "email": "aakritimanchanda05@gmail.com",
+      "userDetails": "Economics Major | Treasurer at COMMPACT- The Commerce Society of Maharaja Agrasen Institute of Management Studies"
+    },
+    {
+      "firstname": "Rishabh",
+      "lastname": "Raj",
+      "index": 534,
+      "name": "Rishabh Raj",
+      "email": "rishabh.23095@sscbs.du.ac.in",
+      "userDetails": "SSCBS'26/27 || BMS || Organizing Committee Member of Crescendo | Blitz"
+    },
+    {
+      "firstname": "Kunjal",
+      "lastname": "Aggarwal",
+      "index": 535,
+      "name": "Kunjal Aggarwal",
+      "email": "kunjalaggarwal25@gmail.com",
+      "userDetails": "Commerce Major@Hindu’26/27| Junior Consultant at 180 Degrees Consulting |Enactus| Finance & Investment Cell| Kaizen- Department of Commerce|Head Girl- DCMP’23| CUET-100%iler"
+    },
+    {
+      "firstname": "Hanshika",
+      "lastname": "Sethi",
+      "index": 536,
+      "name": "Hanshika Sethi",
+      "email": "hanshikasethi2006@gmail.com",
+      "userDetails": "SXC'27 | B.Sc. Economics (Hons.)"
+    },
+    {
+      "firstname": "Khushi",
+      "lastname": "bhardwaj",
+      "index": 537,
+      "name": "Khushi bhardwaj",
+      "email": "khushibhardwaj298@gmail.com",
+      "userDetails": "LSR'25 || BCOM HONS"
+    },
+    {
+      "firstname": "Manasi",
+      "lastname": "Bhavsar",
+      "index": 538,
+      "name": "Manasi Bhavsar",
+      "email": "manasi.bhavsar@sjsu.edu",
+      "userDetails": "GHC'23 | SWE'23 | DevOps Intern| Actively Seeking Full Time | MS Engineering Management | SJSU | Certified Terraform Associate |Salesforce Certified Platform Developer | Cloud Engineer |Ex- Accenture | Ex-Wipro"
+    },
+    {
+      "firstname": "Srishti",
+      "lastname": "Agarwal",
+      "index": 539,
+      "name": "Srishti Agarwal",
+      "email": "Srishti.p22@imi.edu",
+      "userDetails": "Summer Intern at Taj Palace || Member- Culture and Event Management Cell || Member- Insync-The Dance Society || PGDM at IMI, New Delhi || Maharaja Agrasen Institute Of Management Studies"
+    },
+    {
+      "firstname": "Meghna",
+      "lastname": "Grover",
+      "index": 540,
+      "name": "Meghna Grover",
+      "email": "ipm02meghnag@iimrohtak.ac.in",
+      "userDetails": "IIM Rohtak'25 | Convenor: The Operations Management Club IIM Rohtak | Lean Six Sigma Green Belt"
+    },
+    {
+      "firstname": "Anish",
+      "lastname": "Majumdar",
+      "index": 541,
+      "name": "Anish Majumdar",
+      "email": "anishmajumdar05@gmail.com",
+      "userDetails": "B.com(hons) - DU'26 || NISM Research Analyst || Financial Buff"
+    },
+    {
+      "firstname": "Eesha",
+      "lastname": "Gupta",
+      "index": 542,
+      "name": "Eesha Gupta",
+      "email": "eesha04gupta@gmail.com",
+      "userDetails": "Finance Major | Former-PR & Marketing Head- Enactus Rajguru| Intern- Fusion Microfinance| Kaere | DPS VK'21"
+    },
+    {
+      "firstname": "Lavanya",
+      "lastname": "Puri",
+      "index": 543,
+      "name": "Lavanya Puri",
+      "email": "lavanyapuri913@gmail.com",
+      "userDetails": "UNCTAD ┃Girls in STEM┃University of Delhi"
+    },
+    {
+      "firstname": "MANAN",
+      "lastname": "JAIN",
+      "index": 544,
+      "name": "MANAN JAIN",
+      "email": "mananjain.srcc@gmail.com",
+      "userDetails": "SRCC'26 || B.COM (Hons.)|| CA INTERMEDIATE || ICO International Rank 3 || Gold Medalist"
+    },
+    {
+      "firstname": "Neha",
+      "lastname": "Gulliya",
+      "index": 545,
+      "name": "Neha Gulliya",
+      "email": "nehagulliya11@gmail.com",
+      "userDetails": "|Looking for opportunities in Economics| |DU'27| |Economics Hons | |CUET 100 percentiler in Economics|"
+    },
+    {
+      "firstname": "Anshika",
+      "lastname": "Gautam",
+      "index": 546,
+      "name": "Anshika Gautam",
+      "email": "anshikagautam004@gmail.com",
+      "userDetails": "B.Com(Hons) ||Shri Ram College of Commerce || TATA 1mg || OIP SRCC"
+    },
+    {
+      "firstname": "Varshman",
+      "lastname": "Samaddar",
+      "index": 547,
+      "name": "Varshman Samaddar",
+      "email": "varshman.p23@imi.edu",
+      "userDetails": "Summer Intern - Uno Minda || PGDM '25 - IMI Delhi || B.Tech(CSE) '22 - AKTU"
+    },
+    {
+      "firstname": "Shubh",
+      "lastname": "Agarwal",
+      "index": 548,
+      "name": "Shubh Agarwal",
+      "email": "shubhagarwal789@gmail.com",
+      "userDetails": "Operations Analyst at RBS, Natwest"
+    },
+    {
+      "firstname": "Yash",
+      "lastname": "Aggarwal",
+      "index": 549,
+      "name": "Yash Aggarwal",
+      "email": "yashaggarwal2004@gmail.com",
+      "userDetails": "Business development - Metvy, techanalogy ||Sub-Head of revenue-Evepaper||Member,The Training and placement cell,180DC,Ecosperity|| Student at SGGSCC, DU{b.com(h)}||PR intern @YouthIndiaFoundation||THE IMPACT PROJECT||"
+    },
+    {
+      "firstname": "Monya",
+      "lastname": "Balani",
+      "index": 550,
+      "name": "Monya Balani",
+      "email": "MonyaB117@gmail.com",
+      "userDetails": "Student at BGS International Public School - India"
+    },
+    {
+      "firstname": "Stuti",
+      "lastname": "Kohli",
+      "index": 551,
+      "name": "Stuti Kohli",
+      "email": "stutikohli23work@gmail.com",
+      "userDetails": "Sole Proprietor- Aruka Alliance | President at COMMPACT- The Commerce Society of MAIMS | General Secretary at The Placement Cell, MAIMS | Ex Manager at AIESEC in Delhi IIT | Linkedin ICKP’23 | B.Com(H) | Graphic Designer"
+    },
+    {
+      "firstname": "Vansh",
+      "lastname": "Kukreja",
+      "index": 552,
+      "name": "Vansh Kukreja",
+      "email": "kukrejavansh1059@gmail.com",
+      "userDetails": "Freshman at Sri Venkateswara College"
+    },
+    {
+      "firstname": "Aradhya",
+      "lastname": "Mahajan",
+      "index": 553,
+      "name": "Aradhya Mahajan",
+      "email": "aradhyamahajan43@gmail.com",
+      "userDetails": "TEDxSGTBKC | DU BEAT | CDF SGTBKC | PEHCHAAN THE STREET SCHOOL | SACHKHAND FOUNDATION"
+    },
+    {
+      "firstname": "Yash",
+      "lastname": "Daga",
+      "index": 554,
+      "name": "Yash Daga",
+      "email": "daga.yashhh@gmail.com",
+      "userDetails": "Sophomore @ IIT Kharagpur • CGS,IIT KGP • Data analytics and Machine learning Enthusiast"
+    },
+    {
+      "firstname": "Aryan",
+      "lastname": "Chiripal",
+      "index": 555,
+      "name": "Aryan Chiripal",
+      "email": "aryanchiripal1004@gmail.com",
+      "userDetails": "CA INTERMEDIATE || Hansraj College ||"
+    },
+    {
+      "firstname": "kunj",
+      "lastname": "kalra",
+      "index": 556,
+      "name": "kunj kalra",
+      "email": "kalrakunj30@gmail.com",
+      "userDetails": "Student at Graphic Era Deemed to be University"
+    },
+    {
+      "firstname": "Ayush",
+      "lastname": "Agrawal",
+      "index": 557,
+      "name": "Ayush Agrawal",
+      "email": "agrawalayush405@gmail.com",
+      "userDetails": "Economics Honours at SGGSCC'25/26 | Rotary International District 3011 | Krayonnz | Rotaract Club SGGSCC"
+    },
+    {
+      "firstname": "Kunal",
+      "lastname": "Kakkar",
+      "index": 558,
+      "name": "Kunal Kakkar",
+      "email": "kunalkakkar219@gmail.com",
+      "userDetails": "Student at Delhi University,Investment Banking Fellow at Marquee Equity,DU.today"
+    },
+    {
+      "firstname": "Samarth",
+      "lastname": "Garg",
+      "index": 559,
+      "name": "Samarth Garg",
+      "email": "samarth27garg@gmail.com",
+      "userDetails": "SRCC'26/27 | B.Com (Hons.)"
+    },
+    {
+      "firstname": "Shruti",
+      "lastname": "University",
+      "index": 560,
+      "name": "Shruti Suhas Kute, Data Science at Northeastern University",
+      "email": "shrutikute070501@gmail.com",
+      "userDetails": "Graduate Student | Data Scientist | Machine Learning | Natural Language Processing | Software Engineering |"
+    },
+    {
+      "firstname": "Devansh",
+      "lastname": "Goel",
+      "index": 561,
+      "name": "Devansh Goel",
+      "email": "dgoel5444@gmail.com",
+      "userDetails": "Student at SRM University"
+    },
+    {
+      "firstname": "Himani",
+      "lastname": "Shah",
+      "index": 562,
+      "name": "Himani Shah",
+      "email": "himani.shah0307@gmail.com",
+      "userDetails": "MS in Data Analytics student @SJSU | Student Ambassador @Adobe | Ex-TCSer"
+    },
+    {
+      "firstname": "Akarshita",
+      "lastname": "Raj",
+      "index": 563,
+      "name": "Akarshita Raj",
+      "email": "rajakarshita@gmail.com",
+      "userDetails": "Lady Shri Ram College for Women || Raam Group || Human Resources || Marketing and analysis || Student's Council"
+    },
+    {
+      "firstname": "Dhanush",
+      "lastname": "Kodi",
+      "index": 564,
+      "name": "Dhanush Kodi",
+      "email": "Cadhanush11@gmail.com",
+      "userDetails": "CA Intermediate | SJC'26 | Bcom(Hons) | ACCA Aspirant | Finance Enthusiastic | CBSE'23 |"
+    },
+    {
+      "firstname": "Shreya",
+      "lastname": "Shah",
+      "index": 565,
+      "name": "Shreya Shah",
+      "email": "shreya.shah.usa@gmail.com",
+      "userDetails": "Former Project Manager @ Vodafone | Certified ScrumMaster, Agile Project Management, Six Sigma | Business Intelligence | Seeking Full-Time, Fall 2024."
+    },
+    {
+      "firstname": "Feni",
+      "lastname": "Pethani",
+      "index": 566,
+      "name": "Feni Pethani",
+      "email": "fpethani@depaul.edu",
+      "userDetails": "Web Developer with expertise in Web Design and Generative AI"
+    },
+    {
+      "firstname": "Chandni",
+      "lastname": "Saluja",
+      "index": 567,
+      "name": "Chandni Saluja",
+      "email": "chandnisaluja2003@gmail.com",
+      "userDetails": "Senior Executive Member at Inferno - Informal Events team of Kamala Nehru College ||HR Intern at Baskethunt Pvt Ltd || Commcentric || Kamala Nehru College, Delhi University || Final Year student ||Bcom Hons ||"
+    },
+    {
+      "firstname": "Sarthak",
+      "lastname": "Pahwa",
+      "index": 568,
+      "name": "Sarthak Pahwa",
+      "email": "sarthakcosmos03@gmail.com",
+      "userDetails": "VIPS'24 | MarkeXpress VSBS, VIPS | Placement Cell VSBS, VIPS | Research Analyst @ Prism Wealth"
+    },
+    {
+      "firstname": "Prerna",
+      "lastname": "Soni",
+      "index": 569,
+      "name": "Prerna Soni",
+      "email": "prernasoni.21.03@gmail.com",
+      "userDetails": "SJU'25 I CFA L1 ASPIRANT"
+    },
+    {
+      "firstname": "Dhriti",
+      "lastname": "Karnani",
+      "index": 570,
+      "name": "Dhriti Karnani",
+      "email": "Dhriti.karnani@gmail.com",
+      "userDetails": "SRCC '26/27 || Senior Coordinator @ The Placement Cell, SRCC || International Rank 1 in SOF International Commerce Olympiad"
+    },
+    {
+      "firstname": "Ayushi",
+      "lastname": "Bansal",
+      "index": 571,
+      "name": "Ayushi Bansal",
+      "email": "Bansalayushi0003@gmail.com",
+      "userDetails": "DSC\"26/27, UNIVERSITY OF DELHI || DISTRICT TOPPER(CBSE'23) || Finance enthusiast || FINANZA || Detail-Oriented"
+    },
+    {
+      "firstname": "Payal",
+      "lastname": "Jha",
+      "index": 572,
+      "name": "Payal Jha",
+      "email": "Payaljha679@gmail.com",
+      "userDetails": "CS Executive|| Commerce Major|| Daulat Ram College'25|| The Aarambh Organisation || Content team member@ECA|| OnActive||"
+    },
+    {
+      "firstname": "Devanshi",
+      "lastname": "Agrawal",
+      "index": 573,
+      "name": "Devanshi Agrawal",
+      "email": "devanshi.ag1@gmail.com",
+      "userDetails": "B.Tech - Computer Science and Engineering"
+    },
+    {
+      "firstname": "Lavish",
+      "lastname": "Jain",
+      "index": 574,
+      "name": "Lavish Jain",
+      "email": "Zlavish11@gmail.com",
+      "userDetails": "Senior Placement Coordinator - DBE-DU | Intern - ICICI Bank | MBA Business Economics, DFBE'24 📚 | Economics Graduate, BASE Bengaluru'22 🧾 | Trader 📊"
+    },
+    {
+      "firstname": "Lokanathan",
+      "lastname": "M",
+      "index": 575,
+      "name": "Lokanathan D M",
+      "email": "dld04541@su.suffolk.edu",
+      "userDetails": "Analyst @ Suffolk Finance & Investing Club | Master's in Finance candidate"
+    },
+    {
+      "firstname": "Dhwani",
+      "lastname": "Bhatia",
+      "index": 576,
+      "name": "Dhwani Bhatia",
+      "email": "Dhwanibhatia0907@gmail.com",
+      "userDetails": "Economics Major| VIPS '26 | Placement coordinator at placement and guidance cell,VSE"
+    },
+    {
+      "firstname": "Vanishaa",
+      "lastname": "garg",
+      "index": 577,
+      "name": "Vanishaa garg",
+      "email": "gargvanishaa@gmail.com",
+      "userDetails": "DTU'24|BBA"
+    },
+    {
+      "firstname": "Nandini",
+      "lastname": "Jain",
+      "index": 578,
+      "name": "Nandini Jain",
+      "email": "Nandinijain170604@gmail.com",
+      "userDetails": "Senior Placement Coordinator | Entrepreneurship Cell | National Service Scheme | Girl Up Union | Natureknocks | Project Sanskriti |"
+    },
+    {
+      "firstname": "Jatin",
+      "lastname": "Sharma",
+      "index": 579,
+      "name": "Jatin Sharma",
+      "email": "sharmaronak470@gmail.com",
+      "userDetails": "Student"
+    },
+    {
+      "firstname": "Lakshay",
+      "lastname": "Bansal",
+      "index": 580,
+      "name": "Lakshay Bansal",
+      "email": "bansallakshay001@gmail.com",
+      "userDetails": "National Finalist - IIT BOMBAY, IIFT DELHI & SRCC | Finance & Consulting | Comp Majors"
+    },
+    {
+      "firstname": "Anshika",
+      "lastname": "Verma",
+      "index": 581,
+      "name": "Anshika Verma",
+      "email": "23anshikaverma@gmail.com",
+      "userDetails": "SRCC'26| B.com (Hons.) | CMS, SRCC | CDF-SRCC | YIF |"
+    },
+    {
+      "firstname": "Syed",
+      "lastname": "Hussain",
+      "index": 582,
+      "name": "Syed Ayaan Hussain",
+      "email": "sayaanhussain123@gmail.com",
+      "userDetails": "B.Tech student at JMI | CyberSecurity and NLP enthusiast | E Cell JMI | IEEE JMI"
+    },
+    {
+      "firstname": "Ishita",
+      "lastname": "Gupta",
+      "index": 583,
+      "name": "Ishita Gupta",
+      "email": "ishitagupta.p23@imi.edu",
+      "userDetails": "PGDM - IMI, New Delhi || BCA - Symbiosis International University"
+    },
+    {
+      "firstname": "Sangram",
+      "lastname": "Lembe",
+      "index": 584,
+      "name": "Sangram Lembe",
+      "email": "Sangramlembe9696@gmail.com",
+      "userDetails": "Artificial intelligence | Peer Counselling |Data Science | Python |"
+    },
+    {
+      "firstname": "ARUP",
+      "lastname": "DAS",
+      "index": 585,
+      "name": "ARUP DAS",
+      "email": "arupdas8634@gmail.com",
+      "userDetails": "BBA Student | Investor |Interested about Finance,Stock Market."
+    },
+    {
+      "firstname": "Gaurav",
+      "lastname": "Prajapati",
+      "index": 586,
+      "name": "Gaurav Prajapati",
+      "email": "gauravptajapati2023@gmail.com",
+      "userDetails": "--"
+    },
+    {
+      "firstname": "Paurush",
+      "lastname": "Sinha",
+      "index": 587,
+      "name": "Paurush Sinha",
+      "email": "paurush.sinha.d@gmail.com",
+      "userDetails": "Passionate Programming Enthusiast"
+    }
+  ]
+]

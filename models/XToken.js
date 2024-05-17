@@ -4,7 +4,7 @@ const XtokenSchema = new mongoose.Schema({
     state: String,
     accessToken: String,
     refreshToken: String,
-    userId: string,
+    userId: String,
 },
 {
     timestamps: true,

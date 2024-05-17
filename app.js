@@ -6,6 +6,7 @@ import authUserRoute from "./routes/authUsers.js"
 import authAdminRoute from "./routes/authAdmin.js"
 import campaignRoute from "./routes/campaign.js"
 import resumeRoute from "./routes/resume.js"
+import conversationRoute from "./routes/conversation.js"
 import UserRoute from "./routes/users.js";
 import adminRoute from "./routes/admin.js"
 import mailRoute from "./routes/mail.js"
@@ -44,6 +45,7 @@ app.use(cookieParser())
 app.use(express.json());
 app.use(bodyParser.json())
 
+app.use("/api/conversation", conversationRoute);
 app.use("/api/payment", paymentRoute);
 app.use("/api/x", authXRoute);
 app.use("/api/linkedin", authLinkedinRoute);

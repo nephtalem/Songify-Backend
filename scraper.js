@@ -133,7 +133,7 @@ async function waitForEvent(page, event) {
 
 
 
-export async function askgpt  (userPrompt)  {
+export async function askgpt  (userPrompt,postOn)  {
     console.log( "###########################################" );
     console.log( "# GPT4V-Browsing by Unconventional Coding #" );
     console.log( "###########################################\n" );
@@ -177,13 +177,13 @@ export async function askgpt  (userPrompt)  {
             2. You can click links on the website by referencing the text inside of the link/button, by answering in the following JSON format:
             {"click": "Text in link"}
 
-            3. Once you are on a URL and you have found the news to the user's question, you can answer with a regular twitter post. tags should be at first.
+            3. Once you are on a URL and you have found the news to the user's question, you can answer with a regular ${postOn} post. tags should be at first.
             When You find the information asked, you will make twitter post 280 characters only for the first sentence, please avoid summary and other stuff just prepare a post.
             then on the next line, I need small paragraphs about about 5 news in 5 paragraph about the news. Remember the paragraphs should be really short.
 
             Use google search by set a sub-page like 'https://google.com/search?q=search' if applicable. Prefer to use Google for simple queries. If the user provides a direct URL, go to that one. Do not make up links.
             Remember if you are asked to do something you can not do, just provide the url go to. Please don't ask just perform the tasks like giving url or clinking.
-            When you finally output the twitter post , start with the sentence "Here is what is happening today: then on the same line give your short twitter post with max 280 characters including tags
+            When you finally output the ${postOn} post , start with the sentence "Here is what is happening today: then on the same line give your short ${postOn} post with max 280 characters including tags
             `,
         }
     ];
@@ -247,7 +247,8 @@ export async function askgpt  (userPrompt)  {
                 "content": [
                     {
                         "type": "image_url",
-                        "image_url": base64_image,
+                        "image_url": {"url": base64_image},
+                        // "image_url": base64_image,
                     },
                     {
                         "type": "text",
@@ -266,7 +267,8 @@ export async function askgpt  (userPrompt)  {
         }
 
         const response = await openai.chat.completions.create({
-            model: "gpt-4-vision-preview",
+            model: "gpt-4o",
+            // "gpt-4-vision-preview",
             max_tokens: 1024,
             messages: messages,
         });
