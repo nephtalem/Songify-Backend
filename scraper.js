@@ -140,9 +140,10 @@ export async function askgpt  (userPrompt,postOn)  {
 
 
     const browser = await puppeteer.launch( {
-        headless: "false",
-        executablePath: 'C:\\Users\\cv\\AppData\\Local\\Google\\Chrome SxS\\Application\\chrome.exe',
-        userDataDir: 'C:\\Users\\cv\\AppData\\Local\\Google\\Chrome SxS\\User Data\\Default',
+        // headless: "false",
+        // executablePath: 'C:\\Users\\cv\\AppData\\Local\\Google\\Chrome SxS\\Application\\chrome.exe',
+        // userDataDir: 'C:\\Users\\cv\\AppData\\Local\\Google\\Chrome SxS\\User Data\\Default',
+        executablePath: process.env.PUPPETEER_EXECUTABLE_PATH? process.env.PUPPETEER_EXECUTABLE_PATH : false,
         args: ['--no-sandbox', "--disabled-setupid-sandbox"],
         ignoreDefaultArgs: ['--disable-extensions'],
         // args: [

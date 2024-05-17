@@ -5,7 +5,7 @@ import generator  from "generate-password";
 
 
 
-// import LinkedinToken from "../Models/LinkedinToken.js";
+import LinkedinToken from "../models/LinkedinToken.js";
 
 import "dotenv/config";
 
