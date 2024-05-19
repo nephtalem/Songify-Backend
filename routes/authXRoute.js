@@ -6,6 +6,9 @@ import XToken from "../models/XToken.js";
 import OpenAI from "openai";
 import "dotenv/config";
 import User from "../models/User.js";
+import Queue  from 'bull';
+import { addJobToQueue} from "../worker.js";
+import { scrapeQueue } from "../redis.js"
 
 // Twitter API init
 const twitterClient = new TwitterApi({
@@ -113,31 +116,55 @@ router.get("/tweet", async (req, res) => {
   // console.log("data returned", data)
   res.send({ status: "Twitt Posted, Enjoy", data });
 });
+router.get("/job-status/:id", async (req, res) => {
+  try{
+    const {id } = req.params;
+    const job = await scrapeQueue.getJob(id);
+  
+    if (!job) {
+      res.status(200).json({ status:"error", data: 'Job not found' });
+    }
+    
+    if (job.finishedOn) {
+      const result = await job.finished();
+      console.log("sending job ",result)
+      res.status(200).send({ status:"Success", data:result });
+    } else if (job.failedReason) {
+      res.status(200).json({ status: 'failed', data: job.failedReason });
+    } else {
+      res.status(200).json({ status: 'in-progress' });
+    }
+}catch(err){
+  
+}
+});
 router.post("/try", async (req, res) => {
   try{
   const {Prompt:prompt, type, postOn,userId} = req?.body;
-  let doc = await User.findById(userId);
-  let freeTrial = doc.freeTrial;
-  if(!freeTrial){
-     doc = await User.findOneAndUpdate(
-      { _id: userId },
-      { $set: {freeTrial:0} },
-      { new: true }
-    );
-    freeTrial = doc.freeTrial;
-  }
+  // let doc = await User.findById(userId);
+  // let freeTrial = doc.freeTrial;
+  // if(!freeTrial){
+  //    doc = await User.findOneAndUpdate(
+  //     { _id: userId },
+  //     { $set: {freeTrial:0} },
+  //     { new: true }
+  //   );
+  //   freeTrial = doc.freeTrial;
+  // }
+  let freeTrial = 2
   if(freeTrial <=10){
 
 
-  console.log("prompt", prompt)
-  const data = await askgpt(prompt,postOn);
-  await User.findOneAndUpdate(
-    { _id: userId },
-    { $set: {freeTrial:(freeTrial+1)} },
-    { new: true }
-  );
- 
-  res.send({ status: "Success", data });
+try {
+    
+      // const job = await scrapQueue.add({prompt,postOn ,userId} )
+     const job1 =  await addJobToQueue( {prompt, type, postOn, userId} );
+     console.log("job.id",job1.id)
+     res.status(200).send({ status:"Success", data:job1.id });
+  } catch (error) {
+      res.status(200).send({ error: 'Failed to add job to the queue', details: error });
+  }
+
   }else{
     res.send({ status: "error", data: "Trial Ended" });
   }
