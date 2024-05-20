@@ -8,6 +8,8 @@ import generator  from "generate-password";
 import LinkedinToken from "../models/LinkedinToken.js";
 
 import "dotenv/config";
+import User from "../models/User.js";
+import askpplx from "../perplexity.js";
 
 // Twitter API init
 
@@ -85,15 +87,46 @@ const postUrl = "https://api.linkedin.com/v2/ugcPosts"
 //   }
 
 // });
-// router.post("/try", async (req, res) => {
-//   // const token = await XToken.findOne().sort({ createdAt: -1 });
-//   const prompt = req?.body;
+router.post("/try", async (req, res) => {
+  try{
+  const {Prompt:prompt, type, postOn,userId} = req?.body;
+  let doc = await User.findById(userId);
+  let freeTrial = doc.freeTrial;
+  if(!freeTrial){
+     doc = await User.findOneAndUpdate(
+      { _id: userId },
+      { $set: {freeTrial:0} },
+      { new: true }
+    );
+    freeTrial = doc.freeTrial;
+  }
+  // let freeTrial = 2
+  if(freeTrial <=10){
 
-//   const data = await askgpt(prompt?.Prompt);
- 
-//   // console.log("data returned", data)
-//   res.send({ status: "Success", data });
-// });
+
+try {
+    
+      // const job = await scrapQueue.add({prompt,postOn ,userId} )
+    //  const job1 =  await addJobToQueue( {prompt, type, postOn, userId} );
+    //  console.log("job.id",job1.id)
+    const data = await askpplx(prompt,postOn);
+    doc = await User.findOneAndUpdate(
+      { _id: userId },
+      { $set: {freeTrial:(freeTrial+1)} },
+      { new: true }
+    );
+     res.status(200).send({ status:"Success", data:data });
+  } catch (error) {
+      res.status(200).send({status:"error", error: 'Failed to add job to the queue', details: error });
+  }
+
+  }else{
+    res.send({ status: "error", data: "Trial Ended" });
+  }
+}catch(err){
+  res.send({ status: "error", data: err });
+}
+});
 
 // Route for posting on LinkedIn
 router.get("/post", async (req, res) => {

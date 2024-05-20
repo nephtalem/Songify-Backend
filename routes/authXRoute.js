@@ -9,6 +9,7 @@ import User from "../models/User.js";
 import Queue  from 'bull';
 import { addJobToQueue} from "../worker.js";
 import { scrapeQueue } from "../redis.js"
+import askpplx from "../perplexity.js";
 
 // Twitter API init
 const twitterClient = new TwitterApi({
@@ -141,26 +142,32 @@ router.get("/job-status/:id", async (req, res) => {
 router.post("/try", async (req, res) => {
   try{
   const {Prompt:prompt, type, postOn,userId} = req?.body;
-  // let doc = await User.findById(userId);
-  // let freeTrial = doc.freeTrial;
-  // if(!freeTrial){
-  //    doc = await User.findOneAndUpdate(
-  //     { _id: userId },
-  //     { $set: {freeTrial:0} },
-  //     { new: true }
-  //   );
-  //   freeTrial = doc.freeTrial;
-  // }
-  let freeTrial = 2
+  let doc = await User.findById(userId);
+  let freeTrial = doc.freeTrial;
+  if(!freeTrial){
+     doc = await User.findOneAndUpdate(
+      { _id: userId },
+      { $set: {freeTrial:0} },
+      { new: true }
+    );
+    freeTrial = doc.freeTrial;
+  }
+  // let freeTrial = 2
   if(freeTrial <=10){
 
 
 try {
     
       // const job = await scrapQueue.add({prompt,postOn ,userId} )
-     const job1 =  await addJobToQueue( {prompt, type, postOn, userId} );
-     console.log("job.id",job1.id)
-     res.status(200).send({ status:"Success", data:job1.id });
+    //  const job1 =  await addJobToQueue( {prompt, type, postOn, userId} );
+    //  console.log("job.id",job1.id)
+    const data = await askpplx(prompt,postOn);
+  await User.findOneAndUpdate(
+    { _id: userId },
+    { $set: {freeTrial:(freeTrial+1)} },
+    { new: true }
+  );
+     res.status(200).send({ status:"Success", data:data });
   } catch (error) {
       res.status(200).send({ error: 'Failed to add job to the queue', details: error });
   }

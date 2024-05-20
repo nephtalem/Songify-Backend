@@ -1,4 +1,5 @@
 import User from './models/User.js';
+import { askpplx } from './perplexity.js';
 import { scrapeQueue } from './redis.js';
 
 import askgpt from './scraper.js';
@@ -11,7 +12,8 @@ scrapeQueue.process(maxJobsPerWorker,async (job) => {
     // let data = "hjg"
     
 
-  const data = await askgpt(prompt,postOn);
+//   const data = await askgpt(prompt,postOn);
+  const data = await askpplx(prompt,postOn);
   console.log(`Job completed: ${job.id} for ${userId}`);
 //   await User.findOneAndUpdate(
 //     { _id: userId },
