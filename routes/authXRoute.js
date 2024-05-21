@@ -10,6 +10,7 @@ import Queue  from 'bull';
 import { addJobToQueue} from "../worker.js";
 import { scrapeQueue } from "../redis.js"
 import askpplx from "../perplexity.js";
+import Campaign from "../models/Campaign.js";
 
 // Twitter API init
 const twitterClient = new TwitterApi({
@@ -21,17 +22,18 @@ const callbackURL = "http://127.0.0.1:8800/api/x/callback";
 //
 const router = express.Router();
 
-router.get("/auth", async (req, res) => {
+router.get("/auth/:userId", async (req, res) => {
+  const userId = req.params.userId
   const { url, codeVerifier, state } = twitterClient.generateOAuth2AuthLink(
     callbackURL,
     { scope: ["tweet.read", "tweet.write", "users.read", "offline.access"] }
   );
 
   // Store verifier
-  const token = new XToken({ codeVerifier, state });
+  const token = new XToken({ codeVerifier, state, userId });
   await token.save();
 
-  res.redirect(url);
+  res.send(({ status: "Success", url }));
 });
 
 // STEP 2 - Verify callback code, store access_token
@@ -68,10 +70,66 @@ router.get("/callback", async (req, res) => {
 
 
 
-// cron.schedule('*/5 * * * * *', () => {
-//   console.log('running a task every five seconds');
-// });
-// STEP 3 - Refresh tokens and post tweets
+async function clearQueue() {
+
+  try {
+
+      await scrapeQueue.empty();  // Empties the waiting and delayed jobs
+
+      await scrapeQueue.clean(0, 'completed');  // Clean completed jobs
+
+      await scrapeQueue.clean(0, 'failed');     // Clean failed jobs
+
+      await scrapeQueue.clean(0, 'active');     // Clean active jobs (if supported by Bull)
+
+      console.log('Queue cleared successfully');
+
+  } catch (error) {
+
+      console.error('Error clearing queue:', error);
+
+  } 
+}
+
+const scheduleDailyTweets = async () => {
+  console.log("Started")
+    const getCronExpressions = (timesPerDay) => {
+      const interval = Math.floor(1440 / timesPerDay); // 1440 minutes in a day / number of times per day
+      const cronExpressions = [];
+      
+      for (let i = 0; i < timesPerDay; i++) {
+        let hour = Math.floor((i * interval) / 60);
+        let minute = (i * interval) % 60;
+        cronExpressions.push(`${minute} ${hour} * * *`);
+      }
+    
+      return cronExpressions;
+    };
+
+    const campaign = await Campaign.find({ status: "Active" }); 
+    campaign.forEach(c => {
+  
+      const cronExpressions = getCronExpressions(c.schedule);
+      console.log(`time for ${c.title}`, cronExpressions)
+      cronExpressions.forEach(cronTime => {
+        scrapeQueue.add(
+          { prompt: c.prompt,
+            postOn: c.type ,
+            userId: c.user
+           },
+          { repeat: { cron: cronTime } }
+        );
+    });
+
+});
+}
+
+// Schedule the job to run every day at midnight
+cron.schedule('33 12 * * *', async() => {
+    scheduleDailyTweets();
+    // await clearQueue()
+});
+
 router.get("/tweet", async (req, res) => {
   const token = await XToken.findOne().sort({ createdAt: -1 });
   const prompt = req?.query?.prompt;

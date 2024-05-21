@@ -4,9 +4,10 @@ import {
   deleteUser,
   getUser,
   getUsers,
-  generatePdf
+  generatePdf,
+  getUserStats
 } from "../controllers/user.js";
-import { verifyUser} from "../utils/verifyToken.js";
+import { verifyToken, verifyUser} from "../utils/verifyToken.js";
 import { deleteCampaign, updateCampaign } from "../controllers/campaign.js";
 import { updateResume } from "../controllers/resume.js";
 
@@ -25,6 +26,7 @@ router.put("/editResume/:id", verifyUser, updateResume);
 
 //GET
 router.get("/getUser", getUser);
+router.get("/getUserStats", getUserStats);
 
 //GET ALL
 router.get("/", getUsers);

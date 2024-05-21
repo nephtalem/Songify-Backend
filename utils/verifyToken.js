@@ -1,13 +1,16 @@
 import jwt from "jsonwebtoken";
 import { createError } from "../utils/error.js";
 
+
 export const verifyToken = async (req, res, next) => {
   let token;
+
   if (
     req?.headers?.authorization &&
     req?.headers?.authorization.startsWith("Bearer")
   ) {
     token = req?.headers?.authorization.split(" ")[1];
+
   }
   if (!token) {
     return next(createError(401, "You are not authenticated!"));
@@ -30,6 +33,7 @@ export const verifyUser = (req, res, next) => {
     }
   });
 };
+
 export const verifyPublisher = (req, res, next) => {
   verifyToken(req, res, () => {
     if (req?.user?.role === "Publisher") {

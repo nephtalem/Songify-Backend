@@ -17,6 +17,7 @@ export const updateCampaign = async (req, res, next) => {
     })
 
     } else {
+      console.log("cdg")
       res.status(200).json({ status: "Error", data: "Not authorized" });
     }
   } catch (err) {
@@ -105,6 +106,7 @@ export const getCampaignFromUserName = async (req, res, next) => {
 export const fetchUsersCampaigns = async (req, res, next) => {
   try {
     const { userId , type} = req.body;
+  
 
     const campaign = await Campaign.find({ user: userId, type: type }); 
 
@@ -113,6 +115,19 @@ export const fetchUsersCampaigns = async (req, res, next) => {
     next(err);
   }
 };
+export const fetchUsersActiveCampaigns = async (req, res, next) => {
+  try {
+    const { userId , type} = req.body;
+
+    const campaign = await Campaign.find({ user: userId, type: type, status:"Active" }); 
+
+    res.status(200).json(campaign);
+  } catch (err) {
+    next(err);
+  }
+};
+
+
 
 
 export const getCampaigns = async (req, res, next) => {

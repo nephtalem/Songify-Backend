@@ -4,6 +4,7 @@
 import puppeteer from 'puppeteer';
 import fs from 'fs';
 import User from "../models/User.js";
+import Resume from '../models/Resume.js';
 
 
 export const generatePdf = async (req, res, next) => {
@@ -61,8 +62,7 @@ export const generatePdf = async (req, res, next) => {
           margin: { top: '0px', right: '0px', bottom: '0px', left: '0px' },
           printBackground: true,
           format: 'A4',
-        });
-      
+        }); 
         // Close the browser instance
         await browser.close();
         res.contentType("application/pdf");
@@ -99,6 +99,18 @@ export const updateUser = async (req, res, next) => {
     try {
       const doc = await User.findById(id);
       res.status(200).json(doc);
+    } catch (err) {
+      next(err);
+    }
+  };
+  export const getUserStats = async (req, res, next) => {
+    const { id } = req.query;
+    try {
+      // const doc = await User.findById(id);
+      const resumes = await Resume.countDocuments({
+        user: id
+      });
+      res.status(200).json(resumes);
     } catch (err) {
       next(err);
     }

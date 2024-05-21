@@ -1,10 +1,12 @@
 import express from "express";
+
 import {
   addCampaign,
   getCampaigns,
   getCampaign,
   fetchUsersCampaigns,
   updateCampaign,
+  fetchUsersActiveCampaigns
 } from "../controllers/campaign.js";
 import {
   verifyAdmin,
@@ -19,6 +21,7 @@ router.post("/create", addCampaign);
 
 // //GET ALL
 router.get("/getCampaigns", getCampaigns);
+router.post("/getUsersActiveCampaigns", fetchUsersActiveCampaigns);
 router.post("/getUsersCampaigns", fetchUsersCampaigns);
 router.get("/getCampaign", getCampaign);
 
