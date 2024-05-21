@@ -21,9 +21,12 @@ scrapeQueue.process(maxJobsPerWorker,async (job) => {
     console.log(`Job Started`);
     const { prompt,postOn ,userId} = job.data;
     console.log(`Processing job: ${job.id}`);
+    console.log(`UserId: ${userId}`);
 
     const token = await XToken.find({userId});
-    
+    console.log(`token: `,token);
+    console.log(`refreash token: `,token.refreshToken);
+
     
     const {
         client: refreshedClient,
