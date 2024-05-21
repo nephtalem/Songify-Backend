@@ -68,7 +68,9 @@ export async function askpplx  (prompt,postOn)  {
               authorization: `Bearer ${process.env.PPLX_API_KEY}`
             },
             body: JSON.stringify({
-              model: 'llama-3-70b-instruct',
+              model: "llama-3-sonar-small-32k-online",
+            //   'mixtral-8x7b-instruct',
+            //   'llama-3-70b-instruct',
             //   'llama-3-sonar-small-32k-online',
               messages
 
