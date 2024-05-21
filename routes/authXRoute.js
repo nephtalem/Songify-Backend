@@ -23,6 +23,9 @@ const callbackURL = "http://127.0.0.1:8800/api/x/callback";
 const router = express.Router();
 
 router.get("/auth/:userId", async (req, res) => {
+  try {
+    
+  
   const userId = req.params.userId
   const { url, codeVerifier, state } = twitterClient.generateOAuth2AuthLink(
     callbackURL,
@@ -34,10 +37,15 @@ router.get("/auth/:userId", async (req, res) => {
   await token.save();
 
   res.send(({ status: "Success", url }));
+} catch (error) {
+  res.send(({ status: "error", data:error }));
+}
 });
 
 // STEP 2 - Verify callback code, store access_token
 router.get("/callback", async (req, res) => {
+  try {
+    
   const { state, code } = req.query;
   console.log("Hey")
 
@@ -66,6 +74,9 @@ router.get("/callback", async (req, res) => {
   const { data } = await loggedClient.v2.me();
 
   res.send(data);
+} catch (error) {
+  res.send({status: "error", data:error});
+}
 });
 
 
@@ -92,6 +103,7 @@ async function clearQueue() {
 }
 
 const scheduleDailyTweets = async () => {
+  try{
   console.log("Started")
     const getCronExpressions = (timesPerDay) => {
       const interval = Math.floor(1440 / timesPerDay); // 1440 minutes in a day / number of times per day
@@ -122,15 +134,19 @@ const scheduleDailyTweets = async () => {
     });
 
 });
+} catch (error) {
+  res.send({status: "error", data:error});
+}
 }
 
 // Schedule the job to run every day at midnight
-cron.schedule('33 12 * * *', async() => {
-    scheduleDailyTweets();
-    // await clearQueue()
-});
+// cron.schedule('33 12 * * *', async() => {
+//     scheduleDailyTweets();
+//     // await clearQueue()
+// });
 
 router.get("/tweet", async (req, res) => {
+  try{
   const token = await XToken.findOne().sort({ createdAt: -1 });
   const prompt = req?.query?.prompt;
 
@@ -174,6 +190,9 @@ router.get("/tweet", async (req, res) => {
 
   // console.log("data returned", data)
   res.send({ status: "Twitt Posted, Enjoy", data });
+} catch (error) {
+  res.send({status: "error", data:error});
+}
 });
 router.get("/job-status/:id", async (req, res) => {
   try{
