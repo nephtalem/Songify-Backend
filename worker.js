@@ -5,7 +5,7 @@ import { askpplx } from './perplexity.js';
 import { scrapeQueue } from './redis.js';
 import { TwitterApi } from "twitter-api-v2";
 
-import askgpt from './scraper.js';
+// import askgpt from './scraper.js';
 let maxJobsPerWorker = 2;
 
 const twitterClient = new TwitterApi({
