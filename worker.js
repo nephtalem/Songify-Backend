@@ -1,7 +1,9 @@
+import mongoose from "mongoose";
 import { TwitterApi } from "twitter-api-v2";
 import XToken from './models/XToken.js';
 import { askpplx } from './perplexity.js';
 import { scrapeQueue } from './redis.js';
+import "dotenv/config";
 
 // import askgpt from './scraper.js';
 let maxJobsPerWorker = 2;
@@ -11,21 +13,37 @@ const twitterClient = new TwitterApi({
     clientSecret: process.env.X_CLIENT_SECRET,
   });
   
+  async function connectToMongoDB() {
 
+    try {
+
+        await mongoose.connect(process.env.MONGO);
+        console.log('Connected to MongoDB');
+
+    } catch (error) {
+
+        console.error('Error connecting to MongoDB:', error);
+
+        process.exit(1); // Exit the process if connection fails
+
+    }
+
+}
+
+  (async () => {
+
+    await connectToMongoDB();
 
 
 scrapeQueue.process(maxJobsPerWorker, async (job) => {
     try{
     console.log(`Job Started`);
     const { prompt,postOn ,userId} = job.data;
-    console.log(`Processing job: ${job.id}`);
-    console.log(`UserId: ${userId}`);
+    console.log(`Processing job: ${job.id} for ${userId}`);
+    // console.log(`UserId: ${userId}`);
 
     const token = await XToken.findOne({userId});
-    console.log(`token: `,token);
-    console.log(`refreash token: `,token.refreshToken);
 
-    
     const {
         client: refreshedClient,
         accessToken,
@@ -73,53 +91,4 @@ scrapeQueue.process(maxJobsPerWorker, async (job) => {
     
 });
 
-async function clearQueue() {
-
-    try {
-  
-        await scrapeQueue.empty();  // Empties the waiting and delayed jobs
-  
-        await scrapeQueue.clean(0, 'completed');  // Clean completed jobs
-  
-        await scrapeQueue.clean(0, 'failed');     // Clean failed jobs
-  
-        await scrapeQueue.clean(0, 'active');     // Clean active jobs (if supported by Bull)
-  
-        console.log('Queue cleared successfully');
-  
-    } catch (error) {
-  
-        console.error('Error clearing queue:', error);
-  
-    } 
-  }
-
-async function addJobToQueue({prompt,postOn ,userId}) {
-    await scrapeQueue.add({prompt,postOn ,userId });
-    
-}
-// await addJobToQueue({prompt: "OPEN AI Safty news",postOn:"Twitter",userId:"6611dbe711ccf838a1efad6c"})
-// await clearQueue()
-// scrapQueue.on('completed', (job, result) => {
-//     console.log(`Job completed with result: ${result}`);
-//     // Perform actions after job completion
-//   });
-  
-
-
-// REDIS_URL=your-redis-url-here
-
-
-
-// Update your Procfile to include both the web and worker processes:
-
-// web: node server.js
-// worker: node worker.js
-
-
-// 3. **Scale the worker dyno:**
-
-
-//    heroku ps:scale worker=1
-
-
+})();

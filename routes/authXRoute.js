@@ -3,10 +3,8 @@ import askgpt from "../scraper.js";
 import { TwitterApi } from "twitter-api-v2";
 import cron from 'node-cron';
 import XToken from "../models/XToken.js";
-import OpenAI from "openai";
 import "dotenv/config";
 import User from "../models/User.js";
-import Queue  from 'bull';
 import { scrapeQueue } from "../redis.js"
 import askpplx from "../perplexity.js";
 import Campaign from "../models/Campaign.js";
@@ -17,7 +15,7 @@ const twitterClient = new TwitterApi({
   clientSecret: process.env.X_CLIENT_SECRET,
 });
 
-const callbackURL = "http://127.0.0.1:8800/api/x/callback";
+const callbackURL = process.env.X_REDIRECT_URL;
 //
 const router = express.Router();
 
@@ -107,7 +105,7 @@ const scheduleDailyTweets = async () => {
     const getCronExpressions = (timesPerDay) => {
       const interval = Math.floor(1440 / timesPerDay); // 1440 minutes in a day / number of times per day
       const cronExpressions = [];
-      cronExpressions.push(`31 13 * * *`);
+      cronExpressions.push(`51 14 * * *`);
       
       for (let i = 0; i < timesPerDay; i++) {
         let hour = Math.floor((i * interval) / 60);
@@ -140,7 +138,7 @@ const scheduleDailyTweets = async () => {
 }
 
 // Schedule the job to run every day at midnight
-cron.schedule('30 13 * * *', async() => {
+cron.schedule('50 14 * * *', async() => {
     scheduleDailyTweets();
     // await clearQueue()
 });

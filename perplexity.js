@@ -35,7 +35,7 @@ export async function askpplx  (prompt,postOn)  {
     const messages = [
         {
             "role": "system",
-            "content": `You are a social media manager. You will be given instructions on what to do by browsing write the posts with dates and links. 
+            "content": `You are a social media manager. You will be given instructions on what to do by browsing write the posts. 
             Write it as a human writes it with tags.       
             
             When you finally output the ${postOn} post , start with the word Post: then continue.
