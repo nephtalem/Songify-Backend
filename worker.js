@@ -23,7 +23,7 @@ scrapeQueue.process(maxJobsPerWorker,async (job) => {
     console.log(`Processing job: ${job.id}`);
     console.log(`UserId: ${userId}`);
 
-    const token = await XToken.find({userId});
+    const token = await XToken.findOne({userId});
     console.log(`token: `,token);
     console.log(`refreash token: `,token.refreshToken);
 
@@ -75,10 +75,33 @@ scrapeQueue.process(maxJobsPerWorker,async (job) => {
     
 });
 
-export async function addJobToQueue({prompt,postOn ,userId}) {
-    return await scrapeQueue.add({prompt,postOn ,userId });
+async function clearQueue() {
+
+    try {
+  
+        await scrapeQueue.empty();  // Empties the waiting and delayed jobs
+  
+        await scrapeQueue.clean(0, 'completed');  // Clean completed jobs
+  
+        await scrapeQueue.clean(0, 'failed');     // Clean failed jobs
+  
+        await scrapeQueue.clean(0, 'active');     // Clean active jobs (if supported by Bull)
+  
+        console.log('Queue cleared successfully');
+  
+    } catch (error) {
+  
+        console.error('Error clearing queue:', error);
+  
+    } 
+  }
+
+async function addJobToQueue({prompt,postOn ,userId}) {
+    await scrapeQueue.add({prompt,postOn ,userId });
     
 }
+await addJobToQueue({prompt: "OPEN AI Safty news",postOn:"Twitter",userId:"6611dbe711ccf838a1efad6c"})
+// await clearQueue()
 // scrapQueue.on('completed', (job, result) => {
 //     console.log(`Job completed with result: ${result}`);
 //     // Perform actions after job completion
