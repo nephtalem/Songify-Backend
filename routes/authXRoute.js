@@ -112,6 +112,7 @@ const scheduleDailyTweets = async () => {
       for (let i = 0; i < timesPerDay; i++) {
         let hour = Math.floor((i * interval) / 60);
         let minute = (i * interval) % 60;
+        cronExpressions.push(`06 13 * * *`);
         cronExpressions.push(`${minute} ${hour} * * *`);
       }
     
@@ -140,10 +141,10 @@ const scheduleDailyTweets = async () => {
 }
 
 // Schedule the job to run every day at midnight
-// cron.schedule('33 12 * * *', async() => {
-//     scheduleDailyTweets();
-//     // await clearQueue()
-// });
+cron.schedule('05 13 * * *', async() => {
+    scheduleDailyTweets();
+    // await clearQueue()
+});
 
 router.get("/tweet", async (req, res) => {
   try{

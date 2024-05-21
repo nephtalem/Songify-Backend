@@ -3,14 +3,21 @@ import User from './models/User.js';
 import XToken from './models/XToken.js';
 import { askpplx } from './perplexity.js';
 import { scrapeQueue } from './redis.js';
+import { TwitterApi } from "twitter-api-v2";
 
 import askgpt from './scraper.js';
 let maxJobsPerWorker = 2;
 
+const twitterClient = new TwitterApi({
+    clientId: process.env.X_CLIENT_ID,
+    clientSecret: process.env.X_CLIENT_SECRET,
+  });
+  
+
 
 
 scrapeQueue.process(maxJobsPerWorker,async (job) => {
-    console.log(`Processing job`);
+    console.log(`Job Started`);
     const { prompt,postOn ,userId} = job.data;
     console.log(`Processing job: ${job.id}`);
 
