@@ -7,7 +7,6 @@ import OpenAI from "openai";
 import "dotenv/config";
 import User from "../models/User.js";
 import Queue  from 'bull';
-import { addJobToQueue} from "../worker.js";
 import { scrapeQueue } from "../redis.js"
 import askpplx from "../perplexity.js";
 import Campaign from "../models/Campaign.js";
