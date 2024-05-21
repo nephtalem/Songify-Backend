@@ -100,7 +100,7 @@ async function addJobToQueue({prompt,postOn ,userId}) {
     await scrapeQueue.add({prompt,postOn ,userId });
     
 }
-await addJobToQueue({prompt: "OPEN AI Safty news",postOn:"Twitter",userId:"6611dbe711ccf838a1efad6c"})
+// await addJobToQueue({prompt: "OPEN AI Safty news",postOn:"Twitter",userId:"6611dbe711ccf838a1efad6c"})
 // await clearQueue()
 // scrapQueue.on('completed', (job, result) => {
 //     console.log(`Job completed with result: ${result}`);
