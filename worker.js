@@ -1,9 +1,7 @@
-import cron from 'node-cron'
-import User from './models/User.js';
+import { TwitterApi } from "twitter-api-v2";
 import XToken from './models/XToken.js';
 import { askpplx } from './perplexity.js';
 import { scrapeQueue } from './redis.js';
-import { TwitterApi } from "twitter-api-v2";
 
 // import askgpt from './scraper.js';
 let maxJobsPerWorker = 2;
@@ -16,7 +14,7 @@ const twitterClient = new TwitterApi({
 
 
 
-scrapeQueue.process(maxJobsPerWorker,async (job) => {
+scrapeQueue.process(maxJobsPerWorker, async (job) => {
     try{
     console.log(`Job Started`);
     const { prompt,postOn ,userId} = job.data;
@@ -100,7 +98,7 @@ async function addJobToQueue({prompt,postOn ,userId}) {
     await scrapeQueue.add({prompt,postOn ,userId });
     
 }
-await addJobToQueue({prompt: "OPEN AI Safty news",postOn:"Twitter",userId:"6611dbe711ccf838a1efad6c"})
+// await addJobToQueue({prompt: "OPEN AI Safty news",postOn:"Twitter",userId:"6611dbe711ccf838a1efad6c"})
 // await clearQueue()
 // scrapQueue.on('completed', (job, result) => {
 //     console.log(`Job completed with result: ${result}`);
