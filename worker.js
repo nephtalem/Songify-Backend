@@ -17,6 +17,7 @@ const twitterClient = new TwitterApi({
 
 
 scrapeQueue.process(maxJobsPerWorker,async (job) => {
+    try{
     console.log(`Job Started`);
     const { prompt,postOn ,userId} = job.data;
     console.log(`Processing job: ${job.id}`);
@@ -65,7 +66,9 @@ scrapeQueue.process(maxJobsPerWorker,async (job) => {
     console.log(`Job completed: ${job.id} for ${userId}`);
     // console.log("data returned", data)
     return data;
-    
+}catch(err){
+    console.log("error",err)
+  }  
     
 });
 
