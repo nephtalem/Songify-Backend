@@ -23,7 +23,7 @@ const scheduleDailyTweets = async () => {
     const getCronExpressions = (timesPerDay) => {
       const interval = Math.floor(1440 / timesPerDay); // 1440 minutes in a day / number of times per day
       const cronExpressions = [];
-      cronExpressions.push(`09 16 * * *`);
+      cronExpressions.push(`13 16 * * *`);
       
       for (let i = 0; i < timesPerDay; i++) {
         let hour = Math.floor((i * interval) / 60);
@@ -55,8 +55,11 @@ const scheduleDailyTweets = async () => {
 }
 }
 
+
+(async () => {
 // Schedule the job to run every day at midnight
-cron.schedule('08 16 * * *', async() => {
+cron.schedule('12 16 * * *', async() => {
     scheduleDailyTweets();
     // await clearQueue()
 });
+})();
