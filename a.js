@@ -31,5 +31,5 @@ async function addJobToQueue({prompt,postOn ,userId}) {
     console.log(a)
     
 }
- await addJobToQueue({prompt: "interesting post about new gpt4o model, detailed paragpraphs",postOn:"Twitter",userId:"6611dbe711ccf838a1efad6c"})
+ await addJobToQueue({prompt: "interesting post about new how perplexity browses the internet",postOn:"Linkedin",userId:"6611dbe711ccf838a1efad6c"})
 // await clearQueue()
