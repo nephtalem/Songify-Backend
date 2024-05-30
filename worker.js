@@ -35,7 +35,7 @@ const twitterClient = new TwitterApi({
   (async () => {
 
     await connectToMongoDB();
-
+})();
 
 scrapeQueue.process(maxJobsPerWorker, async (job) => {
     console.log(`Job Started`);
@@ -136,4 +136,3 @@ scrapeQueue.process(maxJobsPerWorker, async (job) => {
 }
 });
 
-})();
