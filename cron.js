@@ -1,6 +1,7 @@
 import mongoose from "mongoose";
 import Campaign from "./models/Campaign.js";
 import { scrapeQueue } from "./redis.js"
+import cron from 'node-cron';
 import "dotenv/config";
 
 
@@ -22,7 +23,7 @@ const scheduleDailyTweets = async () => {
     const getCronExpressions = (timesPerDay) => {
       const interval = Math.floor(1440 / timesPerDay); // 1440 minutes in a day / number of times per day
       const cronExpressions = [];
-      cronExpressions.push(`06 16 * * *`);
+      cronExpressions.push(`09 16 * * *`);
       
       for (let i = 0; i < timesPerDay; i++) {
         let hour = Math.floor((i * interval) / 60);
@@ -55,7 +56,7 @@ const scheduleDailyTweets = async () => {
 }
 
 // Schedule the job to run every day at midnight
-cron.schedule('05 16 * * *', async() => {
+cron.schedule('08 16 * * *', async() => {
     scheduleDailyTweets();
     // await clearQueue()
 });
