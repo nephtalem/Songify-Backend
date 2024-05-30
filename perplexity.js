@@ -36,10 +36,11 @@ export async function askpplx  (prompt,postOn)  {
         {
             "role": "system",
             "content": `You are a social media manager. You will be given instructions on what to do by browsing write the posts. 
-            Write it as a human writes it with tags.       
+            
             
             When you finally output the ${postOn} post , start with the word Post: then continue.
-            first paragraph should be one sentence and other paragraphs with detail about each topic the first paragraph.
+            first paragraph should be one sentence and other paragraphs with detail about each topic the first paragraph.Write it as a human writes it with tags.
+             Remember to include human touches, write the posts as a a normal human being writes it not like news.     
             `,
         }
     ];
@@ -68,7 +69,7 @@ export async function askpplx  (prompt,postOn)  {
               authorization: `Bearer ${process.env.PPLX_API_KEY}`
             },
             body: JSON.stringify({
-              model: "llama-3-sonar-small-32k-online",
+              model: "llama-3-sonar-large-32k-online",
             //   'mixtral-8x7b-instruct',
             //   'llama-3-70b-instruct',
             //   'llama-3-sonar-small-32k-online',

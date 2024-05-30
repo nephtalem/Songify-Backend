@@ -8,62 +8,6 @@ import {setTimeout} from "node:timers/promises";
 puppeteer.use(StealthPlugin());
 
 
-// (async () => {
-//   const browser = await puppeteer.launch({
-
-//     headless: "false",
-//     // executablePath: 'C:\\Users\\cv\\AppData\\Local\\Google\\Chrome SxS\\Application\\chrome.exe',
-//     // userDataDir: 'C:\\Users\\cv\\AppData\\Local\\Google\\Chrome SxS\\User Data\\Default',
-//     executablePath: 'C:\\Users\\cv\\AppData\\Local\\Google\\Chrome SxS\\Application\\chrome.exe',
-//     userDataDir: 'C:\\Users\\cv\\AppData\\Local\\Google\\Chrome SxS\\User Data',
-//     // args: [
-//     //   '--user-data-dir=C:\\Users\\cv\\AppData\\Local\\Google\\Chrome SxS\\User Data',
-//     //   '--profile-directory=Default',
-//     //   '--no-sandbox', "--disabled-setupid-sandbox",
-//     // ],
-    
-//     // ignoreDefaultArgs: ['--disable-extensions'],
-//             // args: [
-//         //     '--user-data-dir=C:\\Users\\cv\\AppData\\Local\\Google\\Chrome SxS\\User Data',
-//         //         '--profile-directory=Profile 1',
-//         //     ]
-//   });
-//   const page = await browser.newPage();
-
-//   // Navigate to the LinkedIn post URL
-//   const url = "https://www.linkedin.com/posts/luke-geel_boston-ai-artificialintelligence-activity-7183174561041928192-YeZK/?utm_source=share&utm_medium=member_desktop"
-//   await page.goto(url);
-
-//   await page.screenshot({
-//     path: "screenshot.jpg",
-//     // quality: 100,
-//     fullpage: true
-// });
-//   // Wait for the comments section to load
-//   await page.waitForSelector('.comments-comments-list');
-
-//   // Extract comments
-//   const comments = await page.evaluate(() => {
-//     const commentsList = document.querySelectorAll('.comments-comment-item');
-
-//     // Convert NodeList to Array and map to extract comment text
-//     const commentsArray = Array.from(commentsList).map((comment,index) => {
-//       return {
-//         index:index,
-//         name: comment.querySelector('.comments-post-meta__profile-info-wrapper').innerText.trim(),
-//         email: comment.querySelector('.update-components-text').innerText.trim()
-//       };
-//     });
-
-//     return commentsArray;
-//   });
-
-//   console.log(comments);
-
-//   await browser.close();
-// })();
-
-
 
 (async () => {
     const browser = await puppeteer.launch({

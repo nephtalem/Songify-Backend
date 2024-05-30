@@ -1,5 +1,8 @@
-
-import { scrapeQueue } from './redis.js';
+import Queue from 'bull';
+import "dotenv/config";
+// process.env.REDIS_URL || 
+const REDIS_URL = process.env.REDIS_URL || 'redis://127.0.0.1:6379';
+export const scrapeQueue = new Queue('scrapQueue', REDIS_URL);
 
 async function clearQueue() {
 
@@ -28,5 +31,5 @@ async function addJobToQueue({prompt,postOn ,userId}) {
     console.log(a)
     
 }
- await addJobToQueue({prompt: "OPEN AI Safty",postOn:"Twitter",userId:"6611dbe711ccf838a1efad6c"})
+ await addJobToQueue({prompt: "interesting post about new gpt4o model, detailed paragpraphs",postOn:"Twitter",userId:"6611dbe711ccf838a1efad6c"})
 // await clearQueue()

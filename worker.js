@@ -1,9 +1,11 @@
 import mongoose from "mongoose";
 import { TwitterApi } from "twitter-api-v2";
 import XToken from './models/XToken.js';
+import LinkedinToken from './models/LinkedinToken.js';
 import { askpplx } from './perplexity.js';
 import { scrapeQueue } from './redis.js';
 import "dotenv/config";
+import axios from "axios";
 
 // import askgpt from './scraper.js';
 let maxJobsPerWorker = 2;
@@ -36,13 +38,15 @@ const twitterClient = new TwitterApi({
 
 
 scrapeQueue.process(maxJobsPerWorker, async (job) => {
-    try{
     console.log(`Job Started`);
     const { prompt,postOn ,userId} = job.data;
-    console.log(`Processing job: ${job.id} for ${userId}`);
-    // console.log(`UserId: ${userId}`);
+    if(postOn === "Twitter"){
 
-    const token = await XToken.findOne({userId});
+    try{
+    console.log(`Processing job: ${job.id} for ${userId}`);
+    
+    const token = await XToken.findOne({userId, refreshToken: { $exists: true, $ne: null } }).sort({ updatedAt: -1 });
+    console.log(`Token: `,token);
 
     const {
         client: refreshedClient,
@@ -88,7 +92,48 @@ scrapeQueue.process(maxJobsPerWorker, async (job) => {
 }catch(err){
     console.log("error",err)
   }  
+}else if(postOn ==="Linkedin"){
+    try {
+    const token = await LinkedinToken.findOne({userId, accessToken: { $exists: true, $ne: null } }).sort({ createdAt: -1 });
+    console.log("ttoken",token)
+    const resp = await axios.get("https://api.linkedin.com/v2/userinfo",{
+
+        headers:{
+            Authorization: `Bearer ${token?.accessToken}`
+            // Authorization: "Bearer AQWCKgakB2PYQnOJ8H7WNGI9IT2D84E5BMqf4tuXWZ5N9KpkKcI8I8svh-Mowc3hm4FnLdBWKOxzcvT8Av2YXQLxbueLr5_WlaDWdd07xRE1-A4B7Keh5P3UMn5ASnrqlg9mC5_rQwQejrzjlibT6x9D8JZq8UBsQqj1QRI7-wYLmCNKu0EkmwBEQxYSif_IO0MM1CvwGHwFHYPZKVuDh48glgnAUeiNGlqZzI926LcV4UuXtwYWi6JPKIKqAhoK7VWQgC0cKQW-l6ceMmS6MiYIKuFkAez3zBjjWNzLYhvSr0WeayyvlUSg6EB3QT9WfjyF89oN2mn2Lq8VUACbWLwSvtZ5DQ"
+        }
+    })
+    const urn = resp?.data?.sub;
+    const text = await askpplx(prompt,postOn);
+    console.log("Post: ", text);
+        const { data } = await axios.post("https://api.linkedin.com/v2/ugcPosts", {
+          author: `urn:li:person:${urn}`, // Replace with your LinkedIn user ID
+          lifecycleState: 'PUBLISHED',
+          specificContent: {
+            'com.linkedin.ugc.ShareContent': {
+              shareCommentary: {
+                text
+              },
+              shareMediaCategory: 'NONE'
+            }
+          },
+          visibility: {
+            'com.linkedin.ugc.MemberNetworkVisibility': "PUBLIC"
+          }
+        }, {
+          headers: {
+            // "Content-Type": "application/X-Restli-Protocol-Version: 2.0.0",
+            'Authorization': `Bearer ${token?.accessToken}`,
+          }
+        });
     
+        console.log(`Job completed: ${job.id} for ${userId}`);
+        // console.log("data returned", data)
+        return data;
+      } catch (error) {
+        console.error('Error posting on LinkedIn:', error);
+      }
+}
 });
 
 })();

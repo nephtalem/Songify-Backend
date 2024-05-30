@@ -46,7 +46,7 @@ router.get("/callback", async (req, res) => {
   const { state, code } = req.query;
   console.log("Hey")
 
-  const token = await XToken.findOne({ state });
+  const token = await XToken.findOne({ state }).sort({ updatedAt: -1 });
   //  const token = await XToken.findOne().sort({ createdAt: -1 });
 
   if (!token) {
@@ -105,7 +105,7 @@ const scheduleDailyTweets = async () => {
     const getCronExpressions = (timesPerDay) => {
       const interval = Math.floor(1440 / timesPerDay); // 1440 minutes in a day / number of times per day
       const cronExpressions = [];
-      cronExpressions.push(`51 14 * * *`);
+      cronExpressions.push(`31 14 * * *`);
       
       for (let i = 0; i < timesPerDay; i++) {
         let hour = Math.floor((i * interval) / 60);
@@ -138,7 +138,7 @@ const scheduleDailyTweets = async () => {
 }
 
 // Schedule the job to run every day at midnight
-cron.schedule('50 14 * * *', async() => {
+cron.schedule('30 14 * * *', async() => {
     scheduleDailyTweets();
     // await clearQueue()
 });

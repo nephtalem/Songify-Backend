@@ -6,7 +6,7 @@ const linkedintokenSchema = new Schema({
     accessToken: String,
     id_token: String,
     expires_in: Number,
-    userId: { type: Schema.Types.ObjectId, ref: 'User' },
+    userId: String,
 },
 {
     timestamps: true,
