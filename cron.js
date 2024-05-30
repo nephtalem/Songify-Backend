@@ -22,7 +22,7 @@ const scheduleDailyTweets = async () => {
     const getCronExpressions = (timesPerDay) => {
       const interval = Math.floor(1440 / timesPerDay); // 1440 minutes in a day / number of times per day
       const cronExpressions = [];
-      cronExpressions.push(`05 16 * * *`);
+      cronExpressions.push(`06 16 * * *`);
       
       for (let i = 0; i < timesPerDay; i++) {
         let hour = Math.floor((i * interval) / 60);
