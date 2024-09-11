@@ -6,6 +6,7 @@ import {
   getSongStats,
   createSongs,
   getOverallStatistics,
+  stats
 } from "../controllers/songs.js";
 
 const router = express.Router();
@@ -27,4 +28,5 @@ router.get("/getSongs", getSongs);
 
 router.get("/overallStatistics", getOverallStatistics);
 
+router.get("/stats", stats);
 export default router;

@@ -91,8 +91,8 @@ export const getSongs = async (req, res, next) => {
       Genre: { $in: Genre },
       city: { $in: cities },
     })
-      .skip(page * limit)
-      .limit(limit);
+      // .skip(page * limit)
+      // .limit(limit);
 
     const total = await Song.countDocuments({
       Genre: { $in: Genre },
@@ -162,5 +162,65 @@ export const getOverallStatistics = async (req, res, next) => {
     res.status(200).json(response);
   } catch (err) {
     next(err);
+  }
+};
+
+export const stats = async (req, res, next) => {
+  try {
+    const totalSongs = await Song.countDocuments();
+    const totalArtists = await Song.distinct("Artist").then(
+      (artists) => artists.length
+    );
+    const totalAlbums = await Song.distinct("Album").then(
+      (albums) => albums.length
+    );
+    const totalGenres = await Song.distinct("Genre").then(
+      (genres) => genres.length
+    );
+
+    const genreStats = await Song.aggregate([
+      { $group: { _id: "$Genre", count: { $sum: 1 } } },
+    ]);
+
+    const artistStats = await Song.aggregate([
+      {
+        $group: {
+          _id: "$Artist",
+          songCount: { $sum: 1 },
+          albums: { $addToSet: "$Album" },
+        },
+      },
+      {
+        $project: {
+          artist: "$_id",
+          songCount: 1,
+          albumCount: { $size: "$albums" },
+          _id: 0,
+        },
+      },
+    ]);
+
+    const albumStats = await Song.aggregate([
+      {
+        $group: {
+          _id: "$Album",
+          songs: { $push: "$Title" },
+          artist: { $first: "$Artist" },
+        },
+      },
+      { $project: { album: "$_id", songs: 1, artist: 1, _id: 0 } },
+    ]);
+
+    res.status(200).json({
+      totalSongs,
+      totalArtists,
+      totalAlbums,
+      totalGenres,
+      genreStats,
+      artistStats,
+      albumStats,
+    });
+  } catch (err) {
+    res.status(500).json({ error: "Failed to fetch statistics" });
   }
 };
